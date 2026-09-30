@@ -56,11 +56,11 @@
       "id": "fr",
       "lang": "fr",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g4ef6b017",
+      "contentVersion": "1.0.0+gf31f2834",
       "lessons": 36,
       "file": "courses/fr.json",
-      "bytes": 1484208,
-      "sha256": "a822dbd18a7cb1a2"
+      "bytes": 1484190,
+      "sha256": "11b96d91c2f50880"
     },
     {
       "id": "de",
