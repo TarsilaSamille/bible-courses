@@ -76,11 +76,11 @@
       "id": "it",
       "lang": "it",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g86d19fd1",
+      "contentVersion": "1.0.0+ge351f675",
       "lessons": 15,
       "file": "courses/it.json",
-      "bytes": 214117,
-      "sha256": "24e14aa2a0d1ca51"
+      "bytes": 214098,
+      "sha256": "7bf70f30d58d88ce"
     },
     {
       "id": "pt",
