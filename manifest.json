@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "description": "Cursos de gramática bíblica em JSON. Um arquivo por curso. Ver schema/course.schema.json.",
+  "courses": [
+    {
+      "id": "grc",
+      "lang": "grc",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+g4d756843",
+      "lessons": 30,
+      "file": "courses/grc.json",
+      "bytes": 739014,
+      "sha256": "b6fb765dbaa8ec6b"
+    },
+    {
+      "id": "grc-mod",
+      "lang": "grc",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+g3440eaa4",
+      "lessons": 13,
+      "file": "courses/grc-mod.json",
+      "bytes": 168322,
+      "sha256": "f7bf5f0a9348f28f"
+    },
+    {
+      "id": "heb",
+      "lang": "heb",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+g24dc3f32",
+      "lessons": 24,
+      "file": "courses/heb.json",
+      "bytes": 886730,
+      "sha256": "744980206a79e202"
+    },
+    {
+      "id": "la",
+      "lang": "la",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+g9b4b578e",
+      "lessons": 24,
+      "file": "courses/la.json",
+      "bytes": 787622,
+      "sha256": "9f6252a81ecd2563"
+    },
+    {
+      "id": "es",
+      "lang": "es",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+gb605bca5",
+      "lessons": 34,
+      "file": "courses/es.json",
+      "bytes": 619408,
+      "sha256": "461c26dfd89854f8"
+    },
+    {
+      "id": "fr",
+      "lang": "fr",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+g4ef6b017",
+      "lessons": 36,
+      "file": "courses/fr.json",
+      "bytes": 1484208,
+      "sha256": "a822dbd18a7cb1a2"
+    },
+    {
+      "id": "de",
+      "lang": "de",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+g4c70e845",
+      "lessons": 37,
+      "file": "courses/de.json",
+      "bytes": 1053885,
+      "sha256": "d3d3dac0177b756f"
+    },
+    {
+      "id": "it",
+      "lang": "it",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+ge351f675",
+      "lessons": 15,
+      "file": "courses/it.json",
+      "bytes": 214098,
+      "sha256": "7bf70f30d58d88ce"
+    },
+    {
+      "id": "pt",
+      "lang": "pt",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+ge3256f20",
+      "lessons": 11,
+      "file": "courses/pt.json",
+      "bytes": 179378,
+      "sha256": "884b9dfa045c2c37"
+    },
+    {
+      "id": "pt-gram",
+      "lang": "pt",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+g650b6469",
+      "lessons": 28,
+      "file": "courses/pt-gram.json",
+      "bytes": 450699,
+      "sha256": "c4cc1b286d646d9b"
+    },
+    {
+      "id": "ru",
+      "lang": "ru",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+gf8ca2796",
+      "lessons": 14,
+      "file": "courses/ru.json",
+      "bytes": 142080,
+      "sha256": "026f9116413e63a9"
+    },
+    {
+      "id": "ar",
+      "lang": "ar",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+g2f5a8860",
+      "lessons": 14,
+      "file": "courses/ar.json",
+      "bytes": 208144,
+      "sha256": "f2449949f2503e22"
+    },
+    {
+      "id": "en",
+      "lang": "en",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+g45422be1",
+      "lessons": 12,
+      "file": "courses/en.json",
+      "bytes": 156862,
+      "sha256": "6fde9358ab572317"
+    },
+    {
+      "id": "id",
+      "lang": "id",
+      "schemaVersion": 1,
+      "contentVersion": "1.0.0+g5ba9bcf4",
+      "lessons": 11,
+      "file": "courses/id.json",
+      "bytes": 147428,
+      "sha256": "2c3c375fddd85a51"
+    }
+  ]
+}

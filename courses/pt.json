@@ -1,0 +1,3726 @@
+{
+  "schemaVersion": 1,
+  "id": "pt",
+  "lang": "pt",
+  "title": {
+    "pt": "Português Bíblico",
+    "en": "Biblical Portuguese"
+  },
+  "description": {
+    "pt": "Português da Almeida em 11 capítulos: artigos, verbos, subjuntivo e João 1:1.",
+    "en": "Almeida Portuguese in 11 chapters: articles, verbs, subjunctive and John 1:1."
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "title": {
+        "pt": "Artigos e substantivos",
+        "en": "Articles and nouns",
+        "es": "Artículos y sustantivos"
+      },
+      "subtitle": {
+        "pt": "o, a, os, as — gênero, número e referência",
+        "en": "o, a, os, as — gender, number and reference",
+        "es": "o, a, os, as — género, número y referencia"
+      },
+      "section": {
+        "pt": "Nomeação",
+        "en": "Nouns",
+        "es": "Sustantivos"
+      },
+      "body": {
+        "pt": "## O artigo traduz definitividade, não gramática\n\nO português tem dois artigos: o **definido** ({o, a, os, as}) introduz uma referência identificável — o leitor já sabe do que se trata; o **indefinido** ({um, uma, uns, umas}) apresenta algo como um **exemplar** de uma classe. {Vi um homem} traz alguém novo; {vi o homem} traz alguém já conhecido.\n\nNo português bíblico isso fica mais delicado, porque o grego nem sempre traz artigo onde o português traz. Em João 1:1, {no princípio} traduz ἐν ἀρχῇ com artigo; mas no mesmo versículo, {Deus} traduz θεός **sem** artigo no grego original, e a decisão de manter o artigo ou não é do tradutor. Por isso a regra do tradutor não é \"siga o português\": é **traduza o sentido grego**.\n\nO caso grego que mais importa está no versículo seguinte: {o Verbo} ({ὁ λόγος}) **tem** artigo, e é o artículo que marca que se trata de um sujeito determinado, não de \"uma palavra\". Traduzir por {a palavra} sem artigo muda o sentido teológico do versículo.\n\n## Gênero: a terminação é a regra, com exceções\n\nEm {-o}, {-e} e muitos derivados, o substantivo costuma ser masculino: {livro}, {lugar}, {caminho}, {sistema}. Em {-a}, {-ção}, {-dade}, {-ura}, costuma ser feminino: {casa}, {canção}, {liberdade}, {escritura}. A regra é forte mas não é lei: há {o mapa} (m), {a mão} (f), {o dia} (m), {a dieta} (f), {o problema} (m), {a Mano} (f).\n\nE o gênero não é enfeite em português: ele marca o **sexo das pessoas** ({o homem}, {a mulher}) e, por isso, o tradutor precisa saber o que está traduzindo. {Mestre} pode ser homem ou mulher, e o contexto nem sempre resolve.\n\n## Plural: três finais para um -ão\n\nO plural regular troca a terminação: {livro → livros}, {casa → casas}. Mas o {-ão} é o caso especial, e ele **não** segue regra única: {coração → corações}, {pão → pães}, {mão → mãos}, {irmão → irmãos}, {cidadão → cidadãos}. São cinco finais diferentes para o mesmo {-ão}, e a pronúncia muda junto ({pães} e {mãos} soam diferente, {corações} e {irmãos} também).\n\nQuando não há regra, há o **plural irregular**: {o rei → os reis}, {a água → as águas}, {o pai → os pais}. Esse plural é o mais antigo e o mais presente na Bíblia, e é a razão de várias formas arcaicas ainda serem naturais.\n\n## O que ler\n\nEm qualquer substantivo, pergunte: o artigo está lá no **grego**? O gênero aparece na terminação? E o plural é regular, {-ão} mudando, ou **irregular**? A terceira resposta é a que quase sempre decide, porque o grego não distingue {livros} de {livros} — mas distingue {τὰ βιβλία} de {τὸ βιβλίον} por número e caso, e é aí que a tradução precisa de {-s} que o grego não tem.",
+        "en": "## The article translates definiteness, not grammar\n\nPortuguese has two articles: the **definite** ({o, a, os, as}) introduces an identifiable reference — the reader already knows what is meant; the **indefinite** ({um, uma, uns, umas}) presents something as one **example** of a class. {Vi um homem} brings someone new; {vi o homem} brings someone already known.\n\nIn biblical Portuguese this gets trickier, because Greek does not always have an article where Portuguese has one. In John 1:1, {no princípio} renders ἐν ἀρχῇ with its article; but in the same verse, {Deus} renders θεός **without** an article in the Greek, and whether to keep the article is the translator's decision. So the rule is not \"follow the Portuguese\": it is **render the Greek sense**.\n\nThe Greek case that matters most is in the next verse: {o Verbo} (ὁ λόγος) **does** have the article, and that article marks a determined subject rather than \"a word\". Dropping it and writing {a palavra} changes the theological sense of the verse.\n\n## Gender: the ending is the rule, with exceptions\n\nIn {-o}, {-e} and many derivatives the noun is usually masculine: {livro}, {lugar}, {caminho}, {sistema}. In {-a}, {-ção}, {-dade}, {-ura} it is usually feminine: {casa}, {canção}, {liberdade}, {escritura}. The rule is strong but not law: there is {o mapa} (m), {a mão} (f), {o dia} (m), {a dieta} (f), {o problema} (m), {a mano} (f).\n\nAnd gender is not decoration in Portuguese: it marks the **sex of persons** ({o homem}, {a mulher}), so the translator needs to know what is being translated. {Mestre} can be a man or a woman, and context does not always settle it.\n\n## Plural: three endings for one -ão\n\nThe regular plural swaps the ending: {livro → livros}, {casa → casas}. But {-ão} is the special case, and it does **not** follow a single rule: {coração → corações}, {pão → pães}, {mão → mãos}, {irmão → irmãos}, {cidadão → cidadãos}. Five different endings for the same {-ão}, and pronunciation changes with them ({pães} and {mãos} sound different, and so do {corações} and {irmãos}).\n\nWhere there is no rule there is the **irregular plural**, built without changing the form: {o rei → os reis}, {a água → as águas}, {o pai → os pais}. It is the oldest plural and the one most present in the Bible, which is why several archaic forms still sound natural.\n\n## Reading criterion\n\nWith any noun, ask: is the article there in the **Greek**? Does gender show in the ending? And is the plural regular, {-ão} shifted, or **irregular**? The third answer is the one that usually decides, because Greek does not distinguish {livros} from {livros} — but it does distinguish τὰ βιβλία from τὸ βιβλίον by number and case, and that is where the translation needs an {-s} Greek does not have.",
+        "es": "## El artículo traduce definitividad, no gramática\n\nEl portugués tiene dos artículos: el **definido** ({o, a, os, as}) introduce una referencia identificable —el lector ya sabe de qué se trata—; el **indefinido** ({um, uma, uns, umas}) presenta algo como un **ejemplar** de una clase. {Vi um homem} trae a alguien nuevo; {vi o homem} trae a alguien ya conocido.\n\nEn el portugués bíblico esto se complica, porque el griego no siempre trae artículo donde el portugués sí. En Jn 1:1, {no princípio} traduce ἐν ἀρχῇ con su artículo; pero en el mismo versículo, {Deus} traduce θεός **sin** artículo en el griego, y la decisión de mantenerlo o no es del traductor. Así que la regla no es «sigue el portugués»: es **traduce el sentido griego**.\n\nEl caso griego que más importa está en el versículo siguiente: {o Verbo} (ὁ λόγος) **sí** tiene artículo, y ese artículo marca un sujeto determinado y no «una palabra». Quitarlo y escribir {a palavra} cambia el sentido teológico del versículo.\n\n## Género: la terminación es la regla, con excepciones\n\nEn {-o}, {-e} y muchos derivados el sustantivo suele ser masculino: {livro}, {lugar}, {caminho}, {sistema}. En {-a}, {-ção}, {-dade}, {-ura} suele ser femenino: {casa}, {canção}, {liberdade}, {escritura}. La regla es fuerte pero no es ley: existen {o mapa} (m), {a mão} (f), {o dia} (m), {a dieta} (f), {o problema} (m), {a mano} (f).\n\nY el género no es adorno en portugués: marca el **sexo de las personas** ({o homem}, {a mulher}), así que quien traduce necesita saber qué está traduciendo. {Mestre} puede ser un hombre o una mujer, y el contexto no siempre lo resuelve.\n\n## Plural: tres terminaciones para un -ão\n\nEl plural regular cambia la terminación: {livro → livros}, {casa → casas}. Pero {-ão} es el caso especial, y **no** sigue una regla única: {coração → corações}, {pão → pães}, {mão → mãos}, {irmão → irmãos}, {cidadão → cidadãos}. Cinco terminaciones distintas para el mismo {-ão}, y la pronunciación cambia con ellas: {pães} y {mãos} suenan distinto, y también {corações} e {irmãos}.\n\nDonde no hay regla está el **plural irregular**, construido sin alterar la forma: {o rei → os reis}, {a água → as águas}, {o pai → os pais}. Es el plural más antiguo y el más presente en la Biblia, y por eso varias formas arcaicas todavía suenan naturales.\n\n## Criterio de lectura\n\nCon cualquier sustantivo, pregúntate: ¿está el artículo en el **griego**? ¿Aparece el género en la terminación? ¿Y el plural es regular, {-ão} desplazado o **irregular**? La tercera respuesta es la que suele decidir, porque el griego no distingue {livros} de {livros}: sí distingue τὰ βιβλία de τὸ βιβλίον por número y caso, y ahí es donde la traducción necesita una {-s} que el griego no tiene."
+      },
+      "vocab": [
+        {
+          "form": "o",
+          "lemma": "o",
+          "lang": "pt",
+          "pt": "artigo definido masculino",
+          "en": "masculine definite article",
+          "es": "artículo definido masculino"
+        },
+        {
+          "form": "a",
+          "lemma": "o",
+          "lang": "pt",
+          "pt": "artigo definido feminino",
+          "en": "feminine definite article",
+          "es": "artículo definido femenino"
+        },
+        {
+          "form": "um",
+          "lemma": "um",
+          "lang": "pt",
+          "pt": "artigo indefinido masculino",
+          "en": "masculine indefinite article",
+          "es": "artículo indefinido masculino"
+        },
+        {
+          "form": "palavra",
+          "lemma": "palavra",
+          "lang": "pt",
+          "pt": "palavra",
+          "en": "word",
+          "es": "palabra"
+        },
+        {
+          "form": "verbo",
+          "lemma": "verbo",
+          "lang": "pt",
+          "pt": "verbo",
+          "en": "word; verb",
+          "es": "palabra; verbo"
+        },
+        {
+          "form": "luz",
+          "lemma": "luz",
+          "lang": "pt",
+          "pt": "luz",
+          "en": "light",
+          "es": "luz"
+        },
+        {
+          "form": "mundo",
+          "lemma": "mundo",
+          "lang": "pt",
+          "pt": "mundo",
+          "en": "world",
+          "es": "mundo"
+        },
+        {
+          "form": "carne",
+          "lemma": "carne",
+          "lang": "pt",
+          "pt": "carne",
+          "en": "flesh",
+          "es": "carne"
+        },
+        {
+          "form": "céu",
+          "lemma": "céu",
+          "lang": "pt",
+          "pt": "céu",
+          "en": "heaven",
+          "es": "cielo"
+        },
+        {
+          "form": "verdade",
+          "lemma": "verdade",
+          "lang": "pt",
+          "pt": "verdade",
+          "en": "truth",
+          "es": "verdad"
+        },
+        {
+          "form": "os",
+          "lemma": "o",
+          "lang": "pt",
+          "pt": "artigo definido masculino plural",
+          "en": "masculine plural definite article",
+          "es": "artículo definido masculino plural"
+        },
+        {
+          "form": "as",
+          "lemma": "o",
+          "lang": "pt",
+          "pt": "artigo definido feminino plural",
+          "en": "feminine plural definite article",
+          "es": "artículo definido femenino plural"
+        },
+        {
+          "form": "uma",
+          "lemma": "um",
+          "lang": "pt",
+          "pt": "artigo indefinido feminino",
+          "en": "feminine indefinite article",
+          "es": "artículo indefinido femenino"
+        },
+        {
+          "form": "mão",
+          "lemma": "mão",
+          "lang": "pt",
+          "pt": "mão",
+          "en": "hand",
+          "es": "mano"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual é o plural de “o mão”?",
+          "en": "What is the plural of “o mão”?",
+          "es": "¿Cuál es el plural de «o mão»?"
+        },
+        "options": [
+          {
+            "pt": "as mãos",
+            "en": "the hands",
+            "es": "las manos"
+          },
+          {
+            "pt": "as mão",
+            "en": "the hands",
+            "es": "las mano"
+          },
+          {
+            "pt": "os mãos",
+            "en": "the hands",
+            "es": "los manos"
+          },
+          {
+            "pt": "as mãis",
+            "en": "the hands",
+            "es": "las mãis"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: “___ Verbo” (João 1:1).",
+            "en": "Complete: “___ Word” (John 1:1).",
+            "es": "Completa: «___ Verbo» (Juan 1:1)."
+          },
+          "answer": "O",
+          "hint": {
+            "pt": "Artigo definido masculino.",
+            "en": "Masculine definite article.",
+            "es": "Artículo definido masculino."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em “a mão”, por que o substantivo é feminino?",
+            "en": "Why is the noun feminine in “a mão”?",
+            "es": "¿Por qué el sustantivo es femenino en «a mão»?"
+          },
+          "options": [
+            {
+              "pt": "Porque termina em -ão.",
+              "en": "Because it ends in -ão.",
+              "es": "Porque termina en -ão."
+            },
+            {
+              "pt": "Só porque é um substantivo.",
+              "en": "Simply because it is a noun.",
+              "es": "Solo porque es un sustantivo."
+            },
+            {
+              "pt": "Porque tem artigo a.",
+              "en": "Because it has the article a.",
+              "es": "Porque lleva el artículo a."
+            },
+            {
+              "pt": "Porque significa corpo.",
+              "en": "Because it means body.",
+              "es": "Porque significa cuerpo."
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue forma e função.",
+            "en": "Match form and function.",
+            "es": "Relaciona forma y función."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "o livro",
+                "en": "the book",
+                "es": "el libro"
+              },
+              "b": {
+                "pt": "definido",
+                "en": "definite",
+                "es": "definido"
+              }
+            },
+            {
+              "a": {
+                "pt": "um livro",
+                "en": "a book",
+                "es": "un libro"
+              },
+              "b": {
+                "pt": "indefinido",
+                "en": "indefinite",
+                "es": "indefinido"
+              }
+            },
+            {
+              "a": {
+                "pt": "luz",
+                "en": "light",
+                "es": "luz"
+              },
+              "b": {
+                "pt": "feminino",
+                "en": "feminine",
+                "es": "femenino"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "O artigo definido concorda com o substantivo: {o Verbo}, {a luz}, {os céus}.",
+            "en": "The definite article agrees with the noun: {the Word}, {the light}, {the heavens}.",
+            "es": "El artículo definido concuerda con el sustantivo: {el Verbo}, {la luz}, {los cielos}."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "O substantivo conserva sua raiz; o plural acrescenta terminação conforme o final.",
+            "en": "The noun keeps its root; the plural adds an ending according to the word ending.",
+            "es": "El sustantivo conserva su raíz; el plural añade terminación según la palabra."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Português bíblico",
+            "en": "Biblical Portuguese",
+            "es": "Portugués bíblico"
+          },
+          "text": {
+            "pt": "Maiúscula em {Verbo} e {Deus} não é mero estilo: em {{João 1:1}}, traduz o título grego {Logos}.",
+            "en": "Capitalization in {Word} and {God} is not merely style: in John 1:1 it renders the Greek title {Logos}.",
+            "es": "Las mayúsculas en {Verbo} y {Dios} no son solo estilo: en Juan 1:1 traducen el título griego {Logos}."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "No princípio era o Verbo.",
+          "gloss": {
+            "pt": "No começo existia o Verbo.",
+            "en": "In the beginning was the Word.",
+            "es": "En el principio existía el Verbo."
+          }
+        },
+        {
+          "text": "E o Verbo era Deus.",
+          "gloss": {
+            "pt": "E o Verbo tinha natureza divina.",
+            "en": "And the Word was God.",
+            "es": "Y el Verbo era Dios."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Concordância nominal",
+            "en": "Nominal agreement",
+            "es": "Concordancia nominal"
+          },
+          "head": [
+            "Função",
+            "Forma",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "singular",
+              "o / a",
+              "o Verbo / a luz"
+            ],
+            [
+              "plural",
+              "os / as",
+              "os céus / as obras"
+            ],
+            [
+              "indefinido",
+              "um / uma",
+              "um livro / uma palavra"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "pt": "Verbos no presente",
+        "en": "Present-tense verbs",
+        "es": "Verbos en presente"
+      },
+      "subtitle": {
+        "pt": "amar, crer, partir e verbos irregulares",
+        "en": "amar, crer, partir and irregular verbs",
+        "es": "amar, creer, partir y verbos irregulares"
+      },
+      "section": {
+        "pt": "Verbos",
+        "en": "Verbs",
+        "es": "Verbos"
+      },
+      "body": {
+        "pt": "O presente português pode descrever hábito, fato atual ou verdade permanente. Nos textos bíblicos, é frequente contrastar a ação humana com uma declaração eterna: “Deus é amor” (1 Jo 4.8) não é apenas o que Deus fará, mas o que ele é.\n\nAs terminações regulares de {amar} são {-o, -as, -a, -amos, -am}; as de {crer} são {-o, -es, -e, -emos, -em}; as de {partir}, {-o, -es, -e, -imos, -em}. Em Portugal, formas como “falo” e “fales” podem receber acento diferencial; aqui usamos o sistema usual do Brasil.\n\nOs verbos irregulares mais frequentes são {ser}, {ter}, {ir}, {dizer}, {fazer} e {haver}. A forma {creio} é o presente de {crer} na primeira pessoa; não a confunda com {crio}, forma de {criar}. A preposição {em} muda o sentido: {creio em Deus} = acredito que Deus existe e é confiável.",
+        "en": "The Portuguese present can describe habit, current fact, or permanent truth. In biblical texts it often contrasts human action with an eternal statement: “God is love” (1 John 4:8) is not merely what God will do, but what he is.\n\nThe regular endings of {amar} are {-o, -as, -a, -amos, -am}; those of {crer} are {-o, -es, -e, -emos, -em}; those of {partir} are {-o, -es, -e, -imos, -em}. In Portugal, forms like “falo” and “fales” may take a differential accent; here we use the usual Brazilian system.\n\nThe most frequent irregular verbs are {ser}, {ter}, {ir}, {dizer}, {fazer} and {haver}. The form {creio} is the first-person present of {crer}; do not confuse it with {crio}, the form of {criar}. The preposition {em} changes the sense: {creio em Deus} = I believe that God exists and is trustworthy.",
+        "es": "El presente portugués puede describir hábito, hecho actual o verdad permanente. En los textos bíblicos es frecuente contrastar la acción humana con una declaración eterna: «Dios es amor» (1 Juan 4:8) no es solo lo que Dios hará, sino lo que él es.\n\nLas terminaciones regulares de {amar} son {-o, -as, -a, -amos, -am}; las de {crer} son {-o, -es, -e, -emos, -em}; las de {partir}, {-o, -es, -e, -imos, -em}. En Portugal, formas como «falo» y «fales» pueden llevar acento diacrítico; aquí usamos el sistema habitual de Brasil.\n\nLos verbos irregulares más frecuentes son {ser}, {ter}, {ir}, {dizer}, {fazer} y {haver}. La forma {creio} es el presente de {crer} en primera persona; no la confundas con {crio}, forma de {criar}. La preposición {em} cambia el sentido: {creio em Deus} = creo que Dios existe y es fiable."
+      },
+      "vocab": [
+        {
+          "form": "amo",
+          "lemma": "amar",
+          "lang": "pt",
+          "pt": "eu amo",
+          "en": "I love",
+          "es": "amo"
+        },
+        {
+          "form": "ama",
+          "lemma": "amar",
+          "lang": "pt",
+          "pt": "ele ama",
+          "en": "he loves",
+          "es": "ama"
+        },
+        {
+          "form": "creio",
+          "lemma": "crer",
+          "lang": "pt",
+          "pt": "eu creio",
+          "en": "I believe",
+          "es": "creo"
+        },
+        {
+          "form": "crê",
+          "lemma": "crer",
+          "lang": "pt",
+          "pt": "ele crê",
+          "en": "he believes",
+          "es": "cree"
+        },
+        {
+          "form": "sou",
+          "lemma": "ser",
+          "lang": "pt",
+          "pt": "eu sou",
+          "en": "I am",
+          "es": "soy"
+        },
+        {
+          "form": "é",
+          "lemma": "ser",
+          "lang": "pt",
+          "pt": "ele é",
+          "en": "he is",
+          "es": "es"
+        },
+        {
+          "form": "tenho",
+          "lemma": "ter",
+          "lang": "pt",
+          "pt": "eu tenho",
+          "en": "I have",
+          "es": "tengo"
+        },
+        {
+          "form": "diz",
+          "lemma": "dizer",
+          "lang": "pt",
+          "pt": "ele diz",
+          "en": "he says",
+          "es": "dice"
+        },
+        {
+          "form": "vem",
+          "lemma": "vir",
+          "lang": "pt",
+          "pt": "ele vem",
+          "en": "he comes",
+          "es": "viene"
+        },
+        {
+          "form": "está",
+          "lemma": "estar",
+          "lang": "pt",
+          "pt": "ele está",
+          "en": "he is",
+          "es": "está"
+        },
+        {
+          "form": "amar",
+          "lemma": "amar",
+          "lang": "pt",
+          "pt": "amar (verbo)",
+          "en": "to love",
+          "es": "amar (verbo)"
+        },
+        {
+          "form": "criar",
+          "lemma": "criar",
+          "lang": "pt",
+          "pt": "criar",
+          "en": "to create",
+          "es": "crear"
+        },
+        {
+          "form": "fazer",
+          "lemma": "fazer",
+          "lang": "pt",
+          "pt": "fazer",
+          "en": "to do, to make",
+          "es": "hacer"
+        },
+        {
+          "form": "haver",
+          "lemma": "haver",
+          "lang": "pt",
+          "pt": "haver (verbo irregular)",
+          "en": "to have (impersonal)",
+          "es": "haber (verbo impersonal)"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual é a forma presente de “crer” na 1ª pessoa?",
+          "en": "What is the present form of “crer” in the 1st person?",
+          "es": "¿Cuál es la forma de presente de «crer» en 1.ª persona?"
+        },
+        "options": [
+          {
+            "pt": "creio",
+            "en": "creio",
+            "es": "creo"
+          },
+          {
+            "pt": "crea",
+            "en": "creates",
+            "es": "crea"
+          },
+          {
+            "pt": "crio",
+            "en": "I create",
+            "es": "crío"
+          },
+          {
+            "pt": "creria",
+            "en": "I would believe",
+            "es": "creería"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete “Deus ___ amor”.",
+            "en": "Complete “God ___ love”.",
+            "es": "Completa «Dios ___ amor»."
+          },
+          "answer": "é",
+          "hint": {
+            "pt": "Verbo ser, 3ª pessoa do presente.",
+            "en": "Verb ser, 3rd-person present.",
+            "es": "Verbo ser, 3.ª persona del presente."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual frase indica uma verdad permanente?",
+            "en": "Which sentence states a permanent truth?",
+            "es": "¿Qué oración expresa una verdad permanente?"
+          },
+          "options": [
+            {
+              "pt": "Eu amo os meus amigos.",
+              "en": "I love my friends.",
+              "es": "Amo a mis amigos."
+            },
+            {
+              "pt": "Deus é amor.",
+              "en": "God is love.",
+              "es": "Dios es amor."
+            },
+            {
+              "pt": "Ele amou a cidade.",
+              "en": "He loved the city.",
+              "es": "Amó la ciudad."
+            },
+            {
+              "pt": "Eu amarei os meus amigos.",
+              "en": "I will love my friends.",
+              "es": "Amaré a mis amigos."
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue presente a pessoa correspondente.",
+            "en": "Match the present form to its person.",
+            "es": "Relaciona el presente con la persona correspondiente."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "sou",
+                "en": "I am",
+                "es": "soy"
+              },
+              "b": {
+                "pt": "1ª pessoa",
+                "en": "1st person",
+                "es": "1.ª persona"
+              }
+            },
+            {
+              "a": {
+                "pt": "é",
+                "en": "he is",
+                "es": "es"
+              },
+              "b": {
+                "pt": "3ª pessoa",
+                "en": "3rd person",
+                "es": "3.ª persona"
+              }
+            },
+            {
+              "a": {
+                "pt": "temos",
+                "en": "we have",
+                "es": "tenemos"
+              },
+              "b": {
+                "pt": "1ª pessoa plural",
+                "en": "1st-person plural",
+                "es": "1.ª persona plural"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "O presente de {ser} e {ter} é irregular: sou, és, é, somos, são; tenho, tens, tem, temos, têm.",
+            "en": "The present of {ser} and {ter} is irregular: sou, és, é, somos, são; tenho, tens, tem, temos, têm.",
+            "es": "El presente de {ser} y {ter} es irregular: sou, és, é, somos, são; tenho, tens, tem, temos, têm."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "Em contexto bíblico, o presente pode ser atemporal: “Eu sou o caminho” (Jo 14.6).",
+            "en": "In biblical context, the present can be timeless: “I am the way” (John 14:6).",
+            "es": "En contexto bíblico, el presente puede ser atemporal: «Yo soy el camino» (Jn 14:6)."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Cuidado",
+            "en": "Careful",
+            "es": "Cuidado"
+          },
+          "text": {
+            "pt": "A forma {crês} pertence a “crer”; {crês} não significa “crises” nem é o presente de “criar”.",
+            "en": "The form {crês} belongs to “crer”; it does not mean “crises” or belong to “criar”.",
+            "es": "La forma {crees} pertenece a «creer»; no significa «crisis» ni pertenece a «crear»."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Deus é amor.",
+          "gloss": {
+            "pt": "Presente com valor de verdade eterna.",
+            "en": "Present with an eternal-truth meaning.",
+            "es": "Presente con valor de verdad eterna."
+          }
+        },
+        {
+          "text": "Eu creio em Deus.",
+          "gloss": {
+            "pt": "A preposição em completa o sentido de crer.",
+            "en": "The preposition em completes the meaning of creer.",
+            "es": "La preposición em completa el sentido de creer."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Presente regular",
+            "en": "Regular present",
+            "es": "Presente regular"
+          },
+          "head": [
+            "Pessoa",
+            "amar",
+            "crer",
+            "partir"
+          ],
+          "rows": [
+            [
+              "eu",
+              "amo",
+              "creio",
+              "parto"
+            ],
+            [
+              "tu",
+              "amas",
+              "crês",
+              "partes"
+            ],
+            [
+              "ele",
+              "ama",
+              "crê",
+              "parte"
+            ],
+            [
+              "nós",
+              "amamos",
+              "cremos",
+              "partimos"
+            ],
+            [
+              "eles",
+              "amam",
+              "creem",
+              "partem"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "pt": "Passado: perfeito e imperfeito",
+        "en": "Past: perfect and imperfect",
+        "es": "Pasado: perfecto e imperfecto"
+      },
+      "subtitle": {
+        "pt": "falou × falava: evento e cenário",
+        "en": "falou × falava: event and scene",
+        "es": "falou × falaba: suceso y escenario"
+      },
+      "section": {
+        "pt": "Verbos",
+        "en": "Verbs",
+        "es": "Verbos"
+      },
+      "body": {
+        "pt": "## Fato e cena: as duas luzes do passado\n\nO português fala do passado com dois verbos que têm ofícios diferentes. O **perfeito** apresenta o passado como **evento delimitado**: {falou}, {partiu}, {houve}, {chegou}. O **imperfeto** apresenta **cena, hábito ou estado em curso**: {falava}, {partia}, {havia}, {morava}. Quando os dois aparecem na mesma frase, o texto ganha narrativa: {enquanto ele falava, o anjo entrou}.\n\nA imagem que funciona: o imperfeito é o cenário, e o perfeito é o que acontece nele. {Chovia quando saímos} tem o mesmo desenho de {enquanto pregava, veio o anjo} — circunstância no imperfeito, fato no perfeito.\n\nE é preciso dizer isto com cuidado: essa distinção **não** é a mesma do grego. O grego antigo tem aoristo ({εἶπε}, fala uma vez) e imperfeito ({ἐλάλου}, falava), e o português Bible buscou o aoristo pelo **perfeito**. Mas o grego antigo também usava o imperfeito para ação habitual e o aoristo para ação repetida, sem que a tradução tenha sempre distinguido. Ler a tradução como se fosse correspondência mecânica perde a nuance do grego.\n\n## O mais-que-perfeito: o passado que já passou\n\nO **mais-que-perfeito** ({tinha dito}, {havia chegado}) marca a ação passada como **anterior** a outra ação pasada. Ele só existe quando há dois passados, e é o que permite dizer {quando ele chegou, eu já tinha saído} sem ambiguidade.\n\nÉ um tempo mais formal, comum em textos históricos e narrativos longos, e raro na fala. Em tradução bíblica ele aparece quando o grego tinha **pluscuamperfecto** ({ἐτύγχανε} = «tinha se encontrado»), e a tradução por {tinha encontrado} costuma ser melhor do que por {encontrou}.\n\n## João 1:1: era, e nada mais\n\nEm João 1:1, {era} ({ἦν}) é **imperfeto** no grego, e o imperfeito descreve existência contínua. A frase contrasta dois tempos de propósito: o Verbo **era** com Deus, e tudo o que existe **foi criado** depois, no tempo que começa em Gênesis 1:1. O verbo grego da criação é {ἐγένετο} ({foi}, perfeito), e é por isso que o contraste é {era} contra {foi}.\n\nTraduzir os dois por {era} apaga o contraste; traduzir {ἦν} por {existia} e {ἐγένετο} por {foi} mostra o que o grego está fazendo. A tradução Almeida, ao usar {era} para {ἦν} e {foi} para {ἐγένετο}, acerta — mas a leitura que permite concluir que **todo** imperfeito grego significa \"eterno\" está errada, porque o grego usava o imperfeito também para o que é simplesmente contínuo.\n\n## O que ler\n\nEm qualquer frase com passado, pergunte: o verbo é **delimitado** (perfeito) ou **em curso** (imperfeto)? E há **mais-que-perfeito**, que é o passado do passado? E o grego original está no aoristo, no imperfeito ou no perfeito — três coisas que o português traduze às vezes com a mesma palavra? A resposta é a diferença entre ler o texto e traduzir o texto.",
+        "en": "## Fact and scene: the two lights of the past\n\nPortuguese talks about the past with two verbs that have different jobs. The **perfect** presents the past as a **bounded event**: {falou}, {partiu}, {houve}, {chegou}. The **imperfect** presents a **scene, a habit or a state in progress**: {falava}, {partia}, {havia}, {morava}. When both appear in one sentence, the text gains narrative: {enquanto ele falava, o anjo entrou}.\n\nThe image that works: the imperfect is the set, the perfect is what happens on it. {Chovia quando saímos} has the same design as {enquanto pregava, veio o anjo} — circumstance in the imperfect, event in the perfect.\n\nAnd this has to be said carefully: the distinction is **not** the same as Greek. Ancient Greek has the aorist (εἶπε, spoke once) and the imperfect (ἐλάλου, was speaking), and biblical Portuguese rendered the aorist with the **perfect**. But ancient Greek also used the imperfect for habitual action and the aorist for repeated action, without the translation always distinguishing. Reading the translation as if it were a mechanical correspondence loses what the Greek had.\n\n## The pluperfect: the past that has passed\n\nThe **pluperfect** ({tinha dito}, {havia chegado}) marks a past action as **earlier** than another past action. It only exists when there are two pasts, and it is what lets you say {quando ele chegou, eu já tinha saído} without ambiguity.\n\nIt is a more formal tense, common in historical and long narrative texts, and rare in speech. In biblical translation it shows up where Greek had a **pluperfect** (ἐτύγχανε, \"had met\"), and translating it as {tinha encontrado} is usually better than {encontrou}.\n\n## John 1:1: was, and nothing more\n\nIn John 1:1, {era} (ἦν) is **imperfect** in Greek, and the imperfect describes continuous existence. The sentence contrasts two times on purpose: the Word **was** with God, and everything that exists **was created** afterwards, in the time that begins at Genesis 1:1. The Greek verb of creation is {ἐγένετο} ({foi}, perfect), and that is why the contrast is {era} against {foi}.\n\nTranslating both as {era} erases the contrast; translating {ἦν} as {existia} and {ἐγένετο} as {foi} shows what the Greek is doing. The Almeida rendering gets it right by using {era} for {ἦν} and {foi} for {ἐγένετο} — but the reading that concludes **every** Greek imperfect means \"eternal\" is wrong, because Greek also used the imperfect for what is simply continuous.\n\n## Reading criterion\n\nIn any past-tense sentence, ask: is the verb **bounded** (perfect) or **in progress** (imperfect)? Is there a **pluperfect**, the past of the past? And is the original Greek in the aorist, the imperfect or the perfect — three things Portuguese sometimes renders with the same word? The answer is the difference between reading a text and translating a text.",
+        "es": "## Hecho y escena: las dos luces del pasado\n\nEl portugués habla del pasado con dos verbos de oficios distintos. El **perfecto** presenta el pasado como **suceso delimitado**: {falou}, {partiu}, {houve}, {chegou}. El **imperfecto** presenta **escena, costumbre o estado en curso**: {falava}, {partia}, {havia}, {morava}. Cuando los dos aparecen en la misma frase, el texto gana narrativa: {enquanto ele falava, o anjo entrou}.\n\nLa imagen que funciona: el imperfecto es el decorado y el perfecto es lo que ocurre en él. {Chovia quando saímos} tiene el mismo diseño que {enquanto pregava, veio o anjo}: circunstancia en imperfecto, suceso en perfecto.\n\nY conviene decirlo con cuidado: esa distinción **no** es la del griego. El griego antiguo tiene aoristo (εἶπε, habló una vez) e imperfecto (ἐλάλου, hablaba), y el portugués bíblico buscó el aoristo con el **perfecto**. Pero el griego antiguo usaba también el imperfecto para la acción habitual y el aoristo para la acción repetida, sin que la traducción siempre distinguiera. Leer la traducción como si fuera correspondencia mecánica pierde lo que el griego tenía.\n\n## El pluscuamperfecto: el pasado que ya pasó\n\nEl **pluscuamperfecto** ({tinha dito}, {havia chegado}) marca la acción pasada como **anterior** a otra acción pasada. Solo existe cuando hay dos pasados, y es lo que permite decir {quando ele chegou, eu já tinha saído} sin ambigüedad.\n\nEs un tiempo más formal, común en textos históricos y narrativos largos, y raro en el habla. En traducción bíblica aparece donde el griego tenía **pluscuamperfecto** (ἐτύγχανε, «había encontrado»), y traducirlo por {tinha encontrado} suele ser mejor que por {encontrou}.\n\n## Jn 1:1: era, y nada más\n\nEn Jn 1:1, {era} (ἦν) es **imperfecto** en griego, y el imperfecto describe existencia continua. La frase contrasta dos tiempos a propósito: el Verbo **era** con Dios, y todo lo que existe **fue creado** después, en el tiempo que empieza en Gén 1:1. El verbo griego de la creación es {ἐγένετο} ({fue}, perfecto), y por eso el contraste es {era} frente a {fue}.\n\nTraducir los dos por {era} borra el contraste; traducir {ἦν} por {existía} y {ἐγένετο} por {fue} muestra lo que hace el griego. La traducción Almeida acierta al usar {era} para {ἦν} y {fue} para {ἐγένετο}, pero la lectura que permite concluir que **todo** imperfecto griego significa «eterno» está equivocada, porque el griego usaba el imperfecto también para lo simplemente continuo.\n\n## Criterio de lectura\n\nEn cualquier frase en pasado, pregunta: ¿el verbo es **delimitado** (perfecto) o **en curso** (imperfecto)? ¿Hay **pluscuamperfecto**, el pasado del pasado? ¿Y el griego original está en aoristo, imperfecto o perfecto, tres cosas que el portugués traduce a veces con la misma palabra? La respuesta es la diferencia entre leer el texto y traducir el texto."
+      },
+      "vocab": [
+        {
+          "form": "falou",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "ele falou (perfeito)",
+          "en": "he spoke (perfect)",
+          "es": "habló (perfecto)"
+        },
+        {
+          "form": "falava",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "ele falava (imperfeito)",
+          "en": "he spoke (imperfect)",
+          "es": "hablaba (imperfecto)"
+        },
+        {
+          "form": "era",
+          "lemma": "ser",
+          "lang": "pt",
+          "pt": "ele era",
+          "en": "he was",
+          "es": "era"
+        },
+        {
+          "form": "foi",
+          "lemma": "ser",
+          "lang": "pt",
+          "pt": "ele foi",
+          "en": "he was",
+          "es": "fue"
+        },
+        {
+          "form": "disse",
+          "lemma": "dizer",
+          "lang": "pt",
+          "pt": "ele disse",
+          "en": "he said",
+          "es": "dijo"
+        },
+        {
+          "form": "havia",
+          "lemma": "haver",
+          "lang": "pt",
+          "pt": "havia",
+          "en": "there was",
+          "es": "había"
+        },
+        {
+          "form": "tinha",
+          "lemma": "ter",
+          "lang": "pt",
+          "pt": "tinha",
+          "en": "he had",
+          "es": "tenía"
+        },
+        {
+          "form": "haviam",
+          "lemma": "haver",
+          "lang": "pt",
+          "pt": "haviam",
+          "en": "they had",
+          "es": "habían"
+        },
+        {
+          "form": "partiu",
+          "lemma": "partir",
+          "lang": "pt",
+          "pt": "ele partiu (perfeito)",
+          "en": "he departed (perfect)",
+          "es": "partió (perfecto)"
+        },
+        {
+          "form": "partia",
+          "lemma": "partir",
+          "lang": "pt",
+          "pt": "ele partia (imperfeito)",
+          "en": "he was departing (imperfect)",
+          "es": "partía (imperfecto)"
+        },
+        {
+          "form": "houve",
+          "lemma": "haver",
+          "lang": "pt",
+          "pt": "houve (perfeito)",
+          "en": "there was (perfect)",
+          "es": "hubo (perfecto)"
+        },
+        {
+          "form": "Verbo",
+          "lemma": "Verbo",
+          "lang": "pt",
+          "pt": "o Verbo (Logos)",
+          "en": "the Word (Logos)",
+          "es": "el Verbo (Logos)"
+        },
+        {
+          "form": "Jesus",
+          "lemma": "Jesus",
+          "lang": "pt",
+          "pt": "Jesus",
+          "en": "Jesus",
+          "es": "Jesús"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em “Jesus falava com eles”, o verbo está no:",
+          "en": "In “Jesus spoke with them”, the verb is:",
+          "es": "En «Jesús hablaba con ellos», el verbo está en:"
+        },
+        "options": [
+          {
+            "pt": "imperfeito",
+            "en": "imperfect",
+            "es": "imperfecto"
+          },
+          {
+            "pt": "perfeito",
+            "en": "perfect",
+            "es": "perfecto"
+          },
+          {
+            "pt": "futuro",
+            "en": "future",
+            "es": "futuro"
+          },
+          {
+            "pt": "infinitivo",
+            "en": "infinitive",
+            "es": "infinitivo"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: “No princípio, ___ o Verbo”.",
+            "en": "Complete: “In the beginning, ___ the Word”.",
+            "es": "Completa: «En el principio, ___ el Verbo»."
+          },
+          "answer": "era",
+          "hint": {
+            "pt": "Forma de ser no imperfeito.",
+            "en": "Imperfect form of ser.",
+            "es": "Forma de ser en imperfecto."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual frase apresenta um evento pontual?",
+            "en": "Which sentence presents a single event?",
+            "es": "¿Qué oración presenta un suceso puntual?"
+          },
+          "options": [
+            {
+              "pt": "A multidão gritava.",
+              "en": "The crowd was shouting.",
+              "es": "La multitud gritaba."
+            },
+            {
+              "pt": "Jesus disse: “Vim”.",
+              "en": "Jesus said: “I have come”.",
+              "es": "Jesús dijo: «He venido»."
+            },
+            {
+              "pt": "O amor permanecia.",
+              "en": "Love remained.",
+              "es": "El amor permanecía."
+            },
+            {
+              "pt": "Nós esperávamos.",
+              "en": "We were waiting.",
+              "es": "Nosotros esperábamos."
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue a forma ao valor.",
+            "en": "Match form to value.",
+            "es": "Relaciona la forma con su valor."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "disse",
+                "en": "said",
+                "es": "dijo"
+              },
+              "b": {
+                "pt": "evento",
+                "en": "event",
+                "es": "suceso"
+              }
+            },
+            {
+              "a": {
+                "pt": "discutia",
+                "en": "argued",
+                "es": "discutía"
+              },
+              "b": {
+                "pt": "cena em curso",
+                "en": "scene in progress",
+                "es": "escena en curso"
+              }
+            },
+            {
+              "a": {
+                "pt": "tinha dito",
+                "en": "had said",
+                "es": "había dicho"
+              },
+              "b": {
+                "pt": "passado anterior",
+                "en": "prior past",
+                "es": "pasado anterior"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Perfeito = passado como evento: {houve luz}; imperfeito = estado ou cena: {a luz existia}.",
+            "en": "Perfect = past as an event: {there was light}; imperfect = state or scene: {the light existed}.",
+            "es": "Perfecto = pasado como suceso: {hubo luz}; imperfecto = estado o escena: {la luz existía}."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "O valor Depends de contexto e do grego traduzido, não apenas da forma portuguesa.",
+            "en": "Value depends on context and the translated Greek, not only on the Portuguese form.",
+            "es": "El valor depende del contexto y del griego traducido, no solo de la forma portuguesa."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Tradução bíblica",
+            "en": "Biblical translation",
+            "es": "Traducción bíblica"
+          },
+          "text": {
+            "pt": "“Era” em João 1.1 preserva o contraste grego entre o tempo do Logos e a criação; não prova, isoladamente, um tempo verbal português.</",
+            "en": "“Was” in John 1:1 preserves the Greek contrast between the Logos’s time and creation; it does not alone prove a Portuguese tense.",
+            "es": "«Era» en Juan 1:1 conserva el contraste griego entre el tiempo del Logos y la creación; no demuestra por sí solo un tiempo verbal portugués."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "No princípio era o Verbo.",
+          "gloss": {
+            "pt": "Cena ou estado descrito no passado.",
+            "en": "A scene or state described in the past.",
+            "es": "Escena o estado descrito en el pasado."
+          }
+        },
+        {
+          "text": "Deus disse: “Haja luz”; e houve luz.",
+          "gloss": {
+            "pt": "Ação pontual e resultado narrado.",
+            "en": "A punctual action and narrated result.",
+            "es": "Acción puntual y resultado narrado."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Tempo passado",
+            "en": "Past tense",
+            "es": "Tiempo pasado"
+          },
+          "head": [
+            "Tempo",
+            "Forma",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "perfeito",
+              "falei/falou",
+              "Deus falou"
+            ],
+            [
+              "imperfeito",
+              "falava",
+              "Jesus falava"
+            ],
+            [
+              "mais-que-perfeito",
+              "tinha falado",
+              "tinha dito"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "pt": "Leitura guiada: João 1:1",
+        "en": "Guided reading: John 1:1",
+        "es": "Lectura guiada: Juan 1:1"
+      },
+      "subtitle": {
+        "pt": "O Verbo, a luz e a Palavra",
+        "en": "The Word, the light, and the Word made flesh",
+        "es": "El Verbo, la luz y la Palabra"
+      },
+      "section": {
+        "pt": "Leitura bíblica",
+        "en": "Biblical reading",
+        "es": "Lectura bíblica"
+      },
+      "body": {
+        "pt": "Leia o texto em blocos: {{No princípio}} / {{era o Verbo}} / {{e o Verbo estava com Deus}} / {{e o Verbo era Deus}}.\n\n{No princípio} pode ser lido como referência temporal; {era} coloca a existência antes da criação narrada; {com Deus} indica companhia; {era Deus}, sem artigo, descreve natureza ou identidade, não uma comparação fraca. O {Verbo} traduz o grego {Logos} e, nesta passagem, identifica Cristo. Em 1.14, {se fez carne} usa {se fazer} + infinitivo = “tornou-se”; {habitou} evoca a tenda de Deus no tabernáculo. Em 1.5, a luz e as trevas personificam a oposição entre Cristo e a rejeição.\n\nLeia também a tabela e glose as palavras; em seguida, traduza cada período com atenção aos tempos, aos artigos e às preposições.",
+        "en": "Read the text in blocks: {{In the beginning}} / {{was the Word}} / {{and the Word was with God}} / {{and the Word was God}}.\n\n{{In the beginning}} can be read as a temporal reference; {was} places the existence before the narrated creation; {with God} indicates fellowship; {was God}, without an article, describes nature or identity, not a weak comparison. {The Word} renders the Greek {Logos} and, in this passage, identifies Christ. In 1:14, {became flesh} uses {become} + infinitive = “came to be”; {dwelt} evokes God’s tent in the tabernacle. In 1:5, light and darkness personify the opposition between Christ and rejection.\n\nAlso read the table and gloss the words; then translate each clause, paying attention to tenses, articles, and prepositions.",
+        "es": "Lee el texto por bloques: {{En el principio}} / {{existía el Verbo}} / {{y el Verbo estaba con Dios}} / {{y el Verbo era Dios}}.\n\n{{En el principio}} puede leerse como referencia temporal; {era} sitúa la existencia antes de la creación narrada; {con Dios} indica compañía; {era Dios}, sin artículo, describe naturaleza o identidad, no una comparación débil. {El Verbo} traduce el griego {Logos} y, en este pasaje, identifica a Cristo. En 1:14, {se hizo carne} usa {hacerse} + infinitivo = «llegó a ser»; {moró} evoca la tienda de Dios en el tabernáculo. En 1:5, la luz y las tinieblas personifican la oposición entre Cristo y el rechazo.\n\nLee también la tabla y glosa las palabras; a continuación, traduce cada período con atención a los tiempos, los artículos y las preposiciones."
+      },
+      "vocab": [
+        {
+          "form": "princípio",
+          "lemma": "princípio",
+          "lang": "pt",
+          "pt": "princípio",
+          "en": "beginning",
+          "es": "principio"
+        },
+        {
+          "form": "Verbo",
+          "lemma": "verbo",
+          "lang": "pt",
+          "pt": "Verbo; Logos",
+          "en": "Word; Logos",
+          "es": "Verbo; Logos"
+        },
+        {
+          "form": "estava",
+          "lemma": "estar",
+          "lang": "pt",
+          "pt": "estava",
+          "en": "was",
+          "es": "estaba"
+        },
+        {
+          "form": "com",
+          "lemma": "com",
+          "lang": "pt",
+          "pt": "com",
+          "en": "with",
+          "es": "con"
+        },
+        {
+          "form": "carne",
+          "lemma": "carne",
+          "lang": "pt",
+          "pt": "carne",
+          "en": "flesh",
+          "es": "carne"
+        },
+        {
+          "form": "habitou",
+          "lemma": "habitar",
+          "lang": "pt",
+          "pt": "habitou",
+          "en": "dwelt",
+          "es": "moró"
+        },
+        {
+          "form": "trevas",
+          "lemma": "trevas",
+          "lang": "pt",
+          "pt": "trevas",
+          "en": "darkness",
+          "es": "tinieblas"
+        },
+        {
+          "form": "luz",
+          "lemma": "luz",
+          "lang": "pt",
+          "pt": "luz",
+          "en": "light",
+          "es": "luz"
+        },
+        {
+          "form": "graça",
+          "lemma": "graça",
+          "lang": "pt",
+          "pt": "graça",
+          "en": "grace",
+          "es": "gracia"
+        },
+        {
+          "form": "glória",
+          "lemma": "glória",
+          "lang": "pt",
+          "pt": "glória",
+          "en": "glory",
+          "es": "gloria"
+        },
+        {
+          "form": "Logos",
+          "lemma": "Logos",
+          "lang": "pt",
+          "pt": "Logos (grego λόγος)",
+          "en": "Logos (Greek λόγος)",
+          "es": "Logos (griego λόγος)"
+        },
+        {
+          "form": "era",
+          "lemma": "ser",
+          "lang": "pt",
+          "pt": "era (imperfeito de ser)",
+          "en": "was (imperfect of ser)",
+          "es": "era (imperfecto de ser)"
+        },
+        {
+          "form": "Deus",
+          "lemma": "Deus",
+          "lang": "pt",
+          "pt": "Deus",
+          "en": "God",
+          "es": "Dios"
+        },
+        {
+          "form": "vida",
+          "lemma": "vida",
+          "lang": "pt",
+          "pt": "vida",
+          "en": "life",
+          "es": "vida"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Complete: “No princípio, ___ o Verbo”.",
+          "en": "Complete: “In the beginning, ___ the Word”.",
+          "es": "Completa: «En el principio, ___ el Verbo»."
+        },
+        "answer": "era",
+        "hint": {
+          "pt": "Forma de estar no passado narrado.",
+          "en": "Past form of estar in the narrative.",
+          "es": "Forma de estar en el pasado narrado."
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "O que {Logos} significa nesta passagem?",
+            "en": "What does {Logos} mean in this passage?",
+            "es": "¿Qué significa {Logos} en este pasaje?"
+          },
+          "options": [
+            {
+              "pt": "Um discurso humano",
+              "en": "A human speech",
+              "es": "Un discurso humano"
+            },
+            {
+              "pt": "A Palavra que se fez carne",
+              "en": "The Word who became flesh",
+              "es": "la Palabra que se hizo carne"
+            },
+            {
+              "pt": "Uma ideia abstrata",
+              "en": "An abstract idea",
+              "es": "Una idea abstracta"
+            },
+            {
+              "pt": "Uma palavra escrita apenas",
+              "en": "Only a written word",
+              "es": "Solo una palabra escrita"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em “se fez carne”, {se fazer} significa:",
+            "en": "In “became flesh”, {se fazer} means:",
+            "es": "En «se hizo carne», {hacerse} significa:"
+          },
+          "options": [
+            {
+              "pt": "foi feito",
+              "en": "was made",
+              "es": "fue hecho"
+            },
+            {
+              "pt": "tornou-se",
+              "en": "became",
+              "es": "se convirtió"
+            },
+            {
+              "pt": "deveria fazer",
+              "en": "should do",
+              "es": "debería hacer"
+            },
+            {
+              "pt": "está fazendo",
+              "en": "is doing",
+              "es": "está haciendo"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue a palavra ao sentido.",
+            "en": "Match the word to its sense.",
+            "es": "Relaciona la palabra con su sentido."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "trevas",
+                "en": "darkness",
+                "es": "tinieblas"
+              },
+              "b": {
+                "pt": "oposição à luz",
+                "en": "opposition to light",
+                "es": "oposición a la luz"
+              }
+            },
+            {
+              "a": {
+                "pt": "graça",
+                "en": "grace",
+                "es": "gracia"
+              },
+              "b": {
+                "pt": "favor de Deus",
+                "en": "God’s favor",
+                "es": "favor de Dios"
+              }
+            },
+            {
+              "a": {
+                "pt": "carne",
+                "en": "flesh",
+                "es": "carne"
+              },
+              "b": {
+                "pt": "human nature assumed",
+                "en": "human nature assumed",
+                "es": "naturaleza humana asumida"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Quando o grego omite o artigo em uma oração, a tradução pode omiti-lo; “era Deus” não deve ser corrigido automaticamente para “era o Deus”.",
+            "en": "When Greek omits an article in a predicate, translation may omit it; do not automatically change “era Deus” to “era o Deus”.",
+            "es": "Cuando el griego omite el artículo en un predicado, la traducción puede omitirlo; no cambies automáticamente «era Deus» por «era o Deus»."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Intertextualidade",
+            "en": "Intertextuality",
+            "es": "Intertextualidad"
+          },
+          "text": {
+            "pt": "“No princípio” ecoa Gênesis 1.1; a habitação de Deus no meio do povo ecoa o tabernáculo do Êxodo.",
+            "en": "“In the beginning” echoes Genesis 1:1; God’s dwelling among the people echoes the Exodus tabernacle.",
+            "es": "«En el principio» ecoa Génesis 1:1; la morada de Dios entre el pueblo ecoa el tabernáculo del Éxodo."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "A luz resplandece nas trevas.",
+          "gloss": {
+            "pt": "PresenteSBiblico: contraste que continua.",
+            "en": "Biblical present: an ongoing contrast.",
+            "es": "Presente bíblico: contraste que continúa."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Estrutura de João 1:1",
+            "en": "Structure of John 1:1",
+            "es": "Estructura de Juan 1:1"
+          },
+          "head": [
+            "Segmento",
+            "Função",
+            "Português"
+          ],
+          "rows": [
+            [
+              "No princípio",
+              "tempo",
+              "No começo"
+            ],
+            [
+              "era o Verbo",
+              "existência",
+              "existía el Verbo"
+            ],
+            [
+              "estava com Deus",
+              "relação",
+              "estaba con Dios"
+            ],
+            [
+              "era Deus",
+              "natureza",
+              "era Dios"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "pt": "Subjuntivo e futuro do subjuntivo",
+        "en": "Subjunctive and future subjunctive",
+        "es": "Subjuntivo y futuro del subjuntivo"
+      },
+      "subtitle": {
+        "pt": "fale, falares: desejo e hipótese",
+        "en": "fale, falares: wish and hypothesis",
+        "es": "fale, falares: deseo e hipótesis"
+      },
+      "section": {
+        "pt": "Modos e tempos",
+        "en": "Moods and tenses",
+        "es": "Modos y tiempos"
+      },
+      "body": {
+        "pt": "## O subjuntivo é o tempo do que não se pode afirmar\n\nO presente do subjuntivo aparece em **desejo**, **dúvida**, **finalidade** e certas subordinadas: {quero que fales}, {espero que venha}, {para que haja paz}, {não sei se vem}. Não é \"o tempo da unrealidade\" como o/name sugere — é o tempo do que o falante **não pode afirmar**.\n\nÉ por isso que {seja} e {venha} no Pai-Nosso não são ordens: são **desejos comunitários**. \"Santificado seja o teu nome\" é um pedido, e um pedido é por definição algo que se quer e ainda não se tem. O grego de Mt 6:10 (ἐλθέτω) usa a mesma construção, e o subjuntivo é a marca de que a oração **não** é uma declaração.\n\n## O futuro do subjuntivo é português\n\nO futuro do subjuntivo ({falares}, {vier}, {creres}) é uma criação **do português** — o grego e o latim não têm essa forma. Ele aparece depois de **quando** e **se**: {quando eu vier}, {se tu creres}, {assim que chegar}. E expressa um evento futuro **que ainda não é fato**, mas que o falante considera certo o bastante para fechar a subordinada com ele.\n\nA tentação é tratar {quando eu vier} como futuro do indicativo. Não é. A diferença é de **compromisso**: {quando eu vier} é uma condição em que o falante espera; {quando eu vim} é narração de passado. Em tradução bíblica, o grego antigo (ὅταν + subjuntivo) e o português biblical (quando + futuro do subjuntivo) são a mesma coisa, e é por isso que a forma se conservou.\n\n## Para + infinitivo: finalidade sem sujeito\n\n{para} seguido de infinitivo pode substituir uma finalidade: {para crer}, {para conhecer}, {estou aqui para falar}. A diferença em relação a {para que} é que o infinitivo tem sujeito subentendido — normalmente o mesmo da frase principal. {Vou falar} e {Vou explicar para entender} têm o mesmo sujeito nas duas orações.\n\nÉ o que permite traduzir o grego εἰς + infinitivo ({ἐλθεῖν εἰς}, {ἐλθεῖν ἀκοῦσαι}) e o hebraico Purpose Clause com infinitivo, sem precisar inventar um sujeito que o texto não dá.\n\n## A seleção depende do verbo principal\n\nNem todo verbo principal aceita subjuntivo. {Quero que} exige; {Sei que} quase sempre exige **indicativo** ({sei que vem}), a menos que a informação venha de outro ({disseram que viria}). A lista de verbos que \"governam\" o subjuntivo é fechada, e é ela que decide, não o sentido da frase.\n\nEm grego, o paralelo é o **optativo** ({ἐάν τις ἔλθῃ}, {ὄφρα}, {ὡς}) e o **subjuntivo** ({ὅτι ζῇ}, {ἵνα}). Quando o texto grego está no optativo, o português precisa encadear com \"se\" ou \"para que\", e é aí que a tradução ganha ou perde a hipótese.\n\n## O que ler\n\nEm qualquer verbo no subjuntivo, pergunte: quem **governa** a frase — {quero}, {espero}, {para que}, {se}? E é {se} ou {quando} no futuro do subjuntivo, que é um tempo só do português? E o {para} traz {que} ou um infinitivo? Com as três respostas, o subjuntivo está explicado.",
+        "en": "## The subjunctive is the tense of what cannot be asserted\n\nThe present subjunctive appears in **wish**, **doubt**, **purpose** and certain subordinate clauses: {quero que fales}, {espero que venha}, {para que haja paz}, {não sei se vem}. It is not \"the tense of unreality\" as the name suggests: it is the tense of what the speaker **cannot assert**.\n\nThat is why {seja} and {venha} in the Lord's Prayer are not commands: they are **communal wishes**. \"Hallowed be thy name\" is a petition, and a petition is by definition something you want and do not yet have. Greek in Matthew 6:10 (ἐλθέτω) uses the same construction, and the subjunctive marks that the sentence is **not** a statement.\n\n## The future subjunctive is Portuguese\n\nThe future subjunctive ({falares}, {vier}, {creres}) is a creation **of Portuguese** — Greek and Latin have no such form. It appears after **when** and **if**: {quando eu vier}, {se tu creres}, {assim que chegar}. And it expresses a future event **that is not yet fact**, but which the speaker considers certain enough to close the clause with it.\n\nThe temptation is to treat {quando eu vier} as a future indicative. It is not. The difference is **commitment**: {quando eu vier} is a condition the speaker takes on; {quando eu vim} is narration of the past. In biblical translation, ancient Greek (ὅταν + subjunctive) and biblical Portuguese (quando + futuro do subjuntivo) are the same thing, which is why the form survived.\n\n## Para + infinitive: purpose without a subject\n\n{para} followed by an infinitive can replace a purpose clause: {para crer}, {para conhecer}, {estou aqui para falar}. The difference from {para que} is that the infinitive has an understood subject — normally the same as the main clause. {Vou falar} and {Vou explicar para entender} share a subject across the two clauses.\n\nThat is what lets you translate Greek εἰς + infinitive ({ἐλθεῖν εἰς}) and the Hebrew purpose infinitive, without inventing a subject the text does not supply.\n\n## Selection depends on the main verb\n\nNot every main verb takes a subjunctive. {Quero que} requires one; {sei que} almost always requires the **indicative** ({sei que vem}), unless the information comes from someone else ({disseram que viria}). The list of governing verbs is closed, and that list decides, not the meaning of the sentence.\n\nIn Greek the parallel is the **optative** (ἐάν τις ἔλθῃ, ὄφρα, ὡς) and the **subjunctive** (ὅτι ζῇ, ἵνα). When the text is in the optative, Portuguese has to chain with \"se\" or \"para que\", and that is where a translation gains or loses the hypothesis.\n\n## Reading criterion\n\nWith any subjunctive verb, ask: what **governs** the sentence — {quero}, {espero}, {para que}, {se}? Is it {se} or {quando} of the future subjunctive, a tense only Portuguese has? Does the {para} bring {que} or an infinitive? With those three answers the subjunctive is explained.",
+        "es": "## El subjuntivo es el tiempo de lo que no se puede afirmar\n\nEl presente de subjuntivo aparece en **deseo**, **duda**, **finalidad** y ciertas subordinadas: {quero que fales}, {espero que venha}, {para que haja paz}, {não sei se vem}. No es «el tiempo de la irrealidad», como sugiere el nombre: es el tiempo de lo que el hablante **no puede afirmar**.\n\nPor eso {seja} y {venha} en el Padrenuestro no son órdenes: son **deseos colectivos**. «Santificado sea tu nombre» es una petición, y una petición es por definición algo que se quiere y todavía no se tiene. El griego de Mt 6:10 (ἐλθέτω) usa la misma construcción, y el subjuntivo marca que la oración **no** es una declaración.\n\n## El futuro de subjuntivo es portugués\n\nEl futuro de subjuntivo ({falares}, {vier}, {creres}) es una creación **del portugués**: el griego y el latín no tienen esa forma. Aparece tras **cuando** y **si**: {quando eu vier}, {se tu creres}, {assim que chegar}. Y expresa un suceso futuro **que aún no es hecho**, pero que el hablante considera lo bastante cierto para cerrar la subordinada con él.\n\nLa tentación es tratar {quando eu vier} como futuro de indicativo. No lo es. La diferencia es de **compromiso**: {quando eu vier} es una condición que el hablante asume; {quando eu vim} es narración del pasado. En traducción bíblica, el griego antiguo (ὅταν + subjuntivo) y el portugués bíblico (quando + futuro de subjuntivo) son lo mismo, y por eso la forma se conservó.\n\n## Para + infinitivo: finalidad sin sujeto\n\n{para} seguido de infinitivo puede sustituir una cláusula de finalidad: {para crer}, {para conhecer}, {estou aqui para falar}. La diferencia respecto a {para que} es que el infinitivo tiene sujeto sobreentendido, normalmente el mismo de la principal. {Vou falar} y {Vou explicar para entender} comparten sujeto entre las dos cláusulas.\n\nEso es lo que permite traducir el griego εἰς + infinitivo ({ἐλθεῖν εἰς}) y el infinitivo de finalidad hebreo, sin inventar un sujeto que el texto no da.\n\n## La selección depende del verbo principal\n\nNo todo verbo principal admite subjuntivo. {Quero que} lo exige; {sei que} casi siempre exige **indicativo** ({sei que vem}), salvo que la información venga de otro ({disseram que viria}). La lista de verbos que rigen el subjuntivo es cerrada, y es ella la que decide, no el sentido de la frase.\n\nEn griego, el paralelo es el **optativo** (ἐάν τις ἔλθῃ, ὄφρα, ὡς) y el **subjuntivo** (ὅτι ζῇ, ἵνα). Cuando el texto está en optativo, el portugués tiene que encadenar con «se» o «para que», y ahí es donde la traducción gana o pierde la hipótesis.\n\n## Criterio de lectura\n\nCon cualquier verbo en subjuntivo, pregúntate: ¿qué **rige** la frase — {quero}, {espero}, {para que}, {se}? ¿Es {se} o {quando} de futuro de subjuntivo, un tiempo que solo el portugués tiene? ¿El {para} trae {que} o un infinitivo? Con esas tres respuestas, el subjuntivo queda explicado."
+      },
+      "vocab": [
+        {
+          "form": "fale",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "fale",
+          "en": "may you speak",
+          "es": "habla"
+        },
+        {
+          "form": "falares",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "falares",
+          "en": "you will speak",
+          "es": "hablares"
+        },
+        {
+          "form": "seja",
+          "lemma": "ser",
+          "lang": "pt",
+          "pt": "seja",
+          "en": "may it be",
+          "es": "sea"
+        },
+        {
+          "form": "tenha",
+          "lemma": "ter",
+          "lang": "pt",
+          "pt": "tenha",
+          "en": "may you have",
+          "es": "tenga"
+        },
+        {
+          "form": "venha",
+          "lemma": "vir",
+          "lang": "pt",
+          "pt": "venha",
+          "en": "may he come",
+          "es": "venga"
+        },
+        {
+          "form": "creres",
+          "lemma": "crer",
+          "lang": "pt",
+          "pt": "creres",
+          "en": "if you believe",
+          "es": "si creyeres"
+        },
+        {
+          "form": "oxalá",
+          "lemma": "oxalá",
+          "lang": "pt",
+          "pt": "oxalá",
+          "en": "hopefully",
+          "es": "ojalá"
+        },
+        {
+          "form": "amém",
+          "lemma": "amém",
+          "lang": "pt",
+          "pt": "amém",
+          "en": "amen",
+          "es": "amén"
+        },
+        {
+          "form": "para",
+          "lemma": "para",
+          "lang": "pt",
+          "pt": "para (finalidade)",
+          "en": "in order to",
+          "es": "para (finalidad)"
+        },
+        {
+          "form": "crer",
+          "lemma": "crer",
+          "lang": "pt",
+          "pt": "crer",
+          "en": "to believe",
+          "es": "creer"
+        },
+        {
+          "form": "vir",
+          "lemma": "vir",
+          "lang": "pt",
+          "pt": "vir",
+          "en": "to come",
+          "es": "venir"
+        },
+        {
+          "form": "falar",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "falar",
+          "en": "to speak",
+          "es": "hablar"
+        },
+        {
+          "form": "quando",
+          "lemma": "quando",
+          "lang": "pt",
+          "pt": "quando",
+          "en": "when",
+          "es": "cuando"
+        },
+        {
+          "form": "se",
+          "lemma": "se",
+          "lang": "pt",
+          "pt": "se (conjunção)",
+          "en": "if",
+          "es": "si (conjunción)"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Complete: “quando tu ___ (falar)”.",
+          "en": "Complete: “when you ___ (speak)”.",
+          "es": "Completa: «cuando tú ___ (hablar)»."
+        },
+        "options": [
+          {
+            "pt": "falas",
+            "en": "you speak",
+            "es": "hablas"
+          },
+          {
+            "pt": "falares",
+            "en": "you will speak",
+            "es": "hablares"
+          },
+          {
+            "pt": "fales",
+            "en": "you may speak",
+            "es": "hables"
+          },
+          {
+            "pt": "falaram",
+            "en": "they spoke",
+            "es": "hablaron"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: “Santificado ___ o teu nome”.",
+            "en": "Complete: “Hallowed ___ your name”.",
+            "es": "Completa: «Santificado ___ tu nombre»."
+          },
+          "answer": "seja",
+          "hint": {
+            "pt": "Subjuntivo de ser.",
+            "en": "Subjunctive of ser.",
+            "es": "Subjuntivo de ser."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual construção expressa finalidade?",
+            "en": "Which construction expresses purpose?",
+            "es": "¿Qué construcción expresa finalidad?"
+          },
+          "options": [
+            {
+              "pt": "para que venhas",
+              "en": "so that you come",
+              "es": "para que vengas"
+            },
+            {
+              "pt": "quando tu vens",
+              "en": "when you come",
+              "es": "cuando tú vienes"
+            },
+            {
+              "pt": "porque eu creio",
+              "en": "because I believe",
+              "es": "porque creo"
+            },
+            {
+              "pt": "se tu vens",
+              "en": "if you come",
+              "es": "si tú vienes"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue conjunção e valor.",
+            "en": "Match conjunction and value.",
+            "es": "Relaciona conjunción y valor."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "quando",
+                "en": "when",
+                "es": "cuando"
+              },
+              "b": {
+                "pt": "tempo futuro",
+                "en": "future time",
+                "es": "tiempo futuro"
+              }
+            },
+            {
+              "a": {
+                "pt": "se",
+                "en": "if",
+                "es": "si"
+              },
+              "b": {
+                "pt": "hipótese",
+                "en": "hypothesis",
+                "es": "hipótesis"
+              }
+            },
+            {
+              "a": {
+                "pt": "para que",
+                "en": "so that",
+                "es": "para que"
+              },
+              "b": {
+                "pt": "finalidade",
+                "en": "purpose",
+                "es": "finalidad"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Use o subjuntivo quando o verbo principal expressa desejo, finalidade ou dúvida.",
+            "en": "Use the subjunctive when the main verb expresses wish, purpose, or doubt.",
+            "es": "Usa el subjuntivo cuando el verbo principal expresa deseo, finalidad o duda."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Atenção",
+            "en": "Careful",
+            "es": "Atención"
+          },
+          "text": {
+            "pt": "O futuro do subjuntivo é uma forma portuguesa, não uma fidelidade literal ao tempo grego; o contexto decide.",
+            "en": "The future subjunctive is a Portuguese form, not a literal equivalent of the Greek tense; context decides.",
+            "es": "El futuro del subjuntivo es una forma portuguesa, no un equivalente literal del tiempo griego; decide el contexto."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Venha o teu reino.",
+          "gloss": {
+            "pt": "Que o reino venha: desejo comunitário.",
+            "en": "May your kingdom come: communal wish.",
+            "es": "¡Venga tu reino!: deseo comunitario."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Subjuntivo",
+            "en": "Subjunctive",
+            "es": "Subjuntivo"
+          },
+          "head": [
+            "Tempo",
+            "Forma",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "presente",
+              "fale",
+              "quero que fales"
+            ],
+            [
+              "futuro",
+              "falares",
+              "quando falares"
+            ],
+            [
+              "irreal",
+              "falasse",
+              "se falasse"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "pt": "Pai-Nosso e Salmo 22",
+        "en": "The Lord’s Prayer and Psalm 22",
+        "es": "Padre nuestro y Salmo 22"
+      },
+      "subtitle": {
+        "pt": "ora, perdão e sofrimento",
+        "en": "prayer, forgiveness and suffering",
+        "es": "oración, perdón y sufrimiento"
+      },
+      "section": {
+        "pt": "Leitura bíblica",
+        "en": "Biblical reading",
+        "es": "Lectura bíblica"
+      },
+      "body": {
+        "pt": "## O Pai-Nosso tem três tempos\n\nO Pai-Nosso alterna **invocação**, **pedidos** e **instrução**, e cada parte usa um tempo diferente. A invocação é declarativa e presente: {Pai nosso que estás nos céus}. Os pedidos são desejos, e desejo é **subjuntivo**: {santificado seja o teu nome}, {venha o teu reino}, {seja feita a tua vontade}. A instrução volta ao **imperativo** e ao presente: {o pão nosso de cada dia dá-nos hoje}.\n\nRepare no padrão: os três pedidos centrais do Pai-Nosso são justamente os três subjuntivos. Não é retórica — é gramática. Um pedido é, por definição, algo que se quer e ainda não se tem, e em português (como em grego, com ἐλθέτω) o subjuntivo marca exatamente isso. Traduzir {seja} por {é} muda um pedido em uma afirmação.\n\n## Dá-nos: verbo e pronome colados\n\n{o pão nosso de cada dia dá-nos hoje} tem {dá-nos} — verbo + pronome **nos**, na mesma palavra. A forma é {dá} + {nos} grudados, e é a marca do português clítico. O paralelo grego é ἐπιδίδου ἡμῖν (δίδω + ἡμῖν), com o pronome no **dativo**, e é ele que diz \"a nós\" e não \"nós\".\n\nO registro também importa: {dá-nos} é a forma que o português europeu usa, e a forma brasileira corrente é {dá pra nós} ou {nos dá}. São a mesma função com três registros, e o tradutor escolhe conforme o público — sem alterar o sentido.\n\n## Perdoemos: subjuntivo em frase de narração\n\n{perdoa-nos as nossas dívidas, assim como nós também perdoamos aos nossos devedores} traz {perdoamos} no **presente do subjuntivo**, e não {perdoamos} indicativo nem {perdoámos} perfeito. A frase é narração (\"assim como nós também perdoamos\"), mas o verbo é subjuntivo.\n\nPor quê? Porque o grego de Mt 6:12 usa **ἀφῆτε** (aoristo, presente do subjuntivo) e o fato é subjuntivo, porque a oração **não** afirma que perdoamos — ela **pede** que perdoemos. A diferença entre {perdoamos} (afirmação) e {perdoemos} (pedido) é a diferença entre dizer e rezar, e o português biblical preserva.\n\nE repare no {aos}: é {a + os} contra o dativo grego, o que mostra que a preposição em português está cumprindo o papel do caso.\n\n## O Salmo 22: a pergunta que é lamento\n\nO Salmo 22 começa com {Deus meu, Deus meu, por que me desamparaste?} — e é exatamente essa frase que Jesus pronuncia na cruz (Mt 27:46; Mc 15:34). O {por que} não é uma pergunta por informação: é um lamento. A pergunta retórica em hebraico (אַלְמָה, alamá) e em grego (ἱνατί, hinati) é o mesmo grito: **onde está você**.\n\nA diferença entre a pergunta e o lamento está no que segue. No Salmo, o versículo 2 muda o tom: {mas tu, Senhor, estás longe}; e a partir daí o tom muda para louvor. Jesus, na cruz, não tem os versículos seguintes — Ele fica na pergunta. Copiar o Salmo inteiro para a cruz é ler um hino que Ele não cantou naquele momento.\n\n## O que ler\n\nEm cada oração do Pai-Nosso, pergunte: é **afirmação** (indicativo), **pedido** (subjuntivo) ou **ordem** (imperativo)? E no Salmo 22, {por que} é pergunta por informação ou lamento? A resposta muda mais a leitura do que qualquer palavra isolada.",
+        "en": "## The Lord's Prayer has three tenses\n\nThe Lord's Prayer alternates **invocation**, **petitions** and **instruction**, and each part uses a different tense. The invocation is declarative and present: {Pai nosso que estás nos céus}. The petitions are wishes, and a wish is **subjunctive**: {santificado seja o teu nome}, {venha o teu reino}, {seja feita a tua vontade}. The instruction returns to the **imperative** and the present: {o pão nosso de cada dia dá-nos hoje}.\n\nNote the pattern: the three central petitions of the prayer are precisely the three subjunctives. That is not rhetoric, it is grammar. A petition is by definition something you want and do not yet have, and in Portuguese (as in Greek, with ἐλθέτω) the subjunctive marks exactly that. Turning {seja} into {é} changes a petition into a statement.\n\n## Dá-nos: verb and pronoun glued\n\n{o pão nosso de cada dia dá-nos hoje} has {dá-nos} — verb plus the pronoun {nos} in one word. The shape is {dá} + {nos} stuck together, and it is the mark of the Portuguese clitic. The Greek parallel is ἐπιδίδου ἡμῖν (δίδω + ἡμῖν), with the pronoun in the **dative**, and that is what says \"to us\" rather than \"we\".\n\nRegister matters too: {dá-nos} is the form European Portuguese uses, and the everyday Brazilian form is {dá pra nós} or {nos dá}. Same function, three shapes, and the translator picks according to the audience without changing the meaning.\n\n## Perdoemos: subjunctive in a narrative sentence\n\n{perdoa-nos as nossas dívidas, assim como nós também perdoamos aos nossos devedores} has {perdoamos} in the **present subjunctive**, not indicative {perdoamos} and not perfect {perdoámos}. The sentence is narration (\"just as we also forgive\"), yet the verb is subjunctive.\n\nWhy? Because Greek in Matthew 6:12 uses **ἀφῆτε** (aorist, present subjunctive) and the fact is subjunctive because the prayer does not assert that we forgive — it **asks** that we forgive. The difference between {perdoamos} (assertion) and {perdoemos} (petition) is the difference between saying and praying, and biblical Portuguese preserves it.\n\nNote the {aos}: it is {a + os} standing in for the Greek dative, which shows the preposition in Portuguese doing the work of a case.\n\n## Psalm 22: the question that is a lament\n\nPsalm 22 opens with {Deus meu, Deus meu, por que me desamparaste?} — and that is exactly the line Jesus speaks from the cross (Matthew 27:46; Mark 15:34). The {por que} is not a question seeking information: it is a lament. The rhetorical question in Hebrew (אַלְמָה, alamá) and in Greek (ἱνατί, hinatí) is the same cry: **where are you**.\n\nThe difference between question and lament is in what follows. In the Psalm, verse 2 changes the tone: {mas tu, Senhor, estás longe}; and from there the psalm turns to praise. Jesus on the cross does not have the following verses — he stays in the question. Reading the whole psalm onto the cross means reading a hymn he was not singing at that moment.\n\n## Reading criterion\n\nIn each clause of the Lord's Prayer, ask: is it an **assertion** (indicative), a **petition** (subjunctive) or a **command** (imperative)? And in Psalm 22, is {por que} a question for information or a lament? The answer changes the reading more than any single word.",
+        "es": "## El Padrenuestro tiene tres tiempos\n\nEl Padrenuestro alterna **invocación**, **peticiones** e **instrucción**, y cada parte usa un tiempo distinto. La invocación es declarativa y de presente: {Pai nosso que estás nos céus}. Las peticiones son deseos, y un deseo es **subjuntivo**: {santificado seja o teu nome}, {venha o teu reino}, {seja feita a tua vontade}. La instrucción vuelve al **imperativo** y al presente: {o pão nosso de cada dia dá-nos hoje}.\n\nFíjate en el patrón: las tres peticiones centrales del Padrenuestro son justamente los tres subjuntivos. No es retórica: es gramática. Una petición es, por definición, algo que se quiere y todavía no se tiene, y en portugués (como en griego, con ἐλθέτω) el subjuntivo marca exactamente eso. Convertir {seja} en {é} cambia una petición en una afirmación.\n\n## Dá-nos: verbo y pronombre pegados\n\n{o pão nosso de cada dia dá-nos hoje} tiene {dá-nos}: verbo más el pronombre {nos} en la misma palabra. La forma es {dá} + {nos} pegados, y es la marca del enclítico portugués. El paralelo griego es ἐπιδίδου ἡμῖν (δίδω + ἡμῖν), con el pronombre en **dativo**, y eso es lo que dice «a nosotros» y no «nosotros».\n\nEl registro también importa: {dá-nos} es la forma que usa el portugués europeo, y la forma corriente brasileña es {dá pra nós} o {nos dá}. Misma función, tres formas, y quien traduce elige según el público sin alterar el sentido.\n\n## Perdoemos: subjuntivo en una frase de narración\n\n{perdoa-nos as nossas dívidas, assim como nós também perdoamos aos nossos devedores} trae {perdoamos} en **presente de subjuntivo**, no el indicativo {perdoamos} ni el perfecto {perdoámos}. La frase es narración («así como nosotros también perdonamos»), pero el verbo es subjuntivo.\n\n¿Por qué? Porque el griego de Mt 6:12 usa **ἀφῆτε** (aoristo, presente de subjuntivo) y el hecho es subjuntivo porque la oración **no** afirma que perdonamos: **pide** que perdonemos. La diferencia entre {perdoamos} (afirmación) y {perdoemos} (petición) es la diferencia entre decir y rezar, y el portugués bíblico la conserva.\n\nFíjate en el {aos}: es {a + os} en lugar del dativo griego, lo que muestra que la preposición en portugués está cumpliendo el papel del caso.\n\n## El Salmo 22: la pregunta que es lamento\n\nEl Salmo 22 empieza con {Deus meu, Deus meu, por que me desamparaste?} — y es exactamente esa frase la que Jesús pronuncia en la cruz (Mt 27:46; Mc 15:34). El {por que} no es una pregunta para obtener información: es un lamento. La pregunta retórica en hebreo (אַלְמָה, alamá) y en griego (ἱνατί, hinatí) es el mismo grito: **¿dónde estás?**\n\nLa diferencia entre pregunta y lamento está en lo que sigue. En el Salmo, el versículo 2 cambia el tono: {mas tu, Senhor, estás longe}; y a partir de ahí el salmo gira alabanza. Jesús en la cruz no tiene los versículos siguientes: se queda en la pregunta. Leer el salmo entero sobre la cruz es leer un himno que no estaba cantando en ese momento.\n\n## Criterio de lectura\n\nEn cada cláusula del Padrenuestro, pregúntate: ¿es **afirmación** (indicativo), **petición** (subjuntivo) u **orden** (imperativo)? Y en el Salmo 22, ¿{por que} es pregunta para saber o lamento? La respuesta cambia la lectura más que cualquier palabra suelta."
+      },
+      "vocab": [
+        {
+          "form": "estás",
+          "lemma": "estar",
+          "lang": "pt",
+          "pt": "estás",
+          "en": "you are",
+          "es": "estás"
+        },
+        {
+          "form": "santificado",
+          "lemma": "santificar",
+          "lang": "pt",
+          "pt": "santificado",
+          "en": "hallowed",
+          "es": "santificado"
+        },
+        {
+          "form": "dá-nos",
+          "lemma": "dar",
+          "lang": "pt",
+          "pt": "dá-nos",
+          "en": "give us",
+          "es": "danos"
+        },
+        {
+          "form": "perdoa",
+          "lemma": "perdoar",
+          "lang": "pt",
+          "pt": "perdoa",
+          "en": "forgive",
+          "es": "perdona"
+        },
+        {
+          "form": "dívidas",
+          "lemma": "dívida",
+          "lang": "pt",
+          "pt": "dívidas",
+          "en": "debts",
+          "es": "deudas"
+        },
+        {
+          "form": "desamparaste",
+          "lemma": "desamparar",
+          "lang": "pt",
+          "pt": "desamparaste",
+          "en": "you forsake",
+          "es": "desamparaste"
+        },
+        {
+          "form": "entregou",
+          "lemma": "entregar",
+          "lang": "pt",
+          "pt": "entregou",
+          "en": "he delivered",
+          "es": "entregó"
+        },
+        {
+          "form": "pão",
+          "lemma": "pão",
+          "lang": "pt",
+          "pt": "pão",
+          "en": "bread",
+          "es": "pan"
+        },
+        {
+          "form": "reino",
+          "lemma": "reino",
+          "lang": "pt",
+          "pt": "reino",
+          "en": "kingdom",
+          "es": "reino"
+        },
+        {
+          "form": "tribulação",
+          "lemma": "tribulação",
+          "lang": "pt",
+          "pt": "tribulação",
+          "en": "trouble",
+          "es": "tribulación"
+        },
+        {
+          "form": "perdoar",
+          "lemma": "perdoar",
+          "lang": "pt",
+          "pt": "perdoar",
+          "en": "to forgive",
+          "es": "perdonar"
+        },
+        {
+          "form": "nome",
+          "lemma": "nome",
+          "lang": "pt",
+          "pt": "nome",
+          "en": "name",
+          "es": "nombre"
+        },
+        {
+          "form": "céus",
+          "lemma": "céu",
+          "lang": "pt",
+          "pt": "céus (plural)",
+          "en": "heavens (plural)",
+          "es": "cielos (plural)"
+        },
+        {
+          "form": "hoje",
+          "lemma": "hoje",
+          "lang": "pt",
+          "pt": "hoje",
+          "en": "today",
+          "es": "hoy"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "O que {nos} significa em “nos céus”?",
+          "en": "What does {nos} mean in “in the heavens”?",
+          "es": "¿Qué significa {nos} en «los cielos»?"
+        },
+        "options": [
+          {
+            "pt": "Pronome objeto",
+            "en": "object pronoun",
+            "es": "pronombre objeto"
+          },
+          {
+            "pt": "em + os",
+            "en": "em + os",
+            "es": "en + los"
+          },
+          {
+            "pt": "Verbo",
+            "en": "verb",
+            "es": "verbo"
+          },
+          {
+            "pt": "Adjetivo",
+            "en": "adjective",
+            "es": "adjetivo"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: “___ nosso de cada dia”.",
+            "en": "Complete: “___ our daily ___”.",
+            "es": "Completa: «___ nuestro de cada día»."
+          },
+          "answer": "pão",
+          "hint": {
+            "pt": "Alimento essencial.",
+            "en": "Essential food.",
+            "es": "Alimento esencial."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em “Deus meu, Deus meu”, a repetição cria:",
+            "en": "In “My God, my God”, the repetition creates:",
+            "es": "En «Dios mío, Dios mío», la repetición crea:"
+          },
+          "options": [
+            {
+              "pt": "uma pergunta direta",
+              "en": "a direct question",
+              "es": "una pregunta directa"
+            },
+            {
+              "pt": "uma oração",
+              "en": "a prayer",
+              "es": "una oración"
+            },
+            {
+              "pt": "uma comparação",
+              "en": "a comparison",
+              "es": "una comparación"
+            },
+            {
+              "pt": "um futuro",
+              "en": "a future tense",
+              "es": "un futuro"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue pedido e resposta.",
+            "en": "Match petition and response.",
+            "es": "Relaciona petición y respuesta."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "santificado seja",
+                "en": "hallowed be",
+                "es": "sea santificado"
+              },
+              "b": {
+                "pt": "santificado seja",
+                "en": "hallowed be",
+                "es": "sea santificado"
+              }
+            },
+            {
+              "a": {
+                "pt": "venha",
+                "en": "come",
+                "es": "venga"
+              },
+              "b": {
+                "pt": "venha",
+                "en": "come",
+                "es": "venga"
+              }
+            },
+            {
+              "a": {
+                "pt": "seja feita",
+                "en": "be done",
+                "es": "sea hecha"
+              },
+              "b": {
+                "pt": "seja feita",
+                "en": "be done",
+                "es": "sea hecha"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "No biblical português, pronome objeto pode unir-se ao verbo por hífen, como em {perdoa-nos}.",
+            "en": "In biblical Portuguese, an object pronoun may attach to the verb with a hyphen, as in {perdoa-nos}.",
+            "es": "En el português bíblico, el pronombre objeto puede unirse al verbo con guion, como en {perdónanos}."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Leitura",
+            "en": "Reading",
+            "es": "Lectura"
+          },
+          "text": {
+            "pt": "O Salmo 22 deve ser lido como oração de sofrimento antes de ser usado isoladamente como_definition_of_.",
+            "en": "Read Psalm 22 as a lament before using it alone as a definition of suffering.",
+            "es": "Lee el Salmo 22 como lamento antes de usarlo aisladamente como definición de sufrimiento."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "O pão nosso de cada dia dá-nos hoje.",
+          "gloss": {
+            "pt": "Pedido por sustento diário.",
+            "en": "A petition for daily provision.",
+            "es": "Petición por sustento diario."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Estrutura da oração",
+            "en": "Prayer structure",
+            "es": "Estructura de la oración"
+          },
+          "head": [
+            "Parte",
+            "Português",
+            "Español"
+          ],
+          "rows": [
+            [
+              "invocação",
+              "Pai nosso que estás nos céus",
+              "Padre nuestro que estás en los cielos"
+            ],
+            [
+              "pedido",
+              "o teu reino venha",
+              "venga tu reino"
+            ],
+            [
+              " perdão",
+              "perdoa-nos",
+              "perdónanos"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "pt": "Futuro, condicional e mesóclise",
+        "en": "Future, conditional, and mesoclisis",
+        "es": "Futuro, condicional y mesóclisis"
+      },
+      "subtitle": {
+        "pt": "falarei, falaria, dir-me-ás",
+        "en": "falarei, falaria, dir-me-ás",
+        "es": "falaré, hablaría, decir-me-ás"
+      },
+      "section": {
+        "pt": "Futuro e condición",
+        "en": "Future and condition",
+        "es": "Futuro y condición"
+      },
+      "body": {
+        "pt": "## O futuro que não é futuro\n\nO futuro do indicativo forma-se com o infinitivo mais as terminações: {falar} + {+ei} = {falarei}. O condicional usa o mesmo material: {falaria}. A diferença de forma é mínima — uma terminação — e a diferença de sentido é enorme: o **futuro** expressa previsão ou compromisso ({virá}, {não falta}), enquanto o **condicional** expressa hipótese, possibilidade ou cortesia ({seria}, {poderia}, {gostaria}).\n\nE aqui está a armadilha: **forma de futuro não garante sentido temporal**. O português é pródigo de futuro para afirmações categóricas: em profecias, o futuro pode ser imediato ({Aquele que vem está na porta}) ou pode ser certeza ({o Filho do homem virá}). O grego faz o mesmo (μέλλω), e é a mistura do tempo com a certeza que produz essas duas leituras.\n\n## Condicional e hipótese: o que o grego não tem\n\nO condicional português é mais rico que o grego para hipóteses, porque o grego usa o subjuntivo ({ἐάν τις ἔλθῃ}) e o português precisa encadear: {se alguém vier, ...}, {se viesse, ...}. Os três tempos do português — {se vier} (futuro do subjuntivo), {se viesse} (imperfeito), {se tivesse vindo} (mais-que-perfeito) — cobrem o que o grego resolve com uma só forma.\n\nÉ por isso que a tradução de um subjuntivo grego costuma ganhar um \"se\" que não estava lá. Nem sempre é erro: às vezes é a única forma de dizer em português. Mas quando o grego está no **optativo** ({ἐάν τις ἔλθῃ}, {ὄφρα}, {ὡς}) e o português joga fora a condição, a tradução perdeu.\n\n## A mesóclise em português bíblico\n\n{dir-me-ás} é o exemplo extremo: a forma **direto** do futuro do indicativo, com o pronome **entre** {dir} e {ás}. Não é erro nem dialeto: é o português arcaizante preservado nas traduções mais antigas e em formas como {fazei-me} e {dar-te-ei}.\n\nEm português moderno a mesóclise saiu de uso, mas continua aparecendo em texto **literário, bíblico ou juramentado**. Quem lê Gálatas ou Hebreus em tradução antiga encontra essa forma com frequência, e ela não deve ser \"corrigida\" para {dir-me-ás} → {dirás-me} sem saber o que está fazendo.\n\n## O que ler\n\nSempre que ver um verbo no futuro, pergunte: é **previsão** ou **hipótese**? Se for hipótese, é condicional ou futuro do subjuntivo? E se o texto for antigo, há forma de **mesóclise**? A pessoa, o número e o pronome são conteúdo, não forma — e é por isso que o grego quase sempre precisa ser lido, não traduzido.",
+        "en": "## A future that is not about the future\n\nThe future indicative is built on the infinitive plus the endings: {falar} + {+ei} = {falarei}. The conditional uses the same material: {falaria}. The difference in shape is minimal — one ending — and the difference in meaning is enormous: the **future** expresses prediction or commitment ({virá}, {não falta}), while the **conditional** expresses hypothesis, possibility or courtesy ({seria}, {poderia}, {gostaria}).\n\nAnd here is the trap: **future shape does not guarantee future sense**. Portuguese is generous with the future for categorical statements: in prophecy, the future can be immediate (\"He who comes is at the door\") or it can be certainty (\"the Son of Man will come\"). Greek does the same (μέλλω), and it is the mixture of tense with certainty that produces both readings.\n\n## Conditional and hypothesis: what Greek does not have\n\nThe Portuguese conditional is richer than Greek for hypotheses, because Greek uses the subjunctive (ἐάν τις ἔλθῃ) and Portuguese has to build a chain: {se alguém vier, ...}, {se viesse, ...}. The three Portuguese tenses — {se vier} (future subjunctive), {se viesse} (imperfect), {se tivesse vindo} (pluperfect) — cover what Greek handles with a single form.\n\nThat is why translating a Greek subjunctive so often has to add a \"se\" that was not there. It is not always an error: sometimes it is the only way to say it in Portuguese. But when the Greek is in the **optative** (ἐάν τις ἔλθῃ, ὄφρα, ὡς) and Portuguese throws the condition away, the translation has lost something.\n\n## Mesoclysis in biblical Portuguese\n\n{dir-me-ás} is the extreme case: the plain form of the future indicative, with the pronoun **between** {dir} and {ás}. It is not a mistake and not a dialect: it is archaic Portuguese preserved in older translations and in forms such as {fazei-me} and {dar-te-ei}.\n\nMesoclysis went out of use in modern Portuguese but still shows up in **literary, biblical or sworn** text. Anyone reading Galatians or Hebrews in an old translation meets this form often, and it should not be \"corrected\" from {dir-me-ás} to {dirás-me} without knowing what you are doing.\n\n## Reading criterion\n\nWhenever you meet a future verb, ask: is it **prediction** or **hypothesis**? If hypothesis, is it conditional or future subjunctive? And if the text is old, is there a **mesoclitic** form? Person, number and pronoun are content, not shape — which is why Greek almost always has to be read, not merely translated.",
+        "es": "## Un futuro que no es futuro\n\nEl futuro de indicativo se forma con el infinitivo más las terminaciones: {falar} + {+ei} = {falarei}. El condicional usa el mismo material: {falaria}. La diferencia de forma es mínima —una terminación— y la de sentido es enorme: el **futuro** expresa predicción o compromiso ({virá}, {não falta}), mientras el **condicional** expresa hipótesis, posibilidad o cortesía ({seria}, {poderia}, {gostaria}).\n\nY aquí está la trampa: **la forma de futuro no garantiza sentido temporal**. El portugués es generoso con el futuro para afirmaciones categóricas: en las profecías, el futuro puede ser inmediato («El que viene está a la puerta») o puede ser certeza («el Hijo del Hombre vendrá»). El griego hace lo mismo (μέλλω), y es la mezcla de tiempo con certeza la que produce las dos lecturas.\n\n## Condicional e hipótesis: lo que el griego no tiene\n\nEl condicional portugués es más rico que el griego para las hipótesis, porque el griego usa el subjuntivo (ἐάν τις ἔλθῃ) y el portugués tiene que encadenar: {se alguém vier, ...}, {se viesse, ...}. Los tres tiempos portugueses —{se vier} (futuro de subjuntivo), {se viesse} (imperfecto), {se tivesse vindo} (pluscuamperfecto)— cubren lo que el griego resuelve con una sola forma.\n\nPor eso traducir un subjuntivo griego tan a menudo obliga a añadir un «se» que no estaba. No siempre es error: a veces es la única manera de decirlo en portugués. Pero cuando el griego está en **optativo** (ἐάν τις ἔλθῃ, ὄφρα, ὡς) y el portugués tira la condición, la traducción ha perdido algo.\n\n## La mesóclisis en el portugués bíblico\n\n{dir-me-ás} es el caso extremo: la forma **directa** del futuro de indicativo, con el pronombre **entre** {dir} y {ás}. No es un error ni un dialecto: es el portugués arcaizante conservado en traducciones antiguas y en formas como {fazei-me} y {dar-te-ei}.\n\nLa mesóclisis salió del uso en el portugués moderno, pero sigue apareciendo en texto **literario, bíblico o juramentado**. Quien lea Gálatas o Hebreos en una traducción antigua encuentra esta forma a menudo, y no conviene «corregirla» de {dir-me-ás} a {dirás-me} sin saber lo que se hace.\n\n## Criterio de lectura\n\nCada vez que veas un verbo en futuro, pregunta: ¿es **predicción** o **hipótesis**? Si es hipótesis, ¿es condicional o futuro de subjuntivo? Y si el texto es antiguo, ¿hay forma **mesoclítica**? Persona, número y pronombre son contenido, no forma, y por eso el griego casi siempre hay que leerlo, no solo traducirlo."
+      },
+      "vocab": [
+        {
+          "form": "falarei",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "falarei",
+          "en": "I will speak",
+          "es": "hablaré"
+        },
+        {
+          "form": "virá",
+          "lemma": "vir",
+          "lang": "pt",
+          "pt": "virá",
+          "en": "he will come",
+          "es": "vendrá"
+        },
+        {
+          "form": "falaria",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "falaria",
+          "en": "I would speak",
+          "es": "hablaría"
+        },
+        {
+          "form": "seria",
+          "lemma": "ser",
+          "lang": "pt",
+          "pt": "seria",
+          "en": "would be",
+          "es": "sería"
+        },
+        {
+          "form": "direi",
+          "lemma": "dizer",
+          "lang": "pt",
+          "pt": "direi",
+          "en": "I will say",
+          "es": "diré"
+        },
+        {
+          "form": "farei",
+          "lemma": "fazer",
+          "lang": "pt",
+          "pt": "farei",
+          "en": "I will do",
+          "es": "haré"
+        },
+        {
+          "form": "dir-me-ás",
+          "lemma": "dizer",
+          "lang": "pt",
+          "pt": "dir-me-ás",
+          "en": "you will tell me",
+          "es": "me dirás"
+        },
+        {
+          "form": "louvar-te-ei",
+          "lemma": "louvar",
+          "lang": "pt",
+          "pt": "louvar-te-ei",
+          "en": "I will praise you",
+          "es": "te alabaré"
+        },
+        {
+          "form": "verá",
+          "lemma": "ver",
+          "lang": "pt",
+          "pt": "verá",
+          "en": "will see",
+          "es": "verá"
+        },
+        {
+          "form": "poderia",
+          "lemma": "poder",
+          "lang": "pt",
+          "pt": "poderia (condicional)",
+          "en": "could (conditional)",
+          "es": "podría (condicional)"
+        },
+        {
+          "form": "louvar",
+          "lemma": "louvar",
+          "lang": "pt",
+          "pt": "louvar",
+          "en": "to praise",
+          "es": "alabar"
+        },
+        {
+          "form": "olho",
+          "lemma": "olho",
+          "lang": "pt",
+          "pt": "olho (olhar; também olho)",
+          "en": "eye; I look",
+          "es": "ojo (mirar; también ojo)"
+        },
+        {
+          "form": "pronome",
+          "lemma": "pronome",
+          "lang": "pt",
+          "pt": "pronome",
+          "en": "pronoun",
+          "es": "pronombre"
+        },
+        {
+          "form": "hipótese",
+          "lemma": "hipótese",
+          "lang": "pt",
+          "pt": "hipótese",
+          "en": "hypothesis",
+          "es": "hipótesis"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual forma é condicional?",
+          "en": "Which form is conditional?",
+          "es": "¿Qué forma es condicional?"
+        },
+        "options": [
+          {
+            "pt": "falarei",
+            "en": "I will speak",
+            "es": "hablaré"
+          },
+          {
+            "pt": "falaria",
+            "en": "I would speak",
+            "es": "hablaría"
+          },
+          {
+            "pt": "falava",
+            "en": "I spoke",
+            "es": "hablaba"
+          },
+          {
+            "pt": "falou",
+            "en": "he spoke",
+            "es": "habló"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: “todo olho o ___”.",
+            "en": "Complete: “every eye will ___ him”.",
+            "es": "Completa: «todo ojo lo ___»."
+          },
+          "answer": "verá",
+          "hint": {
+            "pt": "Futuro de ver.",
+            "en": "Future of ver.",
+            "es": "Futuro de ver."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Onde aparece a mesóclise?",
+            "en": "Where does mesoclisis occur?",
+            "es": "¿Dónde aparece la mesóclisis?"
+          },
+          "options": [
+            {
+              "pt": "dir-me-ás",
+              "en": "you will tell me",
+              "es": "me dirás"
+            },
+            {
+              "pt": "me dirás agora",
+              "en": "tell me now",
+              "es": "dime ahora"
+            },
+            {
+              "pt": "que me dirás",
+              "en": "that you will tell me",
+              "es": "que me dirás"
+            },
+            {
+              "pt": "me será dito",
+              "en": "it will be said to me",
+              "es": "me será dicho"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue tempo e função.",
+            "en": "Match tense and function.",
+            "es": "Relaciona tiempo y función."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "futuro",
+                "en": "future",
+                "es": "futuro"
+              },
+              "b": {
+                "pt": "previsão",
+                "en": "prediction",
+                "es": "predicción"
+              }
+            },
+            {
+              "a": {
+                "pt": "condicional",
+                "en": "conditional",
+                "es": "condicional"
+              },
+              "b": {
+                "pt": "hipótese",
+                "en": "hypothesis",
+                "es": "hipótesis"
+              }
+            },
+            {
+              "a": {
+                "pt": "mesóclise",
+                "en": "mesoclisis",
+                "es": "mesóclisis"
+              },
+              "b": {
+                "pt": "pronome no verbo",
+                "en": "pronoun inside the verb",
+                "es": "pronombre dentro del verbo"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "A mesóclise é típica do português antigo e literary: {dar-te-ei}, {dir-nos}.",
+            "en": "Mesoclisis is typical of older and literary Portuguese: {dar-te-ei}, {dir-nos}.",
+            "es": "La mesóclisis es típica del portugués antiguo y literario: {dar-te-ei}, {dir-nos}."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Registro",
+            "en": "Register",
+            "es": "Registro"
+          },
+          "text": {
+            "pt": "Formas como {louvar-te-ei} belong a um registro elevado; o português atual prefere “eu te louvarei”.",
+            "en": "Forms like {louvar-te-ei} belong to elevated register; modern Portuguese prefers “eu te louvarei”.",
+            "es": "Formas como {louvar-te-ei} pertenecen a un registro elevado; el portugués actual prefiere «eu te louvarei»."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "E o Verbo se fez carne.",
+          "gloss": {
+            "pt": "Perfeto narrativo, não futuro.",
+            "en": "Narrative perfect, not future.",
+            "es": "Perfecto narrativo, no futuro."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Futuro e condicional",
+            "en": "Future and conditional",
+            "es": "Futuro y condicional"
+          },
+          "head": [
+            "Pessoa",
+            "Futuro",
+            "Condicional"
+          ],
+          "rows": [
+            [
+              "eu",
+              "falarei",
+              "falaria"
+            ],
+            [
+              "tu",
+              "falarás",
+              "falarias"
+            ],
+            [
+              "ele",
+              "falará",
+              "falaria"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": {
+        "pt": "Imperativo",
+        "en": "Imperative",
+        "es": "Imperativo"
+      },
+      "subtitle": {
+        "pt": "fala, fale, falai",
+        "en": "speak, speak, speak",
+        "es": "habla, hable, hablad"
+      },
+      "section": {
+        "pt": "Modos e tempos",
+        "en": "Moods and tenses",
+        "es": "Modos y tempos"
+      },
+      "body": {
+        "pt": "## Três registros, três formas\n\nO imperativo português mudou de forma três vezes na história, e o português bíblico ficou com as três. O **tu** afirmativo usa o presente: {fala}, {crê}, {parte}. O **você**, mais formal, usa o presente do subjuntivo: {fale}, {creia}, {parta}. E o plural pode usar {falai} (Portugal antigo), {crede} (Portugal atual) ou {falem} (Brasil), conforme o registro.\n\nRepare no que muda e no que não muda: o verbo vai do presente ao subjuntivo, mas o pronome some. Ninguém diz «fala tu» nem «fale você» na ordem normal: o pronome é clítico e vai para antes do verbo — **fala-me**, **fale-me**. O italiano tem a mesma estrutura (lição 10), e por isso a tradução do grego e do hebraico para português costuma errar justamente aqui.\n\n## O negativo não é \"não\" mais nada\n\nO negativo normalmente usa o **subjuntivo**: {não fales}, {não venha}, {não vá}. E na fala brasileira, um **não** forte: {não fale agora}, {nem fala}. O ponto é que {não falas} é raro e arcaizante; o registro corrente é {não fales}, e é essa forma que a Bíblia preserva.\n\nDois imperativos são **irregulares** e precisam ser aprendidos: o {tem} de *ter, tomar* e o {vem} de *vir*. Não há regra que os produza — {tem} vem do latim *tene*, {vem} de *veni* — e o português Bible mantém essa irregularidade como sinal de arcaísmo.\n\n## O português bíblico guarda as formas antigas\n\n{ide} em Marcos 16.15 e {amai-vos} em João 13.34 são as duas marcas mais visíveis. {Ide} é a forma antiga de \"vai\" no plural, hoje \"vai-vos\" ou \"idai\"; {amai-vos} mantém o pronome **reflexivo** explícito, que o português moderno perdeu.\n\nEsses dois exemplos não são arbitrariedades. O grego de Marcos 16.15 (πορεύεσθε) e o grego de João 13.34 (ἀγαπᾶτε ἀλλήλους) pedem explicitamente a relação e a direção, e o português antigo {amai-vos} diz exatamente isso: «amem uns aos outros». Traduzir por «amem» perde o **-vos** e com ele a mutualidade.\n\n## O que ler\n\nSe o verbo estiver no imperativo, pergunte três coisas: quem é o tu (tu, você, vocês)? O verbo é afirmativo ou negativo? E há pronome explícito? Um {amai-vos} tem os três: os três pronomes implícitos, o verbo afirmativo e o -vos explícito. É por aí que a leitura bíblica ganha sentido.",
+        "en": "## Three registers, three forms\n\nThe Portuguese imperative has changed shape three times in history, and biblical Portuguese kept all three. The affirmative **tu** uses the present: {fala}, {crê}, {parte}. **Você**, more formal, uses the present subjunctive: {fale}, {creia}, {parta}. And the plural may use {falai} (older Portugal), {crede} (modern Portugal) or {falem} (Brazil), depending on register.\n\nNote what changes and what does not: the verb moves from present to subjunctive, but the pronoun disappears. Nobody says \"fala tu\" nor \"fale você\" in the normal order — the pronoun is clitic and moves in front of the verb: **fala-me**, **fale-me**. Italian has the same structure (lesson 10), which is why translating Greek and Hebrew into Portuguese so often slips precisely here.\n\n## The negative is not just \"not\"\n\nThe negative normally uses the **subjunctive**: {não fales}, {não venha}, {não vá}. And in Brazilian speech a strong **não**: {não fale agora}, {nem fala}. The point is that {não falas} is rare and archaic; the current register is {não fales}, and that is the form the Bible preserves.\n\nTwo imperatives are **irregular** and have to be learned: the {tem} of *ter, tomar* (\"have, take\") and the {vem} of *vir*. No rule produces them — {tem} comes from Latin *tene*, {vem} from *veni* — and biblical Portuguese keeps the irregularity as a marker of archaism.\n\n## Biblical Portuguese preserves the old shapes\n\n{ide} in Mark 16:15 and {amai-vos} in John 13:34 are the two most visible marks. {Ide} is the old plural of \"go\", today \"vai-vos\" or \"idai\"; {amai-vos} keeps the **reflexive** pronoun explicit, which modern Portuguese has lost.\n\nThese two are not arbitrary. Greek in Mark 16:15 (πορεύεσθε) and Greek in John 13:34 (ἀγαπᾶτε ἀλλήλους) explicitly ask for the relation and the direction, and old Portuguese {amai-vos} says exactly that: \"love one another\". Rendering it as \"love each other\" without the **-vos** loses the mutuality.\n\n## Reading criterion\n\nIf the verb is in the imperative, ask three things: who is the *tu* (tu, você, vocês)? Is the verb affirmative or negative? And is there an explicit pronoun? An {amai-vos} has all three: the three pronouns implied, the verb affirmative, the -vos explicit. Biblical reading gains its sense right there.",
+        "es": "## Tres registros, tres formas\n\nEl imperativo portugués ha cambiado de forma tres veces en la historia, y el portugués bíblico conservó las tres. El **tú** afirmativo usa el presente: {fala}, {crê}, {parte}. El **usted**, más formal, usa el presente de subjuntivo: {fale}, {creia}, {parta}. Y el plural puede usar {falai} (portugués antiguo), {crede} (portugués actual) o {falem} (Brasil), según el registro.\n\nFíjate en qué cambia y qué no: el verbo pasa del presente al subjuntivo, pero el pronombre desaparece. Nadie dice «fala tu» ni «fale usted» en el orden normal: el pronombre es enclítico y va antes del verbo — **fala-me**, **fale-me**. El italiano tiene la misma estructura (lección 10), y por eso traducir del griego y del hebreo al portugués falla precisamente aquí.\n\n## El negativo no es solo «no»\n\nEl negativo suele usar el **subjuntivo**: {não fales}, {não venha}, {não vá}. Y en el habla cotidiana, un **no** fuerte: {não fale agora}, {nem fala}. El punto es que {não falas} es raro y arcaizante; el registro corriente es {não fales}, y esa es la forma que conserva la Biblia.\n\nDos imperativos son **irregulares** y hay que aprenderlos: el {tem} de *ter, tomar* y el {vem} de *vir*. Ninguna regla los produce — {tem} viene del latín *tene*, {vem} de *veni* —, y el portugués bíblico mantiene la irregularidad como señal de arcaísmo.\n\n## El portugués bíblico guarda las formas antiguas\n\n{ide} en Mc 16:15 y {amai-vos} en Jn 13:34 son las dos marcas más visibles. {Ide} es la forma antigua de «ir» en plural, hoy «vai-vos» o «idai»; {amai-vos} mantiene el pronombre **reflexivo** explícito, que el portugués moderno ha perdido.\n\nNo son dos ejemplos arbitrarios. El griego de Mc 16:15 (πορεύεσθε) y el de Jn 13:34 (ἀγαπᾶτε ἀλλήλους) piden explícitamente la relación y la dirección, y el portugués antiguo {amai-vos} lo dice exactamente: «amaos los unos a los otros». Traducir por «amaos» pierde el **-vos** y con él la mutualidad.\n\n## Criterio de lectura\n\nSi el verbo está en imperativo, pregúntate tres cosas: ¿quién es el tú (tú, usted, ustedes)? ¿El verbo es afirmativo o negativo? ¿Hay pronombre explícito? Un {amai-vos} tiene las tres: los tres pronombres implícitos, el verbo afirmativo y el -vos explícito. Por ahí se gana el sentido de la lectura bíblica."
+      },
+      "vocab": [
+        {
+          "form": "fala",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "fala!",
+          "en": "speak!",
+          "es": "¡habla!"
+        },
+        {
+          "form": "fale",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "fale!",
+          "en": "speak!",
+          "es": "¡hable!"
+        },
+        {
+          "form": "falai",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "falai!",
+          "en": "speak!",
+          "es": "¡hablad!"
+        },
+        {
+          "form": "não fales",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "não fales!",
+          "en": "do not speak!",
+          "es": "¡no hables!"
+        },
+        {
+          "form": "amai-vos",
+          "lemma": "amar",
+          "lang": "pt",
+          "pt": "amai-vos!",
+          "en": "love one another!",
+          "es": "¡amaos!"
+        },
+        {
+          "form": "vinde",
+          "lemma": "vir",
+          "lang": "pt",
+          "pt": "vinde!",
+          "en": "come!",
+          "es": "¡venid!"
+        },
+        {
+          "form": "ide",
+          "lemma": "ir",
+          "lang": "pt",
+          "pt": "ide!",
+          "en": "go!",
+          "es": "¡id!"
+        },
+        {
+          "form": "vem",
+          "lemma": "vir",
+          "lang": "pt",
+          "pt": "vem!",
+          "en": "come!",
+          "es": "¡ven!"
+        },
+        {
+          "form": "dize",
+          "lemma": "dizer",
+          "lang": "pt",
+          "pt": "dize!",
+          "en": "say!",
+          "es": "¡di!"
+        },
+        {
+          "form": "crede",
+          "lemma": "crer",
+          "lang": "pt",
+          "pt": "crede!",
+          "en": "believe! (pl.)",
+          "es": "¡creed!"
+        },
+        {
+          "form": "falem",
+          "lemma": "falar",
+          "lang": "pt",
+          "pt": "falem!",
+          "en": "let them speak!",
+          "es": "¡hablen!"
+        },
+        {
+          "form": "tem",
+          "lemma": "ter",
+          "lang": "pt",
+          "pt": "tem! (imperativo irregular)",
+          "en": "have!; take!",
+          "es": "¡ten! (imperativo irregular)"
+        },
+        {
+          "form": "você",
+          "lemma": "você",
+          "lang": "pt",
+          "pt": "você (tratamento formal)",
+          "en": "you (formal)",
+          "es": "usted (tratamiento formal)"
+        },
+        {
+          "form": "mundo",
+          "lemma": "mundo",
+          "lang": "pt",
+          "pt": "mundo (em “Ide por todo o mundo”)",
+          "en": "world (in “Go into all the world”)",
+          "es": "mundo (en «Id por todo el mundo»)"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Como se diz “fala!” no plural brasileiro?",
+          "en": "How do you say “speak!” in Brazilian Portuguese plural?",
+          "es": "¿Cómo se dice «¡habla!» en plural en portugués?"
+        },
+        "options": [
+          {
+            "pt": "falas",
+            "en": "you speak",
+            "es": "hablas"
+          },
+          {
+            "pt": "falai",
+            "en": "speak!",
+            "es": "¡hablad!"
+          },
+          {
+            "pt": "fale",
+            "en": "speak!",
+            "es": "¡hable!"
+          },
+          {
+            "pt": "falaram",
+            "en": "they spoke",
+            "es": "hablaron"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: “não ___ (falar)”.",
+            "en": "Complete: “do not ___ (speak)”.",
+            "es": "Completa: «no ___ (hablar)»."
+          },
+          "answer": "fales",
+          "hint": {
+            "pt": "Imperativo negativo usa o subjuntivo.",
+            "en": "Negative imperative uses the subjunctive.",
+            "es": "El imperativo negativo usa el subjuntivo."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em João 13.34, “amai-vos” significa:",
+            "en": "In John 13:34, “amai-vos” means:",
+            "es": "En Juan 13:34, «amaos» significa:"
+          },
+          "options": [
+            {
+              "pt": "amem-se",
+              "en": "love one another",
+              "es": "amaos"
+            },
+            {
+              "pt": "amar-vos",
+              "en": "to love you",
+              "es": "amaos"
+            },
+            {
+              "pt": "amem-se",
+              "en": "love one another",
+              "es": "amaos"
+            },
+            {
+              "pt": "me ama",
+              "en": "love me",
+              "es": "ámame"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue pessoa e forma.",
+            "en": "Match person and form.",
+            "es": "Relaciona persona y forma."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "tu",
+                "en": "you",
+                "es": "tú"
+              },
+              "b": {
+                "pt": "fala",
+                "en": "speak!",
+                "es": "¡habla!"
+              }
+            },
+            {
+              "a": {
+                "pt": "você",
+                "en": "you (formal)",
+                "es": "usted"
+              },
+              "b": {
+                "pt": "fale",
+                "en": "speak!",
+                "es": "¡hable!"
+              }
+            },
+            {
+              "a": {
+                "pt": "plural",
+                "en": "plural",
+                "es": "plural"
+              },
+              "b": {
+                "pt": "falai",
+                "en": "speak!",
+                "es": "¡hablad!"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "O imperativo negativo com você e plural mantém a forma do subjuntivo: {não fale}, {não falem}.",
+            "en": "The negative imperative with você and plural keeps the subjunctive: {não fale}, {não falem}.",
+            "es": "El imperativo negativo con usted y plural mantiene el subjuntivo: {não fale}, {não falem}."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Bíblico × cotidiano",
+            "en": "Biblical × everyday",
+            "es": "Bíblico × cotidiano"
+          },
+          "text": {
+            "pt": "{Ide por todo o mundo} é uma formulação bíblicaark; o português atual diz “vão e façam discípulos”.",
+            "en": "{Ide por todo o mundo} is a biblical idiom; modern Portuguese says “vão e façam discípulos”.",
+            "es": "{Idos por todo el mundo} es un idiotismo bíblico; el portugués actual dice «vayan y hagan discípulos»."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ide por todo o mundo.",
+          "gloss": {
+            "pt": "Ordem bíblica com pronome omitido.",
+            "en": "Biblical command with an omitted subject.",
+            "es": "Orden bíblica con sujeto omitido."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Imperativo",
+            "en": "Imperative",
+            "es": "Imperativo"
+          },
+          "head": [
+            "Pessoa",
+            "Afirmativo",
+            "Negativo"
+          ],
+          "rows": [
+            [
+              "tu",
+              "fala",
+              "não fales"
+            ],
+            [
+              "você",
+              "fale",
+              "não fale"
+            ],
+            [
+              "plural",
+              "falai",
+              "não falais"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": {
+        "pt": "Pronomes e colocação",
+        "en": "Pronouns and placement",
+        "es": "Pronombres y colocación"
+      },
+      "subtitle": {
+        "pt": "me, te, o, lhe",
+        "en": "me, te, o, lhe",
+        "es": "me, te, o, lhe"
+      },
+      "section": {
+        "pt": "Pronomes",
+        "en": "Pronouns",
+        "es": "Pronombres"
+      },
+      "body": {
+        "pt": "## Pronome átono: a regra e a exceção\n\nOs pronomes átonos indicam objeto, direção ou complemento: **me, te, o/a, nos, vos, lhe, se**. No português brasileiro, normalmente vêm **antes** do verbo: {me dá}, {não me viu}, {me contou}. No português europeu, podem vir **depois**: {dá-me}, {viu-me}.\n\nA ordem se chama **próclise** (antes) e **enclise** (depois), e ela não é aleatória: em frase com negativo, com interrogação ou em certas subordinadas, a próclise é praticamente obrigatória. {Não me viu} e não {não viu-me}; {Quem me viu?} e não {Quem viu-me?}. Ou seja, nos contextos que mais importam num texto bíblico — pergunta e negação — a posição está decidida.\n\n## O que muda depois de -r, -s, -z\n\nO sistema tem uma exceção por forma verbal: depois de verbo terminado em **-r, -s, -z**, o {o/a} vira {lo/la} e pode ir para o fim: {amá-lo}, {vê-lo}, {fazê-lo}. É por isso que a forma {lo/la} é a típica do português com verbo transitivo direto terminado em -r.\n\nA regra tem exceções que valem a pena memorizar: o infinitivo terminado em -r mantém o {o} — {para amá-lo} — e o gerúndio também. O que não muda é o substantivo: {dar o livro} e {dar-lhe o livro} são coisas diferentes, e a segunda tem os dois pronomes.\n\n## lhe: indireto, e não substituto\n\n**lhe** é pronome **indireto**: {Deus lhe deu} significa \"Deus deu a ele\". Ele **não** substitui o objeto direto, e é por isso que {lhe dar o livro} está errado — o correto é {dar-lhe o livro}, com o objeto direto {o livro} explícito.\n\nEm português antigo e no bíblico, {lhe} pode aparecer também com sentido de **para** e **de**: {lhe peço}, {retira-lhe o coração}. O hebraico usa sufixo de dativo (**-lô**) e de genitivo, e é a esse recurso que essas formas correspondem — como o dativo de pessoa do italiano (lição 11). O plural de {lhe} é **lhes**: {Deus lhes deu} «Deus deu a eles».\n\n## A mesóclise existe, é rara e é bíblica\n\n{dir-me-ás} é **mesóclise**: o pronome aparece **entre** dois elementos do verbo ({dir} + {me} + {ás}). É a forma mais antiga e mais literária, e aparece na Bíblia em português arcaizante e em traduções antigas. Ninguém fala assim; todo mundo entende quando aparece.\n\n## O que ler\n\nEm qualquer pronome, pergunte três coisas: é **átono** (me, te, se) ou **tônico** (eu, tu, ele)? É **direto** ({o livro}) ou **indireto** ({a ele})? E está **antes** (próclise) ou **depois** (enclise)? Se você responder as três, o pronome está resolvido. O resto é convenção de estilo, e a forma de traduzir é o que o contexto obriga.",
+        "en": "## Clitic pronouns: the rule and the exception\n\nThe clitic pronouns mark object, direction or complement: **me, te, o/a, nos, vos, lhe, se**. In Brazilian Portuguese they normally come **before** the verb: {me dá}, {não me viu}, {me contou}. In European Portuguese they may come **after**: {dá-me}, {viu-me}.\n\nThe two positions are called **proclisis** (before) and **enclisis** (after), and the choice is not random: in a sentence with a negative, with a question, or in certain subordinate clauses, proclisis is practically obligatory. {Não me viu} and not {não viu-me}; {Quem me viu?} and not {Quem viu-me?}. In other words, in the contexts that matter most in a biblical text — question and negation — the position is already decided.\n\n## What changes after -r, -s, -z\n\nThe system has one exception per verb form: after a verb ending in **-r, -s, -z**, the {o/a} becomes {lo/la} and may move to the end: {amá-lo}, {vê-lo}, {fazê-lo}. That is why {lo/la} is the typical Portuguese form with a direct transitive verb ending in -r.\n\nThe rule has exceptions worth memorising: the infinitive ending in -r keeps the {o} — {para amá-lo} — and so does the gerund. What does not change is the noun: {dar o livro} and {dar-lhe o livro} are different things, and the second carries both pronouns.\n\n## lhe: indirect, and no substitute\n\n**lhe** is the **indirect** pronoun: {Deus lhe deu} means \"God gave to him\". It does **not** replace the direct object, which is why {lhe dar o livro} is wrong — the correct form is {dar-lhe o livro}, with the direct object {o livro} explicit.\n\nIn older and biblical Portuguese, {lhe} can also carry the sense of **to** and **from**: {lhe peço}, {retira-lhe o coração}. Hebrew uses a dative suffix (**-lô**) and a genitive, and these forms correspond to that resource — like the person dative of Italian (lesson 11). The plural of {lhe} is **lhes**: {Deus lhes deu} \"God gave to them\".\n\n## Mesoclysis exists, it is rare, and it is biblical\n\n{dir-me-ás} is **mesoclysis**: the pronoun appears **between** two parts of the verb ({dir} + {me} + {ás}). It is the oldest and most literary form, and it shows up in the Bible in archaic Portuguese and in older translations. Nobody speaks that way; everybody understands it when they see it.\n\n## Reading criterion\n\nWith any pronoun, ask three questions: is it **clitic** (me, te, se) or **full** (eu, tu, ele)? Is it **direct** ({o livro}) or **indirect** ({a ele})? And is it **before** (proclisis) or **after** (enclisis)? If you can answer all three, the pronoun is settled. The rest is stylistic convention, and context decides.",
+        "es": "## Pronombres átonos: la regla y la excepción\n\nLos pronombres átonos indican objeto, dirección o complemento: **me, te, o/a, nos, vos, lhe, se**. En el portugués Brazilian normalmente van **antes** del verbo: {me dá}, {não me viu}, {me contou}. En el portugués europeo pueden ir **después**: {dá-me}, {viu-me}.\n\nLas posiciones se llaman **próclisis** (antes) y **enclisis** (después), y no son al azar: en frase con negativo, con interrogación o en ciertas subordinadas, la próclisis es prácticamente obligatoria. {Não me viu} y no {não viu-me}; {Quem me viu?} y no {Quem viu-me?}. Es decir, en los contextos que más importan en un texto bíblico —pregunta y negación— la posición ya está decidida.\n\n## Qué cambia después de -r, -s, -z\n\nEl sistema tiene una excepción por forma verbal: tras un verbo terminado en **-r, -s, -z**, el {o/a} se vuelve {lo/la} y puede ir al final: {amá-lo}, {vê-lo}, {fazê-lo}. Por eso {lo/la} es la forma típica del portugués con verbo transitivo directo terminado en -r.\n\nLa regla tiene excepciones que vale la pena memorizar: el infinitivo terminado en -r mantiene el {o} —{para amá-lo}— y el gerundio también. Lo que no cambia es el sustantivo: {dar o livro} y {dar-lhe o livro} son cosas distintas, y la segunda lleva los dos pronombres.\n\n## lhe: indirecto, y no sustituto\n\n**lhe** es pronombre **indirecto**: {Deus lhe deu} significa «Dios le dio a él». **No** sustituye al objeto directo, y por eso {lhe dar o livro} está mal: lo correcto es {dar-lhe o livro}, con el objeto directo {o livro} explícito.\n\nEn portugués antiguo y en el bíblico, {lhe} puede llevar también el sentido de **a** y **de**: {lhe peço}, {retira-lhe o coração}. El hebreo usa sufijo de dativo (**-lô**) y de genitivo, y es a ese recurso que corresponden estas formas, como el dativo de persona del italiano (lección 11). El plural de {lhe} es **lhes**: {Deus lhes deu} «Dios les dio a ellos».\n\n## La mesóclisis existe, es rara y es bíblica\n\n{dir-me-ás} es **mesóclisis**: el pronombre aparece **entre** dos elementos del verbo ({dir} + {me} + {ás}). Es la forma más antigua y más literaria, y aparece en la Biblia en portugués arcaizante y en traducciones antiguas. Nadie habla así; todo el mundo lo entiende cuando lo ve.\n\n## Criterio de lectura\n\nCon cualquier pronombre, pregúntate tres cosas: ¿es **átono** (me, te, se) o **tónico** (eu, tu, ele)? ¿Es **directo** ({o livro}) o **indirecto** ({a ele})? ¿Está **antes** (próclisis) o **después** (enclisis)? Si respondes las tres, el pronombre está resuelto. Lo demás es convención de estilo, y el contexto decide."
+      },
+      "vocab": [
+        {
+          "form": "me",
+          "lemma": "me",
+          "lang": "pt",
+          "pt": "me",
+          "en": "me",
+          "es": "me"
+        },
+        {
+          "form": "te",
+          "lemma": "te",
+          "lang": "pt",
+          "pt": "te",
+          "en": "you",
+          "es": "te"
+        },
+        {
+          "form": "o",
+          "lemma": "o",
+          "lang": "pt",
+          "pt": "o",
+          "en": "him; it",
+          "es": "lo"
+        },
+        {
+          "form": "lhe",
+          "lemma": "lhe",
+          "lang": "pt",
+          "pt": "a ele/ela",
+          "en": "to him/her",
+          "es": "le"
+        },
+        {
+          "form": "nos",
+          "lemma": "nos",
+          "lang": "pt",
+          "pt": "a nós",
+          "en": "to us",
+          "es": "nos"
+        },
+        {
+          "form": "amá-lo",
+          "lemma": "amar",
+          "lang": "pt",
+          "pt": "amá-lo",
+          "en": "to love him",
+          "es": "amarlo"
+        },
+        {
+          "form": "fi-lo",
+          "lemma": "fazer",
+          "lang": "pt",
+          "pt": "fi-lo",
+          "en": "to do it",
+          "es": "hacerlo"
+        },
+        {
+          "form": "dizendo-lhe",
+          "lemma": "dizer",
+          "lang": "pt",
+          "pt": "dizendo-lhe",
+          "en": "telling him",
+          "es": "diciéndole"
+        },
+        {
+          "form": "dir-me-ás",
+          "lemma": "dizer",
+          "lang": "pt",
+          "pt": "dir-me-ás",
+          "en": "you will tell me",
+          "es": "me dirás"
+        },
+        {
+          "form": "vê-lo",
+          "lemma": "ver",
+          "lang": "pt",
+          "pt": "vê-lo",
+          "en": "to see him",
+          "es": "verlo"
+        },
+        {
+          "form": "dá-me",
+          "lemma": "dar",
+          "lang": "pt",
+          "pt": "dá-me (enclítico)",
+          "en": "give me (enclitic)",
+          "es": "dame (enclítico)"
+        },
+        {
+          "form": "lo",
+          "lemma": "o",
+          "lang": "pt",
+          "pt": "lo (objeto masculino)",
+          "en": "him, it (masculine object)",
+          "es": "lo (objeto masculino)"
+        },
+        {
+          "form": "consigo",
+          "lemma": "consigo",
+          "lang": "pt",
+          "pt": "consigo (reflexivo)",
+          "en": "with oneself (reflexive)",
+          "es": "consigo (reflexivo)"
+        },
+        {
+          "form": "Deus",
+          "lemma": "Deus",
+          "lang": "pt",
+          "pt": "Deus",
+          "en": "God",
+          "es": "Dios"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Complete: “amar + o” = ____.",
+          "en": "Complete: “amar + o” = ____.",
+          "es": "Completa: «amar + o» = ____."
+        },
+        "answer": "amá-lo",
+        "hint": {
+          "pt": "O vira lo depois de r.",
+          "en": "O becomes lo after r.",
+          "es": "O se convierte en lo tras r."
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "“Deus lhe deu” tem lhe como:",
+            "en": "In “God gave him”, lhe is:",
+            "es": "En «Dios le dio», le es:"
+          },
+          "options": [
+            {
+              "pt": "objeto direto",
+              "en": "direct object",
+              "es": "objeto directo"
+            },
+            {
+              "pt": "complemento indireto",
+              "en": "indirect object",
+              "es": "complemento indirecto"
+            },
+            {
+              "pt": "sujeito",
+              "en": "subject",
+              "es": "sujeto"
+            },
+            {
+              "pt": "adverbio",
+              "en": "adverb",
+              "es": "adverbio"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual é a forma brasileira mais comum?",
+            "en": "Which is the most common Brazilian form?",
+            "es": "¿Cuál es la forma brasileña más común?"
+          },
+          "options": [
+            {
+              "pt": "me dá",
+              "en": "give me",
+              "es": "dame"
+            },
+            {
+              "pt": "dá-me",
+              "en": "give me",
+              "es": "dame"
+            },
+            {
+              "pt": "dá-mim",
+              "en": "give me",
+              "es": "dame"
+            },
+            {
+              "pt": "me dar",
+              "en": "to give me",
+              "es": "darme"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue pronome e função.",
+            "en": "Match pronoun and function.",
+            "es": "Relaciona pronombre y función."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "me",
+                "en": "me",
+                "es": "me"
+              },
+              "b": {
+                "pt": "objeto direto",
+                "en": "direct object",
+                "es": "objeto directo"
+              }
+            },
+            {
+              "a": {
+                "pt": "lhe",
+                "en": "to him",
+                "es": "le"
+              },
+              "b": {
+                "pt": "indireto",
+                "en": "indirect",
+                "es": "indirecto"
+              }
+            },
+            {
+              "a": {
+                "pt": "consigo",
+                "en": "with oneself",
+                "es": "consigo"
+              },
+              "b": {
+                "pt": "reflexivo",
+                "en": "reflexive",
+                "es": "reflexivo"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "A próclise é obrigatória após sujeito expresso e em várias construções negativas.",
+            "en": "Proclisis is required after an expressed subject and in several negative constructions.",
+            "es": "La proclisis es obligatoria tras sujeto expreso y en varias construcciones negativas."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Dialeto e estilo",
+            "en": "Dialect and style",
+            "es": "Dialecto y estilo"
+          },
+          "text": {
+            "pt": "Não rotule {me dá} como “errado”: é o padrão brasileiro; {dá-me} é tradicional em Portugal e na escrita literária.",
+            "en": "Do not label {me dá} “wrong”: it is Brazilian standard; {dá-me} is traditional in Portugal and literary writing.",
+            "es": "No llames «error» a «me dá»: es el estándariculo brasileño; «dá-me» es tradicional en Portugal y en la escrita literaria."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Deus lhe deu a lei.",
+          "gloss": {
+            "pt": "Lhe = a ele/ela.",
+            "en": "Lhe = to him/her.",
+            "es": "Le = a él/ella."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Colocação",
+            "en": "Placement",
+            "es": "Colocación"
+          },
+          "head": [
+            "Contexto",
+            "Brasil",
+            "Portugal/literário"
+          ],
+          "rows": [
+            [
+              "afirmativo",
+              "me dá",
+              "dá-me"
+            ],
+            [
+              "negativo",
+              "não me viu",
+              "não me viu"
+            ],
+            [
+              "futuro",
+              "dir-me-á",
+              "dar-me-ás"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": {
+        "pt": "Voz passiva",
+        "en": "Passive voice",
+        "es": "Voz pasiva"
+      },
+      "subtitle": {
+        "pt": "foi escrito, é amado, vendem-se casas",
+        "en": "was written, is loved, houses are sold",
+        "es": "fue escrito, es amado, se venden casas"
+      },
+      "section": {
+        "pt": "Voz do verbo",
+        "en": "Verb voice",
+        "es": "Voz verbal"
+      },
+      "body": {
+        "pt": "## A passiva que mostra o resultado\n\nA passiva analítica usa **ser** ou **estar** + particípio: {foi escrito}, {é amado}, {será salvo}. O particípio **concorda com o sujeito**: {a palavra foi escrita}, {os livros foram escritos}, {as casas foram vendidas}. E o agente, quando aparece, vem com **por**: {foi criado por Deus}, {foi buscado por Maria}.\n\nAqui está o ponto que quase todo mundo perde: **ser** e **estar** não são sinônimos aqui. **ser** + particípio marca **fato consumado** e resultado — {foi criado por Deus}, {a lei foi dada} — e é a forma da narrativa bíblica. **estar** + particípio marca **estado** no presente ou ação em curso: {está escrito}, {está ferido}, {estava sentado}. Traduzir «foi escrito» por «está escrito» troca um fato por um estado, e isso é uma diferença, não uma sinonímia.\n\nA passiva de **ser** ainda tem um tempo que a de **estar** não tem: o **passado** ({foi, foram}) e o **futuro** ({será, serão}). Por isso {será salvo} é frase bíblica comum, e {está salvo} apenas descreve um momento.\n\n## vendem-se casas: o se que é partícula\n\nA construção pronominal com **se** pode ser passiva: {vendem-se casas}, {aluga-se o quarto}. Repare que o verbo concorda com o sujeito ({casas}, plural), o que prova que não há um «se» de objeto: se houvesse objeto, o singular seria {vende-se uma casa}.\n\nNem todo {se} é passivo. {arrependeu-se} é **reflexivo**, porque o sujeito pratica e sofre a ação ao mesmo tempo: ele se arrepende, e o arrependimento é dele. O teste é simples — pergunte quem pratica a ação. Se é o próprio sujeito, {se} é reflexivo; se é outro, {se} é partícula.\n\nE há um caso intermediário, o **se** pronominal de terceira pessoa: {lavou-se} pode ser «lavou-se» (reflexivo) ou «foi lavado» (passivo). A informação que resolve vem de fora da frase, de quem conta.\n\n## A escolha de ser ou estar depende do foco\n\nO que decide é **foco, resultado e estado**, não tradução automática. A narrativa bíblica favorece **ser** ({foram enviados}, {foi aberto}), a descrição de uma cena favorece **estar** ({estava sentado}, {estava escrito na parede}). A escolha muda o tempo verbal disponível, e por isso o tradutor precisa decidir antes de escolher a palavra.\n\n## O que ler\n\nEm qualquer frase com {ser} ou {estar}, pergunte: é **fato** (ser) ou **estado** (estar)? O {por} está presente? E o {se} é reflexivo ou partícula? Com essas três respostas, a passiva do português cabe em uma linha — e a tradução de {foram enviados} por {se enviaram} deixa de acontecer.",
+        "en": "## The passive that shows the result\n\nThe analytic passive uses **ser** or **estar** plus a participle: {foi escrito}, {é amado}, {será salvo}. The participle **agrees with the subject**: {a palavra foi escrita}, {os livros foram escritos}, {as casas foram vendidas}. And the agent, when it appears, comes with **por**: {foi criado por Deus}, {foi buscado por Maria}.\n\nHere is the point almost everyone misses: **ser** and **estar** are not synonyms here. **ser** plus participle marks an **accomplished fact** and the result — {foi criado por Deus}, {a lei foi dada} — and it is the form of biblical narrative. **estar** plus participle marks a **state** in the present or an action in progress: {está escrito}, {está ferido}, {estava sentado}. Rendering \"was written\" as \"is written\" swaps a fact for a state, and that is a difference, not a synonym.\n\nThe passive of **ser** also has tenses the one of **estar** does not: the **past** ({foi, foram}) and the **future** ({será, serão}). That is why {será salvo} is a common biblical phrase while {está salvo} only describes a moment.\n\n## vendem-se casas: the se that is a particle\n\nThe pronominal construction with **se** can be passive: {vendam-se casas}, {aluga-se o quarto}. Note that the verb agrees with the subject ({casas}, plural), which proves there is no object \"se\": if there were an object, the singular would be {vende-se uma casa}.\n\nNot every {se} is passive. {arrependeu-se} is **reflexive**, because the subject performs and suffers the action at once: he repents, and the repentance is his. The test is simple — ask who performs the action. If it is the subject itself, {se} is reflexive; if it is someone else, {se} is a particle.\n\nAnd there is a middle case, the third person pronominal **se**: {lavou-se} can be \"he washed himself\" (reflexive) or \"he was washed\" (passive). What settles it comes from outside the sentence, from the narrator.\n\n## Choosing ser or estar depends on the focus\n\nWhat decides is **focus, result and state**, not automatic translation. Biblical narrative favours **ser** ({foram enviados}, {foi aberto}), describing a scene favours **estar** ({estava sentado}, {estava escrito na parede}). The choice changes which verbal tenses are available, which is why the translator has to decide before choosing the word.\n\n## Reading criterion\n\nIn any sentence with {ser} or {estar}, ask: is it a **fact** (ser) or a **state** (estar)? Is {por} present? And is the {se} reflexive or a particle? With those three answers the Portuguese passive fits on one line — and turning {foram enviados} into {se enviaram} stops happening.",
+        "es": "## La pasiva que muestra el resultado\n\nLa pasiva analítica usa **ser** o **estar** más participio: {foi escrito}, {é amado}, {será salvo}. El participio **concorda con el sujeto**: {a palavra foi escrita}, {os livros foram escritos}, {as casas foram vendidas}. Y el agente, cuando aparece, viene con **por**: {foi criado por Deus}, {foi buscado por Maria}.\n\nAquí está el punto que casi todo el mundo pierde: **ser** y **estar** no son sinónimos aquí. **ser** más participio marca **hecho consumado** y resultado —{foi criado por Deus}, {a lei foi dada}— y es la forma de la narración bíblica. **estar** más participio marca **estado** en el presente o acción en curso: {está escrito}, {está ferido}, {estava sentado}. Traducir «foi escrito» por «está escrito» cambia un hecho por un estado, y eso es una diferencia, no una sinonimia.\n\nLa pasiva de **ser** tiene además tiempos que la de **estar** no tiene: el **pasado** ({foi, foram}) y el **futuro** ({será, serão}). Por eso {será salvo} es frase bíblica común, mientras {está salvo} solo describe un momento.\n\n## vendem-se casas: el se que es partícula\n\nLa construcción pronominal con **se** puede ser pasiva: {vendem-se casas}, {aluga-se o quarto}. Fíjate en que el verbo concuerda con el sujeto ({casas}, plural), lo que prueba que no hay un «se» de objeto: si lo hubiera, el singular sería {vende-se uma casa}.\n\nNo todo {se} es pasivo. {arrependeu-se} es **reflexivo**, porque el sujeto practica y sufre la acción a la vez: él se arrepiente, y el arrepentimiento es suyo. La prueba es sencilla: pregunta quién practica la acción. Si es el propio sujeto, {se} es reflexivo; si es otro, {se} es partícula.\n\nY hay un caso intermedio, el **se** pronominal de tercera persona: {lavou-se} puede ser «se lavó» (reflexivo) o «fue lavado» (pasivo). Lo que lo resuelve viene de fuera de la frase, de quien narra.\n\n## Elegir ser o estar depende del foco\n\nLo que decide es el **foco, el resultado y el estado**, no una traducción automática. La narración bíblica prefiere **ser** ({foram enviados}, {foi aberto}); describir una escena prefiere **estar** ({estava sentado}, {estava escrito na parede}). La elección cambia qué tiempos verbales están disponibles, y por eso quien traduce tiene que decidir antes de elegir la palabra.\n\n## Criterio de lectura\n\nEn cualquier frase con {ser} o {estar}, pregúntate: ¿es **hecho** (ser) o **estado** (estar)? ¿Está presente el {por}? ¿Y el {se} es reflexivo o partícula? Con esas tres respuestas la pasiva del portugués cabe en una línea, y la traducción de {foram enviados} por {se enviaram} deja de ocurrir."
+      },
+      "vocab": [
+        {
+          "form": "escrito",
+          "lemma": "escrever",
+          "lang": "pt",
+          "pt": "escrito",
+          "en": "written",
+          "es": "escrito"
+        },
+        {
+          "form": "salvo",
+          "lemma": "salvar",
+          "lang": "pt",
+          "pt": "salvo",
+          "en": "saved",
+          "es": "salvado"
+        },
+        {
+          "form": "crucificado",
+          "lemma": "crucificar",
+          "lang": "pt",
+          "pt": "crucificado",
+          "en": "crucified",
+          "es": "crucificado"
+        },
+        {
+          "form": "consumado",
+          "lemma": "consumar",
+          "lang": "pt",
+          "pt": "consumado",
+          "en": "finished",
+          "es": "consumado"
+        },
+        {
+          "form": "vendem-se",
+          "lemma": "vender",
+          "lang": "pt",
+          "pt": "vendem-se",
+          "en": "are sold",
+          "es": "se venden"
+        },
+        {
+          "form": "diz-se",
+          "lemma": "dizer",
+          "lang": "pt",
+          "pt": "diz-se",
+          "en": "it is said",
+          "es": "se dice"
+        },
+        {
+          "form": "arrependeu-se",
+          "lemma": "arrepender-se",
+          "lang": "pt",
+          "pt": "arrependeu-se",
+          "en": "he repented",
+          "es": "se arrepintió"
+        },
+        {
+          "form": "por Deus",
+          "lemma": "por",
+          "lang": "pt",
+          "pt": "por Deus",
+          "en": "by God",
+          "es": "por Dios"
+        },
+        {
+          "form": "foi morto",
+          "lemma": "matar",
+          "lang": "pt",
+          "pt": "foi morto",
+          "en": "was killed",
+          "es": "fue muerto"
+        },
+        {
+          "form": "ser",
+          "lemma": "ser",
+          "lang": "pt",
+          "pt": "ser (verbo auxiliar)",
+          "en": "to be (auxiliary)",
+          "es": "ser (verbo auxiliar)"
+        },
+        {
+          "form": "estar",
+          "lemma": "estar",
+          "lang": "pt",
+          "pt": "estar (verbo auxiliar)",
+          "en": "to be (auxiliary)",
+          "es": "estar (verbo auxiliar)"
+        },
+        {
+          "form": "se",
+          "lemma": "se",
+          "lang": "pt",
+          "pt": "se (partícula pronominal)",
+          "en": "se (pronominal particle)",
+          "es": "se (partícula pronominal)"
+        },
+        {
+          "form": "por",
+          "lemma": "por",
+          "lang": "pt",
+          "pt": "por (agente da passiva)",
+          "en": "by (passive agent)",
+          "es": "por (agente de la pasiva)"
+        },
+        {
+          "form": "casas",
+          "lemma": "casa",
+          "lang": "pt",
+          "pt": "casas",
+          "en": "houses",
+          "es": "casas"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em “vendem-se casas”, o verbo concorda com:",
+          "en": "In “houses are sold”, the verb agrees with:",
+          "es": "En «se venden casas», el verbo concuerda con:"
+        },
+        "options": [
+          {
+            "pt": "casas",
+            "en": "houses",
+            "es": "casas"
+          },
+          {
+            "pt": "o se",
+            "en": "the pronoun se",
+            "es": "se"
+          },
+          {
+            "pt": "venda",
+            "en": "sale",
+            "es": "venta"
+          },
+          {
+            "pt": "nada",
+            "en": "nothing",
+            "es": "nada"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: “a lei foi escrita ___ Deus”.",
+            "en": "Complete: “the law was written ___ God”.",
+            "es": "Completa: «la ley fue escrita ___ Dios»."
+          },
+          "answer": "por",
+          "hint": {
+            "pt": "Indica agente da passiva.",
+            "en": "Introduces the agent of the passive.",
+            "es": "Introduce el agente de la pasiva."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual frase é reflexiva?",
+            "en": "Which sentence is reflexive?",
+            "es": "¿Qué oración es reflexiva?"
+          },
+          "options": [
+            {
+              "pt": "A lei foi escrita.",
+              "en": "The law was written.",
+              "es": "La ley fue escrita."
+            },
+            {
+              "pt": "Ele se arrependeu.",
+              "en": "He repented.",
+              "es": "Se arrepintió."
+            },
+            {
+              "pt": "As casas vendem-se.",
+              "en": "The houses are sold.",
+              "es": "Las casas se venden."
+            },
+            {
+              "pt": "A cidade foi fundada.",
+              "en": "The city was founded.",
+              "es": "La ciudad fue fundada."
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue construção e sentido.",
+            "en": "Match construction and meaning.",
+            "es": "Relaciona construcción y sentido."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "foi escrito",
+                "en": "was written",
+                "es": "fue escrito"
+              },
+              "b": {
+                "pt": "passiva",
+                "en": "passive",
+                "es": "pasiva"
+              }
+            },
+            {
+              "a": {
+                "pt": "vende-se",
+                "en": "is sold",
+                "es": "se vende"
+              },
+              "b": {
+                "pt": "se passivo",
+                "en": "passive se",
+                "es": "se pasivo"
+              }
+            },
+            {
+              "a": {
+                "pt": "arrependeu-se",
+                "en": "repented",
+                "es": "se arrepintió"
+              },
+              "b": {
+                "pt": "se reflexivo",
+                "en": "reflexive se",
+                "es": "se reflexivo"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Use {ser} para emphasise o processo e {estar} paraتيجة ou estado, quando o português permite.",
+            "en": "Use {ser} to emphasize process and {estar} for result or state when Portuguese allows.",
+            "es": "Usa {ser} para Clinicsar el proceso y {estar} para resultado o estado cuando el portugués lo permite."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Bíblico",
+            "en": "Biblical",
+            "es": "Bíblico"
+          },
+          "text": {
+            "pt": "“Está consumado” (Jo 19.30) destaca estado; “foi crucificado” destaca o processo e admite agente.",
+            "en": "“It is finished” (John 19:30) highlights a state; “was crucified” highlights the process and allows an agent.",
+            "es": "«Está consumado» (Jn 19:30) destaca un estado; «fue crucificado» destaca el proceso y permite agente."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "A palavra se fez carne.",
+          "gloss": {
+            "pt": "Construção reflexiva: o Verbo sofre a transformação.",
+            "en": "Reflexive construction: the Word undergoes the transformation.",
+            "es": "Construcción reflexiva: el Verbo experimenta la transformación."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Formas passivas",
+            "en": "Passive forms",
+            "es": "Formas pasivas"
+          },
+          "head": [
+            "Estrutura",
+            "Exemplo",
+            "Função"
+          ],
+          "rows": [
+            [
+              "ser + participio",
+              "foi escrito",
+              "ação e agente"
+            ],
+            [
+              "se + verbo",
+              "vende-se",
+              "impessoalidade aparente"
+            ],
+            [
+              "estar + participio",
+              "está pronto",
+              "estado/resultado"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": {
+        "pt": "Por, para e crase",
+        "en": "Por, para, and crasis",
+        "es": "Por, para y crasis"
+      },
+      "subtitle": {
+        "pt": "causa, finalidade e a + a = à",
+        "en": "cause, purpose, and a + a = à",
+        "es": "causa, finalidad y a + a = à"
+      },
+      "section": {
+        "pt": "Preposições",
+        "en": "Prepositions",
+        "es": "Preposiciones"
+      },
+      "body": {
+        "pt": "## Por e para: a mesma preposição, cinco sentidos\n\n**Por** introduz causa, agente, meio, troca e duração: {por amor} (causa), {por Deus} (agente), {por meio de} (meio), {por dois dias} (duração), {por mil reais} (troca). **Para** introduz destino, finalidade, direção e prazo: {para Deus} (destino), {para orar} (finalidade), {para amanhã} (prazo).\n\nO que decide é o **contexto**, e a mesma construção muda de sentido: {por mim} pode ser «por minha causa» ou «na minha opinião», enquanto {para mim} é «para o meu bem» ou «na minha opinião». São os dois lados de uma mesma ideia — **opinião** — com a preposição trocada.\n\nO ponto de atenção para o tradutor é que o grego e o hebraico marcam essas relações com **casos** (genitivo, dativo, acusativo) e o português com preposições. Traduzir caso por caso sem entender a função é onde a tradução bíblica perde: {πορεύεσθε εἰς πᾶσαν τὴν γῆν} tem genitivo ({τὴν γῆν}, \"de toda a terra\") e acusativo ({πᾶσαν}, \"toda\"), e o português resolve com um \"a\" e um \"em\".\n\n## A crase é a fusão de a + a\n\nA crase é a fusão do artigo {a} com a preposição {a}: {vou à igreja}, {às três horas}, {à noite}. Ela **não** ocorre em três casos que o aprendiz decora mal:\n\n**Não** ocorre diante de verbo: {vou orar}, não {vou à orar}. **Não** ocorre diante de palavra masculina determinada: {dei a uma cruz} — porque {a + o} = {ao}, e {um} é indeterminado, logo fica {a um}. **Não** ocorre diante de pronome pessoal: {falou a ela}, não {falou à ela}.\n\nE há o caso do nome próprio: {vou a Roma} ou {vou à Roma}? A crase com nome próprio feminino é aceita na escrita, mas o uso varia e o Portuguese europeu prefere {a Roma}. O ponto prático: a crase nunca é obrigatória, e ninguém erra por não usá-la.\n\n## A isca do italiano\n\nO português adquire preposições de todo lado — {ir a}, {vir de} —, e o italiano também ({andare a}, {venire da}). Isso cria uma tentação específica: **produzir crase por imitação do italiano**, vendo {a} + {la} e escrevendo {à}. Mas o italiano não tem crase: {a la} não é uma fusão, e a correspondência entre italiano e português está no **valor** da preposição, não na **forma**.\n\nUm tradutor que produz crase por analogia com o italiano escreve errado em português e ainda traz um problema que o original não tinha.\n\n## O que ler\n\nEm qualquer preposição, pergunte: qual é a **função** no grego (qual caso)? {por} causa, agente, meio, troca ou duração? {para} destino, finalidade, direção ou prazo? E há {a + a} fundido, ou é só {a}? A terceira resposta decide a crase, e as duas primeiras decidem a preposição. Juntas, elas resolvem a frase.",
+        "en": "## Por and para: one preposition, five senses\n\n**Por** introduces cause, agent, means, exchange and duration: {por amor} (cause), {por Deus} (agent), {por meio de} (means), {por dois dias} (duration), {por mil reais} (exchange). **Para** introduces destination, purpose, direction and deadline: {para Deus} (destination), {para orar} (purpose), {para amanhã} (deadline).\n\nWhat decides is **context**, and the same construction changes meaning: {por mim} can be \"for my sake\" or \"in my opinion\", while {para mim} is \"for my benefit\" or \"in my opinion\". They are two sides of one idea — **opinion** — with the preposition swapped.\n\nThe point for a translator is that Greek and Hebrew mark these relations with **cases** (genitive, dative, accusative) and Portuguese marks them with prepositions. Translating case by case without understanding the function is where biblical translation loses: πορεύεσθε εἰς πᾶσαν τὴν γῆν has a genitive (τὴν γῆν, \"of all the earth\") and an accusative (πᾶσαν, \"all\"), and Portuguese handles it with an \"a\" and an \"in\".\n\n## Crase is the fusion of a + a\n\nCrase is the fusion of the article {a} with the preposition {a}: {vou à igreja}, {às três horas}, {à noite}. It does **not** happen in three cases learners get wrong:\n\nIt does **not** appear before a verb: {vou orar}, not {vou à orar}. It does **not** appear before a determined masculine noun: {dei a uma cruz} — because {a + o} would give {ao}, and {um} is indefinite, so {a} stays. It does **not** appear before a personal pronoun: {falou a ela}, not {falou à ela}.\n\nAnd there is the proper noun case: {vou a Roma} or {vou à Roma}? Crase with a feminine proper noun is accepted in writing, but usage varies and European Portuguese prefers {a Roma}. The practical point: crase is never mandatory, and nobody is wrong for omitting it.\n\n## The Italian trap\n\nPortuguese takes prepositions from everywhere — {ir a}, {vir de} — and so does Italian ({andare a}, {venire da}). That creates a specific temptation: **producing crase by imitation of Italian**, seeing {a} + {la} and writing {à}. But Italian has no crase: {a la} is not a fusion, and the correspondence between Italian and Portuguese lies in the **value** of the preposition, not its **shape**.\n\nA translator who produces crase by analogy with Italian writes bad Portuguese and adds a problem the original did not have.\n\n## Reading criterion\n\nWith any preposition, ask: what is the **function** in the Greek (which case)? Is it {por} for cause, agent, means, exchange or duration? Is it {para} for destination, purpose, direction or deadline? And is {a + a} fused, or just {a}? The third answer decides the crase and the first two decide the preposition. Together they settle the sentence.",
+        "es": "## Por y para: una preposición, cinco sentidos\n\n**Por** introduce causa, agente, medio, cambio y duración: {por amor} (causa), {por Deus} (agente), {por meio de} (medio), {por dois dias} (duración), {por mil reais} (cambio). **Para** introduce destino, finalidad, dirección y plazo: {para Deus} (destino), {para orar} (finalidad), {para amanhã} (plazo).\n\nLo que decide es el **contexto**, y la misma construcción cambia de sentido: {por mim} puede ser «por mi causa» o «en mi opinión», mientras {para mim} es «para mi bien» o «en mi opinión». Son dos caras de una misma idea —**opinión**— con la preposición cambiada.\n\nEl punto para quien traduce es que el griego y el hebreo marcan esas relaciones con **casos** (genitivo, dativo, acusativo) y el portugués con preposiciones. Traducir caso por caso sin entender la función es donde se pierde la traducción bíblica: πορεύεσθε εἰς πᾶσαν τὴν γῆν tiene un genitivo (τὴν γῆν, «de toda la tierra») y un acusativo (πᾶσαν, «toda»), y el portugués lo resuelve con una «a» y una «en».\n\n## La crasis es la fusión de a + a\n\nLa crasis es la fusión del artículo {a} con la preposición {a}: {vou à igreja}, {às três horas}, {à noite}. **No** ocurre en tres casos que quien aprende memoriza mal:\n\n**No** ocurre delante de verbo: {vou orar}, no {vou à orar}. **No** ocurre delante de palabra masculina determinada: {dei a uma cruz}, porque {a + o} daría {ao}, y {um} es indeterminado, así que queda {a}. **No** ocurre delante de pronombre personal: {falou a ela}, no {falou à ela}.\n\nY está el caso del nombre propio: ¿{vou a Roma} o {vou à Roma}? La crasis con nombre propio femenino se acepta en la escritura, pero el uso varía y el portugués europeo prefiere {a Roma}. El punto práctico: la crasis nunca es obligatoria, y nadie yerra por no usarla.\n\n## La trampa del italiano\n\nEl portugués toma preposiciones de todas partes —{ir a}, {vir de}—, y el italiano también ({andare a}, {venire da}). Eso crea una tentación concreta: **producir crasis por imitación del italiano**, viendo {a} + {la} y escribiendo {à}. Pero el italiano no tiene crasis: {a la} no es una fusión, y la correspondencia entre italiano y portugués está en el **valor** de la preposición, no en su **forma**.\n\nQuien produce crasis por analogía con el italiano escribe mal el portugués y además añade un problema que el original no tenía.\n\n## Criterio de lectura\n\nCon cualquier preposición, pregúntate: ¿cuál es la **función** en el griego (qué caso)? ¿Es {por} causa, agente, medio, cambio o duración? ¿Es {para} destino, finalidad, dirección o plazo? ¿Y hay {a + a} fundido, o solo {a}? La tercera respuesta decide la crasis y las dos primeras deciden la preposición. Juntas resuelven la frase."
+      },
+      "vocab": [
+        {
+          "form": "por",
+          "lemma": "por",
+          "lang": "pt",
+          "pt": "por",
+          "en": "by; for",
+          "es": "por"
+        },
+        {
+          "form": "para",
+          "lemma": "para",
+          "lang": "pt",
+          "pt": "para",
+          "en": "to; in order to",
+          "es": "para"
+        },
+        {
+          "form": "por amor",
+          "lemma": "amor",
+          "lang": "pt",
+          "pt": "por amor",
+          "en": "for love",
+          "es": "por amor"
+        },
+        {
+          "form": "por Deus",
+          "lemma": "Deus",
+          "lang": "pt",
+          "pt": "por Deus",
+          "en": "by God",
+          "es": "por Dios"
+        },
+        {
+          "form": "para orar",
+          "lemma": "orar",
+          "lang": "pt",
+          "pt": "para orar",
+          "en": "to pray",
+          "es": "para orar"
+        },
+        {
+          "form": "para amanhã",
+          "lemma": "amanhã",
+          "lang": "pt",
+          "pt": "para amanhã",
+          "en": "for tomorrow",
+          "es": "para mañana"
+        },
+        {
+          "form": "vou à igreja",
+          "lemma": "ir",
+          "lang": "pt",
+          "pt": "vou à igreja",
+          "en": "I go to church",
+          "es": "voy a la iglesia"
+        },
+        {
+          "form": "a uma cruz",
+          "lemma": "cruz",
+          "lang": "pt",
+          "pt": "a uma cruz",
+          "en": "to a cross",
+          "es": "a una cruz"
+        },
+        {
+          "form": "por nós",
+          "lemma": "nós",
+          "lang": "pt",
+          "pt": "por nós",
+          "en": "for us",
+          "es": "por nosotros"
+        },
+        {
+          "form": "daria a vida",
+          "lemma": "dar",
+          "lang": "pt",
+          "pt": "daria a vida",
+          "en": "would give his life",
+          "es": "daría la vida"
+        },
+        {
+          "form": "a",
+          "lemma": "a",
+          "lang": "pt",
+          "pt": "a (preposição)",
+          "en": "to (preposition)",
+          "es": "a (preposición)"
+        },
+        {
+          "form": "à",
+          "lemma": "a",
+          "lang": "pt",
+          "pt": "à (a + a, crase)",
+          "en": "to the (a + a, crasis)",
+          "es": "a la (a + a, crasis)"
+        },
+        {
+          "form": "igreja",
+          "lemma": "igreja",
+          "lang": "pt",
+          "pt": "igreja",
+          "en": "church",
+          "es": "iglesia"
+        },
+        {
+          "form": "orar",
+          "lemma": "orar",
+          "lang": "pt",
+          "pt": "orar",
+          "en": "to pray",
+          "es": "orar"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual frase usa {por} como causa?",
+          "en": "Which sentence uses {por} for cause?",
+          "es": "¿Qué oración usa {por} como causa?"
+        },
+        "options": [
+          {
+            "pt": "Cristo morreu por nós.",
+            "en": "Christ died for us.",
+            "es": "Cristo murió por nosotros."
+          },
+          {
+            "pt": "Vou para a cidade.",
+            "en": "I am going to the city.",
+            "es": "Voy para la ciudad."
+          },
+          {
+            "pt": "Para orar, saí.",
+            "en": "I left to pray.",
+            "es": "Salí para orar."
+          },
+          {
+            "pt": "Ficou por três dias.",
+            "en": "He stayed for three days.",
+            "es": "Se quedó por tres días."
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: “vou ___ igreja”.",
+            "en": "Complete: “I go ___ church”.",
+            "es": "Completa: «voy ___ iglesia»."
+          },
+          "answer": "à",
+          "hint": {
+            "pt": "a + a forma uma só palavra.",
+            "en": "a + a forms one word.",
+            "es": "a + a forma una sola palabra."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Onde não há crase?",
+            "en": "Where is there no crasis?",
+            "es": "¿Dónde no hay crasis?"
+          },
+          "options": [
+            {
+              "pt": "vou à igreja",
+              "en": "I go to church",
+              "es": "voy a la iglesia"
+            },
+            {
+              "pt": "vou à mulher",
+              "en": "I go to a woman",
+              "es": "voy a una mujer"
+            },
+            {
+              "pt": "entrego à Maria",
+              "en": "I give it to Maria",
+              "es": "entrego a María"
+            },
+            {
+              "pt": "chegou às cinco",
+              "en": "he arrived at five",
+              "es": "llegó a las cinco"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue preposição e sentido.",
+            "en": "Match preposition and meaning.",
+            "es": "Relaciona preposición y sentido."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "por",
+                "en": "by",
+                "es": "por"
+              },
+              "b": {
+                "pt": "agente",
+                "en": "agent",
+                "es": "agente"
+              }
+            },
+            {
+              "a": {
+                "pt": "para",
+                "en": "for",
+                "es": "para"
+              },
+              "b": {
+                "pt": "finalidade",
+                "en": "purpose",
+                "es": "finalidad"
+              }
+            },
+            {
+              "a": {
+                "pt": "por",
+                "en": "for",
+                "es": "por"
+              },
+              "b": {
+                "pt": "causa",
+                "en": "cause",
+                "es": "causa"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "A crase exige a preposição {a} seguida de artigo {a/as}: {a + as = às}.",
+            "en": "Crasis requires preposition {a} followed by article {a/as}: {a + as = às}.",
+            "es": "La crasis exige la preposición {a} seguida del artículo {a/as}: {a + as = às}."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "Não há crase antes de verbo, substantivo masculino determinado, pronome ou numeral cardinal.",
+            "en": "No crasis before a verb, determined masculine noun, pronoun, or cardinal numeral.",
+            "es": "No hay crasis ante verbo, sustantivo masculino determinado, pronombre o numeral cardinal."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Não force",
+            "en": "Do not force",
+            "es": "No fuerces"
+          },
+          "text": {
+            "pt": "Muitas traduções bíblicas usam “a Deus” sem crase. Isso é correto: {a} pode ser preposição, não artigo.",
+            "en": "Many biblical translations use “a Deus” without crasis. This is correct: {a} may be a preposition, not an article.",
+            "es": "Muchas traducciones bíblicas usan «a Dios» sin crasis. Es correcto: {a} puede ser preposición, no artículo."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Entregou a vida por o povo.",
+          "gloss": {
+            "pt": "Por = causa beneficiária imediata.",
+            "en": "Por = immediate beneficial cause.",
+            "es": "Por = causa beneficiosa inmediata."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Uso das preposições",
+            "en": "Preposition uses",
+            "es": "Usos de las preposiciones"
+          },
+          "head": [
+            "Preposição",
+            "Valores",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "por",
+              "causa, agente, meio",
+              "por Deus"
+            ],
+            [
+              "para",
+              "fim, destino, prazo",
+              "para orar"
+            ],
+            [
+              "a + a",
+              "destino a artigo feminino",
+              "à igreja"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "contentVersion": "1.0.0+ge3256f20"
+}

@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bible-reader-web.github.io/bible-courses/schema/course.schema.json",
+  "title": "Curso de gramática bíblica",
+  "description": "Formato de troca de cursos entre o leitor e qualquer outro consumidor. Só conteúdo: nada de componentes, estado ou formatação de interface. A texto usa {chaves} para marcar palavra clicável e **negrito** para ênfase, em Markdown simples.",
+  "type": "object",
+  "required": ["schemaVersion", "id", "lang", "title", "description", "lessons"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Versão deste formato. breaking = +1. O consumidor deve recusar versão maior que a que conhece."
+    },
+    "contentVersion": {
+      "type": "string",
+      "description": "Versão do conteúdo, sem relação com schemaVersion. Semver. O consumidor compara para decidir se atualiza."
+    },
+    "id": { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+    "lang": {
+      "type": "string",
+      "description": "Código da língua que se ensina, ISO 639-3 quando existe: grc, heb, la, pt, it, ar...",
+    },
+    "editorialLang": {
+      "type": "string",
+      "description": "Língua das explicações. Ausente = igual a lang."
+    },
+    "title": { "$ref": "#/$defs/text" },
+    "description": { "$ref": "#/$defs/text" },
+    "section": { "$ref": "#/$defs/text" },
+    "lessons": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/lesson" }
+    }
+  },
+  "$defs": {
+    "text": {
+      "type": "object",
+      "required": ["pt", "en"],
+      "description": "Texto traduzido. pt e en são obrigatórios; es é opcional e o consumidor deve cair para en quando faltar. Ausência de um campo é sinal de erro, não de texto vazio.",
+      "properties": {
+        "pt": { "type": "string" },
+        "en": { "type": "string" },
+        "es": { "type": "string" }
+      }
+    },
+    "cell": {
+      "description": "Igual a text, mas admite string simples quando a tradução é a mesma nos três idiomas.",
+      "oneOf": [
+        { "type": "string" },
+        {
+          "type": "object",
+          "required": ["pt", "en"],
+          "properties": {
+            "pt": { "type": "string" },
+            "en": { "type": "string" },
+            "es": { "type": "string" }
+          }
+        }
+      ]
+    },
+    "lesson": {
+      "type": "object",
+      "required": ["id", "title", "body", "vocab", "exercise"],
+      "properties": {
+        "id": { "type": "integer", "minimum": 1 },
+        "title": { "$ref": "#/$defs/text" },
+        "subtitle": { "$ref": "#/$defs/text" },
+        "section": { "$ref": "#/$defs/text" },
+        "body": { "$ref": "#/$defs/text" },
+        "vocab": {
+          "type": "array",
+          "description": "Palavras clicáveis do corpo. form é o que aparece no texto, lemma é o que se busca no dicionário.",
+          "items": {
+            "type": "object",
+            "required": ["form", "lemma", "pt", "en"],
+            "properties": {
+              "form": { "type": "string" },
+              "lemma": { "type": "string" },
+              "lang": { "type": "string" },
+              "pt": { "type": "string" },
+              "en": { "type": "string" },
+              "es": { "type": "string" }
+            }
+          }
+        },
+        "exercise": { "$ref": "#/$defs/exercise" },
+        "exercises": { "type": "array", "items": { "$ref": "#/$defs/exercise" } },
+        "rules": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["n", "text"],
+            "properties": { "n": { "type": "string" }, "text": { "$ref": "#/$defs/text" } }
+          }
+        },
+        "notes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["label", "text"],
+            "properties": { "label": { "$ref": "#/$defs/text" }, "text": { "$ref": "#/$defs/text" } }
+          }
+        },
+        "examples": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["text", "gloss"],
+            "properties": {
+              "text": { "type": "string" },
+              "gloss": { "$ref": "#/$defs/cell" }
+            }
+          }
+        },
+        "tables": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["caption", "head", "rows"],
+            "properties": {
+              "caption": { "$ref": "#/$defs/text" },
+              "head": { "type": "array", "items": { "$ref": "#/$defs/cell" } },
+              "rows": { "type": "array", "items": { "type": "array", "items": { "$ref": "#/$defs/cell" } } }
+            }
+          }
+        }
+      }
+    },
+    "exercise": {
+      "type": "object",
+      "required": ["kind", "prompt", "answer"],
+      "properties": {
+        "kind": { "enum": ["choose", "fill", "match"] },
+        "prompt": { "$ref": "#/$defs/text" },
+        "options": { "type": "array", "items": { "$ref": "#/$defs/cell" } },
+        "pairs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["a", "b"],
+            "properties": { "a": { "$ref": "#/$defs/cell" }, "b": { "$ref": "#/$defs/cell" } }
+          }
+        },
+        "answer": {
+          "description": "Índice para choose, texto para fill, chave 'a' para match. Ou lista, quando há mais de uma resposta certa.",
+          "oneOf": [
+            { "type": "string" },
+            { "type": "number" },
+            { "type": "array", "items": { "type": ["string", "number"] } }
+          ]
+        },
+        "hint": { "$ref": "#/$defs/text" }
+      }
+    }
+  }
+}

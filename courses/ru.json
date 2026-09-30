@@ -1,0 +1,3490 @@
+{
+  "schemaVersion": 1,
+  "id": "ru",
+  "lang": "ru",
+  "title": {
+    "pt": "Russo",
+    "en": "Russian"
+  },
+  "description": {
+    "pt": "Russo do cirílico ao texto bíblico: alfabeto, casos, verbos e João 1:1 (Sinodal).",
+    "en": "Russian from Cyrillic to biblical text: alphabet, cases, verbs and John 1:1 (Synodal)."
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "title": {
+        "pt": "O alfabeto cirílico",
+        "en": "The Cyrillic alphabet",
+        "es": "El alfabeto cirílico"
+      },
+      "subtitle": {
+        "pt": "АБВ… — ler russo desde o primeiro dia",
+        "en": "АБВ… — reading Russian from day one",
+        "es": "АБВ… — leer ruso desde el primer día"
+      },
+      "section": {
+        "pt": "O alfabeto",
+        "en": "The alphabet",
+        "es": "El alfabeto"
+      },
+      "body": {
+        "pt": "O russo possui 33 letras. Algumas têm valor fonético regular, outras mudam de som e a pronúncia precisa ser indicada. Compare A [а] [a], E [е] [e] e Я [я] [ia] com o latim: В [в] [v] não é b, Н [н] [n] não é h, Р [р] [r] não é p, С [с] [s] não é c e Х [х] [x] nem h. Ц [ц] se lê [ts], Ч [ч] [t͡ɕ], Ш [ш] [ʂ], Щ [щ] [ɕː], Й [й] [j], Ю [ю] [ju] e Я [я] [ja]. У [у] representa [u]. Ж [ж] se lê [ʐ]. A letra ё [ё] costuma ser escrita como е [е]. O sinal ь [ь] indica palatização: день [dʲenʲ]; ъ [ъ] é um sinal, normalmente mudo. O russo em geral não marca o acento: сло́во [ˈslovə], Бо́г [bok], свет [svʲet], земля́ [zʲɪmʲlʲæ], жизнь [ʐɪzʲɨfʲ]. No começo da palavra as letras costumam ter o valor indicado na tabela, mas a posição importa: Е [е] vale [e] depois de consoante dura e [je] no início da palavra ou depois de consoante mole.",
+        "en": "Russian has 33 letters. Some have a regular sound, others vary, and pronunciation must be specified. Compare A [а] [a], E [е] [e] and Я [я] [ia] with Latin; В [в] is not b, Н [н] is not h, Р [р] is not p, С [с] is not c, and Х [х] is neither h nor kh. Ц [ц] is [ts], Ч [ч] [t͡ɕ], Ш [ш] [ʂ], Щ [щ] [ɕː], Й [й] [j], Ю [ю] [ju] and Я [я] [ja]. У [у] represents [u]. Ж [ж] is [ʐ]. Letter ё [ё] is usually written е [е]. Soft sign ь [ь] marks palatalization: день [dʲenʲ]; hard sign ъ [ъ] is normally mute. Stress is not marked: сло́во [ˈslovə], Бо́г [bok], свет [svʲet], земля́ [zʲɪmʲlʲæ], жизнь [ʐɪzʲɨfʲ].",
+        "es": "El ruso tiene 33 letras. Unas conservan un valor fonético regular; otras cambian de sonido, por lo que hay que indicar la pronunciación. Compara А [а] [a], Е [е] [e] y Я [я] [ia] con el latín: В [в] no es b, Н [н] no es h, Р [р] no es p, С [с] no es c y Х [х] no es h. Ц [ц] se pronuncia [ts], Ч [ч] [t͡ɕ], Ш [ш] [ʂ], Щ [щ] [ɕː], Й [й] [j], Ю [ю] [ju] y Я [я] [ja]. У [у] representa [u] y Ж [ж] se pronuncia [ʐ]. La letra Ё [ё] suele escribirse Е [е]. El signo blando Ь [ь] indica palatización: день [dʲenʲ]; Ъ [ъ] es un signo y normalmente no suena. El acento no suele marcarse: сло́во [ˈslovə], Бо́г [bok], свет [svʲet], земля́ [zʲɪmʲlʲæ], жизнь [ʐɪzʲɨfʲ]."
+      },
+      "vocab": [
+        {
+          "form": "слово",
+          "lemma": "слово",
+          "lang": "ru",
+          "pt": "palavra",
+          "en": "word",
+          "es": "palabra"
+        },
+        {
+          "form": "Бог",
+          "lemma": "бог",
+          "lang": "ru",
+          "pt": "Deus",
+          "en": "God",
+          "es": "Dios"
+        },
+        {
+          "form": "свет",
+          "lemma": "свет",
+          "lang": "ru",
+          "pt": "luz",
+          "en": "light",
+          "es": "luz"
+        },
+        {
+          "form": "земля",
+          "lemma": "земля",
+          "lang": "ru",
+          "pt": "terra",
+          "en": "earth",
+          "es": "tierra"
+        },
+        {
+          "form": "день",
+          "lemma": "день",
+          "lang": "ru",
+          "pt": "dia",
+          "en": "day",
+          "es": "día"
+        },
+        {
+          "form": "жизнь",
+          "lemma": "жизнь",
+          "lang": "ru",
+          "pt": "vida",
+          "en": "life",
+          "es": "vida"
+        },
+        {
+          "form": "начало",
+          "lemma": "начало",
+          "lang": "ru",
+          "pt": "princípio",
+          "en": "beginning",
+          "es": "principio"
+        },
+        {
+          "form": "человек",
+          "lemma": "человек",
+          "lang": "ru",
+          "pt": "ser humano",
+          "en": "human being",
+          "es": "ser humano"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Transcreva em cirílico: Бог",
+          "en": "Write in Cyrillic: God",
+          "es": "Escribe en cirílico: Dios"
+        },
+        "answer": "Бог"
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Que sonido tiene В?",
+            "en": "What sound does В have?",
+            "es": "¿Qué sonido tiene В?"
+          },
+          "options": [
+            {
+              "pt": "b",
+              "en": "b",
+              "es": "b"
+            },
+            {
+              "pt": "v",
+              "en": "v",
+              "es": "v"
+            },
+            {
+              "pt": "r",
+              "en": "r",
+              "es": "r"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: сло_о",
+            "en": "Complete: сло_о",
+            "es": "Completa: сло_о"
+          },
+          "answer": "в"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relaciona letra y sonido",
+            "en": "Match letter and sound",
+            "es": "Relaciona letra y sonido"
+          },
+          "pairs": [
+            {
+              "a": "Щ",
+              "b": {
+                "pt": "shch",
+                "en": "shch",
+                "es": "shch"
+              }
+            },
+            {
+              "a": "Ж",
+              "b": {
+                "pt": "zh",
+                "en": "zh",
+                "es": "zh"
+              }
+            }
+          ],
+          "answer": [
+            "Щ",
+            "Ж"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Ь suaviza o som; Ъ não se pronuncia.",
+            "en": "Ь softens the sound; Ъ is mute.",
+            "es": "Ь suaviza el sonido; Ъ no se pronuncia."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "En Positions inicial y débil, Е se lee [je].",
+            "en": "In word-initial and weak positions, Е is [je].",
+            "es": "En posición inicial y débil, Е se pronuncia [je]."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Ligação de letras",
+            "en": "Letter joining",
+            "es": "Unión de letras"
+          },
+          "text": {
+            "pt": "As letras que se ligam à seguinte mudam de forma, e é por isso que o mesmo esqueleto consonantal pode ter mais de uma pronúncia. Compare {б}-{б}-{б} com {б} isolado: a primeira é [b] e a segunda [bʲ].",
+            "en": "Letters that join the following one change shape, which is why the same consonantal skeleton can have more than one pronunciation. Compare {б}-{б}-{б} with {б} in isolation: the first is [b] and the second [bʲ].",
+            "es": "Las letras que se unen a la siguiente cambian de forma, y por eso el mismo esqueleto consonántico puede tener más de una pronunciación. Compara {б}-{б}-{б} con {б} aislado: la primera es [b] y la segunda [bʲ]."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "В начале был свет",
+          "gloss": {
+            "pt": "Havia luz no princípio",
+            "en": "There was light in the beginning",
+            "es": "Había luz al principio"
+          }
+        },
+        {
+          "text": "Бог есть любовь",
+          "gloss": {
+            "pt": "Deus é amor",
+            "en": "God is love",
+            "es": "Dios es amor"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Letras essenciais",
+            "en": "Essential letters",
+            "es": "Letras esenciales"
+          },
+          "head": [
+            "Letra",
+            "Sonido",
+            "Ejemplo",
+            {
+              "pt": "Glosa",
+              "en": "Gloss",
+              "es": "Glosa"
+            }
+          ],
+          "rows": [
+            [
+              "А К М О Т",
+              "[a k m o t]",
+              "мама",
+              "mamá"
+            ],
+            [
+              "В Н Р С",
+              "[v n r s]",
+              "нос",
+              "nariz"
+            ],
+            [
+              "Г Д З И Л П Ф",
+              "[g d z ʲi lʲ p f]",
+              "вода",
+              "agua"
+            ],
+            [
+              "Ж Й Х Ц Ч Ш Щ Э Ю Я",
+              "[ʐ j x ts t͡ɕ ʂ ɕː e ju ja]",
+              "жизнь",
+              "vida"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "pt": "Substantivos e casos",
+        "en": "Nouns and cases",
+        "es": "Sustantivos y casos"
+      },
+      "subtitle": {
+        "pt": "Падежи — seis relaciones gramaticales",
+        "en": "Падежи — six grammatical relations",
+        "es": "Падежи — seis relaciones gramaticales"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "O russo não usa artigos. As relações se marcam por casos; seis são principais. Nominativo identifica o sujeito; acusativo, objeto direto; genitivo, posse, origem e complemento de ausência; dativo, destinatário; instrumental, meio ou companhia; prepositivo, relação espacial sem preposição explícita após в, на, с, к, о, у, от, до e про. O gênero deduz-se geralmente do nominativo: masculino, feminino ou neutro. Depois de 2, 3 ou 4, o substantivo vai ao genitivo singular: два слова. O plural acrescenta formas próprias, mas os sinais brandos muitas vezes mudam: слово → слова; день → дни. O caso não traduz uma preposição automaticamente: в начале significa “no início”, mas в храм pode significar “para dentro do templo”.",
+        "en": "Russian does not use articles. Relations are marked by cases; six are principal. The nominative marks the subject; the accusative, the direct object; the genitive, possession, origin and complements of absence; the dative, the recipient; the instrumental, means or company; and the prepositional case, spatial and other relations after в, на, с, к, о, у, от, до and про. Gender is usually inferred from the nominative: masculine, feminine or neuter. After 2, 3 or 4, the noun takes the genitive singular: два слова. The plural has its own endings, while soft signs often change: слово → слова; день → дни. A case does not automatically equal a preposition: в начале means “in the beginning”, while в храм can mean “into the temple”.",
+        "es": "El ruso no usa artículos. Las relaciones se marcan mediante casos; seis son principales. El nominativo identifica al sujeto; el acusativo, el objeto directo; el genitivo, posesión, origen y complemento de ausencia; el dativo, destinatario; el instrumental, medio o compañía; y el preposicional, relaciones espaciales o semánticas después de в, на, с, к, о, у, от, до y про. El género suele inferirse del nominativo: masculino, femenino o neutro. Después de 2, 3 o 4, el sustantivo pasa al genitivo singular: два слова. El plural tiene sus propias terminaciones, aunque los signos blandos suelen cambiar: слово → слова; день → дни. Un caso no equivale automáticamente a una preposición: в начала significa «al comienzo», mientras que в храм puede significar «hacia el interior del templo»."
+      },
+      "vocab": [
+        {
+          "form": "Бог",
+          "lemma": "бог",
+          "lang": "ru",
+          "pt": "Deus",
+          "en": "God",
+          "es": "Dios"
+        },
+        {
+          "form": "Бога",
+          "lemma": "бог",
+          "lang": "ru",
+          "pt": "a Deus",
+          "en": "God, accusative",
+          "es": "a Dios, acusativo"
+        },
+        {
+          "form": "слова",
+          "lemma": "слово",
+          "lang": "ru",
+          "pt": "palavras",
+          "en": "words",
+          "es": "palabras"
+        },
+        {
+          "form": "мир",
+          "lemma": "мир",
+          "lang": "ru",
+          "pt": "mundo; paz",
+          "en": "world; peace",
+          "es": "mundo; paz"
+        },
+        {
+          "form": "небо",
+          "lemma": "небо",
+          "lang": "ru",
+          "pt": "céu",
+          "en": "heaven",
+          "es": "cielo"
+        },
+        {
+          "form": "книга",
+          "lemma": "книга",
+          "lang": "ru",
+          "pt": "livro",
+          "en": "book",
+          "es": "libro"
+        },
+        {
+          "form": "сердце",
+          "lemma": "сердце",
+          "lang": "ru",
+          "pt": "coração",
+          "en": "heart",
+          "es": "corazón"
+        },
+        {
+          "form": "день",
+          "lemma": "день",
+          "lang": "ru",
+          "pt": "dia",
+          "en": "day",
+          "es": "día"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual é o acusativo de Бог (masculino animado)?",
+          "en": "What is the accusative of Бог?",
+          "es": "¿Cuál es el acusativo de Бог?"
+        },
+        "options": [
+          {
+            "pt": "Бог",
+            "en": "Бог",
+            "es": "Бог"
+          },
+          {
+            "pt": "Бога",
+            "en": "Бога",
+            "es": "Бога"
+          },
+          {
+            "pt": "Богу",
+            "en": "Богу",
+            "es": "Богу"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: Я люблю Бога",
+            "en": "Complete: Я люблю Бога",
+            "es": "Completa: Я люблю Бога"
+          },
+          "answer": "Бога"
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: книга → книги",
+            "en": "Complete: книга → книги",
+            "es": "Completa: книга → книги"
+          },
+          "answer": "и"
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual caso rege к?",
+            "en": "Which case does к govern?",
+            "es": "¿Qué caso rige к?"
+          },
+          "options": [
+            {
+              "pt": "Nominativo",
+              "en": "Nominative",
+              "es": "Nominativo"
+            },
+            {
+              "pt": "Dativo",
+              "en": "Dative",
+              "es": "Dativo"
+            },
+            {
+              "pt": "Instrumental",
+              "en": "Instrumental",
+              "es": "Instrumental"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Acusativo: -а para masculino animado e feminino; nominativo para masculino inanimado e neutro.",
+            "en": "Accusative: -а for animate masculine and feminine nouns; nominative for inanimate masculine and neuter nouns.",
+            "es": "Acusativo: -а para masculino animado y femenino; nominativo para masculino inanimado y neutro."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Definitude vai na flexão",
+            "en": "Definiteness lives in inflection",
+            "es": "La definitud va en la flexión"
+          },
+          "text": {
+            "pt": "Como o russo não tem artigo, a informação de definitude vai para a flexão. {книга} é o substantivo nu; {книга-то} acrescenta definitude pelo pronome. Ler um caso é ler uma relação, não um sentido.",
+            "en": "Russian has no article, so definiteness goes into inflection. {книга} is the bare noun; {книга-то} adds definiteness through the pronoun. Reading a case is reading a relation, not a sense.",
+            "es": "El ruso no tiene artículo, así que la definitud va en la flexión. {книга} es el sustantivo desnudo; {книга-то} añade definitud por el pronombre. Leer un caso es leer una relación, no un sentido."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Бог создал небо и землю",
+          "gloss": {
+            "pt": "Deus criou o céu e a terra",
+            "en": "God created heaven and earth",
+            "es": "Dios creó el cielo y la tierra"
+          }
+        },
+        {
+          "text": "Я читаю Книгу",
+          "gloss": {
+            "pt": "Leio o Livro",
+            "en": "I read the Book",
+            "es": "Leo el Libro"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Paradigma de бог, слово и книга",
+            "en": "Paradigm of бог, слово and книга",
+            "es": "Paradigma de бог, слово y книга"
+          },
+          "head": [
+            "Caso",
+            "Masculino",
+            "Feminino",
+            "Neutro"
+          ],
+          "rows": [
+            [
+              "Nominativo",
+              "бог",
+              "книга",
+              "слово"
+            ],
+            [
+              "Genitivo",
+              "бога",
+              "книги",
+              "слова"
+            ],
+            [
+              "Dativo",
+              "богу",
+              "книге",
+              "слову"
+            ],
+            [
+              "Acusativo",
+              "бога",
+              "книгу",
+              "слово"
+            ],
+            [
+              "Instrumental",
+              "богом",
+              "книгой",
+              "словом"
+            ],
+            [
+              "Prepositivo",
+              "о Боге",
+              "о книге",
+              "о слове"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "pt": "Verbos no presente",
+        "en": "Present-tense verbs",
+        "es": "Verbos en presente"
+      },
+      "subtitle": {
+        "pt": "читать — говорить — быть",
+        "en": "читать — говорить — быть",
+        "es": "читать — говорить — быть"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "O infinitivo russo termina normalmente em -ть. No presente, um verbo pode seguir o modelo 1: читаю, читаешь, читает, читаем, читаете, читают; ou o modelo 2: говорю, говоришь, говорит, говорим, говорите, говорят. Esses dois modelos são escolhidos pelo tema e não garantem, sozinhos, o aspecto: говорить é imperfeito, enquanto сказать é perfeito. O presente costuma indicar ação atual ou repetida, mas a morfologia russa é mais rica do que essa divisão simplifica. O verbo быть costuma omitir a cópula no presente: Бог есть любовь é enfático ou bíblico; Бог — любовь é neutro. Na negação use не, e não нет: Я не знаю. Na pergunta de sim ou não a ordem das palavras pode inverter-se, e ли pode fechar a pergunta: Знаешь ли ты? Tempo e aspecto importam: Я читаю сейчас significa \"estou lendo agora\"; Я буду читать exprime ação planejada ou futura. A forma читаю nomeia a pessoa que lê, não um artigo nem um gênero especial.",
+        "en": "A Russian infinitive normally ends in -ть. In the present, a verb may follow model 1: читаю, читаешь, читает, читаем, читаете, читают; or model 2: говорю, говоришь, говорит, говорим, говорите, говорят. These models are selected by the stem and do not themselves guarantee aspect: говорить is imperfective, while сказать is perfective. The present usually denotes a current or repeated action, but Russian morphology is richer than this simplified division. The verb быть usually omits the present copula: Бог есть любовь is emphatic or biblical; Бог — любовь is neutral. In the negative use не, not нет: Я не знаю. For a yes/no question, word order can change and ли may close the question: Знаешь ли ты? Time and aspect matter: Я читаю сейчас means “I am reading now”; Я буду читать expresses a planned or future action. The form читаю identifies the person who reads, not an article or gender.",
+        "es": "El infinitivo ruso suele terminar en -ть. En presente, un verbo puede seguir el modelo 1: читаю, читаешь, читает, читаем, читаете, читают; o el modelo 2: говорю, говоришь, говорит, говорим, говорите, говорят. El modelo depende del tema y no determina por sí mismo el aspecto: говорить es imperfectivo, mientras que сказать es perfectivo. El presente suele indicar una acción actual o repetida, pero la morfología rusa es más rica que esta división simplificada. El verbo быть suele omitir la cópula presente: Бог есть любовь es enfático o bíblico; Бог — любовь es neutro. En la negación se usa не, no нет: Я не знаю. En una pregunta de sí o no puede cambiar el orden y añadirse ли: Знаешь ли ты? Importan tiempo y aspecto: Я читаю сейчас significa «estoy leyendo ahora»; Я буду читать expresa una acción planeada o futura. La forma читаю identifica a quien lee, no un artículo ni el género."
+      },
+      "vocab": [
+        {
+          "form": "говорю",
+          "lemma": "говорить",
+          "lang": "ru",
+          "pt": "eu falo",
+          "en": "I speak",
+          "es": "yo hablo"
+        },
+        {
+          "form": "читают",
+          "lemma": "читать",
+          "lang": "ru",
+          "pt": "eles leem",
+          "en": "they read",
+          "es": "ellos leen"
+        },
+        {
+          "form": "верю",
+          "lemma": "верить",
+          "lang": "ru",
+          "pt": "eu creio",
+          "en": "I believe",
+          "es": "yo creo"
+        },
+        {
+          "form": "любит",
+          "lemma": "любить",
+          "lang": "ru",
+          "pt": "ele ama",
+          "en": "he loves",
+          "es": "él ama"
+        },
+        {
+          "form": "молимся",
+          "lemma": "молиться",
+          "lang": "ru",
+          "pt": "nós oramos",
+          "en": "we pray",
+          "es": "nosotros oramos"
+        },
+        {
+          "form": "есть",
+          "lemma": "быть",
+          "lang": "ru",
+          "pt": "é",
+          "en": "is",
+          "es": "es"
+        },
+        {
+          "form": "знаю",
+          "lemma": "знать",
+          "lang": "ru",
+          "pt": "eu sei",
+          "en": "I know",
+          "es": "yo sé"
+        },
+        {
+          "form": "могу",
+          "lemma": "мочь",
+          "lang": "ru",
+          "pt": "eu posso",
+          "en": "I can",
+          "es": "yo puedo"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Complete: я говор…",
+          "en": "Complete: я говор…",
+          "es": "Completa: я говор…"
+        },
+        "answer": "ю"
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: они чита…",
+            "en": "Complete: они чита…",
+            "es": "Completa: они чита…"
+          },
+          "answer": "ют"
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual verbo é perfectivo?",
+            "en": "Which verb is perfective?",
+            "es": "¿Qué verbo es perfectivo?"
+          },
+          "options": [
+            {
+              "pt": "говорить",
+              "en": "говорить",
+              "es": "говорить"
+            },
+            {
+              "pt": "сказать",
+              "en": "сказать",
+              "es": "сказать"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Como se forma a pergunta “¿Sabes?”?",
+            "en": "How do you form “Do you know?”?",
+            "es": "¿Cómo se forma «¿Lo sabes?»?"
+          },
+          "options": [
+            {
+              "pt": "Ты знаешь",
+              "en": "Ты знаешь",
+              "es": "Ты знаешь"
+            },
+            {
+              "pt": "Знаешь ли ты?",
+              "en": "Знаешь ли ты?",
+              "es": "¿Знаешь ли ты?"
+            },
+            {
+              "pt": "Ты ли знаешь",
+              "en": "Ты ли знаешь",
+              "es": "Ты ли знаешь"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Ли ocorre em perguntas de sim ou não.",
+            "en": "Ли occurs in yes/no questions.",
+            "es": "Ли aparece en preguntas de sí o no."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Нет nega la existencia; не niega una acción o cualidad.",
+            "en": "Нет negates existence; не negates an action or quality.",
+            "es": "Нет niega la existencia; не niega una acción o cualidad."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "O tema decide o aspecto",
+            "en": "The stem decides the aspect",
+            "es": "El tema decide el aspecto"
+          },
+          "text": {
+            "pt": "O presente russo tem só duas séries, mas elas não indicam aspecto: é o tema que decide. {говорю} e {говорю} são a mesma pessoa, e o par {говорить} / {сказать} é que carrega a diferença.",
+            "en": "The Russian present has only two series, but they do not mark aspect: the stem decides. The pair {говорить} / {сказать} is what carries the difference, not the ending.",
+            "es": "El presente ruso solo tiene dos series, pero no marcan aspecto: decide el tema. El par {говорить} / {сказать} es el que lleva la diferencia, no la terminación."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Они читают Библию",
+          "gloss": {
+            "pt": "Eles leen a Bíblia",
+            "en": "They read the Bible",
+            "es": "Ellos leen la Biblia"
+          }
+        },
+        {
+          "text": "Знаешь ли ты?",
+          "gloss": {
+            "pt": "Tu sabes?",
+            "en": "Do you know?",
+            "es": "¿Lo sabes?"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Presente de leer y hablar",
+            "en": "Present of “to read” and “to speak”",
+            "es": "Presente de «leer» y «hablar»"
+          },
+          "head": [
+            "Pessoa",
+            "читать",
+            "говорить"
+          ],
+          "rows": [
+            [
+              "я",
+              "читаю",
+              "говорю"
+            ],
+            [
+              "ты",
+              "читаешь",
+              "говоришь"
+            ],
+            [
+              "он/она/оно",
+              "читает",
+              "говорит"
+            ],
+            [
+              "мы",
+              "читаем",
+              "говорим"
+            ],
+            [
+              "вы",
+              "читаете",
+              "говорите"
+            ],
+            [
+              "они",
+              "читают",
+              "говорят"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "pt": "Leitura: João 1:1-5, 14",
+        "en": "Reading: John 1:1-5, 14",
+        "es": "Lectura: Juan 1:1-5, 14"
+      },
+      "subtitle": {
+        "pt": "В начале было Слово",
+        "en": "В начале было Слово",
+        "es": "В начале было Слово"
+      },
+      "section": {
+        "pt": "Leituras",
+        "en": "Readings",
+        "es": "Lecturas"
+      },
+      "body": {
+        "pt": "Leia a passagem em blocos e observe a concordância, o caso e as famílias lexicais. В начале: в + prepositivo; начало muda para начале. Слово é neutro, e por isso o neutro passado было concorda: \"a Palavra era\". У Бога: у + genitivo indica localização junto de Deus, \"com Deus\". No verso 1, было Deus põe o Verbo em equivalência com Deus gramaticalmente; Слovo com maiúscula é o título divino. No verso 4, в Нём: в + prepositivo, e o pronome assume a forma mole; в нём pode significar \"nele\". Свет e тьма são subjects nominais. No verso 5, светит é imperfeito e descreve a luz que brilha nas trevas. No verso 14, стало é singular neutro e concorda com Слово; плотию é uma terminação arcaica em -ию com valor instrumental, \"como carne\". O trecho исполненного благодати и истины está em genitivo depois do particípio e é uma fórmula bíblica fixa. Leia em voz alta: a pontuação desta tradução é editorial e não prova uma fronteira de palavra diferente.",
+        "en": "Read the passage in blocks and observe agreement, case and lexical families. В начале: в + prepositional; начало changes to начале. Слово is neuter, so the past neuter было agrees: “the Word was”. У Бога: у + genitive expresses location near God, “with God”. In verse 1, было Бог equates the Word with God grammatically; the capitalized Слово is the divine title. Verse 4, в Нём: в + prepositional and the pronoun takes its softened form. Свет and тьма are nominative subjects. Verse 5, светит is imperfective, describing light that shines in darkness. Verse 14, стало agrees with neuter Слово; плотию is an archaic instrumental in -ию, “as flesh”. The segment исполненного благодати и истины is genitive after the participle and is a fixed biblical phrase. Read aloud; punctuation is editorial.",
+        "es": "Lee el pasaje por bloques y observa la concordancia, el caso y las familias léxicas. В начале: в + preposicional; начало cambia a начале. Слово es neutro, por lo que el pasado neutro было concuerda: «la Palabra era». У Бога: у + genitivo expresa ubicación junto a Dios, «con Dios». En el versículo 1, было Dios establece gramaticalmente la identidad de la Palabra con Dios; Слovo con mayúscula es el título divino. En el v. 4, в Нём: в + preposicional y el pronombre toma la forma blanda. Свет y тьма son sujetos nominativos. En el v. 5, светит es imperfectivo y describe la luz que brilla en las tinieblas. En el v. 14, стало concuerda con Слово neutro; плотию es un instrumental arcaico en -ию, «como carne». El segmento исполненного благодати и истины está en genitivo tras el participio y forma una expresión bíblica fija. Lee en voz alta: la puntuación es editorial."
+      },
+      "vocab": [
+        {
+          "form": "было",
+          "lemma": "быть",
+          "lang": "ru",
+          "pt": "era, foi",
+          "en": "was",
+          "es": "era, fue"
+        },
+        {
+          "form": "стало",
+          "lemma": "стать",
+          "lang": "ru",
+          "pt": "tornou-se",
+          "en": "became",
+          "es": "se convirtió"
+        },
+        {
+          "form": "свет",
+          "lemma": "свет",
+          "lang": "ru",
+          "pt": "luz",
+          "en": "light",
+          "es": "luz"
+        },
+        {
+          "form": "тьма",
+          "lemma": "тьма",
+          "lang": "ru",
+          "pt": "tinieblas",
+          "en": "darkness",
+          "es": "tinieblas"
+        },
+        {
+          "form": "плотию",
+          "lemma": "плоть",
+          "lang": "ru",
+          "pt": "carne (instrumental arcaico)",
+          "en": "flesh (archaic instrumental)",
+          "es": "carne (instrumental arcaico)"
+        },
+        {
+          "form": "благодать",
+          "lemma": "благодать",
+          "lang": "ru",
+          "pt": "gracia",
+          "en": "grace",
+          "es": "gracia"
+        },
+        {
+          "form": "истина",
+          "lemma": "истина",
+          "lang": "ru",
+          "pt": "verdad",
+          "en": "truth",
+          "es": "verdad"
+        },
+        {
+          "form": "светит",
+          "lemma": "светить",
+          "lang": "ru",
+          "pt": "brilla",
+          "en": "shines",
+          "es": "brilla"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Por que aparece было e não был?",
+          "en": "Why is it было and not был?",
+          "es": "¿Por qué aparece было y no был?"
+        },
+        "options": [
+          {
+            "pt": "É plural",
+            "en": "It is plural",
+            "es": "Es plural"
+          },
+          {
+            "pt": "Concuerda com Слово, neutro",
+            "en": "It agrees with neuter Слово",
+            "es": "Concuerda con Слово, neutro"
+          },
+          {
+            "pt": "É futuro",
+            "en": "It is future",
+            "es": "Es futuro"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: у Бога está em qual caso?",
+            "en": "In у Бога, which case occurs?",
+            "es": "En у Бога, ¿qué caso aparece?"
+          },
+          "answer": "genitivo"
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual forma significa “como carne”?",
+            "en": "Which form means “as flesh”?",
+            "es": "¿Qué forma significa «como carne»?"
+          },
+          "options": [
+            {
+              "pt": "плотию",
+              "en": "плотию",
+              "es": "плотию"
+            },
+            {
+              "pt": "плоти",
+              "en": "плоти",
+              "es": "плоти"
+            },
+            {
+              "pt": "плоть",
+              "en": "плоть",
+              "es": "плоть"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: Слово ___ Бог",
+            "en": "Complete: Слово ___ Бог",
+            "es": "Completa: Слово ___ Бог"
+          },
+          "answer": "было"
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Um verbo passado concorda com o sujeito em gênero e número.",
+            "en": "A past verb agrees with its subject in gender and number.",
+            "es": "Un verbo pasado concuerda con el sujeto en género y número."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Traducción",
+            "en": "Translation",
+            "es": "Traducción"
+          },
+          "text": {
+            "pt": "A leitura João 1:14 mostra плотию em -ию; não é uma forma regular do substantivo.",
+            "en": "John 1:14 shows плотию in -ию; this is not a regular feminine noun form.",
+            "es": "Juan 1:14 muestra плотию en -ию; no es una forma regular del sustantivo."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ἐν ἀρχῇ ἦν ὁ λόγος",
+          "gloss": {
+            "pt": "No princípio era o Verbo — {ἐν} com genitivo ({ἀρχῇ}); {ἦν} imperfeito, por estado; {ὁ λόγος} é o sujeito no nominativo.",
+            "en": "In the beginning was the Word — {ἐν} with the genitive ({ἀρχῇ}); {ἦν} imperfect, marking state; {ὁ λόγος} is the nominative subject.",
+            "es": "En el principio era el Verbo — {ἐν} con genitivo ({ἀρχῇ}); {ἦν} imperfecto, por estado; {ὁ λόγος} es el sujeto en nominativo."
+          }
+        },
+        {
+          "text": "ὁ λόγος ἦν πρὸς τὸν θεόν",
+          "gloss": {
+            "pt": "o Verbo estava com Deus — {πρὸς} com acusativo: preposição que, em grego, rege o acusativo e significa relação, não movimento só.",
+            "en": "the Word was with God — {πρὸς} with the accusative: a preposition that in Greek governs the accusative and marks relation, not motion alone.",
+            "es": "el Verbo estaba con Dios — {πρὸς} con acusativo: preposición que en griego rige el acusativo y marca relación, no solo movimiento."
+          }
+        },
+        {
+          "text": "καὶ θεὸς ἦν ὁ λόγος",
+          "gloss": {
+            "pt": "e o Verbo era Deus — {θεὸς} no acusativo: predicativo, não sujeito. A preposição repete o nome, o verbo repete o tempo.",
+            "en": "and the Word was God — {θεὸς} in the accusative: predicative, not subject. The article repeats the noun, the verb repeats the tense.",
+            "es": "y el Verbo era Dios — {θεὸς} en acusativo: predicativo, no sujeto. El artículo repite el sustantivo, el verbo repite el tiempo."
+          }
+        },
+        {
+          "text": "ἐν αὐτῷ ζωὴ ἦν",
+          "gloss": {
+            "pt": "nele havia vida — {ζωὴ} no nominativo e {ἦν} de novo: o verbo não mudou de tempo ao mudar de sujeito.",
+            "en": "in him was life — {ζωὴ} nominative and {ἦν} again: the verb did not change tense when the subject changed.",
+            "es": "en él había vida — {ζωὴ} en nominativo y {ἦν} otra vez: el verbo no cambió de tiempo al cambiar de sujeto."
+          }
+        },
+        {
+          "text": "καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν",
+          "gloss": {
+            "pt": "e as trevas não o receberam — {οὐ} com verbo principal (negação de fato) e {κατέλαβεν} aoristo: ação pontual contra {ἦν}.",
+            "en": "and the darkness did not receive it — {οὐ} with the main verb (negation of fact) and {κατέλαβεν} aorist: a bounded action against {ἦν}.",
+            "es": "y las tinieblas no lo recibieron — {οὐ} con el verbo principal (negación de hecho) y {κατέλαβεν} aoristo: acción puntual frente a {ἦν}."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Análise de João 1:1 e 14",
+            "en": "Analysis of John 1:1 and 14",
+            "es": "Análisis de Juan 1:1 y 14"
+          },
+          "head": [
+            "Forma",
+            "Categoría",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "В начале",
+              "в + prepositivo",
+              "en el principio"
+            ],
+            [
+              "было",
+              "passado neutro sg.",
+              "era"
+            ],
+            [
+              "у Бога",
+              "у + genitivo",
+              "junto a Dios"
+            ],
+            [
+              "стало",
+              "passado neutro sg.",
+              "se hizo"
+            ],
+            [
+              "плотию",
+              "instrumental arcaico",
+              "como carne"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "pt": "Os seis casos",
+        "en": "The six cases",
+        "es": "Los seis casos"
+      },
+      "subtitle": {
+        "pt": "genitivo — dativo — instrumental — prepositivo",
+        "en": "genitive — dative — instrumental — prepositional",
+        "es": "genitivo — dativo — instrumental — preposicional"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "A declinação russa marca as relações sintáticas. O genitivo expressa posse ou origem: слово Бога, \"a palavra de Deus\"; depois de нет, \"não há\": нет хлеба. O dativo marca destinatário ou interesse: Богу, \"a Deus\"; Бога благослови, \"bendiga a Deus\". O instrumental expressa meio, companhia, lugar em alguns usos fixos e tempo: с Богом, \"com Deus\"; утром, \"de manhã\". O caso prepositivo aparece com preposição: в начале, \"no início\"; о Боге, \"sobre Deus\". Quando o substantivo termina em -о ou -е, a forma prepositiva pode acrescentar -м: о Боге, mas о слове. Em серафимом o prepositivo é о серафиме. O instrumental plural dos substantivos terminados em -а/-я é -ами/-ями: делами. Genitivo e acusativo singular coincidem nos substantivos masculinos animados: Бога pode significar \"de Deus\" ou \"Deus\" como objeto. As funções entre parênteses são pistas, não traduções universais.",
+        "en": "Russian declension marks syntactic relations. The genitive expresses possession or origin: слово Бога, “God’s word”; after нет, “there is no”: нет хлеба. The dative marks a recipient or interest: Богу, “to God”; Бога благослови, “bless God”. The instrumental expresses means, accompaniment, location in some fixed uses, and time: с Богом, “with God”; утром, “in the morning”. The prepositional case occurs with a preposition: в начале, “in the beginning”; о Боге, “about God”. When a noun ends in -о or -е, the prepositional form may add -м: о Боге, but о слове. The instrumental plural of nouns ending in -а/-я is -ами/-ями: делами. Genitive and accusative singular coincide for masculine animate nouns. Parenthetical functions are clues, not universal translations.",
+        "es": "La declinación rusa marca relaciones sintácticas. El genitivo expresa posesión u origen: слово Бога, «la palabra de Dios»; tras нет, «no hay»: нет хлеба. El dativo marca destinatario o interés: Богу, «a Dios»; Бога благослови, «bendice a Dios». El instrumental expresa medio, compañía, lugar en algunos usos fijos y tiempo: с Богом, «con Dios»; утром, «por la mañana». El preposicional aparece con preposición: в начале, «al comienzo»; о Боге, «acerca de Dios». Cuando el sustantivo termina en -о o -е, el preposicional puede añadir -м: о Боге, pero о слове. El instrumental plural de los sustantivos en -а/-я es -ами/-ями: делами. El genitivo y el acusativo singular coinciden en los sustantivos masculinos animados. Los sentidos entre paréntesis son pistas, no traducciones universales."
+      },
+      "vocab": [
+        {
+          "form": "Богу",
+          "lemma": "бог",
+          "lang": "ru",
+          "pt": "a Deus",
+          "en": "to God",
+          "es": "a Dios"
+        },
+        {
+          "form": "Богом",
+          "lemma": "бог",
+          "lang": "ru",
+          "pt": "com Deus",
+          "en": "with God",
+          "es": "con Dios"
+        },
+        {
+          "form": "о Боге",
+          "lemma": "бог",
+          "lang": "ru",
+          "pt": "sobre Deus",
+          "en": "about God",
+          "es": "acerca de Dios"
+        },
+        {
+          "form": "мне",
+          "lemma": "я",
+          "lang": "ru",
+          "pt": "a mim",
+          "en": "to me",
+          "es": "a mí"
+        },
+        {
+          "form": "хлеба",
+          "lemma": "хлеб",
+          "lang": "ru",
+          "pt": "pão (genitivo)",
+          "en": "bread (genitive)",
+          "es": "pan (genitivo)"
+        },
+        {
+          "form": "утром",
+          "lemma": "утро",
+          "lang": "ru",
+          "pt": "de manhã",
+          "en": "in the morning",
+          "es": "por la mañana"
+        },
+        {
+          "form": "Отче",
+          "lemma": "отец",
+          "lang": "ru",
+          "pt": "Ó Pai",
+          "en": "O Father",
+          "es": "Oh Padre"
+        },
+        {
+          "form": "о слове",
+          "lemma": "слово",
+          "lang": "ru",
+          "pt": "sobre a palavra",
+          "en": "about the word",
+          "es": "acerca de la palabra"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual caso aparece em с Богом?",
+          "en": "Which case occurs in с Богом?",
+          "es": "¿Qué caso aparece en с Богом?"
+        },
+        "options": [
+          {
+            "pt": "Dativo",
+            "en": "Dative",
+            "es": "Dativo"
+          },
+          {
+            "pt": "Instrumental",
+            "en": "Instrumental",
+            "es": "Instrumental"
+          },
+          {
+            "pt": "Genitivo",
+            "en": "Genitive",
+            "es": "Genitivo"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete o instrumental: кн…",
+            "en": "Complete the instrumental: кн…",
+            "es": "Completa el instrumental: кн…"
+          },
+          "answer": "ы"
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: о Б… (prepositivo de бог)",
+            "en": "Complete: о Б…",
+            "es": "Completa: о Б… (preposicional de бог)"
+          },
+          "answer": "оге"
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Que caso segue нет?",
+            "en": "Which case follows нет?",
+            "es": "¿Qué caso sigue a нет?"
+          },
+          "options": [
+            {
+              "pt": "Nominativo",
+              "en": "Nominative",
+              "es": "Nominativo"
+            },
+            {
+              "pt": "Genitivo",
+              "en": "Genitive",
+              "es": "Genitivo"
+            },
+            {
+              "pt": "Instrumental",
+              "en": "Instrumental",
+              "es": "Instrumental"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "A função de um caso depende do verbo e da preposição, não apenas da forma.",
+            "en": "The function of a case depends on the verb and preposition, not only on its shape.",
+            "es": "La función de un caso depende del verbo y de la preposición, no solo de la forma."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Uma forma, dois casos",
+            "en": "One form, two cases",
+            "es": "Una forma, dos casos"
+          },
+          "text": {
+            "pt": "Genitivo e acusativo coincidem nos masculinhos animados, e é por isso que {Бога} pode ser «de Deus» ou «Deus» como objeto. O contexto decide; a terminação sozinha não diz.",
+            "en": "Genitive and accusative coincide in masculine animate nouns, which is why {Бога} can be «of God» or «God» as an object. Context decides; the ending alone does not say.",
+            "es": "Genitivo y acusativo coinciden en los masculino animados, y por eso {Бога} puede ser «de Dios» o «Dios» como objeto. Decide el contexto; la terminación sola no lo dice."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "нет хлеба",
+          "gloss": {
+            "pt": "não há pão",
+            "en": "there is no bread",
+            "es": "no hay pan"
+          }
+        },
+        {
+          "text": "говорим о Боге",
+          "gloss": {
+            "pt": "falamos de Deus",
+            "en": "we speak about God",
+            "es": "hablamos de Dios"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Os seis casos de бог",
+            "en": "The six cases of бог",
+            "es": "Los seis casos de бог"
+          },
+          "head": [
+            "Caso",
+            "Forma",
+            "Função"
+          ],
+          "rows": [
+            [
+              "Nominativo",
+              "Бог",
+              "assunto"
+            ],
+            [
+              "Genitivo",
+              "Бога",
+              "de Deus"
+            ],
+            [
+              "Dativo",
+              "Богу",
+              "a Deus"
+            ],
+            [
+              "Acusativo",
+              "Бога",
+              "a Deus (objeto)"
+            ],
+            [
+              "Instrumental",
+              "Богом",
+              "com Deus"
+            ],
+            [
+              "Prepositivo",
+              "о Боге",
+              "sobre Deus"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "pt": "Pai-Nosso e aspecto verbal",
+        "en": "Our Father and verbal aspect",
+        "es": "Padrenuestro y aspecto verbal"
+      },
+      "subtitle": {
+        "pt": "да будет — делать/сделать",
+        "en": "да будет — делать/сделать",
+        "es": "да будет — делать/сделать"
+      },
+      "section": {
+        "pt": "Leituras",
+        "en": "Readings",
+        "es": "Lecturas"
+      },
+      "body": {
+        "pt": "Отче é uma forma vocativa herdada, ainda conservada na oração. сущий é um particípio presente ativo com valor gramatical de \"que é\", e да em да святится é partícula optativa, traduzida por convenção como \"seja\". да будет significa do mesmo modo \"seja\"; a forma будет em да будет tem valor futuro. Os imperativos дай e прости mostram sincretismo: as mesmas formas servem para tu ou vocês, embora a tonicidade ou o contexto possam esclarecer o número. Em дай нам, нам está em dativo porque o verbo toma destinatário. O aspecto russo é gramaticalizado, mas não é uma simples oposição de tempos. As formas imperfeitas делать, читать, говори apresentam processo, repetição ou resultado incompleto; as perfeitas сделать, прочитать, сказать apresenta evento delimitado, concluído ou inteiro. O mesmo verbo perfeito pode ter forma de presente em narrativa repetida: Вчера я прочитал книгу significa \"ontem li o livro inteiro\"; o resultado é apresentado como parte da situação passada. O aspecto não coincide com pontualidade em toda frase. Compare Я писал письмо, \"eu estava escrevendo uma carta\", com Я написал письмо, \"eu escrevi a carta\".",
+        "en": "Отче is an inherited vocative form preserved in the prayer. сущий is a present active participle meaning “who is”, and да in да святится is an optative particle, rendered “may”. да будет means “may it be”. Imperatives дай and прости can address ты or вы. In дай нам, нам is dative because the verb takes a recipient. Russian aspect is grammaticalized but not a simple tense opposition. Imperfective делать, читать, говорить present process, repetition or incomplete result; perfective сделать, прочитать, сказать present bounded, completed or whole events. Aspect is not identical to punctuality in every phrase: Я писал письмо, “I was writing a letter”; Я написал письмо, “I have written the letter”.",
+        "es": "Отче es un vocativo heredado que se conserva en la oración. сущий es un participio presente activo con el valor gramatical «que es», y да en да святится es una partícula optativa que aquí se traduce por «sea». да будет significa igualmente «sea». Los imperativos дай y прости pueden dirigirse a ты o a вы. En дай нам, нам está en dativo porque el verbo tiene un destinatario. El aspecto ruso está gramaticalizado, pero no constituye una simple oposición de tiempos. Las formas imperfectivas делать, читать, говорить presentan proceso, repetición o resultado incompleto; las perfectivas сделать, прочитать, сказать presentan eventos delimitados, cumplidos o tomados en conjunto. Aspecto no equivale siempre a puntualidad: Я писал письмо, «estaba escribiendo una carta»; Я написал письмо, «he escrito la carta»."
+      },
+      "vocab": [
+        {
+          "form": "сущий",
+          "lemma": "сущий",
+          "lang": "ru",
+          "pt": "que é",
+          "en": "who is",
+          "es": "que es"
+        },
+        {
+          "form": "да будет",
+          "lemma": "быть",
+          "lang": "ru",
+          "pt": "seja",
+          "en": "may it be",
+          "es": "sea"
+        },
+        {
+          "form": "дай",
+          "lemma": "дать",
+          "lang": "ru",
+          "pt": "dá",
+          "en": "give",
+          "es": "da"
+        },
+        {
+          "form": "сделать",
+          "lemma": "сделать",
+          "lang": "ru",
+          "pt": "fazer (perfectivo)",
+          "en": "do (perfective)",
+          "es": "hacer (perfectivo)"
+        },
+        {
+          "form": "прочитаю",
+          "lemma": "прочитать",
+          "lang": "ru",
+          "pt": "lerei por completo",
+          "en": "will read through",
+          "es": "leeré entero"
+        },
+        {
+          "form": "оставил",
+          "lemma": "оставить",
+          "lang": "ru",
+          "pt": "deixou",
+          "en": "left",
+          "es": "dejó"
+        },
+        {
+          "form": "делать",
+          "lemma": "делать",
+          "lang": "ru",
+          "pt": "fazer (imperfectivo)",
+          "en": "do (imperfective)",
+          "es": "hacer (imperfectivo)"
+        },
+        {
+          "form": "прости",
+          "lemma": "простить",
+          "lang": "ru",
+          "pt": "perdoa",
+          "en": "forgive",
+          "es": "perdona"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual par é imperfectivo/perfectivo?",
+          "en": "Which pair is imperfective/perfective?",
+          "es": "¿Qué par es imperfectivo/perfectivo?"
+        },
+        "options": [
+          {
+            "pt": "делать/сделать",
+            "en": "делать/сделать",
+            "es": "делать/сделать"
+          },
+          {
+            "pt": "сказать/говорить",
+            "en": "сказать/говорить",
+            "es": "сказать/говорить"
+          },
+          {
+            "pt": "простить/прощать",
+            "en": "простить/прощать",
+            "es": "простить/прощать"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: Я ___ письмо (ação concluída)",
+            "en": "Complete: Я ___ письмо (completed action)",
+            "es": "Completa: Я ___ письмо (acción cumplida)"
+          },
+          "answer": "написал"
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: да ___ нам",
+            "en": "Complete: да ___ нам",
+            "es": "Completa: да ___ нам"
+          },
+          "answer": "будет"
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual forma diz “ler por completo”?",
+            "en": "Which form means “read through”?",
+            "es": "¿Qué forma significa «leer entero»?"
+          },
+          "options": [
+            {
+              "pt": "читаю",
+              "en": "читаю",
+              "es": "читаю"
+            },
+            {
+              "pt": "прочитаю",
+              "en": "прочитаю",
+              "es": "прочитаю"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O perfectivo pode referirse ao passado, não apenas ao futuro.",
+            "en": "Perfective verbs can refer to the past, not only to the future.",
+            "es": "Los verbos perfectivos pueden referirse al pasado, no solo al futuro."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "As formas perfectivas também têm presente, embora o uso narrativo seja limitado.",
+            "en": "Perfective forms also have a present, though narrative use is limited.",
+            "es": "Las formas perfectivas también tienen presente, aunque su uso narrativo es limitado."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Да é partícula, não verbo",
+            "en": "Да is a particle, not a verb",
+            "es": "Да es partícula, no verbo"
+          },
+          "text": {
+            "pt": "Em {да святится} e {да будет}, o {да} é partícula optativa e o verbo fica no presente ou no futuro — as duas construções são paralelas, e é assim que o texto soa litúrgico.",
+            "en": "In {да святится} and {да будет}, {да} is an optative particle and the verb stays in present or future — the two are parallel, and that is what gives the text its liturgical sound.",
+            "es": "En {да святится} y {да будет}, {да} es partícula optativa y el verbo queda en presente o futuro — las dos son paralelas, y así suena el texto litúrgico."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я писал письмо",
+          "gloss": {
+            "pt": "Eu estava escrevendo uma carta",
+            "en": "I was writing a letter",
+            "es": "Estaba escribiendo una carta"
+          }
+        },
+        {
+          "text": "Я написал письмо",
+          "gloss": {
+            "pt": "Eu escrevi a carta",
+            "en": "I wrote the letter",
+            "es": "Escribí la carta"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Pares de aspecto",
+            "en": "Aspect pairs",
+            "es": "Pares de aspecto"
+          },
+          "head": [
+            "Imperfectivo",
+            "Perfectivo",
+            "Uso típico"
+          ],
+          "rows": [
+            [
+              "делать",
+              "сделать",
+              "proceso / resultado"
+            ],
+            [
+              "читать",
+              "прочитать",
+              "experiencia / lectura completa"
+            ],
+            [
+              "говорить",
+              "сказать",
+              "hablar / decir una vez"
+            ],
+            [
+              "писать",
+              "написать",
+              "escribir en curso / terminar"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "pt": "Adjetivos longos e curtos",
+        "en": "Long and short adjectives",
+        "es": "Adjetivos largos y cortos"
+      },
+      "subtitle": {
+        "pt": "хороший — хорош: qualidade e estado",
+        "en": "хороший — хорош: quality and state",
+        "es": "хороший — хорош: cualidad y estado"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "O adjetivo pleno, longo, concorda com o substantivo em gênero, número e caso: хороший человек, хорошая книга, хорошее слово, хорошие люди. Suas formas declinam: хорошего, хорошему e assim por diante. A forma curta do adjetivo é normalmente usada predicativamente, com быть ou outra cópula: Он велик, \"Ele é grande\"; Жизнь коротка, \"A vida é curta\". As formas curtas não declinam, mas variam por gênero e, no plural, não por caso gramatical: велик, велика, велико, велики. Portanto, a afirmação de que as formas curtas nunca mudam é imprecisa. No masculino singular a terminação zero costuma marcar o masculino, enquanto o feminino tem -а e o neutro -о. A forma longa também pode ser predicativa: Это интересно; compare Это интересная книга. Entre as expressões bíblicas estão Святое Писание, \"Sagrada Escritura\", Новый Завет, \"Novo Testamento\", e вечная жизнь, \"vida eterna\".",
+        "en": "The full, long adjective agrees with its noun in gender, number and case: хороший человек, хорошая книга, хорошее слово, хорошие люди. It declines: хорошего, хорошему and so on. A short adjectival form is normally used predicatively, with быть or another copula: Он велик, “He is great”; Жизнь коротка, “Life is short”. Short forms do not decline, but they do vary by gender and, in the plural, not by grammatical case: велик, велика, велико, велики. The long form may also be predicative: Это интересно; compare Это интересная книга. Biblical phrases include Святое Писание, “Holy Scripture”, Новый Завет, “New Testament”, and вечная жизнь, “eternal life”.",
+        "es": "El adjetivo pleno, largo, concuerda con el sustantivo en género, número y caso: хороший человек, хорошая книга, хорошее слово, хорошие люди. Se declina: хорошего, хорошему, etc. La forma corta suele usarse como predicativo con быть u otro verbo copulativo: Он велик, «es grande»; Жизнь коротка, «la vida es breve». Las formas cortas no se declinan, pero sí varían por género y, en plural, no por caso gramatical: велик, велика, велико, велики. Por ello, es inexacto decir que nunca cambian. La forma larga también puede ser predicativa: Это интересно; compárese Это интересная книга. Entre las expresiones bíblicas están Святое Писание, «Sagrada Escritura», Новый Завет, «Nuevo Testamento» y вечная жизнь, «vida eterna»."
+      },
+      "vocab": [
+        {
+          "form": "хороший",
+          "lemma": "хороший",
+          "lang": "ru",
+          "pt": "bom",
+          "en": "good",
+          "es": "bueno"
+        },
+        {
+          "form": "хорош",
+          "lemma": "хороший",
+          "lang": "ru",
+          "pt": "é bom",
+          "en": "is good",
+          "es": "es bueno"
+        },
+        {
+          "form": "хорошая",
+          "lemma": "хороший",
+          "lang": "ru",
+          "pt": "boa",
+          "en": "good feminine",
+          "es": "buena"
+        },
+        {
+          "form": "новый",
+          "lemma": "новый",
+          "lang": "ru",
+          "pt": "novo",
+          "en": "new",
+          "es": "nuevo"
+        },
+        {
+          "form": "Новый Завет",
+          "lemma": "Новый Завет",
+          "lang": "ru",
+          "pt": "Novo Testamento",
+          "en": "New Testament",
+          "es": "Nuevo Testamento"
+        },
+        {
+          "form": "вечный",
+          "lemma": "вечный",
+          "lang": "ru",
+          "pt": "eterno",
+          "en": "eternal",
+          "es": "eterno"
+        },
+        {
+          "form": "велик",
+          "lemma": "великий",
+          "lang": "ru",
+          "pt": "grande (curto)",
+          "en": "great (short)",
+          "es": "grande (corto)"
+        },
+        {
+          "form": "коротка",
+          "lemma": "короткий",
+          "lang": "ru",
+          "pt": "breve (curto)",
+          "en": "short (short)",
+          "es": "breve (corto)"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual forma é naturalmente predicativa?",
+          "en": "Which form is naturally predicative?",
+          "es": "¿Qué forma es naturalmente predicativa?"
+        },
+        "options": [
+          {
+            "pt": "хорош",
+            "en": "хорош",
+            "es": "хорош"
+          },
+          {
+            "pt": "хорошего",
+            "en": "хорошего",
+            "es": "хорошего"
+          },
+          {
+            "pt": "хорошее",
+            "en": "хорошее",
+            "es": "хорошее"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: Это ___ книга",
+            "en": "Complete: Это ___ книга",
+            "es": "Completa: Это ___ книга"
+          },
+          "answer": "хорошая"
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: Он ___ (grande, curto)",
+            "en": "Complete: Он ___ (great, short)",
+            "es": "Completa: Он ___ (grande, corto)"
+          },
+          "answer": "велик"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relaciona forma e gênero",
+            "en": "Match form and gender",
+            "es": "Relaciona forma y género"
+          },
+          "pairs": [
+            {
+              "a": "хорош",
+              "b": {
+                "pt": "masculino",
+                "en": "masculine",
+                "es": "masculino"
+              }
+            },
+            {
+              "a": "хороша",
+              "b": {
+                "pt": "feminino",
+                "en": "feminine",
+                "es": "femenino"
+              }
+            }
+          ],
+          "answer": [
+            "хорош",
+            "хороша"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O longo indica relação e concorda; o curto é típico do estado atribuído.",
+            "en": "The long form expresses a relation and agrees; the short form typically attributes a state.",
+            "es": "La forma larga expresa relación y concuerda; la corta suele atribuir un estado."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Curta ou longa?",
+            "en": "Short or long?",
+            "es": "¿Corta o larga?"
+          },
+          "text": {
+            "pt": "A forma curta só é usada em posição predicativa, e por isso {жизнь коротка} é correto enquanto {жизнь короткая} soa errado: o substantivo com artigo exige a forma longa.",
+            "en": "The short form is only used predicatively, so {жизнь коротка} is right while {жизнь короткая} sounds wrong: a noun with an article requires the long form.",
+            "es": "La forma corta solo se usa en posición predicativa, así que {жизнь коротка} es correcto mientras {жизнь короткая} suena mal: el sustantivo con artículo exige la forma larga."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Это хорошая книга",
+          "gloss": {
+            "pt": "Este é um bom livro",
+            "en": "This is a good book",
+            "es": "Este es un buen libro"
+          }
+        },
+        {
+          "text": "Он хорош",
+          "gloss": {
+            "pt": "Ele é bom",
+            "en": "He is good",
+            "es": "Él es bueno"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Concordância de хороший",
+            "en": "Agreement of хороший",
+            "es": "Concordancia de хороший"
+          },
+          "head": [
+            "Gênero/número",
+            "Forma longa",
+            "Forma curta"
+          ],
+          "rows": [
+            [
+              "masculino sg.",
+              "хороший",
+              "хорош"
+            ],
+            [
+              "feminino sg.",
+              "хорошая",
+              "хороша"
+            ],
+            [
+              "neutro sg.",
+              "хорошее",
+              "хорошо"
+            ],
+            [
+              "plural",
+              "хорошие",
+              "хороши"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": {
+        "pt": "Pronomes e possessivos",
+        "en": "Pronouns and possessives",
+        "es": "Pronombres y posesivos"
+      },
+      "subtitle": {
+        "pt": "я — его — свой: quem possui?",
+        "en": "я — его — свой: who owns?",
+        "es": "я — его — свой: ¿quién posee?"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "Os pronomes pessoais declinam por seis casos. As formas comuns são я: меня, мне, мной, обо мне; ты: тебя, тебе, тобой, о тебе; он/она/оно: его/её, ему/ей, им/ею/им, о нём/ней/нём. Pronomes que se referem a pessoas são animados, e por isso o acusativo de он é его, e não он. Depois de uma preposição, os pronomes masculino e neutro recebem н inicial: у него, с ним, о нём. Na locução prepositiva о нём, o нём átono é realizado com sinal mole. Os adjetivos possessivos concordam com o substantivo possuído: мой, моя, моё, мои; твой; наш; ваш; его e её concordam por gênero. O reflexivo свой significa \"de si mesmo\" e remete ao sujeito: Я люблю свою жену, \"amo a minha própria mulher\". A distinção não é absoluta quando se soma его, mas o uso padrão é claro: Он любит её жену, \"Ele ama a mulher dele\". A forma átona de мой continua мой, e o neutro é моё quando a vogal final recebe a tonicidade. Na linguagem bíblica, Отче наш faz наш concordar com o vocativo Отче, e não diretamente com um substantivo no nominativo.",
+        "en": "Personal pronouns decline through six cases. Common forms are я: меня, мне, мной, обо мне; ты: тебя, тебе, тобой, о тебе; он/она/оно: его/её, ему/ей, им/ею/им, о нём/ней/нём. Human pronouns are animate, so the accusative of он is его, not он. After a preposition, masculine and neuter pronouns take initial н: у него, с ним, о нём. Possessive adjectives agree with the possessed noun: мой, моя, моё, мои; твой; наш; ваш; его and её. The reflexive свой means “one’s own” and points to the subject: Я люблю свою жену, “I love my own wife”. In Отче наш, наш agrees with the vocative Отче.",
+        "es": "Los pronombres personales se declinan en seis casos. Formas comunes: я: меня, мне, мной, обо мне; ты: тебя, тебе, тобой, о тебе; он/она/оно: его/её, ему/ей, им/ею/им, о нём/ней/нём. Los pronombres que designan personas son animados, por lo que el acusativo de он es его, no он. Tras preposición, los pronombres masculino y neutro reciben н inicial: у него, с ним, о нём. Los adjetivos posesivos concuerdan con la cosa poseída: мой, моя, моё, мои; твой; наш; ваш; его y её. El reflexivo свой significa «propio» y remite al sujeto: Я люблю свою жену, «amo a mi propia esposa». En Отче наш, наш concuerda con el vocativo Отче."
+      },
+      "vocab": [
+        {
+          "form": "меня",
+          "lemma": "я",
+          "lang": "ru",
+          "pt": "me",
+          "en": "me",
+          "es": "me"
+        },
+        {
+          "form": "его",
+          "lemma": "он",
+          "lang": "ru",
+          "pt": "dele; dele (possessivo)",
+          "en": "him; his",
+          "es": "él; suyo"
+        },
+        {
+          "form": "о нём",
+          "lemma": "он",
+          "lang": "ru",
+          "pt": "sobre ele",
+          "en": "about him",
+          "es": "acerca de él"
+        },
+        {
+          "form": "мой",
+          "lemma": "мой",
+          "lang": "ru",
+          "pt": "meu",
+          "en": "my",
+          "es": "mío"
+        },
+        {
+          "form": "наш",
+          "lemma": "наш",
+          "lang": "ru",
+          "pt": "nosso",
+          "en": "our",
+          "es": "nuestro"
+        },
+        {
+          "form": "свою",
+          "lemma": "свой",
+          "lang": "ru",
+          "pt": "própria",
+          "en": "own",
+          "es": "propia"
+        },
+        {
+          "form": "себя",
+          "lemma": "себя",
+          "lang": "ru",
+          "pt": "a si mesmo",
+          "en": "oneself",
+          "es": "a sí mismo"
+        },
+        {
+          "form": "у него",
+          "lemma": "он",
+          "lang": "ru",
+          "pt": "junto a ele",
+          "en": "near him",
+          "es": "junto a él"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em «у него», qual forma aparece?",
+          "en": "In «у него», which form occurs?",
+          "es": "En «у него», ¿qué forma aparece?"
+        },
+        "options": [
+          {
+            "pt": "он",
+            "en": "он",
+            "es": "он"
+          },
+          {
+            "pt": "него",
+            "en": "него",
+            "es": "него"
+          },
+          {
+            "pt": "им",
+            "en": "им",
+            "es": "им"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: Отче ___",
+            "en": "Complete: Отче ___",
+            "es": "Completa: Отче ___"
+          },
+          "answer": "наш"
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: о ___ (sobre ele)",
+            "en": "Complete: о ___ (about him)",
+            "es": "Completa: о ___ (acerca de él)"
+          },
+          "answer": "нём"
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Que significa свой?",
+            "en": "What does свой mean?",
+            "es": "¿Qué significa свой?"
+          },
+          "options": [
+            {
+              "pt": "de outra pessoa",
+              "en": "another person’s",
+              "es": "de otra persona"
+            },
+            {
+              "pt": "próprio do sujeito",
+              "en": "the subject’s own",
+              "es": "propio del sujeto"
+            },
+            {
+              "pt": "impossessive",
+              "en": "impossible",
+              "es": "imposible"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "После preposição, os pronomes masculino e neutro recebem н inicial.",
+            "en": "After a preposition, masculine and neuter pronouns take initial н.",
+            "es": "Tras preposición, los pronombres masculino y neutro reciben н inicial."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "O possessivo segue a referência",
+            "en": "The possessive follows the referent",
+            "es": "El posesivo sigue la referencia"
+          },
+          "text": {
+            "pt": "No {Отче наш}, o {наш} concorda com o vocativo {Отче}, e não com um substantivo no nominativo. O possessivo acompanha a palavra a que se refere, não a posição na frase.",
+            "en": "In {Отче наш}, {наш} agrees with the vocative {Отче}, not with a noun in the nominative. A possessive follows the word it refers to, not its position in the sentence.",
+            "es": "En {Отче наш}, {наш} concuerda con el vocativo {Отче}, no con un sustantivo en nominativo. El posesivo sigue a la palabra a la que se refiere, no su posición en la frase."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я люблю свою жену",
+          "gloss": {
+            "pt": "Amo a minha própria esposa",
+            "en": "I love my own wife",
+            "es": "Amo a mi propia esposa"
+          }
+        },
+        {
+          "text": "Он любит её жену",
+          "gloss": {
+            "pt": "Ele ama a esposa dela",
+            "en": "He loves his wife",
+            "es": "Él ama a la esposa de ella"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Pronomes pessoais",
+            "en": "Personal pronouns",
+            "es": "Pronombres personales"
+          },
+          "head": [
+            "Caso",
+            "я",
+            "ты",
+            "он/она/оно"
+          ],
+          "rows": [
+            [
+              "Nominativo",
+              "я",
+              "ты",
+              "он/она/оно"
+            ],
+            [
+              "Genitivo",
+              "меня",
+              "тебя",
+              "его/её"
+            ],
+            [
+              "Dativo",
+              "мне",
+              "тебе",
+              "ему/ей"
+            ],
+            [
+              "Acusativo",
+              "меня",
+              "тебя",
+              "его/её"
+            ],
+            [
+              "Instrumental",
+              "мной",
+              "тобой",
+              "им/ею"
+            ],
+            [
+              "Preposicional",
+              "обо мне",
+              "о тебе",
+              "о нём/ней/нём"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": {
+        "pt": "Numerais e quantidade",
+        "en": "Numerals and quantity",
+        "es": "Numerales y cantidad"
+      },
+      "subtitle": {
+        "pt": "один, два, пять + casos",
+        "en": "один, два, пять + cases",
+        "es": "один, два, пять + casos"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "Os numerais cardinais concordam com o substantivo contado: один день, две книги, пять дней. O numeral один é especialmente adjetival e declina: одного дня, одному дню, одном дне. два e duas não declinam por gênero. Quando o próprio numeral declina, o substantivo só pode permanecer no singular em construções especiais, sobretudo expressões coletivas: dois часа é preferível a двух часов em muitos contextos. De 2 a 4, o padrão é numeral no nominativo mais substantivo no genitivo singular: два дня, три месяца, четыре книги. A partir de 5, usa-se o genitivo plural: пять дней, двадцать учеников, сто лет. Os numerais compostos terminados em 2–4 seguem o padrão singular apenas quando o numeral final é 2–4; nos demais casos, usa-se o substantivo plural. O mesmo numeral, em um composto terminado em 1 (exceto 11), pode concordar como adjetivo singular: двадцать один день. Os ordinais declinam como adjetivos: третьего дня, \"no terceiro dia\". Quantidades exigem o genitivo: много воды, мало света, несколько человек.",
+        "en": "Cardinal numerals agree with the counted noun: один день, две книги, пять дней. The numeral один is adjective-like and declines: одного дня, одному дню, одном дне. When the numeral itself declines, the noun can remain singular only in special constructions, chiefly collective phrases: два часа is often preferred to двух часов. For 2–4, the standard pattern is numeral nominative plus noun genitive singular: два дня, три месяца. For 5 onward, use noun genitive plural: пять дней, двадцать учеников, сто лет. Compound numerals ending in 2–4 follow the singular pattern only if the final numeral is 2–4; otherwise use the plural noun. Ordinals decline: третьего дня. Quantities take the genitive: много воды, мало света, несколько человек.",
+        "es": "Los numerales cardinales concuerdan con el sustantivo contado: один день, две книги, пять дней. El numeral один se parece a un adjetivo y se declina: одного дня, одному дню, одном дне. Los numerales два y две no se declinan por género. Cuando el numeral sí se declina, el sustantivo permanece en singular solo en construcciones especiales, sobre todo collectivas: suele preferirse два часа a двух часов. Para 2–4, el patrón normal es numeral nominativo más sustantivo genitivo singular: два дня, три месяца, четыре книги. Desde 5 en adelante, se usa el genitivo plural: пять дней, двадцать учеников, сто лет. Los numerales compuestos siguen el patrón singular solo si el último componente es 2–4; en los demás casos, se usa el sustantivo plural. Los ordinales se declinan: третьего дня. Las expresiones de cantidad rigen genitivo: много воды, мало света, несколько человек."
+      },
+      "vocab": [
+        {
+          "form": "один",
+          "lemma": "один",
+          "lang": "ru",
+          "pt": "um",
+          "en": "one",
+          "es": "uno"
+        },
+        {
+          "form": "две",
+          "lemma": "два",
+          "lang": "ru",
+          "pt": "duas",
+          "en": "two feminine",
+          "es": "dos"
+        },
+        {
+          "form": "дня",
+          "lemma": "день",
+          "lang": "ru",
+          "pt": "dias (gen. sg.)",
+          "en": "days (gen. sg.)",
+          "es": "días (gen. sg.)"
+        },
+        {
+          "form": "дней",
+          "lemma": "день",
+          "lang": "ru",
+          "pt": "dias (gen. pl.)",
+          "en": "days (gen. pl.)",
+          "es": "días (gen. pl.)"
+        },
+        {
+          "form": "третьего",
+          "lemma": "третий",
+          "lang": "ru",
+          "pt": "terceiro (gen.)",
+          "en": "third (genitive)",
+          "es": "tercero (gen.)"
+        },
+        {
+          "form": "много воды",
+          "lemma": "вода",
+          "lang": "ru",
+          "pt": "muita água",
+          "en": "much water",
+          "es": "mucha agua"
+        },
+        {
+          "form": "пять дней",
+          "lemma": "день",
+          "lang": "ru",
+          "pt": "cinco dias",
+          "en": "five days",
+          "es": "cinco días"
+        },
+        {
+          "form": "два часа",
+          "lemma": "час",
+          "lang": "ru",
+          "pt": "duas horas",
+          "en": "two hours",
+          "es": "dos horas"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Complete: два ___ (dois dias)",
+          "en": "Complete: два ___ (two days)",
+          "es": "Completa: два ___ (dos días)"
+        },
+        "answer": "дня"
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: пять ___",
+            "en": "Complete: пять ___",
+            "es": "Completa: пять ___"
+          },
+          "answer": "дней"
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: ___ книги (duas)",
+            "en": "Complete: ___ книги (two)",
+            "es": "Completa: ___ книги (dos)"
+          },
+          "answer": "две"
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Que caso leva много воды?",
+            "en": "Which case follows много воды?",
+            "es": "¿Qué caso lleva много воды?"
+          },
+          "options": [
+            {
+              "pt": "Nominativo",
+              "en": "Nominative",
+              "es": "Nominativo"
+            },
+            {
+              "pt": "Genitivo",
+              "en": "Genitive",
+              "es": "Genitivo"
+            },
+            {
+              "pt": "Dativo",
+              "en": "Dative",
+              "es": "Dativo"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Depois de 2–4, substantivo em genitivo singular; de 5 em diante, genitivo plural.",
+            "en": "After 2–4 use genitive singular; from 5 onward use genitive plural.",
+            "es": "Después de 2–4, genitivo singular; desde 5, genitivo plural."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Três a dez é feminino",
+            "en": "Three to ten is feminine",
+            "es": "Del tres al diez es femenino"
+          },
+          "text": {
+            "pt": "De 3 a 10 o numeral é feminino; a partir de 11 a unidade volta a concordar normalmente. A troca de gênero em {трёх} é um resíduo de uma regra antiga, não um erro do escriba.",
+            "en": "From 3 to 10 the numeral is feminine; from 11 on the unit agrees normally again. The gender switch in {трёх} is the residue of an old rule, not a scribal error.",
+            "es": "Del 3 al 10 el numeral es femenino; desde el 11 la unidad concuerda con normalidad. El cambio de género en {трёх} es un resto de una regla antigua, no un error del escriba."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "в третий день",
+          "gloss": {
+            "pt": "no terceiro dia",
+            "en": "on the third day",
+            "es": "al tercer día"
+          }
+        },
+        {
+          "text": "семь дней",
+          "gloss": {
+            "pt": "sete dias",
+            "en": "seven days",
+            "es": "siete días"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Contagem de 1 a 5",
+            "en": "Counting from 1 to 5",
+            "es": "Contar del 1 al 5"
+          },
+          "head": [
+            "Número",
+            "Exemplo",
+            "Explicação"
+          ],
+          "rows": [
+            [
+              "1",
+              "один день",
+              "nominativo singular"
+            ],
+            [
+              "2",
+              "два дня",
+              "genitivo singular"
+            ],
+            [
+              "3",
+              "три дня",
+              "genitivo singular"
+            ],
+            [
+              "4",
+              "четыре дня",
+              "genitivo singular"
+            ],
+            [
+              "5",
+              "пять дней",
+              "genitivo plural"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": {
+        "pt": "Verbos de movimento",
+        "en": "Motion verbs",
+        "es": "Verbos de movimiento"
+      },
+      "subtitle": {
+        "pt": "идти/ходить: direção e habitualidade",
+        "en": "идти/ходить: direction and habituality",
+        "es": "идти/ходить: dirección y habitualidad"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "Muitos verbos russes de movimento formam pares imperfeito/perfeito. идти é movimento dirigido, normalmente a pé; ходить é multidirecional ou habitual. Compare Я иду в церковь, \"estou indo para a igreja agora\", com Я хожу в церковь, \"vou à igreja regularmente\". O mesmo padrão aparece em ехать/ездить para viagem de veículo, бежать/бегать para corrida, лететь/летать para voo, плыть/плавать para natação ou navegação, e нести/носить para carregar. A escolha depende também do ponto de vista: ходить pode significar caminhar, visitar regularmente ou ser capaz de caminhar; летать pode significar voar repetidamente ou ser piloto. Os prefixos podem deslocar o movimento e o sentido: прийти é chegar a um destino, уйти é sair, войти é entrar, выйти é sair para fora. Em Христос пришёл, o perfeito com prefixo apresenta a chegada como evento delimitado. O imperfeito носиться em Дух носился над водою descreve movimento repetido ou circulante em Gênesis 1:2. Não derive o aspecto mecanicamente: em летит a consoante final é surda antes de uma terminação surda, e alguns pares têm temas suppletivos.",
+        "en": "Many Russian motion verbs form imperfective/perfective pairs. идти is directed motion, normally on foot; ходить is multidirectional or habitual motion. Compare Я иду в церковь, “I am going now”, with Я хожу в церковь, “I go regularly”. The same pattern appears in ехать/ездить, бежать/бегать, лететь/летать, плыть/плавать and нести/носить. Prefixes shift motion and meaning: прийти means to arrive, уйти to leave, войти to enter, выйти to go out. The imperfective носиться in Дух носился над водою describes circulating movement in Genesis 1:2. Aspect is not derived mechanically: летит has a voiceless final consonant before a voiceless ending, and some pairs have suppletive stems.",
+        "es": "Muchos verbos rusos de movimiento forman pares imperfectivo/perfectivo. идти expresa movimiento dirigido, normalmente a pie; ходить, movimiento multidireccional o habitual. Compara Я иду в церковь, «voy ahora a la iglesia», con Я хожу в церковь, «voy a la iglesia con regularidad». El mismo esquema aparece en ехать/ездить, бежать/бегать, лететь/летать, плыть/плавать y нести/носить. Los prefijos desplazan el movimiento y el significado: прийти, llegar; уйти, marcharse; войти, entrar; выйти, salir. El imperfectivo носиться en Дух носился над водою describe movimiento circulante en Génesis 1:2. El aspecto no se obtiene mecánicamente: летит tiene consonante final sorda ante terminación sorda, y algunos pares son supletivos."
+      },
+      "vocab": [
+        {
+          "form": "идти",
+          "lemma": "идти",
+          "lang": "ru",
+          "pt": "ir a pé (dirigido)",
+          "en": "go on foot (directed)",
+          "es": "ir a pie (dirigido)"
+        },
+        {
+          "form": "ходить",
+          "lemma": "ходить",
+          "lang": "ru",
+          "pt": "andar; ir habitualmente",
+          "en": "walk; go habitually",
+          "es": "andar; ir habitualmente"
+        },
+        {
+          "form": "ехать",
+          "lemma": "ехать",
+          "lang": "ru",
+          "pt": "ir em transporte",
+          "en": "travel by vehicle",
+          "es": "ir en transporte"
+        },
+        {
+          "form": "ездить",
+          "lemma": "ездить",
+          "lang": "ru",
+          "pt": "ir repetidamente",
+          "en": "travel repeatedly",
+          "es": "ir repetidamente"
+        },
+        {
+          "form": "прийти",
+          "lemma": "прийти",
+          "lang": "ru",
+          "pt": "chegar",
+          "en": "arrive",
+          "es": "llegar"
+        },
+        {
+          "form": "войти",
+          "lemma": "войти",
+          "lang": "ru",
+          "pt": "entrar",
+          "en": "enter",
+          "es": "entrar"
+        },
+        {
+          "form": "носился",
+          "lemma": "носиться",
+          "lang": "ru",
+          "pt": "pairava; circulava",
+          "en": "hovered; circulated",
+          "es": "planeaba; circulaba"
+        },
+        {
+          "form": "лететь",
+          "lemma": "лететь",
+          "lang": "ru",
+          "pt": "voar",
+          "en": "fly",
+          "es": "volar"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual verbo indica movimento dirigido?",
+          "en": "Which verb indicates directed motion?",
+          "es": "¿Qué verbo indica movimiento dirigido?"
+        },
+        "options": [
+          {
+            "pt": "ходить",
+            "en": "ходить",
+            "es": "ходить"
+          },
+          {
+            "pt": "идти",
+            "en": "идти",
+            "es": "идти"
+          },
+          {
+            "pt": "носиться",
+            "en": "носиться",
+            "es": "носиться"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete o perfectivo: ___йти (chegar)",
+            "en": "Complete the perfective: ___йти (arrive)",
+            "es": "Completa el perfectivo: ___йти (llegar)"
+          },
+          "answer": "пр"
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual forma descreve ido regular?",
+            "en": "Which form describes regular travel?",
+            "es": "¿Qué forma describe un viaje regular?"
+          },
+          "options": [
+            {
+              "pt": "еду",
+              "en": "еду",
+              "es": "еду"
+            },
+            {
+              "pt": "езжу",
+              "en": "езжу",
+              "es": "езжу"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: Он во___ в храм",
+            "en": "Complete: Он во___ в храм",
+            "es": "Completa: Он во___ в храм"
+          },
+          "answer": "шёл"
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Complementos estáticos ou de capacidade podem selecionar ходить.",
+            "en": "Static complements or ability can select ходить.",
+            "es": "Los complementos estáticos o de capacidad pueden seleccionar ходить."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Uma ida ou idas",
+            "en": "One trip or many",
+            "es": "Una ida o muchas"
+          },
+          "text": {
+            "pt": "O par {идти} / {ходить} descreve o mesmo ato visto de duas maneiras: uma ida agora, ou idas repetidas. É uma distinção de ponto de vista, e o contexto decide qual está em jogo.",
+            "en": "The pair {идти} / {ходить} describes the same act seen two ways: one trip now, or repeated trips. It is a distinction of viewpoint, and context decides which is in play.",
+            "es": "El par {идти} / {ходить} describe el mismo acto visto de dos maneras: una ida ahora, o idas repetidas. Es una distinción de punto de vista, y el contexto decide."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я иду в церковь",
+          "gloss": {
+            "pt": "Vou à igreja agora",
+            "en": "I am going to church",
+            "es": "Voy a la iglesia ahora"
+          }
+        },
+        {
+          "text": "Он ходит в церковь",
+          "gloss": {
+            "pt": "Ele vai à igreja habitualmente",
+            "en": "He goes to church regularly",
+            "es": "Él va a la iglesia con regularidad"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Pares de movimento",
+            "en": "Motion pairs",
+            "es": "Pares de movimiento"
+          },
+          "head": [
+            "Imperfectivo dirigido",
+            "Imperfectivo habitual",
+            "Perfectivo"
+          ],
+          "rows": [
+            [
+              "идти",
+              "ходить",
+              "прийти/уйти"
+            ],
+            [
+              "ехать",
+              "ездить",
+              "приехать/уехать"
+            ],
+            [
+              "бежать",
+              "бегать",
+              "пробежать"
+            ],
+            [
+              "лететь",
+              "летать",
+              "прилететь/улететь"
+            ],
+            [
+              "нести",
+              "носить",
+              "принести"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": {
+        "pt": "Aspecto e prefixos",
+        "en": "Aspect and prefixes",
+        "es": "Aspecto y prefijos"
+      },
+      "subtitle": {
+        "pt": "писать → написать, описать, списать",
+        "en": "писать → написать, описать, списать",
+        "es": "писать → написать, описать, списать"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "Os prefixos costumam produzir um verbo perfeito a partir de um imperfeito, mas nem sempre o fazem e muitas vezes acrescentam sentido lexical. Compare писать, um processo imperfeito, com написать, uma escrita delimitada e concluída; переписать, escrever de novo ou reescrever; записать, anotar; подписать, assinar; описать, descrever. Nas formas passadas perfeitas os prefixos são especialmente úteis: он описал, \"ele descreveu\". Verbos perfeitos também podem ser formados por sufixos, e um segundo imperfeito às vezes é suppletivo: сделать, perfeito, faz par com делать, imperfeito; взть faz par com брать. Assim, dizer que дай vem de давать está errado: дай é o imperativo de дать. O prefixo по- pode indicar ação limitada ou início de movimento: почитать, \"ler por um tempo\"; пойти, \"partir\", com пойдём, \"vamos\". про- nem sempre significa literalmente \"através\" e precisa ser aprendido lexicalmente em простить, \"perdoar\". Os prefixos também afetam a regência: выйти из, \"sair de\", exige genitivo, enquanto войти в toma acusativo ou prepositivo conforme o sentido estático ou dirigido.",
+        "en": "Prefixes commonly produce a perfective verb, but not always, and they often add lexical meaning. Compare писать, imperfective, with написать, bounded and completed; переписать, rewrite; записать, write down; подписать, sign; описать, describe. A second imperfective is sometimes suppletive: сделать pairs with делать, and взять with брать. дай is therefore the imperative of дать, not a form of давать. по- may limit duration or mark onset: почитать; пойти. про- is not always literally “through” and must be learned in простить. Prefixes also affect government: выйти из takes genitive, while войти в follows the verb’s static or directed interpretation.",
+        "es": "Los prefijos suelen producir un verbo perfectivo a partir de uno imperfectivo, pero no siempre, y a menudo añaden significado léxico. Compara писать, imperfectivo, con написать, delimitado y cumplido; переписать, reescribir; записать, anotar; подписать, firmar; описать, describir. A veces el segundo imperfectivo es supletivo: сделать se pareja con делать, y взять con брать. Por eso, дай es el imperativo de дать, no una forma de давать. El prefijo по- puede limitar la duración o marcar el inicio: почитать, leer un rato; пойти, ponerse en camino. про- no siempre significa literalmente «a través» y debe aprenderse en простить. Los prefijos también afectan al régimen: выйти из rige genitivo, mientras que войти в depende de la lectura estática o dirigida."
+      },
+      "vocab": [
+        {
+          "form": "написать",
+          "lemma": "написать",
+          "lang": "ru",
+          "pt": "escrever por completo",
+          "en": "write completely",
+          "es": "escribir por completo"
+        },
+        {
+          "form": "переписать",
+          "lemma": "переписать",
+          "lang": "ru",
+          "pt": "reescrever",
+          "en": "rewrite",
+          "es": "reescribir"
+        },
+        {
+          "form": "простить",
+          "lemma": "простить",
+          "lang": "ru",
+          "pt": "perdoar",
+          "en": "forgive",
+          "es": "perdonar"
+        },
+        {
+          "form": "пойти",
+          "lemma": "пойти",
+          "lang": "ru",
+          "pt": "pôr-se a caminho",
+          "en": "set off",
+          "es": "ponerse en camino"
+        },
+        {
+          "form": "давать",
+          "lemma": "давать",
+          "lang": "ru",
+          "pt": "dar repetidamente",
+          "en": "give repeatedly",
+          "es": "dar repetidamente"
+        },
+        {
+          "form": "прости нам",
+          "lemma": "простить",
+          "lang": "ru",
+          "pt": "perdoa-nos",
+          "en": "forgive us",
+          "es": "perdona-nos"
+        },
+        {
+          "form": "описать",
+          "lemma": "описать",
+          "lang": "ru",
+          "pt": "descrever",
+          "en": "describe",
+          "es": "describir"
+        },
+        {
+          "form": "взять",
+          "lemma": "взять",
+          "lang": "ru",
+          "pt": "pegar",
+          "en": "take",
+          "es": "tomar"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual forma significa “reescrever”?",
+          "en": "Which form means “rewrite”?",
+          "es": "¿Qué forma significa «reescribir»?"
+        },
+        "options": [
+          {
+            "pt": "написать",
+            "en": "написать",
+            "es": "написать"
+          },
+          {
+            "pt": "переписать",
+            "en": "переписать",
+            "es": "переписать"
+          },
+          {
+            "pt": "подписать",
+            "en": "подписать",
+            "es": "подписать"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: Я ___ письмо (concluído)",
+            "en": "Complete: Я ___ письмо (completed)",
+            "es": "Completa: Я ___ письмо (cumplido)"
+          },
+          "answer": "написал"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relaciona verbo e sentido",
+            "en": "Match verb and meaning",
+            "es": "Relaciona verbo y sentido"
+          },
+          "pairs": [
+            {
+              "a": "подписать",
+              "b": {
+                "pt": "assinar",
+                "en": "sign",
+                "es": "firmar"
+              }
+            },
+            {
+              "a": "описать",
+              "b": {
+                "pt": "descrever",
+                "en": "describe",
+                "es": "describir"
+              }
+            }
+          ],
+          "answer": [
+            "подписать",
+            "описать"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual é o par imperfectivo/perfectivo correto?",
+            "en": "Which imperfective/perfective pair is correct?",
+            "es": "¿Qué par imperfectivo/perfectivo es correcto?"
+          },
+          "options": [
+            {
+              "pt": "брать/взять",
+              "en": "брать/взять",
+              "es": "брать/взять"
+            },
+            {
+              "pt": "дать/давать",
+              "en": "дать/давать",
+              "es": "дать/давать"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Nem todo verbo perfectivo é formado por prefixo; nem todo verbo prefixado é perfectivo.",
+            "en": "Not every perfective verb is prefixed, and not every prefixed verb is perfective.",
+            "es": "No todo verbo perfectivo lleva prefijo, ni todo verbo prefijado es perfectivo."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Nem todo par é derivação",
+            "en": "Not every pair is a derivation",
+            "es": "No todo par es derivación"
+          },
+          "text": {
+            "pt": "Nem todo verbo perfeito vem de um imperfeito com prefixo: {взять} faz par com {брать}, e os temas não se parecem. Tratar o aspecto como derivação mecânica produz erros que a lista de verbos denuncia.",
+            "en": "Not every perfect verb comes from a prefixed imperfect: {взять} pairs with {брать}, and the stems do not resemble each other. Treating aspect as mechanical derivation produces errors a verb list gives away.",
+            "es": "No todo verbo perfecto viene de un imperfecto prefijado: {взять} hace par con {брать}, y los temas no se parecen. Tratar el aspecto como derivación mecánica produce errores que la lista de verbos delata."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Он написал письмо",
+          "gloss": {
+            "pt": "Ele escreveu a carta",
+            "en": "He wrote the letter",
+            "es": "Él escribió la carta"
+          }
+        },
+        {
+          "text": "Он пишет письмо",
+          "gloss": {
+            "pt": "Ele está escrevendo uma carta",
+            "en": "He is writing a letter",
+            "es": "Él está escribiendo una carta"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Prefijos e mudança de sentido",
+            "en": "Prefixes and meaning shifts",
+            "es": "Prefijos y cambio de sentido"
+          },
+          "head": [
+            "Verbo",
+            "Significado",
+            "Glosa"
+          ],
+          "rows": [
+            [
+              "написать",
+              "completar a ação",
+              "escrever"
+            ],
+            [
+              "переписать",
+              "outra vez",
+              "reescrever"
+            ],
+            [
+              "записать",
+              "registrar",
+              "anotar"
+            ],
+            [
+              "описать",
+              "dar a forma por escrito",
+              "descrever"
+            ],
+            [
+              "подписать",
+              "assinar abaixo/dentro",
+              "firmar"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": {
+        "pt": "Participios e gerúndios",
+        "en": "Participles and gerunds",
+        "es": "Participios y gerundios"
+      },
+      "subtitle": {
+        "pt": "говорящий, сказанный — говоря",
+        "en": "говорящий, сказанный — говоря",
+        "es": "говорящий, сказанный — говоря"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "O particípio russo, причастие, combina traços verbais e adjetivais. O particípio presente ativo termina em -ый/-ий: говорящий, \"falando\"; верующий, \"crendo\". O particípio passado ativo termina em -вший/-ший: сказавший, \"que disse\". Os particípios passivos formam-se normalmente a partir de verbos transitivos: presente -емый/-имый, como em любимый, \"amado\", e passado -мый/-нный/-тый, como em сказанный, \"dito\" e написанный, \"escrito\". A etiqueta \"passivo presente\" refere-se a uma relação com o presente, não necessariamente ao tempo atual. Os particípios declinam quando são adjetivais, e a forma curta é comum no estilo bíblico predicativo: Благословен грядущий, \"Bem-aventurado o que vem\", em Mateus 21:9. Nessa oração Благословен é um particípio passado passivo curto usado predicativamente, e грядущий é um particípio presente ativo. O деепричастие, muitas vezes chamado gerúndio, é formalmente um advérbio e é normalmente invariável: читая, \"enquanto lê\"; говоря, \"enquanto fala\". Seu sujeito é normalmente o sujeito da oração principal. Ele não é a contrapartida aspectual do infinitivo perfeito: não deve ser chamado de gerúndio perfeito. Em Приходите ко Мне, труждающиеся é um particípio, não um gerúndio.",
+        "en": "A Russian participle combines verbal and adjectival features. A present active participle ends in -ый/-ий: говорящий, “speaking”; верующий, “believing”. A past active participle ends in -вший/-ший: сказавший. Passive participles are normally formed from transitive verbs: present -емый/-имый, as in любимый, and past -мый/-нный/-тый, as in сказанный and написанный. “Present passive” refers to a relation to the present, not necessarily current time. Participles decline when adjectival, and the short form is common in predicative biblical style: Благословен грядущий. A деепричастие, often called gerund, is normally invariant: читая, “while reading”. Its subject is normally the subject of the main clause. It is not a perfective counterpart of the infinitive. In Приходите ко Мне, труждающиеся is a participle, not a gerund.",
+        "es": "El participio ruso, причастие, combina rasgos verbales y adjetivales. El participio presente activo termina en -ый/-ий: говорящий, «que habla»; верующий, «que cree». El participio pasado activo termina en -вший/-ший: сказавший. Los participios pasivos se forman normalmente de verbos transitivos: presente -емый/-имый, como любимый, «amado», y pasado -мый/-нный/-тый, como сказанный, «dicho», y написанный, «escrito». «Pasivo presente» expresa relación con el presente, no necesariamente tiempo actual. Los participios se declinan cuando funcionan como adjetivos, y la forma corta es frecuente en el estilo bíblico predicativo: Благословен грядущий, «bendito el que viene». En esta cláusula Благословен es un participio pasivo pasado corto y грядущий un participio presente activo. El деепричастие, llamado a menudo gerundio, suele ser invariable: читая, «mientras lee». Su sujeto suele ser el de la proposición principal. No es una contraparte perfectiva del infinitivo: no debe llamarse «gerundio perfectivo». En Приходите ко Мне, труждающиеся es un participio, no un gerundio."
+      },
+      "vocab": [
+        {
+          "form": "говорящий",
+          "lemma": "говорить",
+          "lang": "ru",
+          "pt": "que fala",
+          "en": "speaking",
+          "es": "que habla"
+        },
+        {
+          "form": "верующий",
+          "lemma": "верить",
+          "lang": "ru",
+          "pt": "crente",
+          "en": "believer",
+          "es": "creyente"
+        },
+        {
+          "form": "сказанный",
+          "lemma": "сказать",
+          "lang": "ru",
+          "pt": "dito",
+          "en": "said",
+          "es": "dicho"
+        },
+        {
+          "form": "благословен",
+          "lemma": "благословить",
+          "lang": "ru",
+          "pt": "bendito",
+          "en": "blessed",
+          "es": "bendito"
+        },
+        {
+          "form": "говоря",
+          "lemma": "говорить",
+          "lang": "ru",
+          "pt": "falando",
+          "en": "while speaking",
+          "es": "mientras habla"
+        },
+        {
+          "form": "читая",
+          "lemma": "читать",
+          "lang": "ru",
+          "pt": "lendo",
+          "en": "while reading",
+          "es": "mientras lee"
+        },
+        {
+          "form": "написанный",
+          "lemma": "написать",
+          "lang": "ru",
+          "pt": "escrito",
+          "en": "written",
+          "es": "escrito"
+        },
+        {
+          "form": "грядущий",
+          "lemma": "идти",
+          "lang": "ru",
+          "pt": "que vem",
+          "en": "coming",
+          "es": "que viene"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Complete Mt 21:9: Благословен ___",
+          "en": "Complete Mt 21:9: Благословен ___",
+          "es": "Completa Mt 21:9: Благословен ___"
+        },
+        "answer": "грядущий"
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete o gerúndio: говор…",
+            "en": "Complete the gerund: говор…",
+            "es": "Completa el gerundio: говор…"
+          },
+          "answer": "я"
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual é um participio presente ativo?",
+            "en": "Which is a present active participle?",
+            "es": "¿Cuál es un participio presente activo?"
+          },
+          "options": [
+            {
+              "pt": "говорящий",
+              "en": "говорящий",
+              "es": "говорящий"
+            },
+            {
+              "pt": "сказанный",
+              "en": "сказанный",
+              "es": "сказанный"
+            },
+            {
+              "pt": "написанный",
+              "en": "написанный",
+              "es": "написанный"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual flexão de сказанный é curta?",
+            "en": "Which form of сказанный is short?",
+            "es": "¿Qué forma de сказанный es corta?"
+          },
+          "options": [
+            {
+              "pt": "сказан",
+              "en": "сказан",
+              "es": "сказан"
+            },
+            {
+              "pt": "сказанный",
+              "en": "сказанный",
+              "es": "сказанный"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Деепричастие mantém sujeito da oração principal.",
+            "en": "A деепричастие normally shares the subject of the main clause.",
+            "es": "El деепричастие suele compartir el sujeto de la proposición principal."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Particípio flexiona, gerúndio não",
+            "en": "The participle declines, the gerund does not",
+            "es": "El participio se flexiona, el gerundio no"
+          },
+          "text": {
+            "pt": "O particípio é um adjetivo que herdou marcas verbais: ele se flexiona e concorda. O деепричастие é o oposto — advérbio, invariável e sem flexão. Confundir os dois é o erro mais comum da lição.",
+            "en": "The participle is an adjective that inherited verbal marks: it declines and agrees. The деепричастие is the opposite — an adverb, invariable and uninflected. Confusing the two is the lesson's commonest error.",
+            "es": "El participio es un adjetivo que heredó marcas verbales: se flexiona y concuerda. El деепричастие es lo contrario — adverbio, invariable y sin flexión. Confundirlos es el error más común de la lección."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Благословен грядущий",
+          "gloss": {
+            "pt": "Bendito o que vem",
+            "en": "Blessed is he who comes",
+            "es": "Bendito el que viene"
+          }
+        },
+        {
+          "text": "Он говорил, читая текст",
+          "gloss": {
+            "pt": "Ele falava lendo o texto",
+            "en": "He spoke while reading the text",
+            "es": "Él hablaba mientras leía el texto"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Formação dos participios",
+            "en": "Participle formation",
+            "es": "Formación de participios"
+          },
+          "head": [
+            "Tipo",
+            "Terminação típica",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "Presente ativo",
+              "-ый/-ий",
+              "говорящий"
+            ],
+            [
+              "Passado ativo",
+              "-вший/-ший",
+              "сказавший"
+            ],
+            [
+              "Presente passivo",
+              "-емый/-имый",
+              "любимый"
+            ],
+            [
+              "Passado passivo",
+              "-мый/-нный/-тый",
+              "написанный"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": {
+        "pt": "Imperativo, desire e finalidade",
+        "en": "Imperative, wish and purpose",
+        "es": "Imperativo, deseo y finalidad"
+      },
+      "subtitle": {
+        "pt": "скажи! — пусть — чтобы",
+        "en": "скажи! — пусть — чтобы",
+        "es": "скажи! — пусть — чтобы"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "O imperativo russo é formado normalmente a partir da segunda pessoa do singular ou da terceira do plural do futuro: ты скажешь dá скажи, вы скажете dá скажите. Para ты, quando a tonicidade fica na sílaba final, usa-se muitas vezes o tema sem -те: читайте vira читай; пишите vira пиши. Para \"nós\" usa-se пойдём, \"vamos\". Os imperativos de быть são будь e будьте, e não будься. A negação usa не antes do verbo: не говори, \"não fale\", ou не скажи, \"não diga desta vez\"; a escolha do aspecto altera o alcance da proibição. пусть exprime desejo ou ordem na terceira pessoa e normalmente recebe forma de presente ou de futuro: пусть будет свет, \"haja luz\", ou пусть придёт, \"que ele venha\". Na oração do Pai-Nosso, да святится e да будет são construções optativas paralelas. Uma oração de finalidade usa normalmente чтобы. Se as duas orações têm o mesmo sujeito, o verbo aparece no infinitivo: Он читает, чтобы понять, \"Ele lê para compreender\". Se os sujeitos diferem, o verbo aparece no passado: Чтобы ты веровал, \"para que creias\", Он говорит, чтобы я понял, \"Ele fala para que eu compreenda\". Portanto чтобы não é apenas um marcador do passado.",
+        "en": "The imperative is normally formed from the second person singular or third person plural of the future: ты скажешь gives скажи, вы скажете gives скажите. For ты, singular stress often uses the stem without -те: читайте becomes читай. We says пойдём, “let us go”. Imperatives of быть include будь and будьте, not будься. The negative uses не: не говори, or не скажи; aspect affects scope. пусть expresses a third-person wish and takes a present or future form: пусть будет свет, “let there be light”. A purpose clause uses чтобы. With the same subject, the verb is an infinitive: Он читает, чтобы понять. With different subjects, it is past tense: Он говорит, чтобы я понял. Thus чтобы does not merely mark the past.",
+        "es": "El imperativo ruso se forma normalmente a partir de la segunda persona del singular o de la tercera del plural del futuro: ты скажешь da скажи, вы скажете da скажите. Para ты, cuando el acento recae en la última sílaba suele usarse el tema sin -те: читайте pasa a читай. Para nosotros: пойдём, «vamos». Los imperativos de быть son будь y будьте, no будься. La negación usa не: не говори o не скажи; el aspecto afecta al alcance. пусть expresa deseo o mandato en tercera persona y suele llevar presente o futuro: пусть будет свет, «haya luz». La oración de finalidad usa чтобы. Si ambos sujetos coinciden, el verbo aparece en infinitivo: Он читает, чтобы понять. Si difieren, aparece en pasado: Он говорит, чтобы я понял. Por tanto, чтобы no es simplemente una marca de pasado."
+      },
+      "vocab": [
+        {
+          "form": "скажи",
+          "lemma": "сказать",
+          "lang": "ru",
+          "pt": "diz",
+          "en": "say",
+          "es": "di"
+        },
+        {
+          "form": "читай",
+          "lemma": "читать",
+          "lang": "ru",
+          "pt": "lê",
+          "en": "read",
+          "es": "lee"
+        },
+        {
+          "form": "будьте",
+          "lemma": "быть",
+          "lang": "ru",
+          "pt": "sejam",
+          "en": "be",
+          "es": "sed"
+        },
+        {
+          "form": "пусть будет",
+          "lemma": "быть",
+          "lang": "ru",
+          "pt": "seja",
+          "en": "let there be",
+          "es": "sea"
+        },
+        {
+          "form": "чтобы",
+          "lemma": "чтобы",
+          "lang": "ru",
+          "pt": "para que",
+          "en": "so that",
+          "es": "para que"
+        },
+        {
+          "form": "не говори",
+          "lemma": "говорить",
+          "lang": "ru",
+          "pt": "não fale",
+          "en": "do not speak",
+          "es": "no hables"
+        },
+        {
+          "form": "пойдём",
+          "lemma": "пойти",
+          "lang": "ru",
+          "pt": "vamos",
+          "en": "let us go",
+          "es": "vamos"
+        },
+        {
+          "form": "да святится",
+          "lemma": "святиться",
+          "lang": "ru",
+          "pt": "seja santificado",
+          "en": "may it be hallowed",
+          "es": "sea santificado"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Como se diz “haja luz” com desejo?",
+          "en": "How do you say “let there be light”?",
+          "es": "¿Cómo se dice «haya luz»?"
+        },
+        "options": [
+          {
+            "pt": "будет свет",
+            "en": "будет свет",
+            "es": "будет свет"
+          },
+          {
+            "pt": "пусть будет свет",
+            "en": "пусть будет свет",
+            "es": "пусть будет свет"
+          },
+          {
+            "pt": "будь свет",
+            "en": "будь свет",
+            "es": "будь свет"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete o imperativo: скаж…",
+            "en": "Complete the imperative: скаж…",
+            "es": "Completa el imperativo: скаж…"
+          },
+          "answer": "и"
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: Он читает, ___ понять",
+            "en": "Complete: Он читает, ___ понять",
+            "es": "Completa: Он читает, ___ понять"
+          },
+          "answer": "чтобы"
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual negação combina com fala habitual?",
+            "en": "Which negation fits habitual speech?",
+            "es": "¿Qué negación combina con el habla habitual?"
+          },
+          "options": [
+            {
+              "pt": "не говори",
+              "en": "не говори",
+              "es": "не говори"
+            },
+            {
+              "pt": "не сказал",
+              "en": "не сказал",
+              "es": "не сказал"
+            },
+            {
+              "pt": "не сказать",
+              "en": "не сказать",
+              "es": "не сказать"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Com чтобы, o verbo fica no infinitivo se o sujeito é o mesmo; no passado se difere.",
+            "en": "With чтобы, use the infinitive if the subject is shared; use the past if subjects differ.",
+            "es": "Con чтобы, usa el infinitivo si coincide el sujeto; usa el pasado si los sujetos difieren."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Чтобы informa, não marca",
+            "en": "Чтобы informs, it does not mark",
+            "es": "Чтобы informa, no marca"
+          },
+          "text": {
+            "pt": "Depois de {чтобы}, o tempo do verbo não é um resíduo: é informação. Se os sujeitos são o mesmo, aparece o infinitivo; se são diferentes, o passado — e é essa diferença que resolve o que se está dizendo.",
+            "en": "After {чтобы}, the verb tense is not a leftover: it is information. If the subjects are the same, the infinitive appears; if they differ, the past does — and that difference resolves what is being said.",
+            "es": "Tras {чтобы}, el tiempo del verbo no es un resto: es información. Si los sujetos son el mismo, aparece el infinitivo; si difieren, el pasado — y esa diferencia resuelve lo que se dice."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Он читает, чтобы понять",
+          "gloss": {
+            "pt": "Ele lê para entender",
+            "en": "He reads in order to understand",
+            "es": "Él lee para entender"
+          }
+        },
+        {
+          "text": "Пусть будет свет",
+          "gloss": {
+            "pt": "Haja luz",
+            "en": "Let there be light",
+            "es": "Haya luz"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Formação do imperativo",
+            "en": "Imperative formation",
+            "es": "Formación del imperativo"
+          },
+          "head": [
+            "Pessoa",
+            "Futuro",
+            "Imperativo"
+          ],
+          "rows": [
+            [
+              "ты",
+              "скажешь",
+              "скажи"
+            ],
+            [
+              "вы",
+              "скажете",
+              "скажите"
+            ],
+            [
+              "мы",
+              "скажем",
+              "скажем / скажемте"
+            ],
+            [
+              "они",
+              "скажут",
+              "—"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": {
+        "pt": "Preposições e casos",
+        "en": "Prepositions and cases",
+        "es": "Preposiciones y casos"
+      },
+      "subtitle": {
+        "pt": "в, на, с, к, о, у, от, до, про",
+        "en": "в, на, с, к, о, у, от, до, про",
+        "es": "в, на, с, к, о, у, от, до, про"
+      },
+      "section": {
+        "pt": "Sintaxe",
+        "en": "Syntax",
+        "es": "Sintaxis"
+      },
+      "body": {
+        "pt": "Uma preposição seleciona um caso, mas a mesma preposição pode selecionar casos diferentes. в + prepositivo marca lugar: в начале, \"no início\"; в + acusativo marca direção para dentro: в храм, \"para dentro do templo\". на + prepositivo marca lugar sobre ou em um domínio: на небе, \"no céu\", на столе, \"sobre a mesa\"; на + acusativo marca direção para cima: на стену, \"sobre a parede\". с + instrumental marca companhia ou origem pessoal: с Богом, \"com Deus\", с тобой, \"contigo\"; с + genitivo marca origem: с неба, \"do céu\". к + dativo significa a ou em direção a: к Богу. от + genitivo significa de: от Бога. до + genitivo significa até: до конца. у + genitivo significa perto de ou junto de: у Бога. о + prepositivo significa sobre ou contra: о Боге. про + prepositivo significa a respeito de: говорить о contra говорить про. O caso prepositivo não tem forma de terminação zero: о Боге, mas о слове. Antes de grupos de consoantes, в e на podem tomar о ou и: во храм, на небе, в России. O Credo tradicional diz Верую, e não Верую во: a forma curta верю tem terminação zero e recebe a preposição por extenso.",
+        "en": "A preposition selects a case, but may select different cases. в + prepositional marks location: в начале; в + accusative marks direction inward: в храм. на + prepositional marks location: на небе; на + accusative direction: на стену. с + instrumental marks accompaniment: с Богом; с + genitive marks origin: с неба. к + dative means to: к Богу. от + genitive means from: от Бога. до + genitive means until: до конца. у + genitive means near: у Бога. о + prepositional means about: о Боге. про + prepositional means concerning: говорить про. The prepositional case has no zero ending: о Боге but о слове. Before consonant clusters в and на take о or и: во храм, на небе. The traditional Creed says Верую, not Верую во: the short form верю has zero ending.",
+        "es": "Una preposición rige un caso, pero una misma preposición puede regir varios. в + preposicional expresa ubicación: в начале; в + acusativo, dirección hacia el interior: в храм. на + preposicional expresa ubicación: на небе, на столе; на + acusativo, dirección: на стену. с + instrumental expresa compañía: с Богом; с + genitivo, origen: с неба. к + dativo significa a o hacia: к Богу. от + genitivo significa desde: от Бога. до + genitivo significa hasta: до конца. у + genitivo significa junto a: у Бога. о + preposicional significa acerca de: о Боге. про + preposicional significa acerca de o concerniente: говорить про. El preposicional nunca tiene terminación cero: о Боге, pero о слове. Ante grupos de consonantes, в y на toman о o и: во храм, на небе. El Credo tradicional dice Верую, no Верую во: la forma corta верю tiene terminación cero."
+      },
+      "vocab": [
+        {
+          "form": "в храм",
+          "lemma": "храм",
+          "lang": "ru",
+          "pt": "para dentro do templo",
+          "en": "into the temple",
+          "es": "hacia el interior del templo"
+        },
+        {
+          "form": "на небо",
+          "lemma": "небо",
+          "lang": "ru",
+          "pt": "para o céu",
+          "en": "to heaven",
+          "es": "hacia el cielo"
+        },
+        {
+          "form": "с неба",
+          "lemma": "небо",
+          "lang": "ru",
+          "pt": "do céu",
+          "en": "from heaven",
+          "es": "desde el cielo"
+        },
+        {
+          "form": "к Богу",
+          "lemma": "бог",
+          "lang": "ru",
+          "pt": "a Deus",
+          "en": "to God",
+          "es": "a Dios"
+        },
+        {
+          "form": "от Бога",
+          "lemma": "бог",
+          "lang": "ru",
+          "pt": "de Deus",
+          "en": "from God",
+          "es": "de Dios"
+        },
+        {
+          "form": "до конца",
+          "lemma": "конец",
+          "lang": "ru",
+          "pt": "até o fim",
+          "en": "to the end",
+          "es": "hasta el final"
+        },
+        {
+          "form": "о Боге",
+          "lemma": "бог",
+          "lang": "ru",
+          "pt": "sobre Deus",
+          "en": "about God",
+          "es": "acerca de Dios"
+        },
+        {
+          "form": "о слове",
+          "lemma": "слово",
+          "lang": "ru",
+          "pt": "sobre a palavra",
+          "en": "about the word",
+          "es": "acerca de la palabra"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual caso aparece в храм?",
+          "en": "Which case occurs in в храм?",
+          "es": "¿Qué caso aparece en в храм?"
+        },
+        "options": [
+          {
+            "pt": "Prepositivo",
+            "en": "Prepositional",
+            "es": "Preposicional"
+          },
+          {
+            "pt": "Acusativo",
+            "en": "Accusative",
+            "es": "Acusativo"
+          },
+          {
+            "pt": "Genitivo",
+            "en": "Genitive",
+            "es": "Genitivo"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: к Бог…",
+            "en": "Complete: к Бог…",
+            "es": "Completa: к Бог…"
+          },
+          "answer": "у"
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: с неб… (do céu)",
+            "en": "Complete: с неб… (from heaven)",
+            "es": "Completa: с неб… (desde el cielo)"
+          },
+          "answer": "а"
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual preposição rege instrumental para “com”?",
+            "en": "Which preposition governs the instrumental for “with”?",
+            "es": "¿Qué preposición rige instrumental para «con»?"
+          },
+          "options": [
+            {
+              "pt": "от",
+              "en": "от",
+              "es": "от"
+            },
+            {
+              "pt": "с",
+              "en": "с",
+              "es": "с"
+            },
+            {
+              "pt": "у",
+              "en": "у",
+              "es": "у"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Identifique primeiro localização ou direção; depois, escolha o caso regido.",
+            "en": "First identify location or direction; then choose the governed case.",
+            "es": "Identifica primero ubicación o dirección; después elige el caso regido."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "A preposição não fixa o caso",
+            "en": "The preposition does not fix the case",
+            "es": "La preposición no fija el caso"
+          },
+          "text": {
+            "pt": "Uma preposição pode reger mais de um caso, e é o sentido que escolhe. {в} com lugar é prepositivo, {в} com direção é acusativo: a mesma palavra, casos opostos.",
+            "en": "One preposition can govern more than one case, and sense makes the choice. {в} with place is prepositional, {в} with motion into is accusative: one word, opposite cases.",
+            "es": "Una preposición puede regir más de un caso, y el sentido elige. {в} con lugar es prepositivo, {в} con dirección es acusativo: una palabra, casos opuestos."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "в начале",
+          "gloss": {
+            "pt": "no princípio",
+            "en": "in the beginning",
+            "es": "al comienzo"
+          }
+        },
+        {
+          "text": "в храм",
+          "gloss": {
+            "pt": "para dentro do templo",
+            "en": "into the temple",
+            "es": "hacia el interior del templo"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Preposições e regimes",
+            "en": "Prepositions and government",
+            "es": "Preposiciones y régimen"
+          },
+          "head": [
+            "Preposição",
+            "Caso",
+            "Exemplo"
+          ],
+          "rows": [
+            [
+              "в",
+              "prepositivo / acusativo",
+              "в начале / в храм"
+            ],
+            [
+              "на",
+              "prepositivo / acusativo",
+              "на небе / на небо"
+            ],
+            [
+              "с",
+              "instrumental / genitivo",
+              "с Богом / с неба"
+            ],
+            [
+              "к",
+              "dativo",
+              "к Богу"
+            ],
+            [
+              "о, про",
+              "preposicional",
+              "о Боге / про Бога"
+            ],
+            [
+              "у, от, до",
+              "genitivo",
+              "у Бога / от Бога / до конца"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "contentVersion": "1.0.0+gf8ca2796"
+}

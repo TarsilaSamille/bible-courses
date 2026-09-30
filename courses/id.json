@@ -1,0 +1,3507 @@
+{
+  "schemaVersion": 1,
+  "id": "id",
+  "lang": "id",
+  "title": {
+    "pt": "Indonésio",
+    "en": "Indonesian"
+  },
+  "description": {
+    "pt": "Indonésio sem conjugação: pronomes, afixos, tempo e Yohanes 1:1 (TB).",
+    "en": "Conjugation-free Indonesian: pronouns, affixes, tense and Yohanes 1:1 (TB)."
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "title": {
+        "pt": "Pronúncia e pronomes",
+        "en": "Pronunciation and pronouns",
+        "es": "Pronunciación y pronombres"
+      },
+      "subtitle": {
+        "pt": "saya/aku, kamu/Anda, dia",
+        "en": "saya/aku, kamu/Anda, dia",
+        "es": "saya/aku, kamu/Anda, dia"
+      },
+      "section": {
+        "pt": "Fonologia e pronomes",
+        "en": "Phonology and pronouns",
+        "es": "Fonología y pronombres"
+      },
+      "body": {
+        "pt": "O indonésio (bahasa Indonesia) não flexiona verbos por pessoa nem número, não distingue gênero gramatical e normalmente dispensa artigo. A forma do verbo permanece igual: {saya percaya}, {kamu percaya}, {mereka percaya} significam, respectivamente, «eu creio», «tu credes» e «eles creem». Tempo, aspecto e negação são marcados por palavras independentes.\n\nPRONÚNCIA\n• {c} representa /tʃ/, como em {cinta} «amor».\n• {j} representa /dʒ/, como em {jalan} «caminho».\n• {y} representa /j/, como em {yakin} «firme».\n• {ng} representa /ŋ/, como em {nyanyi} «cantar».\n• {kh} representa /x/, como em {khotbah} «sermão»; {g} ante {e/i} é /ɡ/, mas ante {a/u} é /ɣ/, como em {gembira} «alegre».\n• As vogais finais em {sebut}, {saya} e {buku} se reduzem muito na fala cotidiana; a forma escrita preserva a vogal final.\n\nO acento escrito {–} raramente aparece: o acento antepenúltimo é omitido na escrita, como em {membaca} [memˈbatʃa] y {bermuka} [bərˈmuka].",
+        "en": "Indonesian (bahasa Indonesia) does not inflect verbs for person or number, has no grammatical gender, and normally needs no article. The verb form stays the same: {saya percaya}, {kamu percaya}, and {mereka percaya} mean “I believe,” “you believe,” and “they believe.” Time, aspect, and negation are expressed by separate words.\n\nPRONUNCIATION\n• {c} is /tʃ/, as in {cinta} “love”.\n• {j} is /dʒ/, as in {jalan} “road”.\n• {y} is /j/, as in {yakin} “firm”.\n• {ng} is /ŋ/, as in {nyanyi} “to sing”.\n• {kh} is /x/, as in {khotbah} “sermon”; {g} before {e/i} is /ɡ/, but before {a/u} it is /ɣ/, as in {gembira} “happy”.\n• Final vowels in {sebut}, {saya}, and {buku} are greatly reduced in everyday speech; spelling preserves the final vowel.\n\nThe written accent {–} is uncommon: the usual penultimate stress is predictable, as in {membaca} [memˈbatʃa] and {bermuka} [bərˈmuka].",
+        "es": "El indonesio (bahasa Indonesia) no flexiona los verbos por persona ni número, no distingue género gramatical y normalmente prescinde de artículo. La forma verbal no cambia: {saya percaya}, {kamu percaya} y {mereka percaya} significan «yo creo», «tú crees» y «ellos creen». El tiempo, el aspecto y la negación se marcan con palabras independientes.\n\nPRONUNCIACIÓN\n• {c} representa /tʃ/, como en {cinta} «amor».\n• {j} representa /dʒ/, como en {jalan} «camino».\n• {y} representa /j/, como en {yakin} «firme».\n• {ng} representa /ŋ/, como en {nyanyi} «cantar».\n• {kh} representa /x/, como en {khotbah} «sermón»; {g} ante {e/i} es /ɡ/, pero ante {a/u} es /ɣ/, como en {gembira} «alegre».\n• Las vocales finales de {sebut}, {saya} y {buku} se reducen mucho en el habla cotidiana; la ortografía conserva la vocal final.\n\nEl acento escrito {–} es raro: el acento antepenúltimo suele ser elícito, como en {membaca} [memˈbatʃa] y {bermuka} [bərˈmuka]."
+      },
+      "vocab": [
+        {
+          "form": "saya",
+          "lemma": "saya",
+          "lang": "id",
+          "pt": "eu (formal ou neutro)",
+          "en": "I (formal or neutral)",
+          "es": "yo (formal o neutro)"
+        },
+        {
+          "form": "aku",
+          "lemma": "aku",
+          "lang": "id",
+          "pt": "eu (íntimo)",
+          "en": "I (intimate)",
+          "es": "yo (íntimo)"
+        },
+        {
+          "form": "kamu",
+          "lemma": "kamu",
+          "lang": "id",
+          "pt": "você informal",
+          "en": "you (informal)",
+          "es": "tú informal"
+        },
+        {
+          "form": "Anda",
+          "lemma": "Anda",
+          "lang": "id",
+          "pt": "você formal",
+          "en": "you (formal)",
+          "es": "usted formal"
+        },
+        {
+          "form": "dia",
+          "lemma": "dia",
+          "lang": "id",
+          "pt": "ele, ela, aquilo",
+          "en": "he, she, it",
+          "es": "él, ella, aquello"
+        },
+        {
+          "form": "kami",
+          "lemma": "kami",
+          "lang": "id",
+          "pt": "nós (sem o ouvinte)",
+          "en": "we (excluding you)",
+          "es": "nosotros (sin el oyente)"
+        },
+        {
+          "form": "kita",
+          "lemma": "kita",
+          "lang": "id",
+          "pt": "nós (com o ouvinte)",
+          "en": "we (including you)",
+          "es": "nosotros (con el oyente)"
+        },
+        {
+          "form": "mereka",
+          "lemma": "mereka",
+          "lang": "id",
+          "pt": "eles, elas",
+          "en": "they",
+          "es": "ellos, ellas"
+        },
+        {
+          "form": "ini",
+          "lemma": "ini",
+          "lang": "id",
+          "pt": "este, isto",
+          "en": "this",
+          "es": "este, esto"
+        },
+        {
+          "form": "itu",
+          "lemma": "itu",
+          "lang": "id",
+          "pt": "esse, aquilo",
+          "en": "that",
+          "es": "ese, aquello"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual pronome significa «nós», incluindo o ouvinte?",
+          "en": "Which pronoun means “we,” including the listener?",
+          "es": "¿Qué pronombre significa «nosotros», incluyendo al oyente?"
+        },
+        "options": [
+          {
+            "pt": "kami",
+            "en": "kami",
+            "es": "kami"
+          },
+          {
+            "pt": "kita",
+            "en": "kita",
+            "es": "kita"
+          },
+          {
+            "pt": "mereka",
+            "en": "mereka",
+            "es": "mereka"
+          },
+          {
+            "pt": "dia",
+            "en": "dia",
+            "es": "dia"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: «___ percaya» = «eu creio» (formal).",
+            "en": "Complete: “___ percaya” = “I believe” (formal).",
+            "es": "Completa: «___ percaya» = «yo creo» (formal)."
+          },
+          "answer": "saya",
+          "hint": {
+            "pt": "Pronome formal da primeira pessoa.",
+            "en": "Formal first-person pronoun.",
+            "es": "Pronombre formal de primera persona."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Como se pronuncia aproximadamente {cinta}?",
+            "en": "How is {cinta} approximately pronounced?",
+            "es": "¿Cómo se pronuncia aproximadamente {cinta}?"
+          },
+          "options": [
+            {
+              "pt": "chinta",
+              "en": "chinta",
+              "es": "chinta"
+            },
+            {
+              "pt": "jinta",
+              "en": "jinta",
+              "es": "jinta"
+            },
+            {
+              "pt": "sinta",
+              "en": "sinta",
+              "es": "sinta"
+            },
+            {
+              "pt": "tsinta",
+              "en": "tsinta",
+              "es": "tsinta"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O verbo não muda com a pessoa nem com o número: {dia membaca} = «ele lê»; {mereka membaca} = «eles lêem».",
+            "en": "The verb does not change with person or number: {dia membaca} = “he reads”; {mereka membaca} = “they read”.",
+            "es": "El verbo no cambia según la persona ni el número: {dia membaca} = «él lee»; {mereka membaca} = «ellos leen»."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "{kami} exclui a pessoa a quem se fala; {kita} a inclui. A escolha não depende de haver duas pessoas presentes.",
+            "en": "{kami} excludes the addressee; {kita} includes the addressee. The choice does not depend on who is physically present.",
+            "es": "{kami} excluye a quien escucha; {kita} lo incluye. La elección no depende de quién esté presente."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "{dia} também pode significar «aquilo»; o contexto resolve a referência.",
+            "en": "{dia} can also mean “it”; context resolves the reference.",
+            "es": "{dia} también puede significar «eso»; el contexto resuelve la referencia."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Cuidado",
+            "en": "Caution",
+            "es": "Cuidado"
+          },
+          "text": {
+            "pt": "{dan} é minúsculo e significa «e»; o nome do país é {Indonesia}.",
+            "en": "The word {dan} is lowercase and means “and”; the country is {Indonesia}.",
+            "es": "La palabra {dan} va en minúscula y significa «y»; el país es {Indonesia}."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Saya percaya kepada Yesus.",
+          "gloss": {
+            "pt": "Eu creio em Jesus.",
+            "en": "I believe in Jesus.",
+            "es": "Yo creo en Jesús."
+          }
+        },
+        {
+          "text": "Kamu dan aku membaca Firman.",
+          "gloss": {
+            "pt": "Tu e eu lemos a Palavra.",
+            "en": "You and I read the Word.",
+            "es": "Tú y yo leemos la Palabra."
+          }
+        },
+        {
+          "text": "Kita adalah saudara.",
+          "gloss": {
+            "pt": "Somos irmãos (incluindo quem ouve).",
+            "en": "We are brothers (including the listener).",
+            "es": "Somos hermanos (incluyendo al oyente)."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Pronomes pessoais",
+            "en": "Personal pronouns",
+            "es": "Pronombres personales"
+          },
+          "head": [
+            "Função",
+            "PT",
+            "ES"
+          ],
+          "rows": [
+            [
+              "1ª pessoa",
+              {
+                "pt": "saya / aku",
+                "en": "saya / aku",
+                "es": "saya / aku"
+              },
+              {
+                "pt": "eu formal / íntimo",
+                "en": "formal I / intimate I",
+                "es": "yo formal / íntimo"
+              }
+            ],
+            [
+              "2ª pessoa",
+              {
+                "pt": "kamu / Anda",
+                "en": "kamu / Anda",
+                "es": "kamu / Anda"
+              },
+              {
+                "pt": "informal / formal",
+                "en": "informal / formal",
+                "es": "informal / formal"
+              }
+            ],
+            [
+              "3ª pessoa",
+              {
+                "pt": "dia / mereka",
+                "en": "dia / mereka",
+                "es": "dia / mereka"
+              },
+              {
+                "pt": "ele ou ela / eles",
+                "en": "he or she / they",
+                "es": "él o ella / ellos"
+              }
+            ],
+            [
+              "Nós",
+              {
+                "pt": "kami / kita",
+                "en": "kami / kita",
+                "es": "kami / kita"
+              },
+              {
+                "pt": "exclusivo / inclusivo",
+                "en": "exclusive / inclusive",
+                "es": "exclusivo / inclusivo"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "pt": "Substantivos e prefixos meN-, ber- e di-",
+        "en": "Nouns and meN-, ber-, di- prefixes",
+        "es": "Sustantivos y prefijos meN-, ber- y di-"
+      },
+      "subtitle": {
+        "pt": "meN- + Verbo; ber- + substantivo; di- + verbo",
+        "en": "meN- + verb; ber- + noun; di- + verb",
+        "es": "meN- + verbo; ber- + sustantivo; di- + verbo"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "Ao usar meN-, a vogal {e} e a consoante nasal de {meng-} podem fundir-se e produzir uma nova forma inicial. In {mempersembahkan}, a raiz {sembah} começa por /s/ e recebe [p] de {per-}; o /p/ inicial não desaparece. O alomorfo comum é {meng-}: {meng- + baca} → {membaca}; diante de {r}, conserva-se {men-}: {men- + dengar} → {mendengar}.\n\nmeN- indica ação Vista do participante: {me- + baca} → {membaca} «ler»; {men- + dengar} → {mendengar} «ouvir»; {meng- + kasih + -i} → {mengasihi} «amar». O plural nominal com {meN-} é frequentemente marcado por redução: {murid} → {memurid} «os disciples». Em {para murid}, {para} forma o plural definido.\n\nber- forma estado, capacidade, posição ou possession: {ber- + doa} → {berdoa} «orar»; {ber- + jalan} → {berjalan} «caminhar»; {ber- + hasil} → {berhasil} «ter sucesso». O objeto pode vir depois: {berdoa kepada Allah}.\n\ndi- forma ação como passive: {di- + baca} → {dibaca} «ser lido»; {di- + salib + -kan} → {disalibkan} «ser crucificado». Para o plural, repete-se a raiz: {para murid} → {para-murid}; para referir-se a ambos os sexos, {mereka} ou {para murid laki-laki dan perempuan}.",
+        "en": "With meN-, the {e} vowel and the nasal consonant of {meng-} may fuse, yielding a new initial shape. In {mempersembahkan}, the root {sembah} begins with /s/ and receives [p] from {per-}; the root-initial consonant is not lost. The common allomorph is {meng-}: {meng- + baca} → {membaca}; before {r}, it remains {men-}: {men- + dengar} → {mendengar}.\n\nmeN- marks an action viewed from its participant: {me- + baca} → {membaca} “to read”; {men- + dengar} → {mendengar} “to hear”; {meng- + kasih + -i} → {mengasihi} “to love”. Noun plurals commonly reduce with meN-: {murid} → {memurid} “the disciples.”\n\nber- forms states, abilities, positions, or possession: {ber- + doa} → {berdoa} “to pray”; {ber- + jalan} → {berjalan} “to walk”; {ber- + hasil} → {berhasil} “to succeed”. Its object may follow: {berdoa kepada Allah}.\n\ndi- forms a non-agentive action: {di- + baca} → {dibaca} “to be read”; {di- + salib + -kan} → {disalibkan} “to be crucified”. For plural reference, {para murid} becomes {para-murid}; to include both sexes, use {mereka} or {para murid laki-laki dan perempuan}.",
+        "es": "Con meN-, la vocal {e} y la consonante nasal de {meng-} pueden fusionarse y producir una forma inicial nueva. En {mempersembahkan}, la raíz {sembah} empieza por /s/ y recibe [p] de {per-}; la consonante inicial de la raíz no se pierde. El alomorfo común es {meng-}: {meng- + baca} → {membaca}; delante de {r} se mantiene {men-}: {men- + dengar} → {mendengar}.\n\nmeN- indica una acción vista desde el participante: {me- + baca} → {membaca} «leer»; {men- + dengar} → {mendengar} «oír»; {meng- + kasih + -i} → {mengasihi} «amar». Los plurales nominales suelen reducirse con meN-: {murid} → {memurid} «los discípulos».\n\nber- forma estados, capacidades, posiciones o posesión: {ber- + doa} → {berdoa} «orar»; {ber- + jalan} → {berjalan} «caminar»; {ber- + hasil} → {berhasil} «tener éxito». Su objeto puede ir después: {berdoa kepada Allah}.\n\ndi- forma una acción no agentiva: {di- + baca} → {dibaca} «ser leído»; {di- + salib + -kan} → {disalibkan} «ser crucificado». Para el plural, {para murid} se convierte en {para-murid}; para incluir ambos sexos, se usa {mereka} o {para murid laki-laki dan perempuan}."
+      },
+      "vocab": [
+        {
+          "form": "murid",
+          "lemma": "murid",
+          "lang": "id",
+          "pt": "discípulo, aluno",
+          "en": "disciple, student",
+          "es": "discípulo, alumno"
+        },
+        {
+          "form": "baca",
+          "lemma": "baca",
+          "lang": "id",
+          "pt": "ler",
+          "en": "to read",
+          "es": "leer"
+        },
+        {
+          "form": "membaca",
+          "lemma": "baca",
+          "lang": "id",
+          "pt": "ler; estar lendo",
+          "en": "to read; be reading",
+          "es": "leer; estar leyendo"
+        },
+        {
+          "form": "mendengar",
+          "lemma": "dengar",
+          "lang": "id",
+          "pt": "ouvir",
+          "en": "to hear",
+          "es": "oír"
+        },
+        {
+          "form": "berdoa",
+          "lemma": "doa",
+          "lang": "id",
+          "pt": "orar",
+          "en": "to pray",
+          "es": "orar"
+        },
+        {
+          "form": "berjalan",
+          "lemma": "jalan",
+          "lang": "id",
+          "pt": "caminhar",
+          "en": "to walk",
+          "es": "caminar"
+        },
+        {
+          "form": "berhasil",
+          "lemma": "hasil",
+          "lang": "id",
+          "pt": "ter sucesso",
+          "en": "to succeed",
+          "es": "tener éxito"
+        },
+        {
+          "form": "mengasihi",
+          "lemma": "kasih",
+          "lang": "id",
+          "pt": "amar",
+          "en": "to love",
+          "es": "amar"
+        },
+        {
+          "form": "dibaca",
+          "lemma": "baca",
+          "lang": "id",
+          "pt": "ser lido",
+          "en": "to be read",
+          "es": "ser leído"
+        },
+        {
+          "form": "disalibkan",
+          "lemma": "salib",
+          "lang": "id",
+          "pt": "ser crucificado",
+          "en": "to be crucified",
+          "es": "ser crucificado"
+        },
+        {
+          "form": "Alkitab",
+          "lemma": "Alkitab",
+          "lang": "id",
+          "pt": "Bíblia",
+          "en": "Bible",
+          "es": "Biblia"
+        },
+        {
+          "form": "Firman",
+          "lemma": "firman",
+          "lang": "id",
+          "pt": "Palavra, palavra de Deus",
+          "en": "Word, word of God",
+          "es": "Palabra, palabra de Dios"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual prefixo forma «orar» a partir de {doa}?",
+          "en": "Which prefix forms “to pray” from {doa}?",
+          "es": "¿Qué prefijo forma «orar» a partir de {doa}?"
+        },
+        "options": [
+          {
+            "pt": "ber-",
+            "en": "ber-",
+            "es": "ber-"
+          },
+          {
+            "pt": "di-",
+            "en": "di-",
+            "es": "di-"
+          },
+          {
+            "pt": "pe-",
+            "en": "pe-",
+            "es": "pe-"
+          },
+          {
+            "pt": "ke-",
+            "en": "ke-",
+            "es": "ke-"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: «Allah ___ dunia» = «Deus ama o mundo» (João 3:16).",
+            "en": "Complete: “Allah ___ dunia” = “God loves the world” (John 3:16).",
+            "es": "Completa: «Allah ___ dunia» = «Dios ama al mundo» (Juan 3:16)."
+          },
+          "answer": "mengasihi",
+          "hint": {
+            "pt": "Use meN- + kasih + -i.",
+            "en": "Use meN- + kasih + -i.",
+            "es": "Usa meN- + kasih + -i."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em «Firman itu dibaca oleh murid», o que {oleh} introduz?",
+            "en": "In “The Word is read by the disciple,” what does {oleh} introduce?",
+            "es": "En «La Palabra es leída por el discípulo», ¿qué introduce {oleh}?"
+          },
+          "options": [
+            {
+              "pt": "o lugar",
+              "en": "place",
+              "es": "el lugar"
+            },
+            {
+              "pt": "o agente da passiva",
+              "en": "the agent of the passive",
+              "es": "el agente de la pasiva"
+            },
+            {
+              "pt": "o tempo",
+              "en": "time",
+              "es": "el tiempo"
+            },
+            {
+              "pt": "a negação",
+              "en": "negation",
+              "es": "la negación"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "A vogal {e} de {meN-} pode realizar-se [ə], [i] ou [e] conforme a raiz: {menulis} [məˈnulis], {membaca} [məmˈbatʃa], {menang} [məˈnaŋ].",
+            "en": "The {e} in {meN-} may surface as [ə], [i], or [e]: {menulis} [məˈnulis], {membaca} [məmˈbatʃa], {menang} [məˈnaŋ].",
+            "es": "La {e} de {meN-} puede realizarse [ə], [i] o [e}: {menulis} [məˈnulis], {membaca} [məmˈbatʃa], {menang} [məˈnaŋ]."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Com {ber-}, o verbo costuma expressar estado ou atividade, não ação transferida a um objeto: {berjalan}, não «andar algo».",
+            "en": "With {ber-}, a verb usually expresses a state or activity, not an action transferred to an object: {berjalan}, not “to walk something”.",
+            "es": "Con {ber-}, el verbo suele expresar estado o actividad, no una acción transferida a un objeto: {berjalan}, no «andar algo»."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "A redução {memurid} significa «os discípulos». A forma {para murid} também é plural definido, mas não se combina naturalmente com {meN-}.",
+            "en": "Reduplicated {memurid} means “the disciples.” {Para murid} is also a definite plural, but it does not naturally combine with {meN-}.",
+            "es": "La forma reducida {memurid} significa «los discípulos». {Para murid} también es plural definido, pero no se combina naturalmente con {meN-}."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Nota",
+            "en": "Note",
+            "es": "Nota"
+          },
+          "text": {
+            "pt": "A palavra {membaca} pode expressar habilidade («saber ler») ou ação em curso quando aparece com {sedang}.",
+            "en": "{Membaca} can express ability (“know how to read”) or an action in progress when combined with {sedang}.",
+            "es": "{Membaca} puede expresar capacidad («saber leer») o una acción en curso si se combina con {sedang}."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Murid-murid membaca Alkitab.",
+          "gloss": {
+            "pt": "Os discípulos leem a Bíblia.",
+            "en": "The disciples read the Bible.",
+            "es": "Los discípulos leen la Biblia."
+          }
+        },
+        {
+          "text": "Saya berdoa kepada Allah.",
+          "gloss": {
+            "pt": "Eu oro a Deus.",
+            "en": "I pray to God.",
+            "es": "Yo oro a Dios."
+          }
+        },
+        {
+          "text": "Firman itu dibaca oleh murid.",
+          "gloss": {
+            "pt": "A Palavra é lida pelo discípulo.",
+            "en": "The Word is read by the disciple.",
+            "es": "La Palabra es leída por el discípulo."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Três famílias verbais recomendadas",
+            "en": "Three core verb families",
+            "es": "Tres familias verbales básicas"
+          },
+          "head": [
+            "Padrão",
+            "Função",
+            "ES"
+          ],
+          "rows": [
+            [
+              "meN- + V",
+              {
+                "pt": "ação do participante",
+                "en": "participant action",
+                "es": "acción del participante"
+              },
+              "{membaca} «leer»"
+            ],
+            [
+              "ber- + N",
+              {
+                "pt": "estado ou capacidade",
+                "en": "state or ability",
+                "es": "estado o capacidad"
+              },
+              "{berjalan} «caminar»"
+            ],
+            [
+              "di- + V",
+              {
+                "pt": "ação não agentiva",
+                "en": "non-agentive action",
+                "es": "acción no agentiva"
+              },
+              "{dibaca} «ser leído»"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "pt": "Tempo, aspecto e negação",
+        "en": "Time, aspect, and negation",
+        "es": "Tiempo, aspecto y negación"
+      },
+      "subtitle": {
+        "pt": "sudah, sedang, akan, belum; tidak, bukan",
+        "en": "sudah, sedang, akan, belum; tidak, bukan",
+        "es": "sudah, sedang, akan, belum; tidak, bukan"
+      },
+      "section": {
+        "pt": "Tempo e verbo",
+        "en": "Tense and verb",
+        "es": "Tiempo y verbo"
+      },
+      "body": {
+        "pt": "Os verbos não se conjugam: o evento verbal pode não ter marca temporal explícita. O tempo e o aspecto entram por marcadores.\n\n{sudah} situa um evento como completo: «ya ocurrió» — {Allah sudah berfirman}. {telah} pertence ao registro bíblico/formal e pode receber ênfase especial: {Ia telah datang}. {sedang} marca processo: {Dia sedang berdoa}. {akan} situa o evento depois do momento de referência: {Ia akan datang}. {belum} significa «ainda não»: {Ia belum datang}.\n\nPara comparar o momento de referência:\n• {Dia sudah datang} = «ele já chegou».\n• {Dia sedang datang} = «ele está vindo» (aspecto em curso).\n• {Dia akan datang} = «ele virá».\n• {Dia belum datang} = «ele ainda não chegou».\n\nNegações\n{tidak} nega verbos e adjetivos: {tidak percaya}, {tidak baik}. {bukan} nega classes ou identifica: {Dia bukan nabi} = «Ele não é profeta»; {Ini bukan Allah} = «Isto não é Deus». {bukanlah} acrescenta ênfase: «certamente não é».\n\nO sufixo {-lah} faz o verbo da oração principal ganhar destaque e, em orações coordenadas bipolares, destaca o segundo elemento: {Berfirmanlah Allah, jadilah terang}. Em {Datanglah!}, é imperativo enfático.",
+        "en": "Verbs are not conjugated: the verbal event itself may carry no overt time marker. Time and aspect enter through markers.\n\n{sudah} presents an event as complete: “it has happened” — {Allah sudah berfirman}. {telah} is formal/Biblical and can carry special emphasis: {Ia telah datang}. {sedang} marks an ongoing process: {Dia sedang berdoa}. {akan} places the event after the reference point: {Ia akan datang}. {belum} means “not yet”: {Ia belum datang}.\n\nTo compare the reference time:\n• {Dia sudah datang} = “he has arrived.”\n• {Dia sedang datang} = “he is coming” (ongoing aspect).\n• {Dia akan datang} = “he will come.”\n• {Dia belum datang} = “he has not arrived yet.”\n\nNegation\n{tidak} negates verbs and adjectives: {tidak percaya}, {tidak baik}. {bukan} negates or identifies nouns: {Dia bukan nabi} = “He is not a prophet”; {Ini bukan Allah} = “This is not God”. {bukanlah} adds emphasis: “certainly not”.\n\nThe suffix {-lah} makes the main verb emphatic and in coordinated bipolar clauses also highlights the second element: {Berfirmanlah Allah, jadilah terang}. In {Datanglah!}, it marks an emphatic imperative.",
+        "es": "Los verbos no se conjugan: el propio evento verbal puede ir sin marca. El tiempo y el aspecto entran mediante marcadores.\n\n{sudah} presenta un evento como completado: «ya ocurrió» — {Allah sudah berfirman}. {telah} pertenece al registro bíblico/formal y puede|Portar énfasis: {Ia telah datang}. {sedang} marca un proceso en curso: {Dia sedang berdoa}. {akan} sitúa el evento después del punto de referencia: {Ia akan datang}. {belum} significa «todavía no»: {Ia belum datang}.\n\nPara comparar el punto de referencia:\n• {Dia sudah datang} = «ya ha llegado».\n• {Dia sedang datang} = «está viniendo» (aspecto en curso).\n• {Dia akan datang} = «vendrá».\n• {Dia belum datang} = «todavía no ha llegado».\n\nNegación\n{tidak} niega verbos y adjetivos: {tidak percaya}, {tidak baik}. {bukan} niega o identifica sustantivos: {Dia bukan nabi} = «Él no es profeta»; {Ini bukan Allah} = «Esto no es Dios». {bukanlah} añade énfasis: «sin duda, no».\n\nEl sufijo {-lah} destaca el verbo principal y, en oraciones coordinadas bipolares, también el segundo elemento: {Berfirmanlah Allah, jadilah terang}. En {Datanglah!}, marca un imperativo enfático."
+      },
+      "vocab": [
+        {
+          "form": "sudah",
+          "lemma": "sudah",
+          "lang": "id",
+          "pt": "já; evento completo",
+          "en": "already; completed event",
+          "es": "ya; evento completado"
+        },
+        {
+          "form": "telah",
+          "lemma": "telah",
+          "lang": "id",
+          "pt": "já (formal/bíblico)",
+          "en": "already (formal/Biblical)",
+          "es": "ya (formal/bíblico)"
+        },
+        {
+          "form": "sedang",
+          "lemma": "sedang",
+          "lang": "id",
+          "pt": "estar em curso",
+          "en": "be ongoing",
+          "es": "estar en curso"
+        },
+        {
+          "form": "akan",
+          "lemma": "akan",
+          "lang": "id",
+          "pt": "vai; no futuro",
+          "en": "will; in the future",
+          "es": "va; en el futuro"
+        },
+        {
+          "form": "belum",
+          "lemma": "belum",
+          "lang": "id",
+          "pt": "ainda não",
+          "en": "not yet",
+          "es": "todavía no"
+        },
+        {
+          "form": "tidak",
+          "lemma": "tidak",
+          "lang": "id",
+          "pt": "não (verbo/adjetivo)",
+          "en": "not (verb/adjective)",
+          "es": "no (verbo/adjetivo)"
+        },
+        {
+          "form": "bukan",
+          "lemma": "bukan",
+          "lang": "id",
+          "pt": "não (nome/identidade)",
+          "en": "not (noun/identity)",
+          "es": "no (nombre/identidad)"
+        },
+        {
+          "form": "berfirman",
+          "lemma": "firman",
+          "lang": "id",
+          "pt": "falar, declarar",
+          "en": "to speak, declare",
+          "es": "hablar, declarar"
+        },
+        {
+          "form": "datang",
+          "lemma": "datang",
+          "lang": "id",
+          "pt": "vir",
+          "en": "to come",
+          "es": "venir"
+        },
+        {
+          "form": "berfirmanlah",
+          "lemma": "firman",
+          "lang": "id",
+          "pt": "fale!; disse enfaticamente",
+          "en": "speak!; emphatically said",
+          "es": "¡hable!; dijo enfáticamente"
+        },
+        {
+          "form": "terang",
+          "lemma": "terang",
+          "lang": "id",
+          "pt": "luz, claro",
+          "en": "light, bright",
+          "es": "luz, claro"
+        },
+        {
+          "form": "gelap",
+          "lemma": "gelap",
+          "lang": "id",
+          "pt": "escuro, trevas",
+          "en": "dark, darkness",
+          "es": "oscuro, tinieblas"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Como se forma «ele ainda não chegou»?",
+          "en": "How do you form “he has not arrived yet”?",
+          "es": "¿Cómo se forma «todavía no ha llegado»?"
+        },
+        "options": [
+          {
+            "pt": "Dia belum datang",
+            "en": "Dia belum datang",
+            "es": "Dia belum datang"
+          },
+          {
+            "pt": "Dia tidak datang",
+            "en": "Dia tidak datang",
+            "es": "Dia tidak datang"
+          },
+          {
+            "pt": "Dia bukan datang",
+            "en": "Dia bukan datang",
+            "es": "Dia bukan datang"
+          },
+          {
+            "pt": "Datang belum dia",
+            "en": "Datang belum dia",
+            "es": "Datang belum dia"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: «Dia ___ Invocation» = «ele está orando».",
+            "en": "Complete: “Dia ___ berdoa” = “he is praying”.",
+            "es": "Completa: «Dia ___ berdoa» = «está orando»."
+          },
+          "answer": "sedang",
+          "hint": {
+            "pt": "Marcador de aspecto em curso.",
+            "en": "Ongoing-aspect marker.",
+            "es": "Marcador de aspecto en curso."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual frase usa corretamente {bukan}?",
+            "en": "Which sentence correctly uses {bukan}?",
+            "es": "¿Qué frase usa correctamente {bukan}?"
+          },
+          "options": [
+            {
+              "pt": "Dia bukan nabi.",
+              "en": "Dia bukan nabi.",
+              "es": "Dia bukan nabi."
+            },
+            {
+              "pt": "Dia tidak nabi.",
+              "en": "Dia tidak nabi.",
+              "es": "Dia tidak nabi."
+            },
+            {
+              "pt": "Bukan dia percaya.",
+              "en": "Bukan dia percaya.",
+              "es": "Bukan dia percaya."
+            },
+            {
+              "pt": "Dia bukan percaya.",
+              "en": "Dia bukan percaya.",
+              "es": "Dia bukan percaya."
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Em frases neutras, o valor temporal pode vir do contexto: {Dia datang} pode ser presente habitual ou passado narrativo.",
+            "en": "In neutral sentences, context can supply the time: {Dia datang} may be habitual present or narrative past.",
+            "es": "En frases neutras, el contexto puede aportar el tiempo: {Dia datang} puede ser presente habitual o pasado narrativo."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "{sudah} e {telah} marcam conclusão; {belum} nega uma conclusión esperada e implica uma referência temporal.",
+            "en": "{sudah} and {telah} mark completion; {belum} negates an expected completion and implies a reference time.",
+            "es": "{sudah} y {telah} marcan conclusión; {belum} niega una conclusión esperada e implica un punto temporal."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Use {tidak} antes do verbo/adjetivo; use {bukan} antes de nome, pronombre ou para explicar identidade.",
+            "en": "Use {tidak} before a verb/adjective; use {bukan} before a noun, pronoun, or to explain identity.",
+            "es": "Usa {tidak} ante verbo/adjetivo; usa {bukan} ante nombre, pronombre o para explicar identidad."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Não confunda",
+            "en": "Do not confuse",
+            "es": "No confundas"
+          },
+          "text": {
+            "pt": "{sudah} significa «ya», enquanto {belum} significa «aún no». No español, «ya» y «todavía no» funcionan de forma distinta.",
+            "en": "{sudah} means “already,” while {belum} means “not yet.”",
+            "es": "{sudah} significa «ya», mientras {belum} significa «todavía no»."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Allah sudah berfirman.",
+          "gloss": {
+            "pt": "Deus já falou.",
+            "en": "God has spoken.",
+            "es": "Dios ya ha hablado."
+          }
+        },
+        {
+          "text": "Dia sedang berdoa.",
+          "gloss": {
+            "pt": "Ele está orando.",
+            "en": "He is praying.",
+            "es": "Él está orando."
+          }
+        },
+        {
+          "text": "Ini bukan Firman.",
+          "gloss": {
+            "pt": "Isto não é a Palavra.",
+            "en": "This is not the Word.",
+            "es": "Esto no es la Palabra."
+          }
+        },
+        {
+          "text": "Dia belum percaya.",
+          "gloss": {
+            "pt": "Ele ainda não creu.",
+            "en": "He has not believed yet.",
+            "es": "Él todavía no ha creído."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Marcadores de tempo e aspecto",
+            "en": "Time and aspect markers",
+            "es": "Marcadores de tiempo y aspecto"
+          },
+          "head": [
+            "Marcador",
+            "PT",
+            "ES"
+          ],
+          "rows": [
+            [
+              "sudah",
+              {
+                "pt": "já / completo",
+                "en": "already / completed",
+                "es": "ya / completado"
+              },
+              "{Dia sudah datang}"
+            ],
+            [
+              "sedang",
+              {
+                "pt": "em curso",
+                "en": "ongoing",
+                "es": "en curso"
+              },
+              "{Dia sedang datang}"
+            ],
+            [
+              "akan",
+              {
+                "pt": "posterior à referência",
+                "en": "later than reference",
+                "es": "posterior a la referencia"
+              },
+              "{Dia akan datang}"
+            ],
+            [
+              "belum",
+              {
+                "pt": "ainda não",
+                "en": "not yet",
+                "es": "todavía no"
+              },
+              "{Dia belum datang}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "pt": "Leitura: Yohanes 1:1 (TB)",
+        "en": "Reading: John 1:1 (Indonesian)",
+        "es": "Lectura: Juan 1:1 (TB)"
+      },
+      "subtitle": {
+        "pt": "Pada mulanya adalah Firman",
+        "en": "Pada mulanya adalah Firman",
+        "es": "Pada mulanya adalah Firman"
+      },
+      "section": {
+        "pt": "Leituras",
+        "en": "Readings",
+        "es": "Lecturas"
+      },
+      "body": {
+        "pt": "Leia o texto em três passadas. Primeiro, identifique as orações com {yang}: são relativas e introduzem informação sobre um substantivo. Segundo, observe a progressão: {adalah Firman} → {bersama-sama dengan Allah} → {adalah Allah}. A repetição de {Firman itu} cria Paralelismo, um recurso retórico do versículo.\n\nTEXTO\n{Pada mulanya adalah Firman; Firman itu bersama-sama dengan Allah dan Firman itu adalah Allah.}\n\nANÁLISE\n• {Pada mulanya}: {pada} «em», {mula} «começo» e {-nya}, forma definida: «no começo».\n• {adalah}: «é»; em uma narrativa pode traduzir-se por «era». Diferente de {ada} («há/existe»), {adalah} normalmente classifica ou identifica.\n• {Firman}: «Palavra». A maiúscula TB indica o Logos, Cristo. O termo pode ser abreviado por pronominalização: em João 1:14, {dia} = «ele», retomando {Firman}.\n• {bersama-sama dengan Allah}: {bersama} + {-sama} = «junto com»; {dengan} «com».\n• {adalah Allah}: «é Deus». Não se deve converter automaticamente a cópula em «era»; a tradução TB preserva o paralelismo e o valor presentativo.\n\nJoão 1:14: {Firman itu telah menjadi manusia}. {telah} completa o evento ({telah menjadi}); {manusia} indica natureza humana, não apenas aparência.\n\nA nota de rodapé 1 de algumas edições explica que {monotes} significa «único». Em João 1:14, {penuh kasih karunia dan kebenaran} combina natureza divina e missão.",
+        "en": "Read the text in three passes. First, notice the {yang} clauses: they are relative clauses that modify nouns. Second, follow the progression: {adalah Firman} → {bersama-sama dengan Allah} → {adalah Allah}. The repetition of {Firman itu} creates parallelism, a rhetorical feature of the verse.\n\nTEXT\n{Pada mulanya adalah Firman; Firman itu bersama-sama dengan Allah dan Firman itu adalah Allah.}\n\nANALYSIS\n• {Pada mulanya}: {pada} “in,” {mula} “beginning,” and {-nya}, a definite form: “in the beginning.”\n• {adalah}: “is”; in narrative it may be translated “was.” Unlike {ada} (“there is”), {adalah} normally classifies or identifies.\n• {Firman}: “Word.” The TB capital marks the Logos, Christ. The noun may be replaced by a pronoun: in John 1:14, {dia} = “he,” resuming {Firman}.\n• {bersama-sama dengan Allah}: {bersama} + {-sama} = “together with”; {dengan} “with.”\n• {adalah Allah}: “is God.” Do not automatically turn the copula into “was”; TB preserves parallelism and the presentative force.\n\nJohn 1:14: {Firman itu telah menjadi manusia}. {Telah} completes the event ({telah menjadi}); {manusia} indicates human nature, not merely an appearance.\n\nFootnote 1 in some editions explains that {monotes} means “only/unique.” In John 1:14, {penuh kasih karunia dan kebenaran} combines divine nature and mission.",
+        "es": "Lee el texto en tres pasadas. Primero, identifica las cláusulas con {yang}: son relativas y añaden información sobre un sustantivo. Segundo, observa la progresión: {adalah Firman} → {bersama-sama dengan Allah} → {adalah Allah}. La repetición de {Firman itu} crea paralelismo, un recurso retórico del versículo.\n\nTEXTO\n{Pada mulanya adalah Firman; Firman itu bersama-sama dengan Allah dan Firman itu adalah Allah.}\n\nANÁLISIS\n• {Pada mulanya}: {pada} «en», {mula} «comienzo» y {-nya}, forma definida: «al comienzo».\n• {adalah}: «es»; en narración puede traducirse «era». A diferencia de {ada} («hay/existe»), {adalah} normalmente clasifica o identifica.\n• {Firman}: «Palabra». La mayúscula de TB señala el Logos, Cristo. El nombre puede sustituirse por un pronombre: en Juan 1:14, {dia} = «él», retomando {Firman}.\n• {bersama-sama dengan Allah}: {bersama} + {-sama} = «junto con»; {dengan} «con».\n• {adalah Allah}: «es Dios». No conviertas automáticamente la cópula en «era»; TB conserva el paralelismo y el valor presentativo.\n\nJuan 1:14: {Firman itu telah menjadi manusia}. {Telah} completa el evento ({telah menjadi}); {manusia} indica naturaleza humana, no solo apariencia.\n\nLa nota 1 de algunas ediciones explica que {monotes} significa «único». En Juan 1:14, {penuh kasih karunia dan kebenaran} combina naturaleza divina y misión."
+      },
+      "vocab": [
+        {
+          "form": "pada",
+          "lemma": "pada",
+          "lang": "id",
+          "pt": "em, durante, em",
+          "en": "in, at, during",
+          "es": "en, durante, en"
+        },
+        {
+          "form": "mula",
+          "lemma": "mula",
+          "lang": "id",
+          "pt": "começo",
+          "en": "beginning",
+          "es": "comienzo"
+        },
+        {
+          "form": "adalah",
+          "lemma": "adalah",
+          "lang": "id",
+          "pt": "ser, é (identidade)",
+          "en": "to be (identity)",
+          "es": "ser, es (identidad)"
+        },
+        {
+          "form": "Firman",
+          "lemma": "firman",
+          "lang": "id",
+          "pt": "Palavra, Verbo",
+          "en": "Word",
+          "es": "Palabra, Verbo"
+        },
+        {
+          "form": "itu",
+          "lemma": "itu",
+          "lang": "id",
+          "pt": "esse, aquele",
+          "en": "that, those",
+          "es": "ese, aquel"
+        },
+        {
+          "form": "bersama-sama",
+          "lemma": "sama",
+          "lang": "id",
+          "pt": "junto com",
+          "en": "together with",
+          "es": "junto con"
+        },
+        {
+          "form": "dengan",
+          "lemma": "dengan",
+          "lang": "id",
+          "pt": "com",
+          "en": "with",
+          "es": "con"
+        },
+        {
+          "form": "menjadi",
+          "lemma": "jadi",
+          "lang": "id",
+          "pt": "tornar-se, passar a ser",
+          "en": "to become",
+          "es": "llegar a ser, convertirse"
+        },
+        {
+          "form": "manusia",
+          "lemma": "manusia",
+          "lang": "id",
+          "pt": "ser humano, humanidade",
+          "en": "human, humanity",
+          "es": "ser humano, humanidad"
+        },
+        {
+          "form": "monotes",
+          "lemma": "monotes",
+          "lang": "id",
+          "pt": "único",
+          "en": "only, unique",
+          "es": "único"
+        },
+        {
+          "form": "kasih karunia",
+          "lemma": "kasih karunia",
+          "lang": "id",
+          "pt": "graça",
+          "en": "grace",
+          "es": "gracia"
+        },
+        {
+          "form": "kebenaran",
+          "lemma": "benar",
+          "lang": "id",
+          "pt": "verdade, fidelidade",
+          "en": "truth, faithfulness",
+          "es": "verdad, fidelidad"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Na segunda oração, o que {itu} retoma?",
+          "en": "In the second clause, what does {itu} refer back to?",
+          "es": "En la segunda cláusula, ¿qué retoma {itu}?"
+        },
+        "options": [
+          {
+            "pt": "Allah",
+            "en": "Allah",
+            "es": "Allah"
+          },
+          {
+            "pt": "Firman",
+            "en": "Firman",
+            "es": "Firman"
+          },
+          {
+            "pt": "mulanya",
+            "en": "mulanya",
+            "es": "mulanya"
+          },
+          {
+            "pt": "manusia",
+            "en": "manusia",
+            "es": "manusia"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete a linha final: «Firman itu adalah ___».",
+            "en": "Complete the final line: “Firman itu adalah ___.”",
+            "es": "Completa la última línea: «Firman itu adalah ___»."
+          },
+          "answer": "Allah",
+          "hint": {
+            "pt": "Nome próprio; mantenha a maiúscula.",
+            "en": "Proper name; keep the capital letter.",
+            "es": "Nombre propio; conserva mayúscula."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Como se traduz naturalmente {Firman itu telah menjadi manusia}?",
+            "en": "How is {Firman itu telah menjadi manusia} naturally translated?",
+            "es": "¿Cómo se traduce naturalmente {Firman itu telah menjadi manusia}?"
+          },
+          "options": [
+            {
+              "pt": "A Palavra tornou-se humana.",
+              "en": "The Word became human.",
+              "es": "La Palabra se hizo humana."
+            },
+            {
+              "pt": "A Palavra está a ponto de ser humana.",
+              "en": "The Word is about to become human.",
+              "es": "La Palabra está a punto de hacerse humana."
+            },
+            {
+              "pt": "A Palavra se parece a um ser humano.",
+              "en": "The Word resembles a human.",
+              "es": "La Palabra se parece a un ser humano."
+            },
+            {
+              "pt": "A Palavra está tornando-se humana.",
+              "en": "The Word is becoming human.",
+              "es": "La Palabra se está haciendo humana."
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "{yang} pode introduzir uma oração substantiva («o que») ou relativa; aqui introduz relativa: {Firman itu} = «aquela Palavra».",
+            "en": "{yang} can introduce a noun clause (“what”) or a relative clause; here it is relative: {Firman itu} = “that Word.”",
+            "es": "{yang} puede introducir una oración sustantiva («lo que») o relativa; aquí es relativa: {Firman itu} = «aquella Palabra»."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "{itu} aponta para algo ya mencionado. A Anteposição de {itu} à cabeça nominal: {Firman} {itu} = «aquela Palabra».",
+            "en": "{Itu} points back to something already mentioned. Placement before the noun head: {Firman} {itu} = “that Word.”",
+            "es": "{Itu} remite a algo ya mencionado. Va antepuesto al núcleo nominal: {Firman} {itu} = «aquella Palabra»."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "{-nya} pode formar um sintagma definido nominal: {mula} → {mulanya}. Neste verso, a tradução española natural es «al comienzo».",
+            "en": "{-nya} can make a definite nominal phrase: {mula} → {mulanya}. Here the natural Spanish is “al comienzo.”",
+            "es": "{-nya} puede formar un sintagma nominal definido: {mula} → {mulanya}. Aquí el español natural es «al comienzo»."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Códigos de tradução",
+            "en": "Translation labels",
+            "es": "Etiquetas de traducción"
+          },
+          "text": {
+            "pt": "TB significa Terjemahan Baru, tradução moderna da Alkitab para o indonésio. A forma exacta pode variar entre edições.",
+            "en": "TB means Terjemahan Baru, a modern Indonesian Bible translation. Exact wording may vary by edition.",
+            "es": "TB significa Terjemahan Baru, una traducción moderna de la Biblia al indonesio. La redacción exacta puede variar según la edición."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Pada mulanya adalah Firman.",
+          "gloss": {
+            "pt": "No princípio era a Palavra.",
+            "en": "In the beginning was the Word.",
+            "es": "Al principio era la Palabra."
+          }
+        },
+        {
+          "text": "Firman itu bersama-sama dengan Allah.",
+          "gloss": {
+            "pt": "A Palavra estava junto com Deus.",
+            "en": "The Word was with God.",
+            "es": "La Palabra estaba con Dios."
+          }
+        },
+        {
+          "text": "Firman itu adalah Allah.",
+          "gloss": {
+            "pt": "A Palavra era Deus.",
+            "en": "The Word was God.",
+            "es": "La Palabra era Dios."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Paralelismo de João 1:1",
+            "en": "The parallelism of John 1:1",
+            "es": "El paralelismo de Juan 1:1"
+          },
+          "head": [
+            "Progressão",
+            "PT",
+            "ES"
+          ],
+          "rows": [
+            [
+              "1",
+              {
+                "pt": "A Palavra era",
+                "en": "The Word was",
+                "es": "La Palabra era"
+              },
+              {
+                "pt": "junto com Deus",
+                "en": "with God",
+                "es": "con Dios"
+              }
+            ],
+            [
+              "2",
+              {
+                "pt": "A Palavra era",
+                "en": "The Word was",
+                "es": "La Palabra era"
+              },
+              {
+                "pt": "Deus",
+                "en": "God",
+                "es": "Dios"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "pt": "Sufixos -kan, -i e redupicação",
+        "en": "-kan, -i suffixes and reduplication",
+        "es": "Sufijos -kan, -i y reduplicación"
+      },
+      "subtitle": {
+        "pt": "membacakan, mendengarkan, anak-anak",
+        "en": "membacakan, mendengarkan, anak-anak",
+        "es": "membacakan, mendengarkan, anak-anak"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "Os verbos formados por prefixo podem receber sufixos que alteram o participante, a direção ou a intensidade.\n\n{-kan} frequentemente faz o executar em benefício de alguém: {membaca} «ler» → {membacakan} «ler para alguém». {memberikan} significa «dar»; {menjadikan} «tornar algo algo» ou «considerar algo como»; {melepaskan} «liberar». O sentido exato depende da raiz, portanto memorize a forma lexical completa.\n\n{-i} ocorre sobretudo com meN- e geralmente indica ação repetida, intencional ou realizada de certo modo. {mendengar} «ouvir» → {mendengarkan} «escutar atentamente»; {membaca} → {membaci} «ler de certo modo»; Exemplos seguros são {menaiki} «subir em», {memakai} «usar», {memenuhi} «cumprir/preencher».\n\nRedupicação da raiz indica plural ou distributividade: {buku-buku} «livros», {anak-anak} «crianças». Em {berjalan-jalan} «passear» e {berbicara-bicara} «conversar», o efeito é distributivo. Para número diverso, há formas completas: {berbagai-bagi} «variados» e {mana-mana} «todos/todos os tipos».\n\nComparação: {lebih + adjetivo + daripada} = «mais … que» ({lebih besar daripada» = «maior que»); {paling + adjetivo} = «o mais»; {terbaik} é lexical ou superlativo elícito.",
+        "en": "Prefix-formed verbs can take suffixes that change the participant, direction, or intensity.\n\n{-kan} often makes the object a beneficiary: {membaca} “to read” → {membacakan} “to read to someone.” {Memberikan} means “to give”; {menjadikan} “to make something something” or “to consider something as”; {melepaskan} “to release.” Exact sense depends on the root, so learn the full lexical form.\n\n{-i} mainly occurs with meN- and often marks deliberate, repeated, or intensified action: {mendengar} “to hear” → {mendengarkan} “to listen attentively”; {membaca} → {membaci} “to read in a certain way”; {menaiki} “to climb onto”; {memakai} “to use”; {memenuhi} “to fulfill/fill.”\n\nRoot reduplication marks plurality or distribution: {buku-buku} “books,” {anak-anak} “children.” In {berjalan-jalan} “to stroll” and {berbicara-bicara} “to converse,” the effect is distributive. For variety, use the full forms {berbagai-bagi} “various” and {mana-mana} “all kinds of.”\n\nComparison: {lebih + adjective + daripada} = “more … than”; {paling + adjective} = “most”; {terbaik} is lexical or elided superlative.",
+        "es": "Los verbos formados con prefijo pueden recibir sufijos que cambian el participante, la dirección o la intensidad.\n\n{-kan} suele hacer que el objeto de la acción sea el beneficiario: {membaca} «leer» → {membacakan} «leer a alguien». {Memberikan} significa «dar»; {menjadikan} «convertir algo en algo» o «considerar algo como»; {melepaskan} «liberar». El sentido exacto depende de la raíz, por lo que conviene memorizar la forma léxica completa.\n\n{-i} aparece sobre todo con meN- y suele indicar acción deliberada, repetida o intensificada: {mendengar} «oír» → {mendengarkan} «escuchar atentamente»; {membaca} → {membaci} «leer de cierta manera»; {menaiki} «subir a»; {memakai} «usar»; {memenuhi} «cumplir/llenar».\n\nLa reduplicación de la raíz indica plural o distribución: {buku-buku} «libros», {anak-anak} «niños». En {berjalan-jalan} «pasear» y {berbicara-bicara} «conversar», produce un valor distributivo. Para variedad existen formas completas: {berbagai-bagi} «variados» y {mana-mana} «de toda clase».\n\nComparación: {lebih + adjetivo + daripada} = «más … que»; {paling + adjetivo} = «el más»; {terbaik} es léxico o un superlativo elidido."
+      },
+      "vocab": [
+        {
+          "form": "membacakan",
+          "lemma": "baca",
+          "lang": "id",
+          "pt": "ler para alguém",
+          "en": "to read to someone",
+          "es": "leer a alguien"
+        },
+        {
+          "form": "memberikan",
+          "lemma": "beri",
+          "lang": "id",
+          "pt": "dar",
+          "en": "to give",
+          "es": "dar"
+        },
+        {
+          "form": "menjadikan",
+          "lemma": "jadi",
+          "lang": "id",
+          "pt": "tornar, considerar como",
+          "en": "to make, consider as",
+          "es": "convertir, considerar como"
+        },
+        {
+          "form": "mendengarkan",
+          "lemma": "dengar",
+          "lang": "id",
+          "pt": "escutar atentamente",
+          "en": "to listen attentively",
+          "es": "escuchar atentamente"
+        },
+        {
+          "form": "melepaskan",
+          "lemma": "lepas",
+          "lang": "id",
+          "pt": "liberar, soltar",
+          "en": "to release",
+          "es": "liberar, soltar"
+        },
+        {
+          "form": "menaiki",
+          "lemma": "naik",
+          "lang": "id",
+          "pt": "subir em, montar",
+          "en": "to climb onto, mount",
+          "es": "subir a, montar"
+        },
+        {
+          "form": "memakai",
+          "lemma": "pakai",
+          "lang": "id",
+          "pt": "usar",
+          "en": "to use, wear",
+          "es": "usar, llevar puesto"
+        },
+        {
+          "form": "memenuhi",
+          "lemma": "penuh",
+          "lang": "id",
+          "pt": "cumprir, preencher",
+          "en": "to fulfill, fill",
+          "es": "cumplir, llenar"
+        },
+        {
+          "form": "buku-buku",
+          "lemma": "buku",
+          "lang": "id",
+          "pt": "livros",
+          "en": "books",
+          "es": "libros"
+        },
+        {
+          "form": "anak-anak",
+          "lemma": "anak",
+          "lang": "id",
+          "pt": "crianças",
+          "en": "children",
+          "es": "niños"
+        },
+        {
+          "form": "berjalan-jalan",
+          "lemma": "jalan",
+          "lang": "id",
+          "pt": "passear",
+          "en": "to stroll",
+          "es": "pasear"
+        },
+        {
+          "form": "berbagai-bagi",
+          "lemma": "berbagai",
+          "lang": "id",
+          "pt": "variados",
+          "en": "various",
+          "es": "variados"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual diferença é mais precisa?",
+          "en": "Which difference is most accurate?",
+          "es": "¿Qué diferencia es más precisa?"
+        },
+        "options": [
+          {
+            "pt": "{mendengar} = ouvir; {mendengarkan} = escutar com atenção intencional",
+            "en": "{mendengar} = hear; {mendengarkan} = listen attentively on purpose",
+            "es": "{mendengar} = oír; {mendengarkan} = escuchar atentamente a propósito"
+          },
+          {
+            "pt": "A primeira é passada e a segunda futura",
+            "en": "The first is past and the second future",
+            "es": "La primera es pasada y la segunda futura"
+          },
+          {
+            "pt": "A primeira é formal e a segunda informal",
+            "en": "The first is formal and the second informal",
+            "es": "La primera es formal y la segunda informal"
+          },
+          {
+            "pt": "São exatamente sinônimas neste contexto",
+            "en": "They are exact synonyms in this context",
+            "es": "Son sinónimos exactos en este contexto"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: «tiga anak-___» = «três crianças».",
+            "en": "Complete: “tiga anak-___” = “three children.”",
+            "es": "Completa: «tiga anak-___» = «tres niños»."
+          },
+          "answer": "anak",
+          "hint": {
+            "pt": "Repita a raiz inteira.",
+            "en": "Repeat the whole root.",
+            "es": "Repite la raíz entera."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual é a estrutura natural de «mais amoroso que»?",
+            "en": "What is the natural structure for “more loving than”?",
+            "es": "¿Cuál es la estructura natural de «más amoroso que»?"
+          },
+          "options": [
+            {
+              "pt": "lebih baik daripada",
+              "en": "better than",
+              "es": "mejor que"
+            },
+            {
+              "pt": "pada kasih lebih",
+              "en": "pada kasih lebih",
+              "es": "pada kasih lebih"
+            },
+            {
+              "pt": "kasih daripada lebih",
+              "en": "kasih daripada lebih",
+              "es": "kasih daripada lebih"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Nem toda raiz aceita livremente -kan e -i. O dicionário e o uso SINCRÔNICO revelam a estrutura; não invente combinações.",
+            "en": "Not every root freely accepts -kan and -i. The dictionary and attested usage reveal the structure; do not invent combinations.",
+            "es": "No toda raíz acepta libremente -kan ni -i. El diccionario y el uso SINCRÓNICO muestran la estructura; no inventes combinaciones."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "A redupicação parcial repete a sílaba inicial; a total repete toda a raiz: {buku-buku} e {anak-anak}.",
+            "en": "Partial reduplication repeats the initial syllable; full reduplication repeats the whole root: {buku-buku} and {anak-anak}.",
+            "es": "La reduplicación parcial repite la sílaba inicial; la total repite toda la raíz: {buku-buku} y {anak-anak}."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Em {berjalan-jalan} e {berbicara-bicara}, {ber-} também se reduplica, reforçando o valor distributivo.",
+            "en": "In {berjalan-jalan} and {berbicara-bicara}, {ber-} also reduplicates, strengthening the distributive value.",
+            "es": "En {berjalan-jalan} y {berbicara-bicara}, también se reduplica {ber-}, reforzando el valor distributivo."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Aprendizagem",
+            "en": "Learning tip",
+            "es": "Consejo"
+          },
+          "text": {
+            "pt": "Aprenda cada verbo completo com um exemplo: {memberikan}, não apenas {beri}; os afixos alteram o significado.",
+            "en": "Learn each complete verb with an example: {memberikan}, not just {beri}; affixes change meaning.",
+            "es": "Aprende cada verbo completo con un ejemplo: {memberikan}, no solo {beri}; los afijos cambian el significado."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ibu membacakan cerita kepada anak.",
+          "gloss": {
+            "pt": "A mãe lê uma história para o filho.",
+            "en": "Mother reads a story to the child.",
+            "es": "La madre lee un cuento al niño."
+          }
+        },
+        {
+          "text": "Saudara mendengarkan Firman.",
+          "gloss": {
+            "pt": "O irmão escuta atentamente a Palavra.",
+            "en": "The brother listens attentively to the Word.",
+            "es": "El hermano escucha atentamente la Palabra."
+          }
+        },
+        {
+          "text": "Allah memberi kasih karunia kepada kita.",
+          "gloss": {
+            "pt": "Deus nos dá graça.",
+            "en": "God gives us grace.",
+            "es": "Dios nos da gracia."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Pares com mudança de valor",
+            "en": "Pairs with shifted meaning",
+            "es": "Pares con cambio de valor"
+          },
+          "head": [
+            "Base",
+            "Derivado",
+            "ES"
+          ],
+          "rows": [
+            [
+              "mendengar",
+              "mendengarkan",
+              {
+                "pt": "ouvir × escutar atentamente",
+                "en": "hear × listen attentively",
+                "es": "oír × escuchar atentamente"
+              }
+            ],
+            [
+              "memberi",
+              "memberikan",
+              {
+                "pt": "dar algo a alguém",
+                "en": "give something to someone",
+                "es": "dar algo a alguien"
+              }
+            ],
+            [
+              "naik",
+              "menaiki",
+              {
+                "pt": "subir × subir em algo",
+                "en": "go up × climb onto something",
+                "es": "subir × subir a algo"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "pt": "Leitura: Pai-Nosso e Salmo 22",
+        "en": "Reading: The Lord’s Prayer and Psalm 22",
+        "es": "Lectura: Padrenuestro y Salmo 22"
+      },
+      "subtitle": {
+        "pt": "Bapa kami yang di sorga",
+        "en": "Bapa kami yang di sorga",
+        "es": "Bapa kami yang di sorga"
+      },
+      "section": {
+        "pt": "Leituras",
+        "en": "Readings",
+        "es": "Lecturas"
+      },
+      "body": {
+        "pt": "O Pai-Nosso reúne nomes, pronomes, orações relativas, passivas e imperativos. O TB diz {Bapa kami yang di sorga, dikuduskanlah nama-Mu}, ou seja, «Pai nosso que está no céu, seja santificado o teu nome».\n\nANÁLISE\n• {Bapa}: «pai»\n• {kami}: sujeito possessivo «nosso»; a oração inteira exerce o papel de sujeito de {dikuduskanlah}.\n• {yang di sorga}: relativo passivo: «que está no céu».\n• {nama-Mu}: «teu nome»; {Mu} sufixo de segunda pessoa formal/possessivo, que se funde à base.\n• {dikuduskanlah}: {di-} + {kuduskan} + {-lah}; passiva («seja santificado») com valor enfático de ordem.\n\nContinue: {Datanglah kerajaan-Mu, jadilah kehendak-Mu}. {Datanglah} pode ter valor desiderativo: «venha»; {jadilah} «seja feito». O uso de {kerajaan-Mu} com {datang} gera a imagem bíblica da chegada do reino.\n\n{Berikanlah kami pada hari ini makanan kami yang secukupnya}. {Berikanlah} combina {beri} + {kan} + {lah}; é mais natural que {berilah kami}. O pronome {kami} é o beneficiário; {yang secukupnya} é relativo e significa «que sea suficiente».\n\nEm {Ampunilah kami akan kesalahan kami}, {akan} é NOMINALIZADOR postposicional, «de/por». Não é o futuro {akan}. {Kesalahan} significa «erros» ou «dívidas».\n\nNo Salmo 22:2, {Allahku, Allahku} = «Meu Deus, meu Deus» ({ku}, primeira pessoa). {Mengapa} introduz uma pergunta: «por quê». {meninggalkan} = {meN- + tinggal + kan} = «abandonar». {Aku} é enfático no registro bíblico.",
+        "en": "The Lord’s Prayer combines names, pronouns, relative clauses, passives, and imperatives. The Indonesian text reads {Bapa kami yang di sorga, dikuduskanlah nama-Mu}: “Our Father who is in heaven, may your name be hallowed.”\n\nANALYSIS\n• {Bapa}: “Father.”\n• {kami}: possessive subject “our”; the whole clause serves as the subject of {dikuduskanlah}.\n• {yang di sorga}: passive relative: “who is in heaven.”\n• {nama-Mu}: “your name”; {Mu} is a second-person formal/possessive enclitic attached to the base.\n• {dikuduskanlah}: {di-} + {kuduskan} + {-lah}; a passive (“be hallowed”) with an emphatic command.\n\nContinue: {Datanglah kerajaan-Mu, jadilah kehendak-Mu}. {Datanglah} can have desiderative force: “may it come”; {jadilah} “be done.” {Kerajaan-Mu} with {datang} evokes the biblical image of the kingdom’s arrival.\n\n{Berikanlah kami pada hari ini makanan kami yang secukupnya}. {Berikanlah} combines {beri} + {kan} + {lah} and is more natural than {berilah kami}. {Kami} is the beneficiary; {yang secukupnya} is a relative meaning “that is sufficient.”\n\nIn {Ampunilah kami akan kesalahan kami}, {akan} is a postpositional NOMINALIZER meaning “of/for.” It is not the future {akan}. {Kesalahan} means “errors” or “debts.”\n\nIn Psalm 22:2, {Allahku, Allahku} = “My God, my God” ({ku}, first person). {Mengapa} introduces a question: “why.” {Meninggalkan} = {meN- + tinggal + kan}, “to abandon.” {Aku} is emphatic in Biblical register.",
+        "es": "El Padrenuestro reúne nombres, pronombres, relativas, pasivas e imperativos. TB dice {Bapa kami yang di sorga, dikuduskanlah nama-Mu}: «Padre nuestro que está en el cielo, sea santificado tu nombre».\n\nANÁLISIS\n• {Bapa}: «padre».\n• {kami}: sujeto posesivo «nuestro»; toda la cláusula funciona como sujeto de {dikuduskanlah}.\n• {yang di sorga}: relativa pasiva: «que está en el cielo».\n• {nama-Mu}: «tu nombre»; {Mu} es enclítico formal/posesivo de segunda persona unido a la base.\n• {dikuduskanlah}: {di-} + {kuduskan} + {-lah}; pasiva («sea santificado») con orden enfática.\n\nContinúa: {Datanglah kerajaan-Mu, jadilah kehendak-Mu}. {Datanglah} puede tener valor desiderativo: «venga»; {jadilah} «sea hecho». {Kerajaan-Mu} con {datang} evoca la imagen bíblica de la llegada del reino.\n\n{Berikanlah kami pada hari ini makanan kami yang secukupnya}. {Berikanlah} combina {beri} + {kan} + {lah} y es más natural que {berilah kami}. {Kami} es el beneficiario; {yang secukupnya} es una relativa con valor de suficiencia.\n\nEn {Ampunilah kami akan kesalahan kami}, {akan} es NOMINALIZADOR pospuesto: «de/por». No es el futuro {akan}. {Kesalahan} significa «errores» o «deudas».\n\nEn el Salmo 22:2, {Allahku, Allahku} = «Dios mío, Dios mío» ({ku}, primera persona). {Mengapa} introduce una pregunta: «por qué». {Meninggalkan} = {meN- + tinggal + kan}, «abandonar». {Aku} es enfático en el registro bíblico."
+      },
+      "vocab": [
+        {
+          "form": "Bapa",
+          "lemma": "bapa",
+          "lang": "id",
+          "pt": "pai",
+          "en": "father",
+          "es": "padre"
+        },
+        {
+          "form": "sorga",
+          "lemma": "sorga",
+          "lang": "id",
+          "pt": "céu",
+          "en": "heaven",
+          "es": "cielo"
+        },
+        {
+          "form": "kuduskan",
+          "lemma": "kudus",
+          "lang": "id",
+          "pt": "santificar",
+          "en": "to sanctify",
+          "es": "santificar"
+        },
+        {
+          "form": "dikuduskanlah",
+          "lemma": "kudus",
+          "lang": "id",
+          "pt": "seja santificado!",
+          "en": "be hallowed!",
+          "es": "¡sea santificado!"
+        },
+        {
+          "form": "nama-Mu",
+          "lemma": "nama",
+          "lang": "id",
+          "pt": "teu nome",
+          "en": "your name",
+          "es": "tu nombre"
+        },
+        {
+          "form": "kerajaan",
+          "lemma": "raja",
+          "lang": "id",
+          "pt": "reino",
+          "en": "kingdom",
+          "es": "reino"
+        },
+        {
+          "form": "kehendak",
+          "lemma": "hendak",
+          "lang": "id",
+          "pt": "vontade, querer",
+          "en": "will, desire",
+          "es": "voluntad, deseo"
+        },
+        {
+          "form": "Berikanlah",
+          "lemma": "beri",
+          "lang": "id",
+          "pt": "dá!",
+          "en": "give!",
+          "es": "¡da!"
+        },
+        {
+          "form": "secukupnya",
+          "lemma": "cukup",
+          "lang": "id",
+          "pt": "que seja suficiente",
+          "en": "that is sufficient",
+          "es": "que sea suficiente"
+        },
+        {
+          "form": "Ampunilah",
+          "lemma": "ampun",
+          "lang": "id",
+          "pt": "perdoe!",
+          "en": "forgive!",
+          "es": "¡perdona!"
+        },
+        {
+          "form": "akan",
+          "lemma": "akan",
+          "lang": "id",
+          "pt": "de; por (nominalizador)",
+          "en": "of; for (nominalizer)",
+          "es": "de; por (nominalizador)"
+        },
+        {
+          "form": "kesalahan",
+          "lemma": "salah",
+          "lang": "id",
+          "pt": "erro, dívida",
+          "en": "error, debt",
+          "es": "error, deuda"
+        },
+        {
+          "form": "meninggalkan",
+          "lemma": "tinggal",
+          "lang": "id",
+          "pt": "abandonar",
+          "en": "to abandon",
+          "es": "abandonar"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "O que {-lah} faz em {dikuduskanlah}?",
+          "en": "What does {-lah} do in {dikuduskanlah}?",
+          "es": "¿Qué hace {-lah} en {dikuduskanlah}?"
+        },
+        "options": [
+          {
+            "pt": "Marca o passado",
+            "en": "marks the past",
+            "es": "marca el pasado"
+          },
+          {
+            "pt": "Dá força de ordem ou desejo à passiva",
+            "en": "gives commanding or desired force to the passive",
+            "es": "da fuerza de orden o deseo a la pasiva"
+          },
+          {
+            "pt": "Cria o plural",
+            "en": "creates the plural",
+            "es": "crea el plural"
+          },
+          {
+            "pt": "Nega o verbo",
+            "en": "negates the verb",
+            "es": "niega el verbo"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: «___lah nama-Mu» = «seja santificado o teu nome».",
+            "en": "Complete: “___lah nama-Mu” = “may your name be hallowed.”",
+            "es": "Completa: «___lah nama-Mu» = «sea santificado tu nombre»."
+          },
+          "answer": "dikuduskan",
+          "hint": {
+            "pt": "Começa com di- e contém kata kudus.",
+            "en": "Starts with di- and contains the root kudus.",
+            "es": "Empieza con di- y contiene la raíz kudus."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em «akan kesalahan», que função tem {akan}?",
+            "en": "In “akan kesalahan,” what function does {akan} have?",
+            "es": "En «akan kesalahan», ¿qué función tiene {akan}?"
+          },
+          "options": [
+            {
+              "pt": "Futuro",
+              "en": "future",
+              "es": "futuro"
+            },
+            {
+              "pt": "Nominalizador, «de»",
+              "en": "nominalizer, “of”",
+              "es": "nominalizador, «de»"
+            },
+            {
+              "pt": "Pronome",
+              "en": "pronoun",
+              "es": "pronombre"
+            },
+            {
+              "pt": "Negação",
+              "en": "negation",
+              "es": "negación"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "A oração nominal inteira {Bapa kami yang di sorga} é sujeito de {dikuduskanlah}; não leia apenas {kami} como sujeito.",
+            "en": "The entire nominal clause {Bapa kami yang di sorga} is the subject of {dikuduskanlah}; do not read {kami} alone as its subject.",
+            "es": "Toda la cláusula nominal {Bapa kami yang di sorga} es sujeto de {dikuduskanlah}; no leas solo {kami} como sujeto."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "{-lah} pode criar valor de orden owish ou deseo, mas não cria passado.",
+            "en": "{-lah} can create commanding or desiderative force, but it does not create past time.",
+            "es": "{-lah} puede crear valor de orden o deseo, pero no crea pasado."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "TB usa minúsculas para nomes divinos; em texto normal, capitalize {Allah}, {Tuhan} e {Yesus} conforme convenção da edição.",
+            "en": "TB uses lowercase for divine names; in ordinary text, capitalize {Allah}, {Tuhan}, and {Yesus} according to the edition’s convention.",
+            "es": "TB usa minúsculas para los nombres divinos; en texto normal, escribe con mayúscula {Allah}, {Tuhan} y {Yesus} según la convención de la edición."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Pronúncia",
+            "en": "Pronunciation",
+            "es": "Pronunciación"
+          },
+          "text": {
+            "pt": "{sorga} se pronuncia aproximadamente [ˈsɔrɡa], con vocal velar abierta.",
+            "en": "{sorga} is pronounced approximately [ˈsɔrɡa], with an open velar vowel.",
+            "es": "{sorga} se pronuncia aproximadamente [ˈsɔrɡa], con vocal velar abierta."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Bapa kami yang di sorga.",
+          "gloss": {
+            "pt": "Pai nosso que está no céu.",
+            "en": "Our Father who is in heaven.",
+            "es": "Padre nuestro que está en el cielo."
+          }
+        },
+        {
+          "text": "Datanglah kerajaan-Mu.",
+          "gloss": {
+            "pt": "Venha o teu reino.",
+            "en": "May your kingdom come.",
+            "es": "Venga tu reino."
+          }
+        },
+        {
+          "text": "Ampunilah kami akan kesalahan kami.",
+          "gloss": {
+            "pt": "Perdoa os nossos débitos.",
+            "en": "Forgive our debts.",
+            "es": "Perdona nuestras deudas."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Estruturas do Pai-Nosso",
+            "en": "Structures in the Lord’s Prayer",
+            "es": "Estructuras del Padrenuestro"
+          },
+          "head": [
+            "Estrutura",
+            "PT",
+            "ES"
+          ],
+          "rows": [
+            [
+              "yang + passiva",
+              {
+                "pt": "oração relativa",
+                "en": "relative clause",
+                "es": "oración relativa"
+              },
+              "{yang di sorga} = «que está en el cielo»"
+            ],
+            [
+              "-Mu",
+              {
+                "pt": "posesivo de 2ª pessoa",
+                "en": "2nd-person possessive",
+                "es": "posesivo de 2.ª persona"
+              },
+              "{nama-Mu} = «tu nombre»"
+            ],
+            [
+              "akan + N",
+              {
+                "pt": "nominalizador",
+                "en": "nominalizer",
+                "es": "nominalizador"
+              },
+              "{akan kesalahan} = «de los errores»"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "pt": "Prefixos per- e ke-; sufixo -an",
+        "en": "per- and ke- prefixes; -an suffix",
+        "es": "Prefijos per- y ke-; sufijo -an"
+      },
+      "subtitle": {
+        "pt": "pergi, kehendak, makanan",
+        "en": "pergi, kehendak, makanan",
+        "es": "pergi, kehendak, makanan"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "Estes três padrões ampliam nomes e verbos, mas seus valores não são intercambiáveis.\n\nper- + verbo, muitas vezes com -kan, exprime afastamento ou conclusão de um processo: {pergi} «ir», {perjalanan} «viagem», {berpisah} «separar-se». {per-…-kan} pode expressar ação prolongada e também causação: {menjalankan} faz CORRER; {memperlihatkan} «fazer ver»; {mempersembahkan} «oferecer/apresentar». O elemento {kan} não significa PASSADO.\n\nke- + substantivo + -an indica resultado, domínio ou coleção: {ke- + behem → keberadaan}, {ke- + hendak + -an → kehendak}, {ke- + raja + -an → kerajaan}. A ditongia {ea} reflete um processo histórico, não uma regra geral aplicável a todo ke-an.\n\nO substantivo {kebenaran} pode ser analisado historically como {ke- + benar + -an}, mas significa «verdade, justiça, fidelidade» conforme o contexto. {Kerajaan} significa «reino» e pode operar metaforicamente: {Kerajaan Allah} «Reino de Deus».\n\n{-an} como sufixo nominal forma ferramenta, produto, atividade ou domínio: {-an + makan → makanan} «comida» (literalmente «o que é comido»); {-an + tulis → tulisan} «escrito»; {-an + baca → bacaan} «leitura». Não toda forma em -an contém ke-.",
+        "en": "These three patterns expand nouns and verbs, but their values are not interchangeable.\n\nper- + verb, often with -kan, expresses separation or completion of a process: {pergi} “to go,” {perjalanan} “journey,” {berpisah} “to separate.” {per-…-kan} may express prolonged action and causation: {menjalankan} “to make run”; {memperlihatkan} “to show”; {mempersembahkan} “to offer/present.” The element {kan} does not mean past.\n\nke- + noun + -an indicates a result, domain, totality, or collection: {ke- + behem → keberadaan}, {ke- + hendak + -an → kehendak}, {ke- + raja + -an → kerajaan}. The {ea} sequence in these nouns reflects a historical process and is not a rule that every ke-an follows.\n\nHistorically, {kebenaran} can be analyzed as {ke- + benar + -an}, but it means “truth, righteousness, faithfulness” according to context. {Kerajaan} means “kingdom” and can work metaphorically: {Kerajaan Allah} “Kingdom of God.”\n\nNominal -an forms a tool, product, action/instance, or domain: {-an + makan → makanan} “food” (literally “that which is eaten”); {-an + tulis → tulisan} “writing”; {-an + baca → bacaan} “reading.” Not every -an form contains ke-.",
+        "es": "Estos tres patrones amplían nombres y verbos, pero sus valores no son intercambiables.\n\nper- + verbo, a menudo con -kan, expresa separación o conclusión de un proceso: {pergi} «ir», {perjalan} «viajar», {berpisah} «separarse». {per-…-kan} puede expresar una acción prolongada y también causación: {menjalankan} «hacer correr»; {memperlihatkan} «hacer ver»; {mempersembahkan} «ofrecer/presentar». El elemento {kan} no significa PASADO.\n\nke- + sustantivo + -an indica resultado, dominio, totalidad o colección: {ke- + behem → keberadaan}, {ke- + hendak + -an → kehendak}, {ke- + raja + -an → kerajaan}. La secuencia {ea} refleja un proceso histórico y no una regla aplicable a todo ke-an.\n\nHistóricamente, {kebenaran} puede analizarse como {ke- + benar + -an}, pero significa «verdad, justicia, fidelidad» según el contexto. {Kerajaan} significa «reino» y funciona metafóricamente en {Kerajaan Allah} «Reino de Dios».\n\nEl -an nominal forma herramienta, producto, acción/instancia o dominio: {-an + makan → makanan} «comida» (literalmente «aquello que se come»); {-an + tulis → tulisan} «escrito»; {-an + baca → bacaan} «lectura». No toda forma en -an contiene ke-."
+      },
+      "vocab": [
+        {
+          "form": "pergi",
+          "lemma": "pergi",
+          "lang": "id",
+          "pt": "ir, partir",
+          "en": "to go, leave",
+          "es": "ir, marcharse"
+        },
+        {
+          "form": "perjalanan",
+          "lemma": "jalan",
+          "lang": "id",
+          "pt": "viagem",
+          "en": "journey, travel",
+          "es": "viaje"
+        },
+        {
+          "form": "berpisah",
+          "lemma": "pisah",
+          "lang": "id",
+          "pt": "separar-se",
+          "en": "to separate, part",
+          "es": "separarse"
+        },
+        {
+          "form": "menjalankan",
+          "lemma": "jalan",
+          "lang": "id",
+          "pt": "fazer correr; executar",
+          "en": "to make run; run",
+          "es": "hacer correr; ejecutar"
+        },
+        {
+          "form": "memperlihatkan",
+          "lemma": "lihat",
+          "lang": "id",
+          "pt": "mostrar",
+          "en": "to show",
+          "es": "mostrar"
+        },
+        {
+          "form": "mempersembahkan",
+          "lemma": "sembah",
+          "lang": "id",
+          "pt": "oferecer, apresentar",
+          "en": "to offer, present",
+          "es": "ofrecer, presentar"
+        },
+        {
+          "form": "kehendak",
+          "lemma": "hendak",
+          "lang": "id",
+          "pt": "vontade, querer",
+          "en": "will, desire",
+          "es": "voluntad, deseo"
+        },
+        {
+          "form": "kerajaan",
+          "lemma": "raja",
+          "lang": "id",
+          "pt": "reino",
+          "en": "kingdom",
+          "es": "reino"
+        },
+        {
+          "form": "kebenaran",
+          "lemma": "benar",
+          "lang": "id",
+          "pt": "verdade, justiça, fidelidade",
+          "en": "truth, righteousness, faithfulness",
+          "es": "verdad, justicia, fidelidad"
+        },
+        {
+          "form": "makanan",
+          "lemma": "makan",
+          "lang": "id",
+          "pt": "comida",
+          "en": "food",
+          "es": "comida"
+        },
+        {
+          "form": "minuman",
+          "lemma": "minum",
+          "lang": "id",
+          "pt": "bebida",
+          "en": "drink",
+          "es": "bebida"
+        },
+        {
+          "form": "tulisan",
+          "lemma": "tulis",
+          "lang": "id",
+          "pt": "escrito, escrita",
+          "en": "writing",
+          "es": "escrito, escritura"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual é a melhor análise de {kerajaan}?",
+          "en": "What is the best analysis of {kerajaan}?",
+          "es": "¿Cuál es el mejor análisis de {kerajaan}?"
+        },
+        "options": [
+          {
+            "pt": "ke- + raja + -an, «reino»",
+            "en": "ke- + raja + -an, “kingdom”",
+            "es": "ke- + raja + -an, «reino»"
+          },
+          {
+            "pt": "ke- = passado + -an = plural",
+            "en": "ke- = past + -an = plural",
+            "es": "ke- = pasado + -an = plural"
+          },
+          {
+            "pt": "ke- = negação + -an = objeto",
+            "en": "ke- = negation + -an = object",
+            "es": "ke- = negación + -an = objeto"
+          },
+          {
+            "pt": "ke- = lugar + -an = futuro",
+            "en": "ke- = place + -an = futuro",
+            "es": "ke- = lugar + -an = futuro"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: «Allah ___ kami» = «Deus alcança a nós».",
+            "en": "Complete: “Allah ___ kami” = “God reaches us” .",
+            "es": "Completa: «Allah ___ kami» = «Dios nos alcanza» ."
+          },
+          "answer": "mencapai",
+          "hint": {
+            "pt": "Verbo: meN- + capai.",
+            "en": "Verb: meN- + capai.",
+            "es": "Verbo: meN- + capai."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual exemplo é um substantivo abstrato com -an?",
+            "en": "Which is an abstract noun with -an?",
+            "es": "¿Cuál es un sustantivo abstracto con -an?"
+          },
+          "options": [
+            {
+              "pt": "kebenaran",
+              "en": "kebenaran",
+              "es": "kebenaran"
+            },
+            {
+              "pt": "buku",
+              "en": "buku",
+              "es": "buku"
+            },
+            {
+              "pt": "kamu",
+              "en": "kamu",
+              "es": "kamu"
+            },
+            {
+              "pt": "saya",
+              "en": "saya",
+              "es": "saya"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "{ke-} costuma mudar a vogal da raiz: {raja} → {kerajaan}, {hendak} → {kehendak}.",
+            "en": "{Ke-} commonly changes the root vowel: {raja} → {kerajaan}, {hendak} → {kehendak}.",
+            "es": "{Ke-} suele cambiar la vocal de la raíz: {raja} → {kerajaan}, {hendak} → {kehendak}."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "A cominação de {per-}, {ke-} e {-an} não é inteiramente livre. As formas estabelecidas não se derivam apenas por regras mecânicas.",
+            "en": "Combination of {per-}, {ke-}, and {-an} is not fully free. Established forms cannot be derived by mechanical rules alone.",
+            "es": "La combinación de {per-}, {ke-} y {-an} no es totalmente libre. Las formas establecidas no se derivan solo por reglas mecánicas."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Em {mempersembahkan}, {per-} destaca a realização da ação e {-kan} destaca o objeto ou resultado; não traduza literalmente o pacote de afixos.",
+            "en": "In {mempersembahkan}, {per-} foregrounds completion of the action and {-kan} highlights the object or result; do not literally translate the affix bundle.",
+            "es": "En {mempersembahkan}, {per-} destaca la realización de la acción y {-kan} destaca el objeto o resultado; no traduzcas literalmente el paquete de afijos."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Etimologia",
+            "en": "Etymology",
+            "es": "Etimología"
+          },
+          "text": {
+            "pt": "{ke-} é o mesmo prefixo que aparece em {kedua} «dois» e {kepada} «a/para»; {-an} também aparece sem ke-.",
+            "en": "{Ke-} is the same prefix seen in {kedua} “two” and {kepada} “to”; {-an} also occurs without ke-.",
+            "es": "{Ke-} es el mismo prefijo de {kedua} «dos» y {kepada} «a/para»; {-an} también aparece sin ke-."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Yesus pergi ke bukit.",
+          "gloss": {
+            "pt": "Jesus foi para o monte.",
+            "en": "Jesus went to the hill.",
+            "es": "Jesús fue al monte."
+          }
+        },
+        {
+          "text": "Jadilah kehendak-Mu.",
+          "gloss": {
+            "pt": "Seja feita a tua vontade.",
+            "en": "May your will be done.",
+            "es": "Hágase tu voluntad."
+          }
+        },
+        {
+          "text": "Matius menerima makanan.",
+          "gloss": {
+            "pt": "Mateus recebe comida.",
+            "en": "Matthew receives food.",
+            "es": "Mateo recibe comida."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Padrões e valores",
+            "en": "Patterns and values",
+            "es": "Patrones y valores"
+          },
+          "head": [
+            "Padrão",
+            "Valor",
+            "ES"
+          ],
+          "rows": [
+            [
+              "per- + V",
+              {
+                "pt": "ir, afastar-se, completar",
+                "en": "go, separate, complete",
+                "es": "ir, separarse, completar"
+              },
+              "{pergi} «irse»"
+            ],
+            [
+              "per-…-kan",
+              {
+                "pt": "fazer/realizar plenamente",
+                "en": "make/do fully",
+                "es": "hacer/realizar plenamente"
+              },
+              "{menjalankan} «hacer correr»"
+            ],
+            [
+              "ke-…-an",
+              {
+                "pt": "resultado, domínio, coleção",
+                "en": "result, domain, collection",
+                "es": "resultado, dominio, colección"
+              },
+              "{kerajaan} «reino»"
+            ],
+            [
+              "-an",
+              {
+                "pt": "produto, instrumento, atividade",
+                "en": "product, tool, activity",
+                "es": "producto, instrumento, actividad"
+              },
+              "{makanan} «comida»"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": {
+        "pt": "Registro e tratamento",
+        "en": "Register and address",
+        "es": "Registro y tratamiento"
+      },
+      "subtitle": {
+        "pt": "Anda, kamu, engkau; dia, beliau",
+        "en": "Anda, kamu, engkau; dia, beliau",
+        "es": "Anda, kamu, engkau; dia, beliau"
+      },
+      "section": {
+        "pt": "Registro e discurso",
+        "en": "Register and discourse",
+        "es": "Registro y discurso"
+      },
+      "body": {
+        "pt": "O sistema indonésio é relacional, não apenas formal ou informal. A escolha depende de quem é o interlocutor e do contexto.\n\n{kamu} é o tratamento comum, familiar ou respeitoso em muitas situações cotidianas. {Anda} é formal/distante e também usado com estranhos; pode soar distante ou irônico quando não é apropriado. {kau} é mais íntimo e coloquial, normalmente na forma clítica: {aku cinta kau}, mas a forma {engkau} é mais enfática, bíblica ou literária.\n\n{Mu} é clítico de segunda pessoa: {nama-Mu} «teu nome». A forma {Anda} recebe tratamento formal, enquanto {kamu} é o tratamento comum; a pergunta {Siapa Anda?} significa «¿Quién es usted?». O pronome {kamu} normalmente recebe o clítico {mu}: {rumahmu} «tu casa».\n\n{beliau} é referência respeitosa a uma terceira pessoa, especialmente em documentos ou situações públicas; {dia} é normal. {saudara} funciona como vocativo: «irmão» pode incluir varão e mulher; {saudara-saudara} «queridos irmãos» é tratamento comum nas cartas paulinas.\n\nO registro depende do contexto. {Santap} é cuidadoso ou refinado para «comer»; {makan} é normal, não «bruto». {Meninggal} descreve uma morte e pode ser cortês; {mati} é direto e pode soar brusco em contextos sensíveis. {Wafat} pertence ao registro formal ou eclesial.",
+        "en": "The Indonesian system is relational, not simply formal versus informal. Choice depends on who the interlocutor is and on context.\n\n{kamu} is the common, familiar, or respectful address in many everyday situations. {Anda} is formal/distant and also used with strangers; it may sound distant or ironic when inappropriate. {Kau} is more intimate and colloquial, normally as a clitic: {aku cinta kau}; the fuller {engkau} is emphatic, Biblical, or literary.\n\n{Mu} is a second-person clitic: {nama-Mu} “your name.” {Anda} normally appears as the independent pronoun; {mu} is normally used for the familiar {kamu}: {rumahmu} “your house.”\n\n{Beliau} is a respectful third-person reference, especially in documents or public settings; {dia} is ordinary. {Saudara} functions as a vocative: “brother” may include both men and women; {saudara-saudara} “dear brothers” is common in Pauline letters.\n\nRegister is contextual. {Santap} is a careful or refined verb for “to eat”; {makan} is ordinary, not “rude.” {Meninggal} describes death and may be courteous; {mati} is direct and can be jarring in sensitive contexts. {Wafat} belongs to formal or ecclesiastical usage.",
+        "es": "El sistema indonesio es relacional, no simplemente formal o informal. La elección depende de quién es el interlocutor y del contexto.\n\n{kamu} es el tratamiento común, familiar o respetuoso en muchas situaciones cotidianas. {Anda} es formal/distante y se usa con desconocidos; puede sonar distante o irónico cuando no procede. {Kau} es más íntimo y coloquial, normalmente en forma clítica: {aku cinta kau}; la forma completa {engkau} es enfática, bíblica o literaria.\n\n{Mu} es clítico de segunda persona: {nama-Mu} «tu nombre». {Anda} suele aparecer como pronombre independiente; {mu} acompaña normalmente al familiar {kamu}: {rumahmu} «tu casa».\n\n{Beliau} es una referencia respetuosa de tercera persona, sobre todo en documentos o ambientes públicos; {dia} es ordinario. {Saudara} funciona como vocativo: «hermano» puede incluir hombres y mujeres; {saudara-saudara} «queridos hermanos» es común en las cartas paulinas.\n\nEl registro depende del contexto. {Santap} es un verbo cuidado o refinado para «comer»; {makan} es normal, no «bruto». {Meninggal} describe una muerte y puede ser cortés; {mati} es directo y puede resultar brusco en contextos sensibles. {Wafat} pertenece al uso formal o eclesial."
+      },
+      "vocab": [
+        {
+          "form": "Anda",
+          "lemma": "Anda",
+          "lang": "id",
+          "pt": "você formal; você",
+          "en": "you (formal); you",
+          "es": "usted formal; tú"
+        },
+        {
+          "form": "kamu",
+          "lemma": "kamu",
+          "lang": "id",
+          "pt": "você informal",
+          "en": "you (informal)",
+          "es": "tú informal"
+        },
+        {
+          "form": "kau",
+          "lemma": "kau",
+          "lang": "id",
+          "pt": "tu íntimo",
+          "en": "you (intimate)",
+          "es": "tú íntimo"
+        },
+        {
+          "form": "engkau",
+          "lemma": "engkau",
+          "lang": "id",
+          "pt": "tu enfático/literário",
+          "en": "you (emphatic/literary)",
+          "es": "tú enfático/literario"
+        },
+        {
+          "form": "-mu",
+          "lemma": "mu",
+          "lang": "id",
+          "pt": "teu, seu",
+          "en": "your",
+          "es": "tu, su"
+        },
+        {
+          "form": "dia",
+          "lemma": "dia",
+          "lang": "id",
+          "pt": "ele, ela",
+          "en": "he, she",
+          "es": "él, ella"
+        },
+        {
+          "form": "beliau",
+          "lemma": "beliau",
+          "lang": "id",
+          "pt": "ele/ela respeitoso",
+          "en": "he/she (respectful)",
+          "es": "él/ella respetuoso"
+        },
+        {
+          "form": "saudara",
+          "lemma": "saudara",
+          "lang": "id",
+          "pt": "irmão, confrade",
+          "en": "brother, fellow believer",
+          "es": "hermano, fellow"
+        },
+        {
+          "form": "saudara-saudara",
+          "lemma": "saudara",
+          "lang": "id",
+          "pt": "irmãos; irmãos em Cristo",
+          "en": "brothers; fellow believers",
+          "es": "hermanos; hermanos en Cristo"
+        },
+        {
+          "form": "rumah",
+          "lemma": "rumah",
+          "lang": "id",
+          "pt": "casa",
+          "en": "house, home",
+          "es": "casa"
+        },
+        {
+          "form": "rumahmu",
+          "lemma": "rumah",
+          "lang": "id",
+          "pt": "tua casa",
+          "en": "your house",
+          "es": "tu casa"
+        },
+        {
+          "form": "makan",
+          "lemma": "makan",
+          "lang": "id",
+          "pt": "comer",
+          "en": "to eat",
+          "es": "comer"
+        },
+        {
+          "form": "santap",
+          "lemma": "santap",
+          "lang": "id",
+          "pt": "comer (cuidado/refinado)",
+          "en": "to eat (careful/refined)",
+          "es": "comer (cuidado/refinado)"
+        },
+        {
+          "form": "meninggal",
+          "lemma": "meninggal",
+          "lang": "id",
+          "pt": "morrer, falecer",
+          "en": "to die, pass away",
+          "es": "morir, fallecer"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual frase é mais natural para conhecer um desconhecido?",
+          "en": "Which sentence is most natural when meeting a stranger?",
+          "es": "¿Qué frase es más natural al conocer a un desconocido?"
+        },
+        "options": [
+          {
+            "pt": "Siapa nama Anda?",
+            "en": "Siapa nama Anda?",
+            "es": "¿Cómo se llama usted?"
+          },
+          {
+            "pt": "Siapa nama kamu?",
+            "en": "Siapa nama kamu?",
+            "es": "¿Cómo te llamas?"
+          },
+          {
+            "pt": "Engkau siapa?",
+            "en": "Engkau siapa?",
+            "es": "¿Tú quién eres?"
+          },
+          {
+            "pt": "Bapa siapa?",
+            "en": "Bapa siapa?",
+            "es": "¿Padre quién?"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: «rumah___» = «sua casa» (com {kamu}).",
+            "en": "Complete: “rumah___” = “your house” (with {kamu}).",
+            "es": "Completa: «rumah___» = «tu casa» (con {kamu})."
+          },
+          "answer": "mu",
+          "hint": {
+            "pt": "Clítico de segunda pessoa que se une à base.",
+            "en": "Second-person clitic attached to the base.",
+            "es": "Clítico de segunda persona unido a la base."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual verbo é o mais direto para «morrer»?",
+            "en": "Which verb is the most direct for “to die”?",
+            "es": "¿Qué verbo es más directo para «morir»?"
+          },
+          "options": [
+            {
+              "pt": "mati",
+              "en": "mati",
+              "es": "mati"
+            },
+            {
+              "pt": "meninggal",
+              "en": "meninggal",
+              "es": "meninggal"
+            },
+            {
+              "pt": "santap",
+              "en": "santap",
+              "es": "santap"
+            },
+            {
+              "pt": "tidur",
+              "en": "tidur",
+              "es": "tidur"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "{Anda} é capitalizado porque substitui um nome próprio; {kamu} e {dia} normalmente não são capitalizados.",
+            "en": "{Anda} is capitalized because it replaces a proper name; {kamu} and {dia} are normally lowercase.",
+            "es": "{Anda} se escribe con mayúscula porque sustituye un nombre propio; {kamu} y {dia} normalmente van en minúscula."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "O clítico {mu} se une à base e o {ny} final costuma pronunciar-se [ɲ]: {nama-Mu} ≈ [ˈnama mu].",
+            "en": "The clitic {mu} attaches to the base, and final {ny} is usually pronounced [ɲ]: {nama-Mu} ≈ [ˈnama mu].",
+            "es": "El clítico {mu} se une a la base y la {ny} final suele pronunciarse [ɲ]: {nama-Mu} ≈ [ˈnama mu]."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Não escolha {Anda} só porque a pessoa é mais velha: contexto, idade, status e distância social matter.",
+            "en": "Do not choose {Anda} only because someone is older: context, age, status, and social distance matter.",
+            "es": "No elijas {Anda} solo porque alguien sea mayor: importan el contexto, la edad, el estatus y la distancia social."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Variação",
+            "en": "Variation",
+            "es": "Variación"
+          },
+          "text": {
+            "pt": "O par {santap/makan} é estilístico, não uma oposição absolutamente brutal/educada.",
+            "en": "The {santap/makan} pair is stylistic, not an absolute rude/polite opposition.",
+            "es": "El par {santap/makan} es estilístico, no una oposición Brutal/educada absoluta."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Saudara, marilah kita belajar.",
+          "gloss": {
+            "pt": "Irmão, vamos aprender.",
+            "en": "Brother, let us learn.",
+            "es": "Hermano, aprendamos."
+          }
+        },
+        {
+          "text": "Aku menyanyikan lagu untukmu.",
+          "gloss": {
+            "pt": "Eu canto uma canção para você.",
+            "en": "I sing a song for you.",
+            "es": "Canto una canción para ti."
+          }
+        },
+        {
+          "text": "Beliau tinggal di Jakarta.",
+          "gloss": {
+            "pt": "Ele mora em Jacarta (registro respeitoso).",
+            "en": "He lives in Jakarta (respectful register).",
+            "es": "Él vive en Yakarta (registro respetuoso)."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Formas de tratamento",
+            "en": "Forms of address",
+            "es": "Formas de tratamiento"
+          },
+          "head": [
+            "Forma",
+            "PT",
+            "ES"
+          ],
+          "rows": [
+            [
+              "kamu",
+              {
+                "pt": "comum/informal",
+                "en": "ordinary/informal",
+                "es": "común/informal"
+              },
+              "{kamu + -mu}"
+            ],
+            [
+              "Anda",
+              {
+                "pt": "formal/distante",
+                "en": "formal/distant",
+                "es": "formal/distante"
+              },
+              "{Anda}"
+            ],
+            [
+              "kau",
+              {
+                "pt": "íntimo/clítico",
+                "en": "intimate/clitic",
+                "es": "íntimo/clítico"
+              },
+              "{mencintamu} «te quiero»"
+            ],
+            [
+              "engkau",
+              {
+                "pt": "enfático/literário",
+                "en": "emphatic/literary",
+                "es": "enfático/literario"
+              },
+              "{Engkau Allahku}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": {
+        "pt": "Classificadores e quantidade",
+        "en": "Classifiers and quantity",
+        "es": "Clasificadores y cantidad"
+      },
+      "subtitle": {
+        "pt": "seorang, seekor, sebiji, sebuah",
+        "en": "seorang, seekor, sebiji, sebuah",
+        "es": "seorang, seekor, sebiji, sebuah"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "Ao contar entidades, o indonésio pode inserir um classificador: {tiga orang murid} = «três pessoas [que são] discípulos» = «três discípulos». Ele indica a categoria e não faz flexão de gênero.\n\nCLASSIFICADORES\n• {orang} pessoas: {seorang murid}, {dua orang guru}.\n• {ekor} animais menores ou domésticos: {seekor domba}, {dua ekor ayam}.\n• {biji} grãos e frutos pequenos: {sebiji sesawi}, {dua biji batu}.\n• {buah} objetos de contorno ou categoria geral: {sebuah roti}, {dua buah bola}. Para instrumentos, prefira {bilah} para uma extensão de paisagem, {gelas} para uma taça e {lembar} para uma folha.\n\n{se-} + classificador = «um»: {seorang} «uma pessoa», {seekor} «um animal», {sebiji} «um grão», {sebuah} «um objeto». No plural normal, use o número natural: {tiga orang}, {dua ekor}, {tiga biji}; o classificador não é obrigatório.\n\n{para} + nome pode formar plural definido: {para murid} «os discípulos», {para rasul} «os apóstolos». Em contexto, {murid} pode significar «aluno» ou «discípulo».\n\n{Semua} = «todos/todo»; {semua orang} = «toda a gente». {Banyak} = «muitos», antes do nome: {banyak ikan} «muitos peixes». Para indicar «um do grupo», use as formas estabelecidas {seorang}, {seekor} e {satu}.",
+        "en": "When counting entities, Indonesian may insert a classifier: {tiga orang murid} = “three persons [who are] disciples” = “three disciples.” It indicates category and does not mark gender.\n\nCLASSIFIERS\n• {orang} people: {seorang murid}, {dua orang guru}.\n• {ekor} small/domestic animals: {seekor domba}, {dua ekor ayam}.\n• {biji} grains and small fruits: {sebiji sesawi}, {dua biji batu}.\n• {buah} outlined or general objects: {sebuah roti}, {dua buah bola}. For instruments, prefer {bilah} for a stretch of scenery, {gelas} for a cup, {lembar} for a sheet/page, and a more specific classifier when possible.\n\n{se-} + classifier = “one”: {seorang} “a person,” {seekor} “an animal,” {sebiji} “a grain,” {sebuah} “an object.” In ordinary plural counting, use the natural numeral: {tiga orang}, {dua ekor}, {tiga biji}; {tiga orang} does not require a count noun.\n\n{para} + noun can form a definite plural: {para murid} “the disciples,” {para rasul} “the apostles.” In context, {murid} alone may mean “student” or “disciple,” according to the story.\n\n{Semua} = “all”; {semua orang} = “everyone.” {Banyak} = “many,” placed before the noun: {banyak ikan} “many fish.” Numeral {-an} can express “one of,” but is restricted; use established forms such as {seorang} and {satu}. In John 6:9, use the established counted noun {roti} “loaf.”",
+        "es": "Al contar entidades, el indonesio puede insertar un clasificador: {tiga orang murid} = «tres personas [que son] discípulos» = «tres discípulos». Indica categoría y no marca género.\n\nCLASIFICADORES\n• {orang} personas: {seorang murid}, {dua orang guru}.\n• {ekor} animales pequeños/domésticos: {seekor domba}, {dua ekor ayam}.\n• {biji} granos y frutos pequeños: {sebiji sesawi}, {dua biji batu}.\n• {buah} objetos de contorno o categoría general: {sebuah roti}, {dua buah bola}. Para instrumentos, usa {bilah} para una extensión de paisaje, {gelas} para una taza, {lembar} para una hoja/página y un clasificador más específico cuando sea posible.\n\n{se-} + clasificador = «uno»: {seorang} «una persona», {seekor} «un animal», {sebiji} «un grano», {sebuah} «un objeto». En el recuento plural normal se usa el numeral natural: {tiga orang}, {dua ekor}, {tiga biji}; {tiga orang} no exige un sustantivo contable.\n\n{para} + nombre puede formar plural definido: {para murid} «los discípulos», {para rasul} «los apóstoles». Según el contexto, {murid} puede significar «alumno» o «discípulo».\n\n{Semua} = «todos/todo»; {semua orang} = «toda la gente». {Banyak} = «muchos», antepuesto al nombre: {banyak ikan} «muchos peces». El sufijo numeral {-an} puede expresar «uno de», pero está restringido. En Juan 6:9 usa {roti} «pan»."
+      },
+      "vocab": [
+        {
+          "form": "orang",
+          "lemma": "orang",
+          "lang": "id",
+          "pt": "pessoa; classificador de pessoas",
+          "en": "person; person classifier",
+          "es": "persona; clasificador de personas"
+        },
+        {
+          "form": "ekor",
+          "lemma": "ekor",
+          "lang": "id",
+          "pt": "classificador de animais",
+          "en": "animal classifier",
+          "es": "clasificador de animales"
+        },
+        {
+          "form": "biji",
+          "lemma": "biji",
+          "lang": "id",
+          "pt": "classificador de grãos",
+          "en": "grain classifier",
+          "es": "clasificador de granos"
+        },
+        {
+          "form": "buah",
+          "lemma": "buah",
+          "lang": "id",
+          "pt": "classificador geral; fruto",
+          "en": "general classifier; fruit",
+          "es": "clasificador general; fruto"
+        },
+        {
+          "form": "seorang",
+          "lemma": "orang",
+          "lang": "id",
+          "pt": "uma pessoa",
+          "en": "a person",
+          "es": "una persona"
+        },
+        {
+          "form": "seekor",
+          "lemma": "ekor",
+          "lang": "id",
+          "pt": "um animal",
+          "en": "an animal",
+          "es": "un animal"
+        },
+        {
+          "form": "sebiji",
+          "lemma": "biji",
+          "lang": "id",
+          "pt": "um grão",
+          "en": "a grain",
+          "es": "un grano"
+        },
+        {
+          "form": "sebuah",
+          "lemma": "buah",
+          "lang": "id",
+          "pt": "um objeto, uma peça",
+          "en": "an object, a piece",
+          "es": "un objeto, una pieza"
+        },
+        {
+          "form": "guru",
+          "lemma": "guru",
+          "lang": "id",
+          "pt": "mestre, professor",
+          "en": "teacher",
+          "es": "maestro, profesor"
+        },
+        {
+          "form": "domba",
+          "lemma": "domba",
+          "lang": "id",
+          "pt": "ovelha",
+          "en": "sheep",
+          "es": "oveja"
+        },
+        {
+          "form": "sesawi",
+          "lemma": "sesawi",
+          "lang": "id",
+          "pt": "mostarda",
+          "en": "mustard",
+          "es": "mostaza"
+        },
+        {
+          "form": "semua",
+          "lemma": "semua",
+          "lang": "id",
+          "pt": "todos, todo",
+          "en": "all",
+          "es": "todos, todo"
+        },
+        {
+          "form": "banyak",
+          "lemma": "banyak",
+          "lang": "id",
+          "pt": "muitos",
+          "en": "many",
+          "es": "muchos"
+        },
+        {
+          "form": "para murid",
+          "lemma": "murid",
+          "lang": "id",
+          "pt": "os discípulos",
+          "en": "the disciples",
+          "es": "los discípulos"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Complete: «seekor ___» = «uma ovelha».",
+          "en": "Complete: “seekor ___” = “one sheep.”",
+          "es": "Completa: «seekor ___» = «una oveja»."
+        },
+        "options": [
+          {
+            "pt": "domba",
+            "en": "domba",
+            "es": "domba"
+          },
+          {
+            "pt": "orang",
+            "en": "orang",
+            "es": "orang"
+          },
+          {
+            "pt": "biji",
+            "en": "biji",
+            "es": "biji"
+          },
+          {
+            "pt": "banyak",
+            "en": "banyak",
+            "es": "banyak"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: «tiga ___ murid» = «três discípulos».",
+            "en": "Complete: “tiga ___ murid” = “three disciples.”",
+            "es": "Completa: «tiga ___ murid» = «tres discípulos»."
+          },
+          "answer": "orang",
+          "hint": {
+            "pt": "Classificador de pessoas.",
+            "en": "Person classifier.",
+            "es": "Clasificador de personas."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual é o mais natural para «muitos peixes»?",
+            "en": "Which is most natural for “many fish”?",
+            "es": "¿Cuál es más natural para «muchos peces»?"
+          },
+          "options": [
+            {
+              "pt": "banyak ikan",
+              "en": "banyak ikan",
+              "es": "banyak ikan"
+            },
+            {
+              "pt": "banyak ikan-ikan",
+              "en": "banyak ikan-ikan",
+              "es": "banyak ikan-ikan"
+            },
+            {
+              "pt": "semua ikan seekor",
+              "en": "semua ikan seekor",
+              "es": "semua ikan seekor"
+            },
+            {
+              "pt": "banyak seekor ikan",
+              "en": "banyak seekor ikan",
+              "es": "banyak seekor ikan"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O classificador pode ser omitido: {tiga murid} = «três discípulos» é mais comum que a forma longa.",
+            "en": "The classifier can be omitted: {tiga murid} = “three disciples” is more common than the long form.",
+            "es": "El clasificador puede omitirse: {tiga murid} = «tres discípulos» es más común que la forma larga."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "{seekor} contém {se-} + {ekor}, mas {se-} não aparece como elemento separado em {tiga ekor}.",
+            "en": "{Seekor} contains {se-} + {ekor}, but {se-} does not appear separately in {tiga ekor}.",
+            "es": "{Seekor} contiene {se-} + {ekor}, pero {se-} no aparece como elemento separado en {tiga ekor}."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "O plural {ikan} não muda; {banyak ikan} significa «muitos peixes», mesmo sem REDUÇÃO.",
+            "en": "The plural noun {ikan} does not change; {banyak ikan} means “many fish,” even without reduplication.",
+            "es": "El plural {ikan} no cambia; {banyak ikan} significa «muchos peces», incluso sin reduplicación."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Precisão",
+            "en": "Precision",
+            "es": "Precisión"
+          },
+          "text": {
+            "pt": "O classificador {ekor} também pode ser usado irônicamente para pessoas; nesse efeito, o contexto é indispensável.",
+            "en": "{Ekor} can also be used jokingly for people; context is then indispensable.",
+            "es": "{Ekor} también puede usarse en broma para personas; el contexto es imprescindible."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tiga orang murid membaca.",
+          "gloss": {
+            "pt": "Três discípulos leem.",
+            "en": "Three disciples read.",
+            "es": "Tres discípulos leen."
+          }
+        },
+        {
+          "text": "Yesus melihat seekor domba.",
+          "gloss": {
+            "pt": "Jesus vê uma ovelha.",
+            "en": "Jesus sees one sheep.",
+            "es": "Jesús ve una oveja."
+          }
+        },
+        {
+          "text": "Iman sebesar biji sesawi.",
+          "gloss": {
+            "pt": "A fé do tamanho de um grão de mostarda.",
+            "en": "Faith as small as a mustard seed.",
+            "es": "La fe del tamaño de una semilla de mostaza."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Classificadores comuns",
+            "en": "Common classifiers",
+            "es": "Clasificadores comunes"
+          },
+          "head": [
+            "Classificador",
+            "Categoria",
+            "ES"
+          ],
+          "rows": [
+            [
+              "seorang",
+              {
+                "pt": "pessoa",
+                "en": "person",
+                "es": "persona"
+              },
+              "{seorang murid}"
+            ],
+            [
+              "seekor",
+              {
+                "pt": "animal",
+                "en": "animal",
+                "es": "animal"
+              },
+              "{seekor domba}"
+            ],
+            [
+              "sebiji",
+              {
+                "pt": "grão/pequeno fruto",
+                "en": "grain/small fruit",
+                "es": "grano/fruto pequeño"
+              },
+              "{sebiji sesawi}"
+            ],
+            [
+              "sebuah",
+              {
+                "pt": "objeto/peça",
+                "en": "object/piece",
+                "es": "objeto/pieza"
+              },
+              "{sebuah roti}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": {
+        "pt": "Voz passiva: di- e ter-",
+        "en": "Passive voice: di- and ter-",
+        "es": "Voz pasiva: di- y ter-"
+      },
+      "subtitle": {
+        "pt": "dibaca, tertulis, terjadi",
+        "en": "dibaca, tertulis, terjadi",
+        "es": "dibaca, tertulis, terjadi"
+      },
+      "section": {
+        "pt": "Tempo e verbo",
+        "en": "Tense and verb",
+        "es": "Tiempo y verbo"
+      },
+      "body": {
+        "pt": "A passiva actional põe o objeto em foco:\n\n{di- + baca} → {dibaca} «ser lido»;\n{di- + salib + -kan} → {disalibkan} «ser crucificado»;\n{di- + IEnumerator} → {dibuat} «ser feito»;\n{di- + tentang} → {dibahas} «ser discutido».\n\nO aspecto pode vir de {sudah}, {sedang} ou {akan}: {Sudah dibaca}, {Sedang dibaca}, {Akan dibaca}. O agente {oleh} normalmente vem depois da passiva: {dibaca oleh murid}. Se o agente for pronominal, há cliticização: {kubaca} «lido por mim», {kaubaca} «lido por você».\n\n{ter-} expressa um ESTADO resultante, involuntário, capacidade ou superfície: {tertulis} «estar escrito» (João 19:19), {terbuka} «estar aberto», {tersembunyi} «estar oculto», {terlihat} «ser visible», {terangkat} «estar levantado». Em sentido biblical, {terbuka} pode sugerir acesso à sinagoga.\n\n{terjadi} «acontecer/ocorrer» é uma lexicalização: embora registrada como {ter- + jadi}, não um exemplo para pressupor que todas as formas são transparentes.\n\nCompare:\n• {Alkitab itu dibaca} = «A Bíblia é lida» (ação; alguém a lê).\n• {Alkitab itu tertulis} = «Está escrito na Bíblia» ou «A Bíblia diz» (estado/resultado).\n\nA escolha depende da pergunta: se o texto recebe uma ação, prefira {dibaca}; se o que importa é a informação disponível, use {tertulis}.",
+        "en": "The actional passive foregrounds the object:\n\n{di- + baca} → {dibaca} “to be read”;\n{di- + salib + -kan} → {disalibkan} “to be crucified”;\n{di- + buat} → {dibuat} “to be made”;\n{di- + tentang} → {dibahas} “to be discussed.”\n\nAspect can come from {sudah}, {sedang}, or {akan}: {sudah dibaca}, {sedang dibaca}, {akan dibaca}. The agent {oleh} normally follows: {dibaca oleh murid}. With a pronominal agent, a clitic is used: {kubaca} “read by me,” {kaubaca} “read by you.”\n\n{Ter-} expresses a RESULTING STATE, an involuntary condition, capacity, or surface: {tertulis} “to be written” (John 19:19), {terbuka} “to be open,” {tersembunyi} “to be hidden,” {terlihat} “to be visible,” {terangkat} “to be raised.” In Biblical idiom, {terbuka} may suggest an open door.\n\n{Terjadi} “to happen” is lexicalized and should be learned as a whole; not every ter- form is fully compositional.\n\nCompare:\n• {Alkitab itu dibaca} = “The Bible is being read” (an action; someone reads it).\n• {Alkitab itu tertulis} = “It is written in the Bible” or “The Bible says” (state/result).\n\nChoose according to the question: if the text receives an action, prefer {dibaca}; if the available information is the point, use {tertulis}.",
+        "es": "La pasiva accional pone el objeto en primer plano:\n\n{di- + baca} → {dibaca} «ser leído»;\n{di- + salib + -kan} → {disalibkan} «ser crucificado»;\n{di- + buat} → {dibuat} «ser hecho»;\n{di- + tentang} → {dibahas} «ser discutido».\n\nEl aspecto puede proceder de {sudah}, {sedang} o {akan}: {sudah dibaca}, {sedang dibaca}, {akan dibaca}. El agente {oleh} suele ir después: {dibaca oleh murid}. Con agente pronominal se usa un clítico: {kubaca} «leído por mí», {kaubaca} «leído por ti».\n\n{Ter-} expresa un ESTADO RESULTANTE, una condición involuntaria, capacidad o superficie: {tertulis} «estar escrito» (Juan 19:19), {terbuka} «estar abierto», {tersembunyi} «estar oculto», {terlihat} «ser visible», {terangkat} «estar levantado». En el idioma bíblico, {terbuka} puede sugerir una puerta abierta.\n\n{Terjadi} «acontecer» está lexicalizado; no es suficientemente transparente para suponer que toda forma ter- es composicional.\n\nCompara:\n• {Alkitab itu dibaca} = «La Biblia está siendo leída» (acción; alguien la lee).\n• {Alkitab itu tertulis} = «Está escrito en la Biblia» o «La Biblia dice» (estado/resultado).\n\nLa elección depende de la pregunta: si el texto recibe una acción, prefiere {dibaca}; si importa la información disponible, usa {tertulis}."
+      },
+      "vocab": [
+        {
+          "form": "dibaca",
+          "lemma": "baca",
+          "lang": "id",
+          "pt": "ser lido",
+          "en": "to be read",
+          "es": "ser leído"
+        },
+        {
+          "form": "dibuat",
+          "lemma": "buat",
+          "lang": "id",
+          "pt": "ser feito, criado",
+          "en": "to be made",
+          "es": "ser hecho, creado"
+        },
+        {
+          "form": "dibahas",
+          "lemma": "bahas",
+          "lang": "id",
+          "pt": "ser discutido",
+          "en": "to be discussed",
+          "es": "ser discutido"
+        },
+        {
+          "form": "disalibkan",
+          "lemma": "salib",
+          "lang": "id",
+          "pt": "ser crucificado",
+          "en": "to be crucified",
+          "es": "ser crucificado"
+        },
+        {
+          "form": "tertulis",
+          "lemma": "tulis",
+          "lang": "id",
+          "pt": "estar escrito",
+          "en": "to be written",
+          "es": "estar escrito"
+        },
+        {
+          "form": "terbuka",
+          "lemma": "buka",
+          "lang": "id",
+          "pt": "estar aberto",
+          "en": "to be open",
+          "es": "estar abierto"
+        },
+        {
+          "form": "tersembunyi",
+          "lemma": "sembunyi",
+          "lang": "id",
+          "pt": "estar oculto",
+          "en": "to be hidden",
+          "es": "estar oculto"
+        },
+        {
+          "form": "terlihat",
+          "lemma": "lihat",
+          "lang": "id",
+          "pt": "ser visível, aparecer",
+          "en": "to be visible, appear",
+          "es": "ser visible, aparecer"
+        },
+        {
+          "form": "terjadi",
+          "lemma": "jadi",
+          "lang": "id",
+          "pt": "acontecer, ocorrer",
+          "en": "to happen, occur",
+          "es": "acontecer, ocurrir"
+        },
+        {
+          "form": "kubaca",
+          "lemma": "baca",
+          "lang": "id",
+          "pt": "lido por mim",
+          "en": "read by me",
+          "es": "leído por mí"
+        },
+        {
+          "form": "kaubaca",
+          "lemma": "baca",
+          "lang": "id",
+          "pt": "lido por você",
+          "en": "read by you",
+          "es": "leído por ti"
+        },
+        {
+          "form": "oleh",
+          "lemma": "oleh",
+          "lang": "id",
+          "pt": "por (agente)",
+          "en": "by (agent)",
+          "es": "por (agente)"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual forma expressa «está escrito» como estado resultante?",
+          "en": "Which form means “is written” as a resulting state?",
+          "es": "¿Qué forma significa «está escrito» como estado resultante?"
+        },
+        "options": [
+          {
+            "pt": "tertulis",
+            "en": "tertulis",
+            "es": "tertulis"
+          },
+          {
+            "pt": "dibaca",
+            "en": "dibaca",
+            "es": "dibaca"
+          },
+          {
+            "pt": "ditulis",
+            "en": "ditulis",
+            "es": "ditulis"
+          },
+          {
+            "pt": "menulis",
+            "en": "menulis",
+            "es": "menulis"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: «___ oleh murid» = «é lido pelo discípulo».",
+            "en": "Complete: “___ oleh murid” = “is read by the disciple.”",
+            "es": "Completa: «___ oleh murid» = «es leído por el discípulo»."
+          },
+          "answer": "dibaca",
+          "hint": {
+            "pt": "Use di- + baca.",
+            "en": "Use di- + baca.",
+            "es": "Usa di- + baca."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em «Kami membaca Firman», qual passiva expressa a ação?",
+            "en": "In “We read the Word,” which passive expresses the action?",
+            "es": "En «Leemos la Palabra», ¿qué pasiva expresa la acción?"
+          },
+          "options": [
+            {
+              "pt": "Firman dibaca kami",
+              "en": "Firman dibaca kami",
+              "es": "Firman dibaca kami"
+            },
+            {
+              "pt": "Firman ditafsirkan",
+              "en": "The Word is interpreted",
+              "es": "La Palabra es interpretada"
+            },
+            {
+              "pt": "Kami dibaca",
+              "en": "Kami dibaca",
+              "es": "Kami dibaca"
+            },
+            {
+              "pt": "Membaca Firman",
+              "en": "Membaca Firman",
+              "es": "Membaca Firman"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "di- prefere vogais arredondadas, mas há alomorfos: di- + -kan → {di-kan}; {di- + baca} → {dibaca}.",
+            "en": "di- prefers rounded vowels but has allomorphs: di- + -kan → {di-kan}; {di- + baca} → {dibaca}.",
+            "es": "di- prefiere vocales redondeadas, pero presenta alomorfos: di- + -kan → {di-kan}; {di- + baca} → {dibaca}."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "{oleh} introduz agente, enquanto {oleh} também significa «marca» em outros usos. Não o confunda automaticamente com a preposição causal española «por».",
+            "en": "{Oleh} introduces the agent, but it also means “mark” in other uses. Do not automatically treat it as the Spanish causal “por.”",
+            "es": "{Oleh} introduce el agente, pero en otros usos significa «marca». No lo identifiques sin más con el «por» causal español."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "ter- não significa simplesmente «ser -ado»: pode indicar resultado, involuntariedade, capacidade ou superfície visível.",
+            "en": "{Ter-} does not simply mean “to be -ed”: it can indicate result, involuntariness, capacity, or a visible surface.",
+            "es": "{Ter-} no significa simplemente «ser -ado»: puede indicar resultado, involuntariedad, capacidad una superficie visible."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Registro",
+            "en": "Register",
+            "es": "Registro"
+          },
+          "text": {
+            "pt": "{Terlihat} pode significar «parecer/ser óbvio» além de «ser visível».",
+            "en": "{Terlihat} can mean “seem/obvious” as well as “be visible.”",
+            "es": "{Terlihat} también puede significar «parecer/ser evidente» además de «ser visible»."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Surat itu ditulis oleh Petrus.",
+          "gloss": {
+            "pt": "A carta é escrita por Pedro.",
+            "en": "The letter is written by Peter.",
+            "es": "La carta está escrita por Pedro."
+          }
+        },
+        {
+          "text": "Ia tertulis di atas salib.",
+          "gloss": {
+            "pt": "Está escrito acima da cruz.",
+            "en": "It is written above the cross.",
+            "es": "Está escrito encima de la cruz."
+          }
+        },
+        {
+          "text": "Pintu terbuka.",
+          "gloss": {
+            "pt": "A porta está aberta.",
+            "en": "The door is open.",
+            "es": "La puerta está abierta."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "di- e ter-",
+            "en": "di- and ter-",
+            "es": "di- y ter-"
+          },
+          "head": [
+            "Padrão",
+            "Valor",
+            "ES"
+          ],
+          "rows": [
+            [
+              "di- + V",
+              {
+                "pt": "ação sofrida; objeto em foco",
+                "en": "passive action; object foregrounded",
+                "es": "acción pasiva; objeto en foco"
+              },
+              "{dibaca}"
+            ],
+            [
+              "ter- + V",
+              {
+                "pt": "estado/resultado",
+                "en": "state/result",
+                "es": "estado/resultado"
+              },
+              "{tertulis}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": {
+        "pt": "Discurso indireto com bahwa",
+        "en": "Indirect speech with bahwa",
+        "es": "Discurso indirecto con bahwa"
+      },
+      "subtitle": {
+        "pt": "berkata bahwa, apakah, supaya",
+        "en": "berkata bahwa, apakah, supaya",
+        "es": "berkata bahwa, apakah, supaya"
+      },
+      "section": {
+        "pt": "Registro e discurso",
+        "en": "Register and discourse",
+        "es": "Registro y discurso"
+      },
+      "body": {
+        "pt": "A oração indireta é introduzida por {bahwa} «que». Em geral, o tempo e o aspecto visíveis permanecem iguais.\n\nDIRECT → INDIRECTO\n{Isa berkata: «Saya akan datang»} → {Isa berkata bahwa saya akan datang}.\nO {akan} continua expressando futuro relativo à situação do relato, não obrigatoriamente em relação ao momento da fala. A tradução espanhola pode variar entre «dijo que vendría» e «dijo: «vendré»» segundo o contexto e o ponto de vista.\n\n{konon} significa «se dice/dicen que» e introduz relato no confirmado. {kata orang} «dicen» e {kata-kata mereka} «sus palabras» deixam o contenido en segundo plano.\n\n{berkata apakah…} = «preguntó si…»:\n{Dia bertanya apakah saya datang} = «Preguntou si yo vendría/iba a ir».\nPara uma pergunta direta sobre lugar, use a expressão interrogativa:\n{Di mana saya tinggal?} → {Dia bertanya di mana saya tinggal} = «Preguntó dónde vivo».\n\nOrdem e tentativa:\n{menyuruh + verbo} = «mandar que»: {Isa menyuruh mereka pergi} «mandó que se fueran».\n{meminta supaya + verbo} = «pedir que»: {Isa meminta supaya mereka berdoa} «pidió que oraran».\n{suruh} sozinho pode expressar um pedido ou uma ordem, conforme quem fala.\n\n{kata-Nya} é 3.ª pessoa formal/elevada «suas palavras», com pronominalização: {Firman} → {Nya} = «él». Assim, {kata-Nya} literalmente «suas palavras/dijo Ele» conserva o referente divino.",
+        "en": "An indirect clause is introduced by {bahwa} “that.” In general, overt time and aspect remain the same.\n\nDIRECT → INDIRECT\n{Isa berkata: “Saya akan datang”} → {Isa berkata bahwa saya akan datang}.\n{Overt {akan} continues to express future time relative to the narrative situation, not necessarily relative to the moment of speech. Spanish may use «dijo que vendría» or «dijo: “vendré”» according to context and viewpoint.\n\n{Konon} means “it is said/people say” and introduces unconfirmed report. {Kata orang} “people say” and {kata-kata mereka} “their words” leave content in the background.\n\n{Berkata apakah…} = “asked whether…”:\n{Dia bertanya apakah saya datang} = “He asked whether I was coming.”\nFor an embedded question about place, use the original question word:\n{Di mana saya tinggal?} → {Dia bertanya di mana saya tinggal} = “He asked where I lived.”\n\nOrders and requests:\n{Menyuruh + verb} = “to order that”: {Isa menyuruh mereka pergi} “he ordered them to go.”\n{Meminta supaya + verb} = “to ask that”: {Isa meminta supaya mereka berdoa} “he asked them to pray.”\n{Suruh} alone can express a request or an order, depending on the speaker.\n\n{Kata-Nya} is the formal/elevated third person “his word”; it pronominalizes {Firman} as {Nya} = “he.” Thus, {kata-Nya} literally means “His words/said He” and retains the divine referent.",
+        "es": "La oración indirecta se introduce con {bahwa} «que». En general, el tiempo y el aspecto explícitos se mantienen.\n\nDIRECTO → INDIRECTO\n{Isa berkata: «Saya akan datang»} → {Isa berkata bahwa saya akan datang}.\n{akan} sigue expresando futuro respecto de la situación narrativa, no necesariamente respecto del momento del habla. El español puede usar «dijo que vendría» o «dijo: “vendré”» según el contexto y el punto de vista.\n\n{Konon} significa «se dice/dicen que» y presenta un relato no confirmado. {Kata orang} «dicen» y {kata-kata mereka} «sus palabras» dejan el contenido en segundo plano.\n\n{Berkata apakah…} = «preguntó si…»:\n{Dia bertanya apakah saya datang} = «Preguntó si yo iba a venir».\nPara una pregunta indirecta con expresión de lugar, se conserva la palabra interrogativa:\n{Di mana saya tinggal?} → {Dia bertanya di mana saya tinggal} = «Preguntó dónde vivía».\n\nÓrdenes y solicitudes:\n{Menyuruh + verbo} = «mandar que»: {Isa menyuruh mereka pergi} «mandó que se fueran».\n{Meminta supaya + verbo} = «pedir que»: {Isa meminta supaya mereka berdoa} «pidió que oraran».\n{Suruh} por sí solo puede expresar una petición o una orden según quién hable.\n\n{Kata-Nya} es la tercera persona formal/elevada «sus palabras»; pronominaliza {Firman} como {Nya} = «él». Así, {kata-Nya} significa literalmente «sus palabras/dijo Él» y conserva el referente divino."
+      },
+      "vocab": [
+        {
+          "form": "bahwa",
+          "lemma": "bahwa",
+          "lang": "id",
+          "pt": "que (oração completiva)",
+          "en": "that (complement clause)",
+          "es": "que (oración completiva)"
+        },
+        {
+          "form": "berkata",
+          "lemma": "kata",
+          "lang": "id",
+          "pt": "dizer, falar",
+          "en": "to say, tell",
+          "es": "decir, hablar"
+        },
+        {
+          "form": "apakah",
+          "lemma": "apakah",
+          "lang": "id",
+          "pt": "se, si (pergunta)",
+          "en": "whether",
+          "es": "si (pregunta)"
+        },
+        {
+          "form": "bertanya",
+          "lemma": "tanya",
+          "lang": "id",
+          "pt": "perguntar",
+          "en": "to ask",
+          "es": "preguntar"
+        },
+        {
+          "form": "supaya",
+          "lemma": "supaya",
+          "lang": "id",
+          "pt": "para que",
+          "en": "so that",
+          "es": "para que"
+        },
+        {
+          "form": "meminta",
+          "lemma": "minta",
+          "lang": "id",
+          "pt": "pedir",
+          "en": "to request",
+          "es": "pedir"
+        },
+        {
+          "form": "menyuruh",
+          "lemma": "suruh",
+          "lang": "id",
+          "pt": "mandar, ordenar",
+          "en": "to order",
+          "es": "mandar, ordenar"
+        },
+        {
+          "form": "suruh",
+          "lemma": "suruh",
+          "lang": "id",
+          "pt": "mandar; pedir",
+          "en": "to order; ask",
+          "es": "mandar; pedir"
+        },
+        {
+          "form": "konon",
+          "lemma": "konon",
+          "lang": "id",
+          "pt": "diz-se",
+          "en": "it is said",
+          "es": "se dice"
+        },
+        {
+          "form": "kata orang",
+          "lemma": "kata",
+          "lang": "id",
+          "pt": "dizem; as pessoas dizem",
+          "en": "people say",
+          "es": "dicen; la gente dice"
+        },
+        {
+          "form": "kata-kata mereka",
+          "lemma": "kata",
+          "lang": "id",
+          "pt": "suas palavras",
+          "en": "their words",
+          "es": "sus palabras"
+        },
+        {
+          "form": "kata-Nya",
+          "lemma": "kata",
+          "lang": "id",
+          "pt": "suas palavras; disse Ele",
+          "en": "his words; said He",
+          "es": "sus palabras; dijo Él"
+        },
+        {
+          "form": "datang",
+          "lemma": "datang",
+          "lang": "id",
+          "pt": "vir",
+          "en": "to come",
+          "es": "venir"
+        },
+        {
+          "form": "tinggal",
+          "lemma": "tinggal",
+          "lang": "id",
+          "pt": "morar, ficar",
+          "en": "to live, stay",
+          "es": "vivir, quedarse"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Como se forma «ele perguntou onde eu moro»?",
+          "en": "How do you form “he asked where I live”?",
+          "es": "¿Cómo se forma «preguntó dónde vivo»?"
+        },
+        "options": [
+          {
+            "pt": "Dia bertanya di mana saya tinggal",
+            "en": "Dia bertanya di mana saya tinggal",
+            "es": "Dia bertanya di mana saya tinggal"
+          },
+          {
+            "pt": "Dia bertanya apakah saya tinggal",
+            "en": "Dia bertanya apakah saya tinggal",
+            "es": "Dia bertanya apakah saya tinggal"
+          },
+          {
+            "pt": "Dia bertanya bahwa saya tinggal",
+            "en": "Dia bertanya bahwa saya tinggal",
+            "es": "Dia bertanya bahwa saya tinggal"
+          },
+          {
+            "pt": "Dia bertanya supaya saya tinggal",
+            "en": "Dia bertanya supaya saya tinggal",
+            "es": "Dia bertanya supaya saya tinggal"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: «Isa berkata ___ saya akan datang» = «Jesus disse que eu viria».",
+            "en": "Complete: “Isa berkata ___ saya akan datang” = “Jesus said that I would come.”",
+            "es": "Completa: «Isa berkata ___ saya akan datang» = «Jesús dijo que yo vendría»."
+          },
+          "answer": "bahwa",
+          "hint": {
+            "pt": "Conector completivo neutro.",
+            "en": "Neutral complement connector.",
+            "es": "Conector completivo neutro."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual traduz corretamente {konon kabarnya}?",
+            "en": "Which correctly translates {konon kabarnya}?",
+            "es": "¿Cuál traduce correctamente {konon kabarnya}?"
+          },
+          "options": [
+            {
+              "pt": "Dizem que o boato é…",
+              "en": "They say the rumor is…",
+              "es": "Dicen que el rumor es…"
+            },
+            {
+              "pt": "Se confirma imediatamente que…",
+              "en": "It is immediately confirmed that…",
+              "es": "Se confirma de inmediato que…"
+            },
+            {
+              "pt": "Perguntaram se…",
+              "en": "They asked whether…",
+              "es": "Preguntaron si…"
+            },
+            {
+              "pt": "Foi ordenado que…",
+              "en": "It was ordered that…",
+              "es": "Se ordenó que…"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Na sequência direta → indireta, pronomes e demonstrativos podem ser convertidos ao padrão 3.ª pessoa: {saya} → {saya} quando o referente permanece claro; a pronominalização de {Firman} em {Nya} depende do registro.",
+            "en": "In direct-to-indirect sequences, pronouns and demonstratives may shift to third-person forms; {saya} stays {saya} when its referent is clear. Pronominalizing {Firman} as {Nya} depends on register.",
+            "es": "En la secuencia directa → indirecta, pronombres y demostrativos pueden pasar a tercera persona; {saya} permanece cuando su referente está claro. La pronominalización de {Firman} como {Nya} depende del registro."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Perguntas indiretas não usam {apakah} quando conservam uma palavra interrogativa como {di mana}; {apakah} aparece com sim/não ou ao final da oração.",
+            "en": "Indirect questions do not use {apakah} when retaining a question word such as {di mana}; {apakah} appears with yes/no questions or clause-finally.",
+            "es": "Las preguntas indirectas no usan {apakah} si conservan una palabra interrogativa como {di mana}; {apakah} aparece en preguntas de sí/no o al final."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Traduza o tempo pela função discursiva, não por uma mudança automática de conjugação.",
+            "en": "Translate tense by discourse function, not by an automatic conjugation shift.",
+            "es": "Traduce el tiempo por su función discursiva, no mediante un cambio automático de conjugación."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Criterio",
+            "en": "Principle",
+            "es": "Criterio"
+          },
+          "text": {
+            "pt": "Não há uma regra categórica de “não se muda o tempo”. O relato indireto preserva, reinterpreta ou converte o aspecto conforme o ponto de vista narrativo.",
+            "en": "There is no absolute rule that “tense never changes.” Indirect report preserves, reinterprets, or shifts aspect according to narrative viewpoint.",
+            "es": "No existe una regla absoluta de «el tiempo nunca cambia». El relato indirecto conserva, reinterpreta o desplaza el aspecto según el punto de vista narrativo."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Isa berkata bahwa ia akan datang.",
+          "gloss": {
+            "pt": "Jesus disse que viria.",
+            "en": "Jesus said that he would come.",
+            "es": "Jesús dijo que vendría."
+          }
+        },
+        {
+          "text": "Dia bertanya apakah saya datang.",
+          "gloss": {
+            "pt": "Perguntou se eu viria.",
+            "en": "He asked whether I was coming.",
+            "es": "Preguntó si yo iba a venir."
+          }
+        },
+        {
+          "text": "Isa meminta supaya mereka berdoa.",
+          "gloss": {
+            "pt": "Jesus pediu que orassem.",
+            "en": "Jesus asked them to pray.",
+            "es": "Jesús les pidió que oraran."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Perguntas e ordens indiretas",
+            "en": "Indirect questions and commands",
+            "es": "Preguntas y órdenes indirectas"
+          },
+          "head": [
+            "Padrão",
+            "PT",
+            "ES"
+          ],
+          "rows": [
+            [
+              "berkata bahwa",
+              {
+                "pt": "disse que",
+                "en": "said that",
+                "es": "dijo que"
+              },
+              "{berkata bahwa saya datang}"
+            ],
+            [
+              "bertanya apakah",
+              {
+                "pt": "perguntou se",
+                "en": "asked whether",
+                "es": "preguntó si"
+              },
+              "{bertanya apakah saya datang}"
+            ],
+            [
+              "menyuruh + V",
+              {
+                "pt": "mandou que",
+                "en": "ordered that",
+                "es": "mandó que"
+              },
+              "{menyuruh mereka pergi}"
+            ],
+            [
+              "meminta supaya + V",
+              {
+                "pt": "pediu que",
+                "en": "asked that",
+                "es": "pidió que"
+              },
+              "{meminta supaya mereka berdoa}"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "contentVersion": "1.0.0+g5ba9bcf4"
+}

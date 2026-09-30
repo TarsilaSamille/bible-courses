@@ -1,0 +1,4079 @@
+{
+  "schemaVersion": 1,
+  "id": "grc-mod",
+  "lang": "grc",
+  "editorialLang": "el",
+  "title": {
+    "pt": "Grego Moderno",
+    "en": "Modern Greek",
+    "es": "Griego moderno"
+  },
+  "description": {
+    "pt": "Grego demótico em 13 capítulos: artigo, substantivos, verbos, passiva e subjuntivo.",
+    "en": "Demotic Greek in 13 chapters: articles, nouns, verbs, passive and subjunctive.",
+    "es": "Griego demótico en 13 capítulos: artículo, sustantivos, verbos, pasiva y subjuntivo."
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "title": {
+        "pt": "O artigo definido",
+        "en": "The definite article",
+        "es": "El artículo definido"
+      },
+      "subtitle": {
+        "pt": "ο, η, το — nominativo",
+        "en": "ο, η, το — nominative",
+        "es": "ο, η, το — nominativo"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "O grego moderno conserva o artigo definido, mas a flexão foi drasticamente simplificada. No nominativo e no acusativo há apenas duas séries morfológicas. O neutro conserva o traço mais antiguo: usa τ- no singular (το) e τ- no plural (τα), enquanto ο- serve para masculino y femenino.\n\nA concordância é obrigatória: ο άνθρωπος, η γυναίκα, το παιδί. O artigo torna a referencia específica o necesaria; sin él, άνθρωπος puede designar a la humanidad o a «una persona».\n\nEl plural combina en οι para masculino y femenino. La fusión reduce el antiguo sistema de cuatro Terminaciones y marca una diferencia importante respecto del koiné, donde aún era posible οἱ, αἱ, τά y τοῖς, ταῖς, τοῖς.\n\nEn español, el artículo suele ometerse cuando el sustantivo es abstracto, genérico o plural. El griego no lo hace: Θεός es «dios» o «Dios», pero η ζωή κάθεται εδώ suele requerir artículo. La proporción segura es la de un sustantivo definido más un nombre: «el hombre verdadero» se expresa ο πραγματικός άνθρωπος. La comparación con el español sirve como aproximación, no como transposición automática.",
+        "en": "Modern Greek keeps the definite article, but its inflection has been greatly simplified. Nominative and accusative have only two morphological series. The neuter preserves the oldest feature: τ- in the singular (το) and τ- in the plural (τα), while ο- serves for masculine and feminine.\n\nAgreement is obligatory: ο άνθρωπος, η γυναίκα, το παιδί. The article makes reference specific or necessary; without it, άνθρωπος may refer to humanity or to “a person”.\n\nThe plural combines in οι for masculine and feminine. This fusion reduces the old four-case endings and marks an important difference from Koine, where οἱ, αἱ, τά and τοῖς, ταῖς, τοῖς still existed.\n\nIn Spanish the article is often omitted with abstract, generic or plural nouns. Greek does not: Θεός can mean “god” or “God”, but η ζωή κάθεται εδώ normally needs an article. A useful frame is “a definite adjective plus a noun”: «the true man» is ο πραγματικός άνθρωπος. Compare the Spanish forms for help, not for automatic word-for-word transfer.",
+        "es": "El griego moderno conserva el artículo definido, pero su flexión se ha simplificado mucho. En nominativo y acusativo quedan dos series morfológicas. El neutro conserva el rasgo más antiguo: usa τ- en singular (το) y τ- en plural (τα), mientras ο- sirve para masculino y femenino.\n\nLa concordancia es obligatoria: ο άνθρωπος, η γυναίκα, το παιδί. El artículo hace específica o necesaria la referencia; sin él, άνθρωπος puede designar a la humanidad o a «una persona».\n\nEl plural sefusiona en οι para masculino y femenino. Esta reducción de los antiguos casos marca una diferencia importante respecto del koiné, donde todavía existían οἱ, αἱ, τά y τοῖς, ταῖς, τοῖς.\n\nEn español se omite a menudo el artículo ante nombres abstractos, genéricos o plurales. El griego no lo hace: Θεός puede significar «dios» o «Dios», pero η ζωή κάθεται εδώ suele necesitar artículo. Un modelo útil es «adjetivo definido + sustantivo»: «el hombre verdadero» se expresa ο πραγματικός άνθρωπος. La comparación con el español sirve como apoyo, no como transferencia automática."
+      },
+      "vocab": [
+        {
+          "form": "ο",
+          "lemma": "ο",
+          "lang": "el",
+          "pt": "o (masculino singular)",
+          "en": "the (masculine singular)",
+          "es": "el (masculino singular)"
+        },
+        {
+          "form": "η",
+          "lemma": "ο",
+          "lang": "el",
+          "pt": "a (feminino singular)",
+          "en": "the (feminine singular)",
+          "es": "la (femenino singular)"
+        },
+        {
+          "form": "το",
+          "lemma": "ο",
+          "lang": "el",
+          "pt": "o (neutro singular)",
+          "en": "the (neuter singular)",
+          "es": "el (neutro singular)"
+        },
+        {
+          "form": "οι",
+          "lemma": "ο",
+          "lang": "el",
+          "pt": "os (masculino plural)",
+          "en": "the (masculine plural)",
+          "es": "los (masculino plural)"
+        },
+        {
+          "form": "τα",
+          "lemma": "ο",
+          "lang": "el",
+          "pt": "os (neutro plural)",
+          "en": "the (neuter plural)",
+          "es": "los (neutro plural)"
+        },
+        {
+          "form": "άνθρωπος",
+          "lemma": "άνθρωπος",
+          "lang": "el",
+          "pt": "homem, pessoa",
+          "en": "man, person",
+          "es": "hombre, persona"
+        },
+        {
+          "form": "γυναίκα",
+          "lemma": "γυναίκα",
+          "lang": "el",
+          "pt": "mulher",
+          "en": "woman",
+          "es": "mujer"
+        },
+        {
+          "form": "παιδί",
+          "lemma": "παιδί",
+          "lang": "el",
+          "pt": "criança",
+          "en": "child",
+          "es": "niño, niña"
+        },
+        {
+          "form": "τας",
+          "lemma": "ο",
+          "lang": "el",
+          "pt": "as (feminino plural)",
+          "en": "the (feminine plural)",
+          "es": "las (femenino plural)"
+        },
+        {
+          "form": "Θεός",
+          "lemma": "Θεός",
+          "lang": "el",
+          "pt": "Deus",
+          "en": "God",
+          "es": "Dios"
+        },
+        {
+          "form": "ζωή",
+          "lemma": "ζωή",
+          "lang": "el",
+          "pt": "vida",
+          "en": "life",
+          "es": "vida"
+        },
+        {
+          "form": "καλός",
+          "lemma": "καλός",
+          "lang": "el",
+          "pt": "bom",
+          "en": "good",
+          "es": "bueno"
+        },
+        {
+          "form": "καλή",
+          "lemma": "καλός",
+          "lang": "el",
+          "pt": "boa (feminino)",
+          "en": "good (feminine)",
+          "es": "buena (femenino)"
+        },
+        {
+          "form": "πραγματικός",
+          "lemma": "πραγματικός",
+          "lang": "el",
+          "pt": "verdadeiro, real",
+          "en": "true, real",
+          "es": "verdadero, real"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual é o artigo feminino singular?",
+          "en": "Which is the feminine singular article?",
+          "es": "¿Cuál es el artículo femenino singular?"
+        },
+        "options": [
+          {
+            "pt": "ο",
+            "en": "ο",
+            "es": "ο"
+          },
+          {
+            "pt": "η",
+            "en": "η",
+            "es": "η"
+          },
+          {
+            "pt": "το",
+            "en": "το",
+            "es": "το"
+          },
+          {
+            "pt": "οι",
+            "en": "οι",
+            "es": "οι"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: ___ παιδί",
+            "en": "Complete: ___ παιδί",
+            "es": "Completa: ___ παιδί"
+          },
+          "answer": "το",
+          "hint": {
+            "pt": "Neutro singular.",
+            "en": "Neuter singular.",
+            "es": "Neutro singular."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual artigo acompanha γυναίκα?",
+            "en": "Which article goes with γυναίκα?",
+            "es": "¿Qué artículo acompaña a γυναίκα?"
+          },
+          "options": [
+            {
+              "pt": "ο",
+              "en": "ο",
+              "es": "ο"
+            },
+            {
+              "pt": "η",
+              "en": "η",
+              "es": "η"
+            },
+            {
+              "pt": "το",
+              "en": "το",
+              "es": "το"
+            },
+            {
+              "pt": "οι",
+              "en": "οι",
+              "es": "οι"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe artigo e gênero",
+            "en": "Match article and gender",
+            "es": "Relaciona artículo y género"
+          },
+          "pairs": [
+            {
+              "a": "ο",
+              "b": {
+                "pt": "masculino",
+                "en": "masculine",
+                "es": "masculino"
+              }
+            },
+            {
+              "a": "η",
+              "b": {
+                "pt": "feminino",
+                "en": "feminine",
+                "es": "femenino"
+              }
+            },
+            {
+              "a": "το",
+              "b": {
+                "pt": "neutro",
+                "en": "neuter",
+                "es": "neutro"
+              }
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "O artigo concorda em gênero e número.",
+            "en": "The article agrees in gender and number.",
+            "es": "El artículo concuerda en género y número."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "οι marca tanto o masculino plural quanto o feminino plural.",
+            "en": "οι marks both masculine and feminine plural.",
+            "es": "οι marca tanto el masculino plural como el femenino plural."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Demótico × koiné",
+            "en": "Demotic × Koine",
+            "es": "Demótico × koiné"
+          },
+          "text": {
+            "pt": "O plural masculino e feminino já podia ser οι no koiné tardio, mas o padrão de oito formas do artigo não sobrevive ao grego demótico.",
+            "en": "Masculine and feminine plural could already be οι in late Koine, but the eight-form article pattern does not survive in Demotic Greek.",
+            "es": "El plural masculino y femenino ya podía ser οι en koiné tardío, pero el patrón de ocho formas no sobrevive en el demótico."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "ο καλός άνθρωπος",
+          "gloss": {
+            "pt": "o bom homem",
+            "en": "the good man",
+            "es": "el buen hombre"
+          }
+        },
+        {
+          "text": "η καλή γυναίκα",
+          "gloss": {
+            "pt": "a boa mulher",
+            "en": "the good woman",
+            "es": "la buena mujer"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": " paradigms",
+            "en": "Article paradigms",
+            "es": "Paradigmas del artículo"
+          },
+          "head": [
+            "Número",
+            "Masculino",
+            "Feminino",
+            "Neutro"
+          ],
+          "rows": [
+            [
+              "Singular",
+              "ο",
+              "η",
+              "το"
+            ],
+            [
+              "Plural",
+              "οι",
+              "οι",
+              "τα"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "pt": "Substantivos e plural",
+        "en": "Nouns and plurals",
+        "es": "Sustantivos y plural"
+      },
+      "subtitle": {
+        "pt": "ο άνθρωπος — οι άνθρωποι",
+        "en": "ο άνθρωπος — οι άνθρωποι",
+        "es": "ο άνθρωπος — οι άνθρωποι"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "O substantivo grego conserva gênero, mas perdeu a declinação antigua: nominativo e acusativo terminam igual. O plural depende sobretudo da-terminal.\n\nMasculinos em -ος formam normalmente -οι: άνθρωπος → άνθρωποι. Femininos terminados em -α, -η ou -η/-ια formam -ες: γυναίκα → γυναίκες, ώρα → ώρες. Neutros em -ί, -ος, -ός, -υς e algunsemas consonant hace -ια: παιδί → παιδιά, βιβλίο → βιβλία.\n\nHá exceções: το δίχτυ → τα δίχτυα, το χρώμα → τα χρώματα, το μέρος → τα μέρη. El artículo siempre acompaña.\n\nEl vocativo es formal y aparece sobre todo en textos literarios o religiosos: Κύριε, Πατέρ. En el uso cotidiano se usa el nominativo: Θεός μου. La oposición con el vocativo antiguo es clara: Κύριος, el nomina; κύριος, el vocativo antiguo; Κύριε, el vocativo moderno y también una forma litúrgica conservada.",
+        "en": "Greek nouns retain gender but have lost the ancient declension: nominative and accusative end alike. The plural depends mainly on the final syllable.\n\nMasculines in -ος normally form -οι: άνθρωπος → άνθρωποι. Feminines ending in -α, -η or -η/-ια form -ες: γυναίκα → γυναίκες, ώρα → ώρες. Neuter -ί, -ος, -ός, -υς nouns and some consonant-final nouns form -ια: παιδί → παιδιά, βιβλίο → βιβλία.\n\nThere are exceptions: το δίχτυ → τα δίχτυα, το χρώμα → τα χρώματα, το μέρος → τα μέρη. The article always agrees.\n\nThe vocative is formal and occurs chiefly in literary or religious texts: Κύριε, Πατέρ. In everyday use the nominative is used: Θεός μου. The contrast with the ancient vocative is clear: Κύριος is the nominative; κύριος the ancient vocative; Κύριε the modern and liturgically preserved vocative.",
+        "es": "El sustantivo griego conserva el género, pero ha perdido la declinación antigua: nominativo y acusativo terminan igual. El plural depende sobre todo de la sílaba final.\n\nLos masculinos en -ος forman normalmente -οι: άνθρωπος → άνθρωποι. Los femeninos terminados en -α, -η o -η/-ια forman -ες: γυναίκα → γυναίκες, ώρα → ώρες. Los neutros en -ί, -ος, -ός, -υς y algunos sustantivos consonánticos forman -ια: παιδί → παιδιά, βιβλίο → βιβλία.\n\nHay excepciones: το δίχτυ → τα δίχτυα, το χρώμα → τα χρώματα, το μέρος → τα μέρη. El artículo siempre concuerda.\n\nEl vocativo es formal y aparece sobre todo en textos literarios o religiosos: Κύριε, Πατέρ. En el uso cotidiano se emplea el nominativo: Θεός μου. El contraste con el vocativo antiguo es claro: Κύριος es nominativo; κύριος, vocativo antiguo; Κύριε, vocativo moderno y también forma litúrgica conservada."
+      },
+      "vocab": [
+        {
+          "form": "άνθρωπος",
+          "lemma": "άνθρωπος",
+          "lang": "el",
+          "pt": "homem; pessoa",
+          "en": "man; person",
+          "es": "hombre; persona"
+        },
+        {
+          "form": "άνθρωποι",
+          "lemma": "άνθρωπος",
+          "lang": "el",
+          "pt": "homens; pessoas",
+          "en": "men; people",
+          "es": "hombres; personas"
+        },
+        {
+          "form": "γυναίκα",
+          "lemma": "γυναίκα",
+          "lang": "el",
+          "pt": "mulher",
+          "en": "woman",
+          "es": "mujer"
+        },
+        {
+          "form": "γυναίκες",
+          "lemma": "γυναίκα",
+          "lang": "el",
+          "pt": "mulheres",
+          "en": "women",
+          "es": "mujeres"
+        },
+        {
+          "form": "παιδί",
+          "lemma": "παιδί",
+          "lang": "el",
+          "pt": "criança",
+          "en": "child",
+          "es": "niño, niña"
+        },
+        {
+          "form": "παιδιά",
+          "lemma": "παιδί",
+          "lang": "el",
+          "pt": "crianças",
+          "en": "children",
+          "es": "niños, niñas"
+        },
+        {
+          "form": "βιβλίο",
+          "lemma": "βιβλίο",
+          "lang": "el",
+          "pt": "livro",
+          "en": "book",
+          "es": "libro"
+        },
+        {
+          "form": "βιβλία",
+          "lemma": "βιβλίο",
+          "lang": "el",
+          "pt": "livros",
+          "en": "books",
+          "es": "libros"
+        },
+        {
+          "form": "ζωή",
+          "lemma": "ζωή",
+          "lang": "el",
+          "pt": "vida",
+          "en": "life",
+          "es": "vida"
+        },
+        {
+          "form": "θάνατος",
+          "lemma": "θάνατος",
+          "lang": "el",
+          "pt": "morte",
+          "en": "death",
+          "es": "muerte"
+        },
+        {
+          "form": "μητέρα",
+          "lemma": "μητέρα",
+          "lang": "el",
+          "pt": "mãe",
+          "en": "mother",
+          "es": "madre"
+        },
+        {
+          "form": "ώρα",
+          "lemma": "ώρα",
+          "lang": "el",
+          "pt": "hora",
+          "en": "hour",
+          "es": "hora"
+        },
+        {
+          "form": "Κύριε",
+          "lemma": "Κύριος",
+          "lang": "el",
+          "pt": "Senhor (vocativo)",
+          "en": "Lord (vocative)",
+          "es": "Señor (vocativo)"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Plural de το βιβλίο",
+          "en": "Plural of το βιβλίο",
+          "es": "Plural de το βιβλίο"
+        },
+        "answer": "τα βιβλία",
+        "hint": {
+          "pt": "Artigo neutro plural + -ια",
+          "en": "Neuter plural article + -ια",
+          "es": "Artículo neutro plural + -ια"
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual é o plural de η γυναίκα?",
+            "en": "Which is the plural of η γυναίκα?",
+            "es": "¿Cuál es el plural de η γυναίκα?"
+          },
+          "options": [
+            {
+              "pt": "οι γυναίκα",
+              "en": "οι γυναίκα",
+              "es": "οι γυναίκα"
+            },
+            {
+              "pt": "οι γυναίκες",
+              "en": "οι γυναίκες",
+              "es": "οι γυναίκες"
+            },
+            {
+              "pt": "τα γυναίκες",
+              "en": "τα γυναίκες",
+              "es": "τα γυναίκες"
+            },
+            {
+              "pt": "οι γυναίκια",
+              "en": "οι γυναίκια",
+              "es": "οι γυναίκια"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: ο άνθρωπος — ___ άνθρωποι",
+            "en": "Complete: ο άνθρωπος — ___ άνθρωποι",
+            "es": "Completa: ο άνθρωπος — ___ άνθρωποι"
+          },
+          "answer": "οι",
+          "hint": {
+            "pt": "Artículo masculino plural",
+            "en": "Masculine plural article",
+            "es": "Artículo masculino plural"
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Como aparece normalmente ο Κύριος ao dirigir-se a alguém?",
+            "en": "How does ο Κύριος normally appear when addressing someone?",
+            "es": "¿Cómo aparece normalmente ο Κύριος al dirigirse a alguien?"
+          },
+          "options": [
+            {
+              "pt": "κύριος",
+              "en": "κύριος",
+              "es": "κύριος"
+            },
+            {
+              "pt": "Κύριε",
+              "en": "Κύριε",
+              "es": "Κύριε"
+            },
+            {
+              "pt": "Κύριον",
+              "en": "Κύριον",
+              "es": "Κύριον"
+            },
+            {
+              "pt": "Κυρίων",
+              "en": "Κυρίων",
+              "es": "Κυρίων"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Nominativo e acusativo são idênticos no substantivo.",
+            "en": "Nominative and accusative are identical in the noun.",
+            "es": "Nominativo y acusativo son idénticos en el sustantivo."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "O plural deve ser aprendido com o artigo correspondente.",
+            "en": "Learn the plural with its corresponding article.",
+            "es": "Aprende el plural junto con el artículo correspondiente."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Atenção",
+            "en": "Caution",
+            "es": "Atención"
+          },
+          "text": {
+            "pt": "A terminação não basta para decidir o gênero: τα λεφτά, τα παντελόνια e τα παγωτά.",
+            "en": "Ending alone does not determine gender: τα λεφτά, τα παντελόνια and τα παγωτά.",
+            "es": "La terminación por sí sola no determina el género: τα λεφτά, τα παντελόνια y τα παγωτά."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "η μητέρα μου",
+          "gloss": {
+            "pt": "minha mãe",
+            "en": "my mother",
+            "es": "mi madre"
+          }
+        },
+        {
+          "text": "τα παιδιά παίζουν",
+          "gloss": {
+            "pt": "as crianças brincam",
+            "en": "the children are playing",
+            "es": "los niños juegan"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Plurais usuais",
+            "en": "Usual plurals",
+            "es": "Plurales habituales"
+          },
+          "head": [
+            "Tipo",
+            "Singular",
+            "Plural"
+          ],
+          "rows": [
+            [
+              "masc. -ος",
+              "ο άνθρωπος",
+              "οι άνθρωποι"
+            ],
+            [
+              "fem. -α",
+              "η γυναίκα",
+              "οι γυναίκες"
+            ],
+            [
+              "neut. -ί",
+              "το παιδί",
+              "τα παιδιά"
+            ],
+            [
+              "neut. -ο",
+              "το βιβλίο",
+              "τα βιβλία"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "pt": "είμαι e έχω",
+        "en": "είμαι and έχω",
+        "es": "είμαι y έχω"
+      },
+      "subtitle": {
+        "pt": "ser/estar e ter",
+        "en": "to be and to have",
+        "es": "ser/estar y tener"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "είμαι e έχω são irregulares e muito frequentes. είμαι expressa identidade, estado ou localização: είμαι Έλληνας «sou grego», είμαι καλά «estou bem», είμαι στο σπίτι «estou em casa». έχω expressa posse ou experiência: έχω αυτοκίνητο «tenho carro», έχω δει «tenho visto».\n\nOs pronomes normalmente ficam implícitos na terminação. εγώ ο άνθρωπος «eu sou o homem» acrescenta informação que o verbo já não expressa.\n\nEl presente expresa hechos, hábitos y estados. είμαι tiene una forma enfática y otra enclítica; esta última puede ir detrás del verbo o aparecer después de εδώ.\n\nNo confundas έχω con εἰμί del koiné: ambos proceden de verbos distintos, aunque a veces se traducen igual en frases existenciales. En moderno έχω ένα πρόβλημα significa «tengo un problema», no «existo».",
+        "en": "είμαι and έχω are irregular and very frequent. είμαι expresses identity, state or location: είμαι Έλληνας “I am Greek”, είμαι καλά “I am well”, είμαι στο σπίτι “I am at home”. έχω expresses possession or experience: έχω αυτοκίνητο “I have a car”, έχω δει “I have seen”.\n\nPronouns are normally implicit in the ending. ο άνθρωπος “the man” and εγώ ο άνθρωπος “I am the man” differ in information.\n\nThe present works for events, habits and states. είμαι has two forms: the stressed one is used before place names and for emphasis; the enclitic form can follow the verb and also occurs after εδώ. Thus είμαι εγώ is possible, but εδώ είμαι is common when announcing presence.\n\nDo not confuse έχω with Koine εἰμί: they come from different verbs, even when existential contexts receive the same translation. In modern Greek έχω ένα πρόβλημα means “I have a problem”, not “I exist”.",
+        "es": "είμαι y έχω son irregulares y muy frecuentes. είμαι expresa identidad, estado o lugar: είμαι Έλληνας «soy griego», είμαι καλά «estoy bien», είμαι στο σπίτι «estoy en casa». έχω expresa posesión o experiencia: έχω αυτοκίνητο «tengo coche», έχω δει «he visto».\n\nLos pronomas suelen quedar implícitos en la terminación. ο άνθρωπος «el hombre» y εγώ ο άνθρωπος «yo soy el hombre» aportan información distinta.\n\nEl presente sirve para hechos, hábitos y estados. είμαι tiene dos formas: la tónica se usa ante topónimos y con valor enfático; la enclítica puede ir detrás del verbo y también aparece después de εδώ. Así, είμαι εγώ es posible, pero εδώ είμαι es habitual al anunciar presencia.\n\nNo confundas έχω con el koiné εἰμί: proceden de verbos distintos, aunque algunos contextos existenciales reciben la misma traducción. En moderno έχω ένα πρόβλημα significa «tengo un problema», no «existo»."
+      },
+      "vocab": [
+        {
+          "form": "είμαι",
+          "lemma": "είμαι",
+          "lang": "el",
+          "pt": "sou; estou",
+          "en": "I am",
+          "es": "soy; estoy"
+        },
+        {
+          "form": "είσαι",
+          "lemma": "είμαι",
+          "lang": "el",
+          "pt": "és; estás",
+          "en": "you are",
+          "es": "eres; estás"
+        },
+        {
+          "form": "είναι",
+          "lemma": "είμαι",
+          "lang": "el",
+          "pt": "é; está",
+          "en": "is; is",
+          "es": "es; está"
+        },
+        {
+          "form": "είμαστε",
+          "lemma": "είμαι",
+          "lang": "el",
+          "pt": "somos; estamos",
+          "en": "we are",
+          "es": "somos; estamos"
+        },
+        {
+          "form": "είστε",
+          "lemma": "είμαι",
+          "lang": "el",
+          "pt": "sois; estais",
+          "en": "you are",
+          "es": "sois; estáis"
+        },
+        {
+          "form": "είναι",
+          "lemma": "είμαι",
+          "lang": "el",
+          "pt": "são; estão",
+          "en": "they are",
+          "es": "son; están"
+        },
+        {
+          "form": "έχω",
+          "lemma": "έχω",
+          "lang": "el",
+          "pt": "tenho",
+          "en": "I have",
+          "es": "tengo"
+        },
+        {
+          "form": "έχει",
+          "lemma": "έχω",
+          "lang": "el",
+          "pt": "tem",
+          "en": "he/she has",
+          "es": "tiene"
+        },
+        {
+          "form": "έχουν",
+          "lemma": "έχω",
+          "lang": "el",
+          "pt": "têm",
+          "en": "they have",
+          "es": "tienen"
+        },
+        {
+          "form": "καλά",
+          "lemma": "καλός",
+          "lang": "el",
+          "pt": "bem (advérbio)",
+          "en": "well (adverb)",
+          "es": "bien (adverbio)"
+        },
+        {
+          "form": "εγώ",
+          "lemma": "εγώ",
+          "lang": "el",
+          "pt": "eu",
+          "en": "I",
+          "es": "yo"
+        },
+        {
+          "form": "αυτός",
+          "lemma": "αυτός",
+          "lang": "el",
+          "pt": "ele",
+          "en": "he",
+          "es": "él"
+        },
+        {
+          "form": "σπίτι",
+          "lemma": "σπίτι",
+          "lang": "el",
+          "pt": "casa",
+          "en": "house",
+          "es": "casa"
+        },
+        {
+          "form": "πρόβλημα",
+          "lemma": "πρόβλημα",
+          "lang": "el",
+          "pt": "problema",
+          "en": "problem",
+          "es": "problema"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "εγώ ___ καλά",
+          "en": "εγώ ___ καλά",
+          "es": "εγώ ___ καλά"
+        },
+        "answer": "είμαι",
+        "hint": {
+          "pt": "Primeira pessoa de είμαι",
+          "en": "First person of είμαι",
+          "es": "Primera persona de είμαι"
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual forma completa: εμείς ___",
+            "en": "Which form completes: εμείς ___",
+            "es": "¿Qué forma completa: εμείς ___"
+          },
+          "options": [
+            {
+              "pt": "είμαι",
+              "en": "είμαι",
+              "es": "είμαι"
+            },
+            {
+              "pt": "είσαι",
+              "en": "είσαι",
+              "es": "είσαι"
+            },
+            {
+              "pt": "είμαστε",
+              "en": "είμαστε",
+              "es": "είμαστε"
+            },
+            {
+              "pt": "είναι",
+              "en": "είναι",
+              "es": "είναι"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Traduza: έχουμε χρόνο",
+            "en": "Translate: έχουμε χρόνο",
+            "es": "Traduce: έχουμε χρόνο"
+          },
+          "answer": "tenemos tiempo",
+          "hint": {
+            "pt": "έχουμε = tenemos",
+            "en": "έχουμε = we have",
+            "es": "έχουμε = tenemos"
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe sujeito e verbo",
+            "en": "Match subject and verb",
+            "es": "Relaciona sujeto y verbo"
+          },
+          "pairs": [
+            {
+              "a": "αυτός",
+              "b": "έχει"
+            },
+            {
+              "a": "εσείς",
+              "b": "είστε"
+            },
+            {
+              "a": "αυτοί",
+              "b": "έχουν"
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "είμαι + substantivo nomeia identidade ou profissão.",
+            "en": "είμαι + noun names identity or profession.",
+            "es": "είμαι + sustantivo expresa identidad o profesión."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "έχω indica posse; não é o verbo da existência.",
+            "en": "έχω expresses possession; it is not the verb of existence.",
+            "es": "έχω expresa posesión; no es el verbo de la existencia."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Locução",
+            "en": "Fixed expression",
+            "es": "Locución"
+          },
+          "text": {
+            "pt": "Έχει δίκιο significa «tem razão»; se prefere έχεις δίκιο, «tens razão».",
+            "en": "Έχει δίκιο means “is right”; έχεις δίκιο, “you are right”, is preferred.",
+            "es": "Έχει δίκιο significa «tiene razón»; se prefiere έχεις δίκιο, «tienes razón»."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "εγώ είμαι Έλληνας",
+          "gloss": {
+            "pt": "eu sou grego",
+            "en": "I am Greek",
+            "es": "yo soy griego"
+          }
+        },
+        {
+          "text": "έχω δύο αδελφούς",
+          "gloss": {
+            "pt": "tenho dois irmãos",
+            "en": "I have two brothers",
+            "es": "tengo dos hermanos"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Presente",
+            "en": "Present tense",
+            "es": "Presente"
+          },
+          "head": [
+            "Pronome",
+            "είμαι",
+            "έχω"
+          ],
+          "rows": [
+            [
+              "εγώ",
+              "είμαι",
+              "έχω"
+            ],
+            [
+              "εσύ",
+              "είσαι",
+              "έχεις"
+            ],
+            [
+              "αυτός/αυτή",
+              "είναι",
+              "έχει"
+            ],
+            [
+              "εμείς",
+              "είμαστε",
+              "έχουμε"
+            ],
+            [
+              "εσείς",
+              "είστε",
+              "έχετε"
+            ],
+            [
+              "αυτοί",
+              "είναι",
+              "έχουν"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "pt": "Presente dos verbos em -ω",
+        "en": "Present of -ω verbs",
+        "es": "Presente de los verbos en -ω"
+      },
+      "subtitle": {
+        "pt": "μιλώ, τρώω, μένω",
+        "en": "μιλώ, τρώω, μένω",
+        "es": "μιλώ, τρώω, μένω"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "O presente indica ação habitual, estado ou fato em curso. A pessoa se reconhece na terminação; o pronome é opcional.\n\nOs verbos em -άω, como μιλάω, passam a μιλώ: μιλώ, μιλάς, μιλά, μιλάμε, μιλάτε, μιλάνε. Many Greek verbs follow a contracted pattern, so do not infer endings mechanically from -ω.\n\nVerbs such as τρώω and πίνω form a small class: τρώω, τρως, τρώει, τρώμε, τρώτε, τρώνε. Others in -ω form -εις, -ει, -ουμε, -ετε, -ουν: μένω, μένεις, μένει, μένουμε, μένετε, μένουν. Both classes are productive patterns, not two absolute rules.\n\nLa negación usa δεν antes del verbo: δεν μιλώ. No es necesario escribir «no» en el verbo. La pregunta se forma con entonación, normalmente sin cambiar la palabra: Μιλάς; El punto y coma se usa en la escritura.",
+        "en": "The present expresses habitual action, state or an event in progress. Person is shown by the ending; the pronoun is optional.\n\nVerbs in -άω, such as μιλάω, become μιλώ: μιλώ, μιλάς, μιλά, μιλάμε, μιλάτε, μιλάνε. Many Greek verbs use a contracted pattern, so do not infer endings mechanically from -ω.\n\nVerbs such as τρώω and πίνω form a small class: τρώω, τρως, τρώει, τρώμε, τρώτε, τρώνε. Others in -ω form -εις, -ει, -ουμε, -ετε, -ουν: μένω, μένεις, μένει, μένουμε, μένετε, μένουν. Both are productive patterns, not two absolute rules.\n\nNegation uses δεν before the verb: δεν μιλώ. No “not” needs to be added to the verb. Questions use intonation without otherwise changing the word: Μιλάς; The semicolon is used in writing.",
+        "es": "El presente expresa acción habitual, estado o un hecho en curso. La persona se reconoce por la terminación; el pronombre es opcional.\n\nLos verbos en -άω, como μιλάω, pasan a μιλώ: μιλώ, μιλάς, μιλά, μιλάμε, μιλάτε, μιλάνε. Muchos verbos griegos siguen un patrón contractual, así que no deben deducirse mecánicamente las terminaciones a partir de -ω.\n\nVerbos como τρώω y πίνω forman una clase pequeña: τρώω, τρως, τρώει, τρώμε, τρώτε, τρώνε. Otros en -ω forman -εις, -ει, -ουμε, -ετε, -ουν: μένω, μένεις, μένει, μένουμε, μένετε, μένουν. Son patrones productivos, no dos reglas absolutas.\n\nLa negación usa δεν ante el verbo: δεν μιλώ. No hace falta añadir «no» al verbo. La pregunta se forma con entonación: Μιλάς; El punto y coma se emplea por escrito."
+      },
+      "vocab": [
+        {
+          "form": "μιλώ",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falo",
+          "en": "I speak",
+          "es": "hablo"
+        },
+        {
+          "form": "μιλάς",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falas",
+          "en": "you speak",
+          "es": "hablas"
+        },
+        {
+          "form": "μιλάμε",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falamos",
+          "en": "we speak",
+          "es": "hablamos"
+        },
+        {
+          "form": "μιλάνε",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falam",
+          "en": "they speak",
+          "es": "hablan"
+        },
+        {
+          "form": "τρώω",
+          "lemma": "τρώω",
+          "lang": "el",
+          "pt": "como",
+          "en": "I eat",
+          "es": "como"
+        },
+        {
+          "form": "τρώνε",
+          "lemma": "τρώω",
+          "lang": "el",
+          "pt": "comem",
+          "en": "they eat",
+          "es": "comen"
+        },
+        {
+          "form": "μένω",
+          "lemma": "μένω",
+          "lang": "el",
+          "pt": "fico; moro",
+          "en": "I stay; live",
+          "es": "me quedo; vivo"
+        },
+        {
+          "form": "μένουν",
+          "lemma": "μένω",
+          "lang": "el",
+          "pt": "ficam; moram",
+          "en": "they stay; live",
+          "es": "se quedan; viven"
+        },
+        {
+          "form": "δεν",
+          "lemma": "δεν",
+          "lang": "el",
+          "pt": "não",
+          "en": "not",
+          "es": "no"
+        },
+        {
+          "form": "πίνω",
+          "lemma": "πίνω",
+          "lang": "el",
+          "pt": "bebo",
+          "en": "I drink",
+          "es": "bebo"
+        },
+        {
+          "form": "τρως",
+          "lemma": "τρώω",
+          "lang": "el",
+          "pt": "comes",
+          "en": "you eat",
+          "es": "comes"
+        },
+        {
+          "form": "μένει",
+          "lemma": "μένω",
+          "lang": "el",
+          "pt": "fica; mora",
+          "en": "he/she stays; lives",
+          "es": "se queda; vive"
+        },
+        {
+          "form": "κάθε",
+          "lemma": "κάθε",
+          "lang": "el",
+          "pt": "cada",
+          "en": "every",
+          "es": "cada"
+        },
+        {
+          "form": "εδώ",
+          "lemma": "εδώ",
+          "lang": "el",
+          "pt": "aqui",
+          "en": "here",
+          "es": "aquí"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Como se diz «eles falam»?",
+          "en": "How do you say “they speak”?",
+          "es": "¿Cómo se dice «ellos hablan»?"
+        },
+        "options": [
+          {
+            "pt": "μιλώ",
+            "en": "μιλώ",
+            "es": "μιλώ"
+          },
+          {
+            "pt": "μιλάμε",
+            "en": "μιλάμε",
+            "es": "μιλάμε"
+          },
+          {
+            "pt": "μιλάνε",
+            "en": "μιλάνε",
+            "es": "μιλάνε"
+          },
+          {
+            "pt": "μιλάτε",
+            "en": "μιλάτε",
+            "es": "μιλάτε"
+          }
+        ],
+        "answer": 2
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "εμείς ___ εδώ",
+            "en": "εμείς ___ εδώ",
+            "es": "εμείς ___ εδώ"
+          },
+          "answer": "μένουμε",
+          "hint": {
+            "pt": "Primera persona plural de μένω",
+            "en": "First-person plural of μένω",
+            "es": "Primera persona plural de μένω"
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Onde entra δεν?",
+            "en": "Where does δεν go?",
+            "es": "¿Dónde va δεν?"
+          },
+          "options": [
+            {
+              "pt": "μιλώ δεν",
+              "en": "μιλώ δεν",
+              "es": "μιλώ δεν"
+            },
+            {
+              "pt": "δεν μιλώ",
+              "en": "δεν μιλώ",
+              "es": "δεν μιλώ"
+            },
+            {
+              "pt": "δεν ο μιλώ",
+              "en": "δεν ο μιλώ",
+              "es": "δεν ο μιλώ"
+            },
+            {
+              "pt": "ο δεν μιλώ",
+              "en": "ο δεν μιλώ",
+              "es": "ο δεν μιλώ"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associar pessoa e forma",
+            "en": "Match person and form",
+            "es": "Relacionar persona y forma"
+          },
+          "pairs": [
+            {
+              "a": "μιλάς",
+              "b": "εσύ"
+            },
+            {
+              "a": "μιλά",
+              "b": "αυτός"
+            },
+            {
+              "a": "μιλάτε",
+              "b": "εσείς"
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "O presente pode ser habitual ou momentáneo.",
+            "en": "The present can be habitual or momentary.",
+            "es": "El presente puede ser habitual o momentáneo."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "δεν se coloca antes del verbo conjugado.",
+            "en": "δεν is placed before the conjugated verb.",
+            "es": "δεν se coloca antes del verbo conjugado."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Koiné × moderno",
+            "en": "Koine × modern",
+            "es": "Koiné × moderno"
+          },
+          "text": {
+            "pt": "As formas modernas τρώνε e μιλάνε correspondem a remodelações modernas; não as analise como formas do koiné.",
+            "en": "Modern τρώνε and μιλάνε are remodeled endings; do not expand them as Koine forms.",
+            "es": "Las formas modernas τρώνε y μιλάνε son terminaciones remodeladas; no las expandas como formas del koiné."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "κάθε μέρα μιλώ",
+          "gloss": {
+            "pt": "falo todos os dias",
+            "en": "I speak every day",
+            "es": "hablo todos los días"
+          }
+        },
+        {
+          "text": "δεν μένω εδώ",
+          "gloss": {
+            "pt": "não moro aqui",
+            "en": "I do not live here",
+            "es": "no vivo aquí"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Conjugação presente",
+            "en": "Present conjugation",
+            "es": "Conjugación presente"
+          },
+          "head": [
+            "Pronome",
+            "μιλώ",
+            "τρώω",
+            "μένω"
+          ],
+          "rows": [
+            [
+              "εγώ",
+              "μιλώ",
+              "τρώω",
+              "μένω"
+            ],
+            [
+              "εσύ",
+              "μιλάς",
+              "τρως",
+              "μένεις"
+            ],
+            [
+              "αυτός/αυτή",
+              "μιλά",
+              "τρώει",
+              "μένει"
+            ],
+            [
+              "εμείς",
+              "μιλάμε",
+              "τρώμε",
+              "μένουμε"
+            ],
+            [
+              "εσείς",
+              "μιλάτε",
+              "τρώτε",
+              "μένετε"
+            ],
+            [
+              "αυτοί",
+              "μιλάνε",
+              "τρώνε",
+              "μένουν"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "pt": "Passado: aoristo",
+        "en": "Past: aorist",
+        "es": "Pasado: aoristo"
+      },
+      "subtitle": {
+        "pt": "μίλησα, έφαγα, πήγα",
+        "en": "μίλησα, έφαγα, πήγα",
+        "es": "μίλησα, έφαγα, πήγα"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## O aoristo é o tempo padrão do passado\n\nSe uma frase grega antiga está no passado e você não sabe em que tempo, quase certamente é aoristo. Ele é o tempo \"neutro\": sem valor de aspecto, cobre o que aconteceu uma vez, o que aconteceu muitas vezes e o que começou. Só o contexto diz qual.\n\nO aoristo ativo segue o tema do presente: μιλώ → **μίλησα**, μίλησες, μίλησε, μιλήσαμε, μιλήσατε, μίλησαν. Note o acréscimo de -σα no singular. O acento pode recuar (λέω → είπα, de άλφω), mas a forma é reconhecida pelo tema e pelas terminações.\n\n## Os irregulares são um conjunto fixo\n\nUm punhado de verbos troca o tema inteiro: τρώω → **έφαγα**, πάω → **πήγα**, βλέπω → **είδα**, λέω → **είπα**, παίρνω → **πήρα**, βρίσκω → **βρήκα**. São os verbos que você aprende de cor porque a forma não sai do presente. λέω é o caso curioso: continua irregular no presente (λέω, λες, λέει) e irregular no aoristo (είπα), e a forma mais comum de toda a Bíblia.\n\n## Aoristo, imperfeito e as texturas que faltam\n\nO **imperfeto** (lesson 9) é o outro lado: ação em curso, costume, ou ação passada com ideia de duração. **ἐλάλουν** «falava» ao lado de **εἶπα** «disse» é a diferença mais útil da língua. Um versículo com os dois te dá oNarrador em ação: o que foi dito (aoristo) e o que se dizia em volta (imperfeto).\n\n## θα e o futuro\n\nθα + forma verbal forma o futuro, e não se combina com να: θα μιλήσω «falarei», não θα να μιλήσω. Mas na fala, θα μιλήσω pode significar «falarei» ou «posso falar», dependendo do contexto — a mesma ambiguidade que o português tem em \"vai fazer\" ou \"vai chover\".\n\n## O que ler\n\nSempre que um verbo estiver no aoristo, pergunte: o texto está contando um fato, um hábito, ou um começo? A forma não diz; a situação diz. E se λέω aparecer, quase sempre é είπα — o irregular mais presente na Bíblia.",
+        "en": "## The aorist is the default past tense\n\nIf an ancient Greek sentence is in the past and you do not know which tense, it is almost certainly the aorist. It is the \"neutral\" tense: it carries no aspect of its own and covers what happened once, what happened repeatedly, and what began. Only context decides which.\n\nThe active aorist follows the present stem: μιλώ → **μίλησα**, μίλησες, μίλησε, μιλήσαμε, μιλήσατε, μίλησαν. Note the added -σα in the singular. The stress may move (λέω → είπα, from ἄλλω), but the form is recognised by the stem and the endings.\n\n## The irregulars are a fixed set\n\nA handful of verbs swap the stem entirely: τρώω → **έφαγα**, πάω → **πήγα**, βλέπω → **είδα**, λέω → **είπα**, παίρνω → **πήρα**, βρίσκω → **βρήκα**. These are the verbs you learn by heart because the form does not come from the present. λέω is the curious case: irregular in the present (λέω, λες, λέει) and irregular in the aorist (είπα), and the commonest of all in the New Testament.\n\n## Aorist, imperfect, and the texture that gets lost\n\nThe **imperfect** (lesson 9) is the other side: action in progress, habit, or past action with an idea of duration. **ἐλάλουν** \"he was speaking\" next to **εἶπα** \"he said\" is the most useful distinction in the language. A verse with both gives you the narrator in action: what was said (aorist) and what was going on around it (imperfect).\n\n## θa and the future\n\nθα plus a verbal form makes the future, and does not combine with να: θα μιλήσω \"I will speak\", not θα να μιλήσω. But in speech θα μιλήσω can mean \"I will speak\" or \"I may speak\", depending on context — the same ambiguity Portuguese has in \"vai fazer\" or \"vai chover\".\n\n## Reading criterion\n\nWhenever a verb is in the aorist, ask: is the text reporting a fact, a habit, or a beginning? The form does not say; the situation does. And if λέω shows up, it is almost always είπα — the commonest irregular in the New Testament.",
+        "es": "## El aoristo es el tiempo por defecto del pasado\n\nSi una frase griega antigua está en pasado y no sabes en qué tiempo, es casi con seguridad un aoristo. Es el tiempo «neutro»: no lleva aspecto propio y cubre lo que pasó una vez, lo que pasó muchas veces y lo que empezó. Solo el contexto decide cuál.\n\nEl aoristo activo sigue el tema del presente: μιλώ → **μίλησα**, μίλησες, μίλησε, μιλήσαμε, μιλήσατε, μίλησαν. Fíjate en el -σα añadido en el singular. El acento puede desplazarse (λέω → είπα, de ἄλλω), pero la forma se reconoce por el tema y las terminaciones.\n\n## Los irregulares son un conjunto fijo\n\nUn puñado de verbos cambia el tema entero: τρώω → **έφαγα**, πάω → **πήγα**, βλέπω → **είδα**, λέω → **είπα**, παίρνω → **πήρα**, βρίσκω → **βρήκα**. Son los verbos que se aprenden de memoria porque la forma no sale del presente. λέω es el caso curioso: sigue irregular en el presente (λέω, λες, λέει) y irregular en el aoristo (είπα), y es el más común de todo el Nuevo Testamento.\n\n## Aoristo, imperfecto y la textura que se pierde\n\nEl **imperfecto** (lección 9) es el otro lado: acción en curso, costumbre, o acción pasada con idea de duración. **ἐλάλουν** «hablaba» junto a **εἶπα** «dijo» es la distinción más útil de la lengua. Un versículo con los dos te da al narrador en acción: lo que se dijo (aoristo) y lo que pasaba alrededor (imperfecto).\n\n## θa y el futuro\n\nθα más una forma verbal forma el futuro, y no se combina con να: θα μιλήσω «hablaré», no θα να μιλήσω. Pero en el habla, θα μιλήσω puede significar «hablaré» o «puedo hablar», según el contexto: la misma ambigüedad que tiene el español en «va a hacer» o «va a llover».\n\n## Criterio de lectura\n\nCada vez que un verbo esté en aoristo, pregunta: ¿el texto cuenta un hecho, una costumbre o un comienzo? La forma no lo dice; la situación sí. Y si aparece λέω, casi siempre es είπα: el irregular más común del Nuevo Testamento."
+      },
+      "vocab": [
+        {
+          "form": "μίλησα",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falei",
+          "en": "I spoke",
+          "es": "hablé"
+        },
+        {
+          "form": "μίλησε",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falou",
+          "en": "he/she spoke",
+          "es": "habló"
+        },
+        {
+          "form": "μιλήσαμε",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falamos",
+          "en": "we spoke",
+          "es": "hablamos"
+        },
+        {
+          "form": "μίλησαν",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falaram",
+          "en": "they spoke",
+          "es": "hablaron"
+        },
+        {
+          "form": "έφαγα",
+          "lemma": "τρώω",
+          "lang": "el",
+          "pt": "comi",
+          "en": "I ate",
+          "es": "comí"
+        },
+        {
+          "form": "πήγα",
+          "lemma": "πάω",
+          "lang": "el",
+          "pt": "fui",
+          "en": "I went",
+          "es": "fui"
+        },
+        {
+          "form": "είδα",
+          "lemma": "βλέπω",
+          "lang": "el",
+          "pt": "vi",
+          "en": "I saw",
+          "es": "vi"
+        },
+        {
+          "form": "είπα",
+          "lemma": "λέω",
+          "lang": "el",
+          "pt": "disse",
+          "en": "I said",
+          "es": "dije"
+        },
+        {
+          "form": "θα",
+          "lemma": "θα",
+          "lang": "el",
+          "pt": "partícula de futuro",
+          "en": "future particle",
+          "es": "partícula de futuro"
+        },
+        {
+          "form": "μίλησες",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falaste",
+          "en": "you spoke",
+          "es": "hablaste"
+        },
+        {
+          "form": "μιλήσατε",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falastes",
+          "en": "you (pl.) spoke",
+          "es": "hablasteis"
+        },
+        {
+          "form": "πάω",
+          "lemma": "πάω",
+          "lang": "el",
+          "pt": "vou",
+          "en": "I go",
+          "es": "voy"
+        },
+        {
+          "form": "λέω",
+          "lemma": "λέω",
+          "lang": "el",
+          "pt": "digo",
+          "en": "I say",
+          "es": "digo"
+        },
+        {
+          "form": "να",
+          "lemma": "να",
+          "lang": "el",
+          "pt": "que (subjuntivo)",
+          "en": "that (subjunctive)",
+          "es": "que (subjuntivo)"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "βλέπω → eu vi",
+          "en": "βλέπω → I saw",
+          "es": "βλέπω → vi"
+        },
+        "answer": "είδα",
+        "hint": {
+          "pt": "Aoristo irregular",
+          "en": "Irregular aorist",
+          "es": "Aoristo irregular"
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "«Nós falamos ontem»",
+            "en": "“We spoke yesterday”",
+            "es": "«Nosotros hablamos ayer»"
+          },
+          "options": [
+            {
+              "pt": "μιλήσαμε",
+              "en": "μιλήσαμε",
+              "es": "μιλήσαμε"
+            },
+            {
+              "pt": "μιλάμε",
+              "en": "μιλάμε",
+              "es": "μιλάμε"
+            },
+            {
+              "pt": "μιλάτε",
+              "en": "μιλάτε",
+              "es": "μιλάτε"
+            },
+            {
+              "pt": "μίλησαν",
+              "en": "μίλησαν",
+              "es": "μίλησαν"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "εγώ ___ τον φίλο μου",
+            "en": "εγώ ___ my friend",
+            "es": "εγώ ___ a mi amigo"
+          },
+          "answer": "είδα",
+          "hint": {
+            "pt": "βλέπω → aoristo",
+            "en": "βλέπω → aorist",
+            "es": "βλέπω → aoristo"
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associar presente e aoristo",
+            "en": "Match present and aorist",
+            "es": "Relacionar presente y aoristo"
+          },
+          "pairs": [
+            {
+              "a": "τρώω",
+              "b": "έφαγα"
+            },
+            {
+              "a": "πάω",
+              "b": "πήγα"
+            },
+            {
+              "a": "λέω",
+              "b": "είπα"
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "O aoristo não exige ideia de duração.",
+            "en": "The aorist does not require duration.",
+            "es": "El aoristo no exige idea de duración."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "A negação mantém δεν: δεν μίλησα.",
+            "en": "Negation keeps δεν: δεν μίλησα.",
+            "es": "La negación mantiene δεν: δεν μίλησα."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Demótico × koiné",
+            "en": "Demotic × Koine",
+            "es": "Demótico × koiné"
+          },
+          "text": {
+            "pt": "είπα, έφαγα e πήγα pertenece al pasado demótico; εἶπεν, ἔφαγεν y ἐπῆλθεν são formas do sistema koiné.",
+            "en": "είπα, έφαγα and πήγα belong to the Demotic past; εἶπεν, ἔφαγεν and ἐπῆλθεν are Koine-system forms.",
+            "es": "είπα, έφαγα y πήγα pertenecen al pasado demótico; εἶπεν, ἔφαγεν y ἐπῆλθεν son formas del sistema koiné."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "χθες μίλησα μαζί σου",
+          "gloss": {
+            "pt": "ontem falei contigo",
+            "en": "I spoke with you yesterday",
+            "es": "ayer hablé contigo"
+          }
+        },
+        {
+          "text": "δεν είπα τίποτα",
+          "gloss": {
+            "pt": "não disse nada",
+            "en": "I said nothing",
+            "es": "no dije nada"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Aoristo regular",
+            "en": "Regular aorist",
+            "es": "Aoristo regular"
+          },
+          "head": [
+            "Pronome",
+            "Singular",
+            "Plural"
+          ],
+          "rows": [
+            [
+              "1ª",
+              "μίλησα",
+              "μιλήσαμε"
+            ],
+            [
+              "2ª",
+              "μίλησες",
+              "μιλήσατε"
+            ],
+            [
+              "3ª",
+              "μίλησε",
+              "μίλησαν"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "pt": "Leitura: João 1:1",
+        "en": "Reading: John 1:1",
+        "es": "Lectura: Juan 1:1"
+      },
+      "subtitle": {
+        "pt": "Διάκρινε demótico y koiné",
+        "en": "Distinguish Demotic and Koine",
+        "es": "Distinguir demótico y koiné"
+      },
+      "section": {
+        "pt": "Leituras",
+        "en": "Readings",
+        "es": "Lecturas"
+      },
+      "body": {
+        "pt": "## Duas traduções, um verbo\n\nO versículo mais conhecido da Bíblia em grego admite duas leituras. A versão literal, seguindo o texto bizantino, diz **Ἐν ἀρχῇ ἦν ὁ λόγος** — «no princípio era o Verbo». Uma tradução atualizada troca ἦν (era) por **ἦταν** (estava), e a diferença não é cosmética: **ἦν** é a forma mais antiga de εἰμί, o verbo *ser* por excelência, sem tempo definido nem começo; **ἦταν** é o imperfeito, que marca ação contínua e duração.\n\nNenhuma das duas está errada. A escolha diz o que o tradutor querrealçar: **ἦν** sublinha a eternidade do Verbo, **ἦταν** sublinha a ação que continua.\n\n## O que o texto não diz\n\nO grego **não diz** que Deus «se tornou» Verbo. As três afirmações usam **ἦν** — era, era, era — e entre elas aparece **πρὸς τὸν θεόν**, «junto de Deus». A palavra de que o texto se evita é **ἐγένετο**, «veio a ser»: o verbo que introduz criação e gênese. Quem traduz «se fez carne» (ἐγένετο σάρξ) está traduzindo um verbo diferente do das três afirmações, e é a diferença entre origem e identidade.\n\n## Anatomia do versículo\n\nἀρχή (o começo), λόγος (da família de λέγω, «dizer», e aqui **Palavra**), θεός (Deus), κόσμος (o mundo). São quatro palavras conhecidas, montadas de um jeito que só o grego permite. **Ἐν ἀρχῇ** com dativo é expressão fixa: «no início», não «em um começo».\n\n## Critério de leitura\n\nEm Jo 1:1, se a sua tradução usa «era» e a de outro usa «estava», as duas estão certas. Mas há algo que nenhuma delas mostra: a identidade, não a comparação. O Verbo não é *como* Deus — o Verbo **era** Deus.",
+        "en": "## Two translations, one verb\n\nThe best-known verse in Greek can be read two ways. The literal version, following the Byzantine text, reads **Ἐν ἀρχῇ ἦν ὁ λόγος** — \"in the beginning was the Word\". An updated translation swaps ἦν (was) for **ἦταν** (was/used to be), and the difference is not cosmetic: **ἦν** is the oldest form of εἰμί, the verb *to be* par excellence, with no defined tense and no beginning; **ἦταν** is the imperfect, marking continuous action and duration.\n\nNeither is wrong. The choice says what the translator wants to stress: **ἦν** stresses the eternality of the Word, **ἦταν** stresses the action that goes on.\n\n## What the text does not say\n\nGreek does **not** say that God \"became\" the Word. All three statements use **ἦν** — was, was, was — and between them comes **πρὸς τὸν θεόν**, \"with God\". The word the text avoids is **ἐγένετο**, \"came to be\": the verb that introduces creation and Genesis. Translating \"became flesh\" (ἐγένετο σάρξ) renders a different verb from the three statements, and that is the difference between origin and identity.\n\n## Anatomy of the verse\n\nἀρχή (the beginning), λόγος (from the family of λέγω, \"to say\", here **Word**), θεός (God), κόσμος (the world). Four familiar words arranged in a way only Greek allows. **Ἐν ἀρχῇ** with the dative is a fixed expression: \"in the beginning\", not \"in a beginning\".\n\n## Reading criterion\n\nAt John 1:1, if your translation says \"was\" and someone else's says \"was present\", both are right. But there is something neither shows: identity, not comparison. The Word is not *like* God — the Word **was** God.",
+        "es": "## Dos traducciones, un verbo\n\nEl versículo más conocido de la Biblia en griego admite dos lecturas. La versión literal, siguiendo el texto bizantino, dice **Ἐν ἀρχῇ ἦν ὁ λόγος** — «en el principio era el Verbo». Una traducción actualizada cambia ἦν (era) por **ἦταν** (estaba), y la diferencia no es cosmética: **ἦν** es la forma más antigua de εἰμί, el verbo *ser* por excelencia, sin tiempo definido ni comienzo; **ἦταν** es el imperfecto, que marca acción continua y duración.\n\nNinguna de las dos está mal. La elección dice qué quiere resaltar el traductor: **ἦν** resalta la eternidad del Verbo, **ἦταν** resalta la acción que continúa.\n\n## Lo que el texto no dice\n\nEl griego **no dice** que Dios «se hizo» Verbo. Las tres afirmaciones usan **ἦν** — era, era, era — y entre ellas aparece **πρὸς τὸν θεόν**, «junto de Dios». La palabra que el texto evita es **ἐγένετο**, «vino a ser»: el verbo que introduce la creación y Génesis. Quien traduce «se hizo carne» (ἐγένετο σάρξ) está traduciendo un verbo distinto del de las tres afirmaciones, y esa es la diferencia entre origen e identidad.\n\n## Anatomía del versículo\n\nἀρχή (el comienzo), λόγος (de la familia de λέγω, «decir», y aquí **Palabra**), θεός (Dios), κόσμος (el mundo). Cuatro palabras conocidas, montadas de una manera que solo el griego permite. **Ἐν ἀρχῇ** con dativo es expresión fija: «en el principio», no «en un comienzo».\n\n## Criterio de lectura\n\nEn Jn 1:1, si tu traducción dice «era» y la de otro dice «estaba», las dos están bien. Pero hay algo que ninguna muestra: la identidad, no la comparación. El Verbo no es *como* Dios: el Verbo **era** Dios."
+      },
+      "vocab": [
+        {
+          "form": "ἀρχή",
+          "lemma": "ἀρχή",
+          "lang": "grc",
+          "pt": "princípio",
+          "en": "beginning",
+          "es": "principio"
+        },
+        {
+          "form": "ἦν",
+          "lemma": "εἰμί",
+          "lang": "grc",
+          "pt": "era",
+          "en": "was",
+          "es": "era"
+        },
+        {
+          "form": "ἦτο",
+          "lemma": "εἰμί",
+          "lang": "el",
+          "pt": "era",
+          "en": "was",
+          "es": "era"
+        },
+        {
+          "form": "λόγος",
+          "lemma": "λόγος",
+          "lang": "grc",
+          "pt": "Palavra",
+          "en": "Word",
+          "es": "Palabra"
+        },
+        {
+          "form": "παρά",
+          "lemma": "παρά",
+          "lang": "grc",
+          "pt": "junto a",
+          "en": "with",
+          "es": "junto a"
+        },
+        {
+          "form": "Θεός",
+          "lemma": "θεός",
+          "lang": "grc",
+          "pt": "Deus",
+          "en": "God",
+          "es": "Dios"
+        },
+        {
+          "form": "ζωή",
+          "lemma": "ζωή",
+          "lang": "grc",
+          "pt": "vida",
+          "en": "life",
+          "es": "vida"
+        },
+        {
+          "form": "φῶς",
+          "lemma": "φῶς",
+          "lang": "grc",
+          "pt": "luz",
+          "en": "light",
+          "es": "luz"
+        },
+        {
+          "form": "ἐν",
+          "lemma": "ἐν",
+          "lang": "grc",
+          "pt": "em, no início",
+          "en": "in",
+          "es": "en"
+        },
+        {
+          "form": "ήταν",
+          "lemma": "είμαι",
+          "lang": "el",
+          "pt": "era (demótico)",
+          "en": "was (Demotic)",
+          "es": "era (demótico)"
+        },
+        {
+          "form": "κτίση",
+          "lemma": "κτίσις",
+          "lang": "grc",
+          "pt": "criação",
+          "en": "creation",
+          "es": "creación"
+        },
+        {
+          "form": "κτίζω",
+          "lemma": "κτίζω",
+          "lang": "grc",
+          "pt": "crio, criar",
+          "en": "I create",
+          "es": "creo, crear"
+        },
+        {
+          "form": "λέγω",
+          "lemma": "λέγω",
+          "lang": "grc",
+          "pt": "digo, dizer",
+          "en": "I say, to say",
+          "es": "digo, decir"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual é a forma moderna de ἦν?",
+          "en": "What is the modern form of ἦν?",
+          "es": "¿Cuál es la forma moderna de ἦν?"
+        },
+        "options": [
+          {
+            "pt": "ήταν",
+            "en": "ήταν",
+            "es": "ήταν"
+          },
+          {
+            "pt": "ἦν",
+            "en": "ἦν",
+            "es": "ἦν"
+          },
+          {
+            "pt": "είναι",
+            "en": "είναι",
+            "es": "είναι"
+          },
+          {
+            "pt": "ήμουν",
+            "en": "ήμουν",
+            "es": "ήμουν"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Ἐν ___ ἦν ὁ λόγος",
+            "en": "Ἐν ___ ἦν ὁ λόγος",
+            "es": "Ἐν ___ ἦν ὁ λόγος"
+          },
+          "answer": "ἀρχῇ",
+          "hint": {
+            "pt": "«No início»",
+            "en": "“In the beginning”",
+            "es": "«En el principio»"
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual palavra significa «Palavra»?",
+            "en": "Which word means “Word”?",
+            "es": "¿Qué palabra significa «Palabra»?"
+          },
+          "options": [
+            {
+              "pt": "λόγος",
+              "en": "λόγος",
+              "es": "λόγος"
+            },
+            {
+              "pt": "ἀρχή",
+              "en": "ἀρχή",
+              "es": "ἀρχή"
+            },
+            {
+              "pt": "ζωή",
+              "en": "ζωή",
+              "es": "ζωή"
+            },
+            {
+              "pt": "φῶς",
+              "en": "φῶς",
+              "es": "φῶς"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe forma e estágio",
+            "en": "Match form and stage",
+            "es": "Relaciona forma y etapa"
+          },
+          "pairs": [
+            {
+              "a": "ἦν",
+              "b": {
+                "pt": "koiné",
+                "en": "Koine",
+                "es": "koiné"
+              }
+            },
+            {
+              "a": "ήταν",
+              "b": {
+                "pt": "moderno",
+                "en": "modern",
+                "es": "moderno"
+              }
+            },
+            {
+              "a": "λόγος",
+              "b": {
+                "pt": "Palavra",
+                "en": "Word",
+                "es": "Palabra"
+              }
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "ἦν es koiné; ήταν es la forma Demótica de ese mismo pasado.",
+            "en": "ἦν is Koine; ήταν is the Demotic form of that same past.",
+            "es": "ἦν es koiné; ήταν es la forma demótica de ese mismo pasado."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Fidelidade",
+            "en": "Fidelity",
+            "es": "Fidelidad"
+          },
+          "text": {
+            "pt": "Θεὸς ἦν ὁ λόγος usa el verbo ser y no κτίζω: João 1:1 no presenta a la Palabra como una criatura.",
+            "en": "Θεὸς ἦν ὁ λόγος uses “to be”, not κτίζω: John 1:1 does not present the Word as a creature.",
+            "es": "Θεὸς ἦν ὁ λόγος usa el verbo ser y no κτίζω: Juan 1:1 no presenta la Palabra como criatura."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ἐν ἀρχῇ ἦν ὁ λόγος",
+          "gloss": {
+            "pt": "No princípio era a Palavra",
+            "en": "In the beginning was the Word",
+            "es": "En el principio era la Palabra"
+          }
+        },
+        {
+          "text": "Ἐν αρχή ήταν ο λόγος",
+          "gloss": {
+            "pt": "No início estava a Palavra",
+            "en": "In the beginning the Word was",
+            "es": "En el principio la Palabra estaba"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Koiné y demótico",
+            "en": "Koine and Demotic",
+            "es": "Koiné y demótico"
+          },
+          "head": [
+            "Función",
+            "Koiné",
+            "Moderno"
+          ],
+          "rows": [
+            [
+              "ser (3ª sg.)",
+              "ἦν",
+              "ήταν"
+            ],
+            [
+              "junto a",
+              "παρά + dativo",
+              "παρά + acusativo"
+            ],
+            [
+              "Artículo",
+              "ὁ λόγος",
+              "ο λόγος"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "pt": "Pronomes e possessivos",
+        "en": "Pronouns and possessives",
+        "es": "Pronombres y posesivos"
+      },
+      "subtitle": {
+        "pt": "εγώ — μου, σου, του",
+        "en": "εγώ — μου, σου, του",
+        "es": "εγώ — μου, σου, του"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "## O verbo já diz quem é\n\nEm grego, o pronome sujeito é quase sempre omitido, porque a forma verbal já carrega a pessoa: λέω «eu digo», λέεις «tu dizes», λέει «ele diz». O grego só mostra o pronome quando a pessoa precisa ser destacada: **έγώ** πολύ ἀγαπῶ «eu amo muito», em contraste com alguém que não ama.\n\nOs pronomes pessoal são: ἐγώ, σύ, αὐτός/αὐτή/αὐτό, ἡμεῖς, ὑμεῖς, αὐτοί/αὐτές/αὐτά. Em grego moderno, σύ e αὐτός são raros na fala; o dialeto popular usa ένας/μία (uma pessoa) ou o verbo mesmo. Mas na escrita e na Bíblica, todos aparecem.\n\n## Os possessivos são clíticos, não independentes\n\nμου, σου, του, μας, σας, τους não são palavras: grudam no fim da palavra anterior. **το παιδί μου** «o meu filho» — μου vem colado ao substantivo. **δώσε μου** «dá-me» — colado ao verbo. Se a palavra seguinte começar por vogal, o acento muda: μου τοῦ παιδίο.\n\nO grego antigo é diferente: ἡμῶν, σοῦ, αὐτοῦ, ἡμῶν, ὑμῶν, αὐτῶν são palavras cheias, e por isso podem vir antes do nome — Πάτερ ἡμῶν «Pai nosso». No grego moderno essa construção soa bíblica ou litúrgica, e é por isso que aparece em oração, não em conversa.\n\n## Objeto indireto e direto\n\nO objeto indireto usa με, σε, μας, σας: Μου λες την αλήθεια «Dizes-me a verdade». O objeto direto usa τον, την, το, τους, τις, τα: Βλέπω τον φίλο «Vejo o meu amigo». Os dois juntos: **μου** το δίνεις «dás-mo» — o indireto (μου) vem antes do direto (το), porque o indireto é clítico e vai para a primeira posição disponível.\n\n## O que ler\n\nSe uma frase grega tem pronome sujeito explícito, ou a pessoa está em contraste, ou a forma verbal não deixa dúvida. Se tem pronome possessivo no fim, ele pertence à palavra anterior. E se duas traduções colocam o pronome em posições diferentes, é por causa dessa ordem clítica, não por erro.",
+        "en": "## The verb already says who\n\nIn Greek the subject pronoun is almost always dropped, because the verbal form already carries the person: λέω \"I say\", λέεις \"you say\", λέει \"he says\". Greek shows the pronoun only when the person needs to stand out: **ἐγώ** πολυ ἀγαπῶ \"I love very much\", in contrast with someone who does not.\n\nThe personal pronouns are: ἐγώ, σύ, αὐτός/αὐτή/αὐτό, ἡμεῖς, ὑμεῖς, αὐτοί/αὐτές/αὐτά. In modern Greek, σύ and αὐτός are rare in speech; colloquial uses ένας/μία (\"someone\") or the verb alone. But in writing and in biblical Greek they all appear.\n\n## Possessives are clitics, not independent words\n\nμου, σου, του, μας, σας, τους are not words: they stick to the end of the preceding word. **το παιδί μου** \"my child\" — μου sits against the noun. **δώσε μου** \"give me\" — against the verb. If the following word starts with a vowel, the stress shifts: μου τοῦ παιδίο.\n\nAncient Greek is different: ἡμῶν, σοῦ, αὐτοῦ, ἡμῶν, ὑμῶν, αὐτῶν are full words, so they can come before the noun — Πάτερ ἡμῶν \"Our Father\". In modern Greek that construction sounds biblical or liturgical, which is why it shows up in prayer rather than conversation.\n\n## Indirect and direct object\n\nThe indirect object uses με, σε, μας, σας: Μου λες την αλήθεια \"You tell me the truth\". The direct object uses τον, την, το, τους, τις, τα: Βλέπω τον φίλο \"I see the friend\". Both together: **μου** το δίνεις \"you give it to me\" — the indirect object (μου) comes before the direct one (το), because the indirect object is clitic and takes the first available slot.\n\n## Reading criterion\n\nIf a Greek sentence has an explicit subject pronoun, either the person is in contrast or the verbal form leaves no doubt. If it has a possessive pronoun at the end, that pronoun belongs to the word before it. And if two translations place the pronoun differently, that is clitic order at work, not an error.",
+        "es": "## El verbo ya dice quién\n\nEn griego el pronombre sujeto casi siempre se omite, porque la forma verbal ya lleva la persona: λέω «digo», λέεις «dices», λέει «dice». El griego solo muestra el pronombre cuando la persona tiene que destacarse: **ἐγώ** πολυ ἀγαπῶ «yo amo mucho», en contraste con quien no ama.\n\nLos pronombres personales son: ἐγώ, σύ, αὐτός/αὐτή/αὐτό, ἡμεῖς, ὑμεῖς, αὐτοί/αὐτές/αὐτά. En griego moderno, σύ y αὐτός son raros en el habla; lo coloquial usa ένας/μία («alguien») o solo el verbo. Pero en la escritura y en el griego bíblico aparecen todos.\n\n## Los posesivos son enclíticos, no palabras sueltas\n\nμου, σου, του, μας, σας, τους no son palabras: se pegan al final de la palabra anterior. **το παιδί μου** «mi hijo»: μου va pegado al sustantivo. **δώσε μου** «dame»: pegado al verbo. Si la palabra siguiente empieza por vocal, el acento se desplaza: μου τοῦ παιδίο.\n\nEl griego antiguo es distinto: ἡμῶν, σοῦ, αὐτοῦ, ἡμῶν, ὑμῶν, αὐτῶν son palabras completas, y por eso pueden ir antes del sustantivo — Πάτερ ἡμῶν «Padre nuestro». En griego moderno esa construcción suena bíblica o litúrgica, y por eso aparece en la oración y no en la conversación.\n\n## Objeto indirecto y directo\n\nEl objeto indirecto usa με, σε, μας, σας: Μου λες την αλήθεια «me dices la verdad». El objeto directo usa τον, την, το, τους, τις, τα: Βλέπω τον φίλο «veo al amigo». Los dos juntos: **μου** το δίνεις «me lo das»: el indirecto (μου) va antes del directo (το), porque el indirecto es enclítico y ocupa el primer hueco disponible.\n\n## Criterio de lectura\n\nSi una frase griega lleva pronombre sujeto explícito, o la persona está en contraste o la forma verbal no deja duda. Si lleva pronombre posesivo al final, ese pronombre pertenece a la palabra anterior. Y si dos traducciones colocan el pronombre en sitios distintos, es por el orden enclítico, no por un error."
+      },
+      "vocab": [
+        {
+          "form": "εγώ",
+          "lemma": "εγώ",
+          "lang": "el",
+          "pt": "eu",
+          "en": "I",
+          "es": "yo"
+        },
+        {
+          "form": "εσύ",
+          "lemma": "εσύ",
+          "lang": "el",
+          "pt": "tu",
+          "en": "you",
+          "es": "tú"
+        },
+        {
+          "form": "μου",
+          "lemma": "εγώ",
+          "lang": "el",
+          "pt": "meu; a mim",
+          "en": "my; to me",
+          "es": "mi; a mí"
+        },
+        {
+          "form": "σου",
+          "lemma": "εσύ",
+          "lang": "el",
+          "pt": "teu; a ti",
+          "en": "your; to you",
+          "es": "tu; a ti"
+        },
+        {
+          "form": "μας",
+          "lemma": "εμείς",
+          "lang": "el",
+          "pt": "nosso; a nós",
+          "en": "our; to us",
+          "es": "nuestro; a nosotros"
+        },
+        {
+          "form": "του",
+          "lemma": "αυτός",
+          "lang": "el",
+          "pt": "dele; a ele",
+          "en": "his; to him",
+          "es": "su; a él"
+        },
+        {
+          "form": "τη",
+          "lemma": "αυτός",
+          "lang": "el",
+          "pt": "a; a ela",
+          "en": "the; her",
+          "es": "la; a ella"
+        },
+        {
+          "form": "με",
+          "lemma": "εγώ",
+          "lang": "el",
+          "pt": "me; a mim",
+          "en": "me; to me",
+          "es": "me; a mí"
+        },
+        {
+          "form": "εμείς",
+          "lemma": "εμείς",
+          "lang": "el",
+          "pt": "nós",
+          "en": "we",
+          "es": "nosotros"
+        },
+        {
+          "form": "εσείς",
+          "lemma": "εσείς",
+          "lang": "el",
+          "pt": "vós",
+          "en": "you (pl.)",
+          "es": "vosotros"
+        },
+        {
+          "form": "σας",
+          "lemma": "εσείς",
+          "lang": "el",
+          "pt": "seu; a vocês",
+          "en": "your; to you (pl.)",
+          "es": "su; a ustedes"
+        },
+        {
+          "form": "τους",
+          "lemma": "αυτός",
+          "lang": "el",
+          "pt": "deles; os (artigo masc. pl.)",
+          "en": "their; the (masc. pl.)",
+          "es": "de ellos; los (artículo masc. pl.)"
+        },
+        {
+          "form": "αλήθεια",
+          "lemma": "αλήθεια",
+          "lang": "el",
+          "pt": "verdade",
+          "en": "truth",
+          "es": "verdad"
+        },
+        {
+          "form": "φίλος",
+          "lemma": "φίλος",
+          "lang": "el",
+          "pt": "amigo",
+          "en": "friend",
+          "es": "amigo"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Onde vai μου?",
+          "en": "Where does μου go?",
+          "es": "¿Dónde va μου?"
+        },
+        "options": [
+          {
+            "pt": "antes do nome",
+            "en": "before the noun",
+            "es": "antes del nombre"
+          },
+          {
+            "pt": "depois do nome",
+            "en": "after the noun",
+            "es": "después del nombre"
+          },
+          {
+            "pt": "antes do verbo",
+            "en": "before the verb",
+            "es": "antes del verbo"
+          },
+          {
+            "pt": "so no fim",
+            "en": "only at the end",
+            "es": "solo al final"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "___ γυναίκα (minha mulher)",
+            "en": "___ γυναίκα",
+            "es": "___ γυναίκα"
+          },
+          "answer": "μου",
+          "hint": {
+            "pt": " possessivo de εγώ",
+            "en": " possessive of εγώ",
+            "es": "posesivo de εγώ"
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Completa: ___ λέει την αλήθεια.",
+            "en": "Complete: ___ tells the truth.",
+            "es": "Completa: ___ dice la verdad."
+          },
+          "options": [
+            {
+              "pt": "μου",
+              "en": "μου",
+              "es": "μou"
+            },
+            {
+              "pt": "σε",
+              "en": "σε",
+              "es": "σε"
+            },
+            {
+              "pt": "τον",
+              "en": "τον",
+              "es": "τον"
+            },
+            {
+              "pt": "τη",
+              "en": "τη",
+              "es": "τη"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associar pronome e pessoa",
+            "en": "Match pronoun and person",
+            "es": "Relacionar pronombre y persona"
+          },
+          "pairs": [
+            {
+              "a": "εγώ",
+              "b": "1ª sg."
+            },
+            {
+              "a": "εσείς",
+              "b": "2ª pl."
+            },
+            {
+              "a": "αυτός",
+              "b": "3ª sg."
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "O possessivo vem depois do substantivo no uso moderno corriente.",
+            "en": "The possessive follows the noun in ordinary modern use.",
+            "es": "El posesivo sigue al sustantivo en el uso moderno corriente."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Registro",
+            "en": "Register",
+            "es": "Registro"
+          },
+          "text": {
+            "pt": "Πάτερ ημών pertenece al registro eleva lo oracional; no es la forma de todos los días.",
+            "en": "Πάτερ ημών is solemn or prayer register, not the everyday form.",
+            "es": "Πάτερ ημών pertenece al registro elevado de la oración; no es la forma cotidiana."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "ο πατέρας μου",
+          "gloss": {
+            "pt": "meu pai",
+            "en": "my father",
+            "es": "mi padre"
+          }
+        },
+        {
+          "text": "σε αγαπώ",
+          "gloss": {
+            "pt": "amo-te",
+            "en": "I love you",
+            "es": "te amo"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Pronomes",
+            "en": "Pronouns",
+            "es": "Pronombres"
+          },
+          "head": [
+            "Singular",
+            "Plural"
+          ],
+          "rows": [
+            [
+              "αυτός/αυτή/αυτό",
+              "αυτοί/αυτές/αυτά"
+            ],
+            [
+              "του/της/τους",
+              "τους/των/τους"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": {
+        "pt": "Subjuntivo να",
+        "en": "The να subjunctive",
+        "es": "El subjuntivo να"
+      },
+      "subtitle": {
+        "pt": "θέλω να…",
+        "en": "θέλω να…",
+        "es": "θέλω να…"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## να é a chave do grego moderno\n\nνα introduz uma ação subordinada sem valor de ordem: θέλω να μιλήσω «quero falar», πρέπει να φύγω «tenho de sair», ώστε να μάθω «para que eu aprenda». Repare que o verbo subordinado aparece no aoristo (μιλήσω) mesmo quando o principal está no presente — em grego, o aoristo é a forma \"não marcado\" do subordinado.\n\n## Onde o subjuntivo aparece\n\nDepois de verbos de vontade, necessidade e possibilidade, o aoristo é obrigatório: θέλω να, πρέπει να, μπορώ να, προσπαθώ να, καταφέρνω να. São poucos e a lista é fechada: se não está nessa lista, provavelmente o verbo vai no indicativo.\n\nDepois de όταν «quando», πριν «antes», να αφού «depois que», γιατί «porque» e similar, também é aoristo. É o mesmo mecanismo grego do γενικής: o que é o núcleo de uma subordinada vai para a forma de subordinada.\n\n## να não é o subjuntivo do koiné\n\nO subjuntivo grego antigo (πιο να λέω) sobrevive em expressões fixas — πιο να λω, μην ξεχάσετε — mas no uso corrente o grego moderno prefere o indeterminado: να μιλήσω, e não πιο να λέω. Se você traduzir NT usando πιο, vai soar arcaico para o falante moderno.\n\n## θα + να não é padrão\n\nθα έρθει é normal: futuro ou possibilidade. θα να έρθει, não. São dois marcadores para a mesma ideia; o grego escolhe um. Na dúvida, θα έρθει pode ser «virá» ou «pode ser que venha» — e é essa ambiguidade que a tradução tem de resolver.\n\n## Critério de leitura\n\nSempre que um verbo de plano vem depois de θέλω, πρέπει, πολύ, αρκετά, ώστε ou πριν, espere o aoristo. E não procure πιο: no grego moderno ele é resto, não regra.",
+        "en": "## να is the hinge of modern Greek\n\nνα introduces a dependent action with no sense of order: θέλω να μιλήσω \"I want to speak\", πρέπει να φύγω \"I must leave\", ώστε να μάθω \"so that I may learn\". Notice the dependent verb appears in the aorist (μιλήσω) even when the main verb is present — in Greek the aorist is the unmarked form of a subordinate.\n\n## Where the subjunctive appears\n\nAfter verbs of will, necessity and possibility, the aorist is obligatory: θέλω να, πρέπει να, μπορώ να, προσπαθώ να, καταφέρνω να. They are few and the list is closed: if it is not on that list, the verb probably goes in the indicative.\n\nAfter όταν \"when\", πριν \"before\", αφού \"after\", γιατί \"because\" and similar, it is also aorist. It is the same mechanism as the ancient Greek: whatever heads a subordinate clause takes the subordinate form.\n\n## να is not the Koine subjunctive\n\nThe old subjunctive (πιο να λέω) survives in fixed expressions — πιο να λω, μην ξεχάσετε — but in current usage modern Greek prefers the indefinite: να μιλήσω, not πιο να λέω. Translating the New Testament with πιο sounds archaic to a modern speaker.\n\n## θa + να is not standard\n\nθα έρθει is normal: future or possibility. θα να έρθει is not. Two markers for the same idea, and Greek picks one. In doubt, θα έρθει can be \"he will come\" or \"he may come\" — and resolving that is the translator's job.\n\n## Reading criterion\n\nWhenever a verb of planning follows θέλω, πρέπει, πολύ, αρκετά, ώστε or πριν, expect the aorist. And do not go looking for πιο: in modern Greek it is a survival, not a rule.",
+        "es": "## να es la bisagra del griego moderno\n\nνα introduce una acción subordinada sin valor de orden: θέλω να μιλήσω «quiero hablar», πρέπει να φύγω «tengo que salir», ώστε να μάθω «para que aprenda». Fíjate en que el verbo subordinado va en aoristo (μιλήσω) aunque el principal esté en presente — en griego el aoristo es la forma «no marcada» de una subordinada.\n\n## Dónde aparece el subjuntivo\n\nTras verbos de voluntad, necesidad y posibilidad, el aoristo es obligatorio: θέλω να, πρέπει να, μπορώ να, προσπαθώ να, καταφέρνω να. Son pocos y la lista es cerrada: si no está en ella, el verbo probablemente va en indicativo.\n\nTras όταν «cuando», πριν «antes», αφού «después de que», γιατί «porque» y semejantes, también es aoristo. Es el mismo mecanismo del griego antiguo: lo que encabeza una subordinada toma la forma de subordinada.\n\n## να no es el subjuntivo del koiné\n\nEl subjuntivo antiguo (πιο να λέω) sobrevive en expresiones fijas — πιο να λω, μην ξεχάσετε — pero en el uso actual el griego moderno prefiere el indeterminado: να μιλήσω, no πιο να λέω. Traducir el Nuevo Testamento con πιο le suena arcaico a un hablante actual.\n\n## θa + να no es estándar\n\nθα έρθει es normal: futuro o posibilidad. θα να έρθει no. Dos marcadores para la misma idea, y el griego elige uno. En la duda, θα έρθει puede ser «vendrá» o «puede venir», y resolverlo es tarea de quien traduce.\n\n## Criterio de lectura\n\nSiempre que un verbo de plan vaya después de θέλω, πρέπει, πολύ, αρκετά, ώστε o πριν, espera el aoristo. Y no busques πιο: en griego moderno es un resto, no una regla."
+      },
+      "vocab": [
+        {
+          "form": "να",
+          "lemma": "να",
+          "lang": "el",
+          "pt": "que (subjuntivo)",
+          "en": "that (subjunctive)",
+          "es": "que (subjuntivo)"
+        },
+        {
+          "form": "θέλω να",
+          "lemma": "θέλω",
+          "lang": "el",
+          "pt": "quero que/que",
+          "en": "I want to",
+          "es": "quiero que/que"
+        },
+        {
+          "form": "πρέπει να",
+          "lemma": "πρέπει",
+          "lang": "el",
+          "pt": "é preciso que",
+          "en": "must",
+          "es": "hay que"
+        },
+        {
+          "form": "θα",
+          "lemma": "θα",
+          "lang": "el",
+          "pt": "futuro/possibilidade",
+          "en": "future/possibility",
+          "es": "futuro/posibilidad"
+        },
+        {
+          "form": "φύγω",
+          "lemma": "φεύγω",
+          "lang": "el",
+          "pt": "sair",
+          "en": "leave",
+          "es": "salir"
+        },
+        {
+          "form": "μάθω",
+          "lemma": "μαθαίνω",
+          "lang": "el",
+          "pt": "aprender",
+          "en": "learn",
+          "es": "aprender"
+        },
+        {
+          "form": "έρθει",
+          "lemma": "έρχομαι",
+          "lang": "el",
+          "pt": "virá; quizá venga",
+          "en": "will/may come",
+          "es": "vendrá; quizá venga"
+        },
+        {
+          "form": "μιλήσω",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "hablar",
+          "en": "speak",
+          "es": "hablar"
+        },
+        {
+          "form": "θέλω",
+          "lemma": "θέλω",
+          "lang": "el",
+          "pt": "quero",
+          "en": "I want",
+          "es": "quiero"
+        },
+        {
+          "form": "πρέπει",
+          "lemma": "πρέπει",
+          "lang": "el",
+          "pt": "é preciso, devo",
+          "en": "I must",
+          "es": "debo"
+        },
+        {
+          "form": "μπορώ",
+          "lemma": "μπορώ",
+          "lang": "el",
+          "pt": "posso",
+          "en": "I can",
+          "es": "puedo"
+        },
+        {
+          "form": "ώστε",
+          "lemma": "ώστε",
+          "lang": "el",
+          "pt": "para que",
+          "en": "so that",
+          "es": "para que"
+        },
+        {
+          "form": "για να",
+          "lemma": "για να",
+          "lang": "el",
+          "pt": "para (finalidade)",
+          "en": "in order to",
+          "es": "para (finalidad)"
+        },
+        {
+          "form": "ελληνικά",
+          "lemma": "ελληνικά",
+          "lang": "el",
+          "pt": "grego (língua)",
+          "en": "Greek (language)",
+          "es": "griego (idioma)"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "θέλω ___ μιλήσω",
+          "en": "θέλω ___ μιλήσω",
+          "es": "θέλω ___ μιλήσω"
+        },
+        "answer": "να",
+        "hint": {
+          "pt": "Partícula de subordinación",
+          "en": "Subordination particle",
+          "es": "Partícula de subordinación"
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual construção expressa finalidade?",
+            "en": "Which construction expresses purpose?",
+            "es": "¿Qué construcción expresa finalidad?"
+          },
+          "options": [
+            {
+              "pt": "πρέπει να",
+              "en": "πρέπει να",
+              "es": "πρέπει να"
+            },
+            {
+              "pt": "θα",
+              "en": "θα",
+              "es": "θα"
+            },
+            {
+              "pt": "για να",
+              "en": "για να",
+              "es": "για να"
+            },
+            {
+              "pt": "δεν",
+              "en": "δεν",
+              "es": "δεν"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "δεν ___ πάω σήμερα",
+            "en": "I am not going today",
+            "es": "No voy hoy"
+          },
+          "answer": "θα",
+          "hint": {
+            "pt": "Indicador de tiempo futuro",
+            "en": "Future-time marker",
+            "es": "Marcador de tiempo futuro"
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associar conector e sentido",
+            "en": "Match connector and meaning",
+            "es": "Relacionar conector y sentido"
+          },
+          "pairs": [
+            {
+              "a": "θέλω",
+              "b": {
+                "pt": "querer",
+                "en": "want",
+                "es": "querer"
+              }
+            },
+            {
+              "a": "πρέπει",
+              "b": {
+                "pt": "deber",
+                "en": "must",
+                "es": "deber"
+              }
+            },
+            {
+              "a": "για να",
+              "b": {
+                "pt": "para",
+                "en": "in order to",
+                "es": "para"
+              }
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Tras muchos verbos, να precede el aoristo/subjuntivo.",
+            "en": "After many verbs, να precedes the aorist/subjunctive.",
+            "es": "Tras muchos verbos, να precede al aoristo/subjuntivo."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Koiné",
+            "en": "Koine",
+            "es": "Koiné"
+          },
+          "text": {
+            "pt": "El kaoine employait formas como ἵνα λέγῃ; el moderno prefiere el aoristo con να.",
+            "en": "Koine used forms such as ἵνα λέγῃ; modern Greek prefers the aorist with να.",
+            "es": "El koiné empleaba formas como ἵνα λέγῃ; el moderno prefiere el aoristo con να."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "θέλω να μάθω ελληνικά",
+          "gloss": {
+            "pt": "quero aprender grego",
+            "en": "I want to learn Greek",
+            "es": "quiero aprender griego"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Construções",
+            "en": "Constructions",
+            "es": "Construcciones"
+          },
+          "head": [
+            "Tipo",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "deseo",
+              "θέλω να φύγω"
+            ],
+            [
+              "necesidad",
+              "πρέπει να φύγω"
+            ],
+            [
+              "finalidad",
+              "για να φύγω"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": {
+        "pt": "Passado contínuo",
+        "en": "Continuous past",
+        "es": "Pasado continuo"
+      },
+      "subtitle": {
+        "pt": "μίλαγα — eu falava",
+        "en": "μίλαγα — I was speaking",
+        "es": "μίλαγα — yo hablaba"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## O que o imperfeito pinta\n\nO imperfeito não marca tempo: ele pinta. Serve para três coisas — uma ação que ainda não terminou enquanto falamos, um hábito, ou o cenário de fundo. Compare: «μιλούσα» (eu falava) e «μιλάγα» (a forma popular) são o mesmo tempo com duas tradições; a culta descende de -ουσα, a popular troca por -αγα.\n\nRepare no que muda e no que não muda: a pessoa continua -ω, -εις, -ει, -ουμε, -ετε, -ουν nos dois sistemas. O que muda é o meio da raiz.\n\n## Habito x Cena\n\nΚάθε μέρα έπινα νερό — «todo dia bebia água» — o hábito vem do verbo principal. Από τότε έπινα νερό — «bebia água de lá» — a cena vem do verbo principal, e επινα pode significar algo totalmente diferente em outro contexto. É por isso que a tradução de um tempo quase nunca é palavra por palavra: você traduz a relação no tempo, não o tempo.\n\n## Os irregulares\n\nἤμουν, εἶχα, ἔτρωγα e ἕπινα não seguem nenhum padrão. São os mais frequentes da língua, e por isso os mais irregulares. Aprenda os quatro como um bloco.\n\n## Critério de leitura\n\nAo traduzir um imperfeito, faça a pergunta: «o que estava acontecendo» ou «o que acontecia sempre»? Se o verbo da oração seguinte é um aoristo, quase sempre é cena. Se se repete, é hábito.",
+        "en": "## What the imperfect paints\n\nThe imperfect does not mark tense: it paints. It does three things — an action still going on while we speak, a habit, or the background scene. Note the pair: μιλούσα (\"I was speaking\") and μιλάγα (the popular form) are the same tense in two traditions; the learned form descends from -ουσα, the popular one swaps it for -αγα.\n\nSee what changes and what does not: the person endings stay -ω, -εις, -ει, -ουμε, -ετε, -ουν in both systems. What changes is the middle of the stem.\n\n## Habit vs. scene\n\nΚάθε μέρα έπινα νερό — \"every day I drank water\" — the habit sits in the main verb. Από τότε έπινα νερό — \"back then I was drinking water\" — the scene sits there instead, and επινα can mean something quite different elsewhere. That is why this tense is almost never translated word for word: you translate the relation in time, not the time.\n\n## The irregulars\n\nἤμουν, εἶχα, ἔτρωγα and ἕπινα follow no pattern at all. They are also among the commonest verbs in the language, and therefore the most irregular. Learn the four as one block.\n\n## Reading criterion\n\nWhen you translate an imperfect, ask: \"what was going on\" or \"what always happened\"? If the verb of the next clause is an aorist, it is almost always a scene. If it repeats, it is a habit.",
+        "es": "## Qué pinta el imperfecto\n\nEl imperfecto no marca tiempo: pinta. Sirve para tres cosas — una acción que sigue en curso mientras hablamos, un hábito o el escenario de fondo. Fíjate en el par: μιλούσα («hablaba») y μιλάγα (la forma popular) son el mismo tiempo en dos tradiciones; la culta desciende de -ουσα, la popular la cambia por -αγα.\n\nMira qué cambia y qué no: las terminaciones de persona siguen siendo -ω, -εις, -ει, -ουμε, -ετε, -ουν en los dos sistemas. Lo que cambia es el interior del tema.\n\n## Hábito x escena\n\nΚάθε μέρα έπινα νερό — «cada día bebía agua» — el hábito está en el verbo principal. Από τότε έπινα νερό — «por entonces estaba bebiendo agua» — ahí está la escena, y επινα puede significar algo muy distinto en otro contexto. Por eso este tiempo casi nunca se traduce palabra por palabra: se traduce la relación en el tiempo, no el tiempo.\n\n## Los irregulares\n\nἤμουν, εἶχα, ἔτρωγα y ἕπινα no siguen ningún patrón. Son también de los verbos más frecuentes, y por eso los más irregulares. Aprende los cuatro como un bloque.\n\n## Criterio de lectura\n\nAl traducir un imperfecto, pregunta: «¿qué estaba pasando» o «qué pasaba siempre»? Si el verbo de la oración siguiente es aoristo, casi siempre es escena. Si se repite, es hábito."
+      },
+      "vocab": [
+        {
+          "form": "μίλαγα",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falava",
+          "en": "I was speaking",
+          "es": "hablaba"
+        },
+        {
+          "form": "μιλάγαμε",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falávamos",
+          "en": "we were speaking",
+          "es": "hablábamos"
+        },
+        {
+          "form": "μίλαγαν",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falavam",
+          "en": "they were speaking",
+          "es": "hablaban"
+        },
+        {
+          "form": "ήμουν",
+          "lemma": "είμαι",
+          "lang": "el",
+          "pt": "era/estava",
+          "en": "was",
+          "es": "era/estaba"
+        },
+        {
+          "form": "είχα",
+          "lemma": "έχω",
+          "lang": "el",
+          "pt": "tinha",
+          "en": "I had",
+          "es": "tenía"
+        },
+        {
+          "form": "έτρωγα",
+          "lemma": "τρώω",
+          "lang": "el",
+          "pt": "comia",
+          "en": "I was eating",
+          "es": "comía"
+        },
+        {
+          "form": "ήπινα",
+          "lemma": "πίνω",
+          "lang": "el",
+          "pt": "bebia",
+          "en": "I was drinking",
+          "es": "bebía"
+        },
+        {
+          "form": "προσευχόταν",
+          "lemma": "προσεύχομαι",
+          "lang": "el",
+          "pt": "orava",
+          "en": "was praying",
+          "es": "rezaba"
+        },
+        {
+          "form": "μιλούσα",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falava (forma culta)",
+          "en": "I was speaking (learned)",
+          "es": "hablaba (forma culta)"
+        },
+        {
+          "form": "μίλησα",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falei (evento)",
+          "en": "I spoke (event)",
+          "es": "hablé (evento)"
+        },
+        {
+          "form": "κάθε",
+          "lemma": "κάθε",
+          "lang": "el",
+          "pt": "cada",
+          "en": "every",
+          "es": "cada"
+        },
+        {
+          "form": "μέρα",
+          "lemma": "μέρα",
+          "lang": "el",
+          "pt": "dia",
+          "en": "day",
+          "es": "día"
+        },
+        {
+          "form": "νερό",
+          "lemma": "νερό",
+          "lang": "el",
+          "pt": "água",
+          "en": "water",
+          "es": "agua"
+        },
+        {
+          "form": "φίλος",
+          "lemma": "φίλος",
+          "lang": "el",
+          "pt": "amigo",
+          "en": "friend",
+          "es": "amigo"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual forma é imperfeito popular?",
+          "en": "Which is the popular imperfect?",
+          "es": "¿Qué forma es imperfecto popular?"
+        },
+        "options": [
+          {
+            "pt": "μίλαγα",
+            "en": "μίλαγα",
+            "es": "μίλαγα"
+          },
+          {
+            "pt": "μίλησα",
+            "en": "μίλησα",
+            "es": "μίλησα"
+          },
+          {
+            "pt": "θα μιλήσω",
+            "en": "θα μιλήσω",
+            "es": "θα μιλήσω"
+          },
+          {
+            "pt": "μιλώ",
+            "en": "μιλώ",
+            "es": "μιλώ"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "εγώ ___ μικρός",
+            "en": "I was little",
+            "es": "Yo era pequeño"
+          },
+          "answer": "ήμουν",
+          "hint": {
+            "pt": "Imperfecto de είμαι",
+            "en": "Imperfect of είμαι",
+            "es": "Imperfecto de είμαι"
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual verbo completa o fundo?",
+            "en": "Which verb completes the background?",
+            "es": "¿Qué verbo completa el fondo?"
+          },
+          "options": [
+            {
+              "pt": "μίλησα",
+              "en": "μίλησα",
+              "es": "μίλησα"
+            },
+            {
+              "pt": "μιλούσα",
+              "en": "μιλούσα",
+              "es": "μιλούσα"
+            },
+            {
+              "pt": "θα πω",
+              "en": "θα πω",
+              "es": "θα πω"
+            },
+            {
+              "pt": "πω",
+              "en": "πω",
+              "es": "πω"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associar sentido",
+            "en": "Match meaning",
+            "es": "Relacionar sentido"
+          },
+          "pairs": [
+            {
+              "a": "μιλούσα",
+              "b": {
+                "pt": "fundo",
+                "en": "background",
+                "es": "fondo"
+              }
+            },
+            {
+              "a": "μίλησα",
+              "b": {
+                "pt": "evento",
+                "en": "event",
+                "es": "evento"
+              }
+            },
+            {
+              "a": "θα πω",
+              "b": {
+                "pt": "futuro",
+                "en": "future",
+                "es": "futuro"
+              }
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Imperfecto para fundo; aoristo para evento.",
+            "en": "Imperfect for background; aorist for event.",
+            "es": "Imperfecto para el fondo; aoristo para el evento."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Registro",
+            "en": "Register",
+            "es": "Registro"
+          },
+          "text": {
+            "pt": "μιλαγα es coloquial; μιλούσα pertenece al registro culto.",
+            "en": "μιλαγα is colloquial; μιλούσα is learned register.",
+            "es": "μιλαγα es coloquial; μιλούσα pertenece al registro culto."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "ενώ μιλούσα, ήρθε ο φίλος",
+          "gloss": {
+            "pt": "enquanto falava, veio o amigo",
+            "en": "while I was speaking, my friend came",
+            "es": "mientras hablaba, llegó mi amigo"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Fundido narrativo",
+            "en": "Narrative background",
+            "es": "Fondo narrativo"
+          },
+          "head": [
+            "Tiempo",
+            "Verbo"
+          ],
+          "rows": [
+            [
+              "fondo",
+              "μιλούσα"
+            ],
+            [
+              "evento",
+              "μίλησα"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": {
+        "pt": "Futuro e perfect",
+        "en": "Future and perfect",
+        "es": "Futuro y perfecto"
+      },
+      "subtitle": {
+        "pt": "θα μιλήσω — έχω μιλήσει",
+        "en": "θα μιλήσω — έχω μιλήσει",
+        "es": "θα μιλήσω — έχω μιλήσει"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## θα é uma partícula, não uma forma\n\nθα + verbo no presente: θα μιλήσω. Não existe forma verbal de futuro em grego moderno — o grego koiné formava o futuro com σ- no aoristo (λύσω), e o moderno guardou o-particle θα e jogou fora a flexão. Por isso θα μιλήσω e μιλάω se parecem: é a mesma informação com custos diferentes.\n\nO mesmo θα também dá sentido de possibilidade: «poderá falar», «talvez venha». Numa tradução, é aqui que a ambiguidade aparece — θα έρθει pode ser «virá» ou «terá vindo», e quem traduz tem de escolher pelo contexto.\n\n## O perfect é analítico\n\nO perfect é έχω + particípio: έχω μιλήσει. A conjugação vem toda do auxiliar, o que o torna fácil — έχω, είχα, είχε, είχαμε, είχατε, είχαν. Compare o tempo simples e o composto:\n\n**Το είπα** — disse (aoristo, resultado)\n**Το είπα ένα** — não é o que o grego diria; o perfect é **έχω το είπει**.\n\nA negação em estilo cuidado é **δεν έχω** (δέν έχω), e não μην έχω — o μην é o clítico de negação do subjuntivo e do imperativo, não do indicativo. Quem escreve έχω com μην soa errado, mesmo que a fala o produza.\n\n## Critério de leitura\n\nθα antes de um verbo marca futuro ou possibilidade. έχω + particípio marca um estado resultante, não um tempo: quem fala diz «tenho falado» pensando no efeito, não no momento.",
+        "en": "## θa is a particle, not a form\n\nθa + verb in the present: θα μιλήσω. Modern Greek has no future verb form — Koine built the future with σ- on the aorist (λύσω), and modern Greek kept the particle θα and dropped the inflection. That is why θα μιλήσω and μιλάω look alike: same information, different cost.\n\nThe same θα also gives possibility: \"I may speak\", \"she may come\". This is where ambiguity shows up in translation — θα έρθει can be \"he will come\" or \"he may come\", and the translator has to choose by context.\n\n## The perfect is analytic\n\nThe perfect is έχω + participle: έχω μιλήσει. All the conjugation comes from the auxiliary, which makes it easy — έχω, είχα, είχε, είχαμε, είχατε, είχαν. Compare:\n\n**Το είπα** — \"I said\" (aorist, a result)\n**Το έχω ειπεί** — \"I have said\" (perfect, a resulting state)\n\nCareful-style negation is **δεν έχω** (δέν έχω), not μην έχω — μην belongs to the subjunctive and the imperative, not to the indicative. Writing έχω with μην sounds wrong even though speech produces it.\n\n## Reading criterion\n\nθα before a verb marks future or possibility. έχω + participle marks a resulting state, not a time: the speaker says \"I have spoken\" thinking of the effect, not the moment.",
+        "es": "## θa es una partícula, no una forma\n\nθα + verbo en presente: θα μιλήσω. El griego moderno no tiene forma verbal de futuro — el koiné construía el futuro con σ- en el aoristo (λύσω), y el moderno conservó la partícula θα y tiró la flexión. Por eso θα μιλήσω y μιλάω se parecen: la misma información con distinto coste.\n\nEl mismo θα da también sentido de posibilidad: «puede hablar», «tal vez venga». Aquí es donde aparece la ambigüedad al traducir: θα έρθει puede ser «vendrá» o «puede venir», y quien traduce tiene que elegir por el contexto.\n\n## El perfect es analítico\n\nEl perfect es έχω + participio: έχω μιλήσει. Toda la conjugación viene del auxiliar, y eso lo hace fácil — έχω, είχα, είχε, είχαμε, είχατε, είχαν. Compara:\n\n**Το είπα** — «lo dije» (aoristo, un resultado)\n**Το έχω ειπεί** — «lo he dicho» (perfect, un estado resultante)\n\nLa negación de estilo cuidado es **δεν έχω** (δέν έχω), y no μην έχω — μην es la clítica de negación del subjuntivo y del imperativo, no del indicativo. Escribir έχω con μην suena mal aunque el habla lo produzca.\n\n## Criterio de lectura\n\nθα delante de un verbo marca futuro o posibilidad. έχω + participio marca un estado resultante, no un tiempo: quien habla dice «he hablado» pensando en el efecto, no en el momento."
+      },
+      "vocab": [
+        {
+          "form": "θα μιλήσω",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falarei",
+          "en": "I will speak",
+          "es": "hablaré"
+        },
+        {
+          "form": "θα έρθει",
+          "lemma": "έρχομαι",
+          "lang": "el",
+          "pt": "virá",
+          "en": "he will come",
+          "es": "vendrá"
+        },
+        {
+          "form": "έχω μιλήσει",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "tenho falado",
+          "en": "I have spoken",
+          "es": "he hablado"
+        },
+        {
+          "form": "έχεις δει",
+          "lemma": "βλέπω",
+          "lang": "el",
+          "pt": "tens visto",
+          "en": "you have seen",
+          "es": "has visto"
+        },
+        {
+          "form": "είχα φύγει",
+          "lemma": "φεύγω",
+          "lang": "el",
+          "pt": "tinha saído",
+          "en": "I had left",
+          "es": "había salido"
+        },
+        {
+          "form": "θα έχω τελειώσει",
+          "lemma": "τελειώνω",
+          "lang": "el",
+          "pt": "terei terminado",
+          "en": "I will have finished",
+          "es": "habré terminado"
+        },
+        {
+          "form": "θα έχει",
+          "lemma": "έχω",
+          "lang": "el",
+          "pt": "terá",
+          "en": "will have",
+          "es": "tendrá"
+        },
+        {
+          "form": "δεν έχω",
+          "lemma": "έχω",
+          "lang": "el",
+          "pt": "não tenho",
+          "en": "I do not have",
+          "es": "no tengo"
+        },
+        {
+          "form": "μιλήσει",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "ter falado (participio)",
+          "en": "to have spoken (participle)",
+          "es": "haber hablado (participio)"
+        },
+        {
+          "form": "έχει",
+          "lemma": "έχω",
+          "lang": "el",
+          "pt": "tem (terá)",
+          "en": "has (will have)",
+          "es": "tiene (tendrá)"
+        },
+        {
+          "form": "είχα",
+          "lemma": "έχω",
+          "lang": "el",
+          "pt": "tinha",
+          "en": "I had",
+          "es": "tenía"
+        },
+        {
+          "form": "τέλος",
+          "lemma": "τέλος",
+          "lang": "el",
+          "pt": "fim, final",
+          "en": "end, finish",
+          "es": "fin, final"
+        },
+        {
+          "form": "τελειώσει",
+          "lemma": "τελειώνω",
+          "lang": "el",
+          "pt": "ter terminado (participio)",
+          "en": "to have finished (participle)",
+          "es": "haber terminado (participio)"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "___ μιλήσει",
+          "en": "I have spoken",
+          "es": "He hablado"
+        },
+        "answer": "έχω",
+        "hint": {
+          "pt": "No escribas una palabra aquí",
+          "en": "Write no word here",
+          "es": "No escribas una palabra aquí"
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "«He visto»",
+            "en": "“I have seen”",
+            "es": "«He visto»"
+          },
+          "options": [
+            {
+              "pt": "έχω δει",
+              "en": "έχω δει",
+              "es": "έχω δει"
+            },
+            {
+              "pt": "είδα",
+              "en": "είδα",
+              "es": "είδα"
+            },
+            {
+              "pt": "θα δω",
+              "en": "θα δω",
+              "es": "θα δω"
+            },
+            {
+              "pt": "είχα δει",
+              "en": "είχα δει",
+              "es": "είχα δει"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "δεν ___ έρθει",
+            "en": "he has not come",
+            "es": "no ha venido"
+          },
+          "answer": "έχει",
+          "hint": {
+            "pt": "μην έχει πολύ formal",
+            "en": "μην έχει is very formal",
+            "es": "μην έχει es muy formal"
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associar estrutura",
+            "en": "Match structure",
+            "es": "Relacionar estructura"
+          },
+          "pairs": [
+            {
+              "a": "θα πω",
+              "b": {
+                "pt": "futuro",
+                "en": "future",
+                "es": "futuro"
+              }
+            },
+            {
+              "a": "είχα πει",
+              "b": {
+                "pt": "mais-que-perfeito",
+                "en": "pluperfect",
+                "es": "pluscuamperfecto"
+              }
+            },
+            {
+              "a": "έχω πει",
+              "b": {
+                "pt": "perfecto",
+                "en": "perfect",
+                "es": "perfecto"
+              }
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "θα no se combina con να.",
+            "en": "θα does not combine with να.",
+            "es": "θα no se combina con να."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Cuidado",
+            "en": "Caution",
+            "es": "Cuidado"
+          },
+          "text": {
+            "pt": "No confundas έχω «tener» con el aoristo perfectponente; el resultado está Ausente.",
+            "en": "Do not confuse έχω “have” with the perfect tense; the result is absent.",
+            "es": "No confundas έχω «tener» con el tiempo perfecto; falta el resultado."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "έχω ήδη τελειώσει",
+          "gloss": {
+            "pt": "ya he terminado",
+            "en": "I have already finished",
+            "es": "ya he terminado"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Perfecto",
+            "en": "Perfect",
+            "es": "Perfecto"
+          },
+          "head": [
+            "Tiempo",
+            "Estructura"
+          ],
+          "rows": [
+            [
+              "presente",
+              "έχω μιλήσει"
+            ],
+            [
+              "pasado",
+              "είχα μιλήσει"
+            ],
+            [
+              "futuro",
+              "θα έχω μιλήσει"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": {
+        "pt": "Voz passiva",
+        "en": "Passive voice",
+        "es": "Voz pasiva"
+      },
+      "subtitle": {
+        "pt": "αγαπιέμαι — sou amado",
+        "en": "αγαπιέμαι — I am loved",
+        "es": "αγαπιέμαι — soy amado"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## Como se forma\n\nA passiva moderna acrescenta um sufixo que lembra o presente: αγαπώ dá αγαπιέμαι (1ª), αγαπιόμαστε (2ª), αγαπιέστε (3ª) e αγαπιούνται (3ª plural). Repare que o acento se desloca — αγαπώ, αγαπιέμαι — e é esse deslocamento que indica a passiva.\n\nQuando o assunto é alguém, o verbo é εἰμί: εἶμαι «estoy», εἶσαι, εἶναι. Εἶμαι «estoy (+ adjetivo)» é o verdadeiro \"ser\" do grego moderno, e εἶναι funciona como copula.\n\n## O agente com από\n\nA passiva grega esconde o agente. Quando ele precisa aparecer, entra com από: αγαπιέμαι από τη μητέρα μου — «sou amado pela minha mãe». Note a preposição no caso genitivo: από τη μητέρα, e μου no lugar do substantivo. A mesma coisa com εν: γράφεται από τον Μαρκο, γράφεται στα ελληνικά.\n\n## O aoristo passivo\n\nO aoristo passivo quase sempre termina em -θηκα: αγαπήθηκα «fui amado», διαβάστηκα «fui lido», μπήκα «entrei». Alguns verbos usam -φηκα: δέχθηκα «recibí». Guarde esses dois finais: elas são a forma mais comum de passar para a passiva numa frase curta.\n\n## O que não é passivo\n\nΈρχομαι «vengo» termina igual a um aoristo passivo, pero no es pasivo — es un verbo de movimiento, y su aoristo significa «vine», no «fui venido». Μπαίνω «entro» y μπήκα confirm: el mismo participio -ηκα, la misma apariencia, función distinta.\n\n## Critério de lectura\n\nVeja a preposição, não o terminador. Com από há agente explícito; sem ele, a ação fica no ar — que em grego é a norma.",
+        "en": "## How it is formed\n\nThe modern passive adds a suffix that looks like the present: αγαπώ gives αγαπιέμαι (1st), αγαπιόμαστε (2nd), αγαπιέστε (3rd) and αγαπιούνται (3rd plural). Notice the stress shift — αγαπώ, αγαπιέμαι — and that shift is what marks the passive.\n\nWhen the subject is a person, the verb is εἰμί: εἶμαι \"I am\", εἶσαι, εἶναι. \"Εἶμαι + adjective\" is the real \"to be\" of modern Greek, and εἶναι works as a copula.\n\n## The agent with από\n\nThe Greek passive hides the agent. When it has to appear, it comes in with από: αγαπιέμαι από τη μητέρα μου — \"I am loved by my mother\". Note the preposition with the genitive: από τη μητέρα, and μου standing in for the noun. The same holds with εν: γράφεται από τον Μαρκο, γράφεται στα ελληνικά.\n\n## The passive aorist\n\nThe passive aorist almost always ends in -θηκα: αγαπήθηκα \"I was loved\", διαβάστηκα \"it was read\", μπήκα \"I entered\". Some verbs use -φηκα: δέχθηκα \"I received\". Learn those two endings — they are the commonest way of getting into the passive in a short sentence.\n\n## What is not passive\n\nΈρχομαι \"I come\" ends like a passive aorist, but it is not passive — it is a verb of motion, and its aorist means \"I came\", not \"I was come\". Μπαίνω \"I enter\" and μπήκα confirm it: same -ηκα participle, same appearance, different job.\n\n## Reading criterion\n\nLook at the preposition, not the ending. With από there is an explicit agent; without one the action is left hanging — which in Greek is the norm.",
+        "es": "## Cómo se forma\n\nLa pasiva moderna añade un sufijo que recuerda el presente: αγαπώ da αγαπιέμαι (1.ª), αγαπιόμαστε (2.ª), αγαπιέστε (3.ª) y αγαπιούνται (3.ª plural). Fíjate en que el acento se desplaza — αγαπώ, αγαπιέμαι — y ese desplazamiento es lo que marca la pasiva.\n\nCuando el sujeto es una persona, el verbo es εἰμί: εἶμαι «estoy», εἶσαι, εἶναι. «Εἶμαι + adjetivo» es el verdadero «ser» del griego moderno, y εἶναι funciona como cópula.\n\n## El agente con από\n\nLa pasiva griega esconde al agente. Cuando tiene que aparecer, entra con από: αγαπιέμαι από τη μητέρα μου — «soy amado por mi madre». Ojo con la preposición en genitivo: από τη μητέρα, y μου en lugar del sustantivo. Lo mismo con εν: γράφεται από τον Μαρκο, γράφεται στα ελληνικά.\n\n## El aoristo pasivo\n\nEl aoristo pasivo termina casi siempre en -θηκα: αγαπήθηκα «fui amado», διαβάστηκα «fue leído», μπήκα «entré». Algunos verbos usan -φηκα: δέχθηκα «recibí». Aprende esas dos terminaciones: son la vía más común de llegar a la pasiva en una frase corta.\n\n## Lo que no es pasivo\n\nΈρχομαι «vengo» termina como un aoristo pasivo, pero no es pasiva — es un verbo de movimiento, y su aoristo significa «vine», no «fui venido». Μπαίνω «entro» y μπήκα lo confirman: el mismo participio -ηκα, la misma apariencia, función distinta.\n\n## Criterio de lectura\n\nMira la preposición, no la terminación. Con από hay agente explícito; sin ella la acción queda en el aire — que en griego es lo normal."
+      },
+      "vocab": [
+        {
+          "form": "αγαπιέμαι",
+          "lemma": "αγαπώ",
+          "lang": "el",
+          "pt": "sou amado",
+          "en": "I am loved",
+          "es": "soy amado"
+        },
+        {
+          "form": "αγαπιόμαστε",
+          "lemma": "αγαπώ",
+          "lang": "el",
+          "pt": "nos amamos",
+          "en": "we love each other",
+          "es": "nos amamos"
+        },
+        {
+          "form": "γράφομαι",
+          "lemma": "γράφω",
+          "lang": "el",
+          "pt": "sou escrito",
+          "en": "I am written",
+          "es": "estoy escrito"
+        },
+        {
+          "form": "βαπτίζομαι",
+          "lemma": "βαπτίζω",
+          "lang": "el",
+          "pt": "sou batizado",
+          "en": "I am baptized",
+          "es": "soy bautizado"
+        },
+        {
+          "form": "αγαπήθηκα",
+          "lemma": "αγαπώ",
+          "lang": "el",
+          "pt": "fui amado",
+          "en": "I was loved",
+          "es": "fui amado"
+        },
+        {
+          "form": "διαβάστηκα",
+          "lemma": "διαβάζω",
+          "lang": "el",
+          "pt": "fui lido",
+          "en": "I was read",
+          "es": "fui leído"
+        },
+        {
+          "form": "δέχθηκα",
+          "lemma": "δέχομαι",
+          "lang": "el",
+          "pt": "recebi",
+          "en": "I received",
+          "es": "recibí"
+        },
+        {
+          "form": "από",
+          "lemma": "από",
+          "lang": "el",
+          "pt": "de; por",
+          "en": "from; by",
+          "es": "de; por"
+        },
+        {
+          "form": "αγαπώ",
+          "lemma": "αγαπώ",
+          "lang": "el",
+          "pt": "amo",
+          "en": "I love",
+          "es": "amo"
+        },
+        {
+          "form": "αγαπιούνται",
+          "lemma": "αγαπώ",
+          "lang": "el",
+          "pt": "se amam",
+          "en": "they love each other",
+          "es": "se aman"
+        },
+        {
+          "form": "αγαπιέστε",
+          "lemma": "αγαπώ",
+          "lang": "el",
+          "pt": "amaos (2º pl.)",
+          "en": "love one another (2nd pl.)",
+          "es": "amaos (2.ª pl.)"
+        },
+        {
+          "form": "μητέρα",
+          "lemma": "μητέρα",
+          "lang": "el",
+          "pt": "mãe",
+          "en": "mother",
+          "es": "madre"
+        },
+        {
+          "form": "Θεός",
+          "lemma": "Θεός",
+          "lang": "el",
+          "pt": "Deus",
+          "en": "God",
+          "es": "Dios"
+        },
+        {
+          "form": "γράφω",
+          "lemma": "γράφω",
+          "lang": "el",
+          "pt": "escrevo",
+          "en": "I write",
+          "es": "escribo"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Como forma «sou amado»?",
+          "en": "How do you form “I am loved”?",
+          "es": "¿Cómo se forma «soy amado»?"
+        },
+        "options": [
+          {
+            "pt": "αγαπιέμαι",
+            "en": "αγαπιέμαι",
+            "es": "αγαπιέμαι"
+          },
+          {
+            "pt": "αγαπώ",
+            "en": "αγαπώ",
+            "es": "αγαπώ"
+          },
+          {
+            "pt": "αγαπήθηκα",
+            "en": "αγαπήθηκα",
+            "es": "αγαπήθηκα"
+          },
+          {
+            "pt": "αγαπήσω",
+            "en": "αγαπήσω",
+            "es": "αγαπήσω"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "έγραψα το βιβλίο · το βιβλίο ___",
+            "en": "The book was written",
+            "es": "El libro fue escrito"
+          },
+          "answer": "γράφτηκε",
+          "hint": {
+            "pt": "Aoristo pasivo de γράφω",
+            "en": "Passive aorist of γράφω",
+            "es": "Aoristo pasivo de γράφω"
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "«Recebi uma carta»",
+            "en": "“I received a letter”",
+            "es": "«Recibí una carta»"
+          },
+          "options": [
+            {
+              "pt": "δέχθηκα",
+              "en": "δέχθηκα",
+              "es": "δέχθηκα"
+            },
+            {
+              "pt": "δείχθηκα",
+              "en": "δείχθηκα",
+              "es": "δείχθηκα"
+            },
+            {
+              "pt": "δείχτηκα",
+              "en": "δείχτηκα",
+              "es": "δείχτηκα"
+            },
+            {
+              "pt": "δέχομαι",
+              "en": "δέχομαι",
+              "es": "δέχομαι"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associar aspecto",
+            "en": "Match aspect",
+            "es": "Relacionar aspecto"
+          },
+          "pairs": [
+            {
+              "a": "αγαπιέμαι",
+              "b": {
+                "pt": "presente",
+                "en": "present",
+                "es": "presente"
+              }
+            },
+            {
+              "a": "αγαπήθηκα",
+              "b": {
+                "pt": "aoristo",
+                "en": "aorist",
+                "es": "aoristo"
+              }
+            },
+            {
+              "a": "αγαπιόμαστε",
+              "b": {
+                "pt": "plural",
+                "en": "plural",
+                "es": "plural"
+              }
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Não toda forma em -μαι é passiva; classifique pelo significado.",
+            "en": "Not every -μαι form is passive; classify by meaning.",
+            "es": "No toda forma en -μαι es pasiva; clasifica por el significado."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Koiné",
+            "en": "Koine",
+            "es": "Koiné"
+          },
+          "text": {
+            "pt": "A passiva medievala está presente en el Nuevo Testamento, pero la flexión moderna es nueva.",
+            "en": "The medieval passive is present in the New Testament, but modern inflection is new.",
+            "es": "La pasiva medieval está presente en el Nuevo Testamento, pero la flexión moderna es nueva."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "αγαπιέμαι από τον Θεό",
+          "gloss": {
+            "pt": "sou amado por Deus",
+            "en": "I am loved by God",
+            "es": "soy amado por Dios"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Passiva",
+            "en": "Passive",
+            "es": "Pasiva"
+          },
+          "head": [
+            "Número",
+            "Forma"
+          ],
+          "rows": [
+            [
+              "singular",
+              "αγαπιέμαι"
+            ],
+            [
+              "plural",
+              "αγαπιόμαστε"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": {
+        "pt": "Imperativo",
+        "en": "Imperative",
+        "es": "Imperativo"
+      },
+      "subtitle": {
+        "pt": "μίλα! — μίλησε!",
+        "en": "μίλα! — μίλησε!",
+        "es": "μίλα! — μίλησε!"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## O imperativo não tem tempo\n\nO imperativo grego é a única forma que fica igual em todas as pessoas: não muda com o sujeito. Por isso, quem não distingo ο πατήρ de πατέρας ou πατήρ, vai ler um substantivo como se fosse verbo — e a frase inteira muda de sentido.\n\n## Presente ou aoristo: a diferença é de verdade, não de forma\n\nμίλα! «fala!» é o presente: o comportamento, o hábito. μίλησε! «fala agora!» é o aoristo: um ato concreto, já decidido. Os dois se traduzem pelo mesmo imperativo em português, e é por isso que a escolha do aoristo em grego é um dado, não um detalhe: o texto está dizendo que a coisa vai acontecer mesmo.\n\nNa prática, o aoristo aparece quando há alguém de frente para quem fala (πες μου «diz-me», δώσε μου «dá-me») e no FUTURO IMMEDIATO: φέρε μου τὸ βιβλίον «traz-me o livro» é aoristo, não φέρετε. O grego resolve assim o que português resolve com «vai buscar», que parece futuro mas é ordem.\n\n## O plural é fácil; o problema é o pronome\n\nμιλάμε, μιλάτε; μιλήσαμε, μιλήσατε. ελάστε! «venhai!»; αγαπάτε αλλήλους! «amai-vos uns aos outros!».\n\nO pronome posposto não é exótico: πες μου «diz-me», δώσε μου «dá-me», άφησέ μη «deixa-me». ΜΗ na segunda pessoa é μου: δώσε μου. Nos outros casos é με, σε, μας, σας: δώσε με, δώσε σε, δώσε μας, δώσε σας. ο πατήρ μου e πατήρ μου é a mesma frase; a posição forte é só ênfase.\n\n## A negação vem antes\n\nμη e μην, antes do verbo: μη λές! «não digas!», μην πεις! «não digues!». A forma idiomática e mais enfática é ποτέ μην: Ποτέ μην πεις! «Nunca digas!». Compare com a negação do grego antigo, que também permitia pós-verbo (μὴ λέγε) — a posição mudou no grego moderno.\n\n## O que ler\n\nSempre que um verbo estiver no imperativo, pergunte: presente ou aoristo? A resposta diz se é rotina ou fato consumado. E atenção ao μη depois de άφησε: ali o μη é pronominal («me»), não negação.",
+        "en": "## The imperative has no tense\n\nThe Greek imperative is the only form that stays the same in every person: it does not change with the subject. So anyone who cannot tell ο πατήρ from πατέρας or πατήρ will read a noun as if it were a verb — and the whole sentence changes meaning.\n\n## Present or aorist: the difference is real, not formal\n\nμίλα! \"speak!\" is the present: behaviour, the PAY. μίλησε! \"speak now!\" is the aorist: a concrete act, already decided. Portuguese renders both with the same imperative, which is why the choice of aorist in Greek is data, not decoration: the text is saying the thing will happen.\n\nIn practice the aorist appears when someone faces the speaker (πες μου \"tell me\", δώσε μου \"give me\") and in the near future: φέρε μου τὸ βιβλίον \"bring me the book\" is aorist, not φέρετε. Greek handles what Portuguese handles with \"go and get\", which looks like a future but is an order.\n\n## The plural is easy; the pronoun is the problem\n\nμιλάμε, μιλάτε; μιλήσαμε, μιλήσατε. ελάστε! \"come!\"; αγαπάτε αλλήλους! \"love one another!\".\n\nThe postposed pronoun is not an oddity: πες μου \"tell me\", δώσε μου \"give me\", άφησέ μη \"let me go\". In the second person it is μου: δώσε μου. Elsewhere it is με, σε, μας, σας: δώσε με, δώσε σε, δώσε μας, δώσε σας. ο πατήρ μου and πατήρ μου are the same phrase; the strong position is only emphasis.\n\n## Negation comes first\n\nμη and μην, before the verb: μη λές! \"do not say!\", μην πεις! \"do not say!\". The idiomatic and stronger form is ποτέ μην: Ποτέ μην πεις! \"Never say!\". Compare ancient Greek, which also allowed the negation after the verb (μὴ λέγε) — the position changed in modern Greek.\n\n## Reading criterion\n\nWhenever a verb is in the imperative, ask: present or aorist? The answer tells you routine or accomplished fact. And watch the μη after άφησε: there the μη is pronominal (\"me\"), not negation.",
+        "es": "## El imperativo no tiene tiempo\n\nEl imperativo griego es la única forma que queda igual en todas las personas: no cambia con el sujeto. Quien no distinga ο πατήρ de πατέρας o πατήρ leerá un sustantivo como si fuera verbo, y la frase entera cambia de sentido.\n\n## Presente o aoristo: la diferencia es real, no formal\n\nμίλα! «¡habla!» es el presente: el comportamiento, el hábito. μίλησε! «¡habla ahora!» es el aoristo: un acto concreto, ya decidido. El español los traduce con el mismo imperativo, y por eso la elección del aoristo en griego es un dato, no un adorno: el texto está diciendo que la cosa va a ocurrir.\n\nEn la práctica el aoristo aparece cuando hay alguien frente a quien habla (πες μου «dime», δώσε μου «dame») y en el futuro inmediato: φέρε μου τὸ βιβλίον «tráeme el libro» es aoristo, no φέρετε. El griego resuelve así lo que el español resuelve con «ve a buscar», que parece futuro pero es una orden.\n\n## El plural es fácil; el problema es el pronombre\n\nμιλάμε, μιλάτε; μιλήσαμε, μιλήσατε. ελάστε! «¡venid!»; αγαπάτε αλλήλους! «¡amaos los unos a los otros!».\n\nEl pronombre pospuesto no es exótico: πες μου «dime», δώσε μου «dame», άφησέ μη «déjame». En segunda persona es μου: δώσε μου. En los demás casos es με, σε, μας, σας: δώσε με, δώσε σε, δώσε μας, δώσε σας. ο πατήρ μου y πατήρ μου son la misma frase; la posición fuerte es solo énfasis.\n\n## La negación va antes\n\nμη y μην, antes del verbo: μη λές! «¡no digas!», μην πεις! «¡no digas!». La forma idiomática y más enfática es ποτέ μην: Ποτέ μην πεις! «¡Nunca digas!». Compárese con el griego antiguo, que también permitía la negación posverbal (μὴ λέγε): la posición cambió en el griego moderno.\n\n## Criterio de lectura\n\nCada vez que un verbo esté en imperativo, pregunta: ¿presente o aoristo? La respuesta dice si es rutina o hecho consumado. Y fíjate en el μη después de άφησε: ahí el μη es pronominal («me»), no negación."
+      },
+      "vocab": [
+        {
+          "form": "μίλα",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "fala!",
+          "en": "speak!",
+          "es": "¡habla!"
+        },
+        {
+          "form": "μίλαμε",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falemos",
+          "en": "let us speak",
+          "es": "hablemos"
+        },
+        {
+          "form": "μίλησε",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "fala agora!",
+          "en": "speak now!",
+          "es": "¡habla ahora!"
+        },
+        {
+          "form": "μιλήσαμε",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "falemos agora",
+          "en": "let us speak now",
+          "es": "hablemos ahora"
+        },
+        {
+          "form": "πες",
+          "lemma": "λέω",
+          "lang": "el",
+          "pt": "diz!",
+          "en": "say!",
+          "es": "¡di!"
+        },
+        {
+          "form": "έλα",
+          "lemma": "έρχομαι",
+          "lang": "el",
+          "pt": "vem!",
+          "en": "come!",
+          "es": "¡ven!"
+        },
+        {
+          "form": "ελάστε",
+          "lemma": "έρχομαι",
+          "lang": "el",
+          "pt": "venid!",
+          "en": "come! (pl.)",
+          "es": "¡venid!"
+        },
+        {
+          "form": "μη μιλήσεις",
+          "lemma": "μιλώ",
+          "lang": "el",
+          "pt": "não falas",
+          "en": "do not speak",
+          "es": "no hables"
+        },
+        {
+          "form": "πες μου",
+          "lemma": "λέω",
+          "lang": "el",
+          "pt": "diz-me",
+          "en": "tell me",
+          "es": "dime"
+        },
+        {
+          "form": "φάε",
+          "lemma": "τρώω",
+          "lang": "el",
+          "pt": "come! (de comer)",
+          "en": "eat!",
+          "es": "¡come!"
+        },
+        {
+          "form": "πήγε",
+          "lemma": "πάω",
+          "lang": "el",
+          "pt": "vai!",
+          "en": "go!",
+          "es": "¡ve!"
+        },
+        {
+          "form": "πιστεψε",
+          "lemma": "πιστεύω",
+          "lang": "el",
+          "pt": "acredita!",
+          "en": "believe!",
+          "es": "¡cree!"
+        },
+        {
+          "form": "αλλήλους",
+          "lemma": "αλλήλους",
+          "lang": "el",
+          "pt": "uns aos outros",
+          "en": "one another",
+          "es": "los unos a los otros"
+        },
+        {
+          "form": "μην",
+          "lemma": "μη",
+          "lang": "el",
+          "pt": "não (negação)",
+          "en": "not (negation)",
+          "es": "no (negación)"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual é imperativo aoristo?",
+          "en": "Which is an aorist imperative?",
+          "es": "¿Cuál es imperativo aoristo?"
+        },
+        "options": [
+          {
+            "pt": "μίλα",
+            "en": "μίλα",
+            "es": "μίλα"
+          },
+          {
+            "pt": "μίλησε",
+            "en": "μίλησε",
+            "es": "μίλησε"
+          },
+          {
+            "pt": "μιλάτε",
+            "en": "μιλάτε",
+            "es": "μιλάτε"
+          },
+          {
+            "pt": "θα μιλήσετε",
+            "en": "θα μιλήσετε",
+            "es": "θα μιλήσετε"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "___! quero falar",
+            "en": "Speak! I want to speak",
+            "es": "¡Habla! Quiero hablar"
+          },
+          "answer": "μίλα",
+          "hint": {
+            "pt": "Imperativo presente",
+            "en": "Present imperative",
+            "es": "Imperativo presente"
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual é o plural inclusivo?",
+            "en": "Which is the inclusive plural?",
+            "es": "¿Cuál es el plural inclusivo?"
+          },
+          "options": [
+            {
+              "pt": "μίλα",
+              "en": "μίλα",
+              "es": "μίλα"
+            },
+            {
+              "pt": "μιλάτε",
+              "en": "μιλάτε",
+              "es": "μιλάτε"
+            },
+            {
+              "pt": "μιλήσαμε",
+              "en": "μιλήσαμε",
+              "es": "μιλήσαμε"
+            },
+            {
+              "pt": "μη μιλάς",
+              "en": "μη μιλάς",
+              "es": "μη μιλάς"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associar função",
+            "en": "Match function",
+            "es": "Relacionar función"
+          },
+          "pairs": [
+            {
+              "a": "έλα!",
+              "b": {
+                "pt": "chamar",
+                "en": "call",
+                "es": "llamar"
+              }
+            },
+            {
+              "a": "μη φύγεις",
+              "b": {
+                "pt": "proibir",
+                "en": "forbid",
+                "es": "prohibir"
+              }
+            },
+            {
+              "a": "πες μου",
+              "b": {
+                "pt": "pronome posposto",
+                "en": "postposed pronoun",
+                "es": "pronombre pospuesto"
+              }
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Singular e plural precisam de formas distintas.",
+            "en": "Singular and plural need distinct forms.",
+            "es": "Singular y plural necesitan formas distintas."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Koiné",
+            "en": "Koine",
+            "es": "Koiné"
+          },
+          "text": {
+            "pt": "πίστευσον es aoristo koiné; su equivalente moderno es πίστεψε.",
+            "en": "πίστευσον is Koine aorist; its modern equivalent is πίστεψε.",
+            "es": "πίστευσον es aoristo koiné; su equivalente moderno es πίστεψε."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "αγαπάτε αλλήλους",
+          "gloss": {
+            "pt": "amai-vos",
+            "en": "love one another",
+            "es": "amaos los unos a los otros"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Imperativo",
+            "en": "Imperative",
+            "es": "Imperativo"
+          },
+          "head": [
+            "Aspecto",
+            "Singular",
+            "1º plural"
+          ],
+          "rows": [
+            [
+              "presente",
+              "μίλα!",
+              "μιλάμε!"
+            ],
+            [
+              "aoristo",
+              "μίλησε!",
+              "μιλήσαμε!"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": {
+        "pt": "Comparativos e superlativos",
+        "en": "Comparatives and superlatives",
+        "es": "Comparativos y superlativos"
+      },
+      "subtitle": {
+        "pt": "πιο καλός — ο πιο καλός",
+        "en": "πιο καλός — ο πιο καλός",
+        "es": "πιο καλός — ο πιο καλός"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## Comparativo: πιο + adjetivo, sem flexão\n\nO grego moderno forma o comparativo de um jeito só: πιο mais o adjetivo, sem flexionar. πιο καλός «melhor», πιο ακριβός «mais caro». Compare com o português, que flexiona: bom, melhor, o melhor — o grego dispensa esse trabalho.\n\nA comparação com outra pessoa ou coisa usa από, não que: πιο καλός από εσένα «melhor que tu». E quando o segundo termo é uma pessoa, o pronome leva o artigo: από εσένα, από εμένα, não από εγώ.\n\n## Superlativo: o artigo entra\n\nO superlativo é πιο + adjetivo, mas com artigo definite: ο πιο καλός «o melhor», η πιο καλή «a melhor», το πιο μικρό «o menor». O artigo é o que marca o superlativo; sem ele, πιο καλός é só comparativo.\n\nE ο πιο καλός «o melhor» é diferente de ο καλύτερος (o melhor de um grupo). Se a frase não diz de quem, o grego usa o artigo mesmo assim — a comparação vem do próprio contexto, não do substantivo.\n\n## Igualdade e diferença\n\nτόσο… όσο é a construção de igualdade: τόσο μεγάλο όσο το σπίτι «tão grande quanto a casa». Nos dois lados a mesma forma, e o verbo costuma ser copiado do segundo: είναι τόσο… όσο.\n\nPara menos: λιγότερο, μικρότερος, πιο μικρό. Para quantidade: λιγότερο από εμένα «menos que eu». Para superlativo absoluto, sem termo de comparação, o grego usa πιο + superlativo ou o sufixo -τατος: ο πιο καλύτερος, ο καλύτερος.\n\n## As formas antigas continuam, mas não são o padrão\n\nκαλύτερος, μεγαλύτερος, χειρότερος sobreviveram em registros elevado e em expressões fixas. O padrão produtivo do grego moderno é πιο + adjetivo, e o aoristo antigo morreu como regra. Quem traduzir o Novo Testamento com καλύτερος acerta a forma e erra o ouvido: soa como português, não como grego falado.\n\n## O que ler\n\nToda vez que vir πιο, decida primeiro se há artigo: com artigo é superlativo, sem artigo é comparativo. E se o grego antigo aparecer (μεγαλύτερος), entenda, mas não reproduza na tradução corrente.",
+        "en": "## Comparative: πιο + adjective, with no inflection\n\nModern Greek forms the comparative in one way only: πιο plus the adjective, uninflected. πιο καλός \"better\", πιο ακριβός \"more expensive\". Compare Portuguese, which inflects: bom, melhor, o melhor — Greek saves that work.\n\nComparison with another person or thing uses από, not que: πιο καλός από εσένα \"better than you\". And when the second term is a person the pronoun takes the article: από εσένα, από εμένα, not από εγώ.\n\n## Superlative: the article comes in\n\nThe superlative is πιο plus the adjective, but with the definite article: ο πιο καλός \"the best\", η πιο καλή \"the best\", το πιο μικρό \"the smallest\". The article is what marks the superlative; without it πιο καλός is only a comparative.\n\nAnd ο πιο καλός \"the best\" differs from ο καλύτερος (the best of a group). If the sentence does not say of whom, Greek still uses the article — the comparison comes from the context, not from the noun.\n\n## Equality and difference\n\nτόσο… όσο is the equality construction: τόσο μεγάλο όσο το σπίτι \"as big as the house\". The same form on both sides, and the verb is usually copied from the second: είναι τόσο… όσο.\n\nFor less: λιγότερο, μικρότερος, πιο μικρό. For quantity: λιγότερο από εμένα \"less than I\". For the absolute superlative, with no term of comparison, Greek uses πιο plus the adjective or the suffix -τατος: ο πιο καλύτερος, ο καλύτερος.\n\n## The old forms survive, but they are not the pattern\n\nκαλύτερος, μεγαλύτερος, χειρότερος live on in elevated registers and fixed expressions. The productive pattern of modern Greek is πιο plus the adjective, and the old aorist is dead as a rule. Translating the New Testament with καλύτερος gets the form right and the ear wrong: it sounds like Portuguese, not like spoken Greek.\n\n## Reading criterion\n\nWhenever you see πιο, decide first whether there is an article: with an article it is a superlative, without one a comparative. And when old Greek shows up (μεγαλύτερος), understand it, but do not reproduce it in a current translation.",
+        "es": "## Comparativo: πιο + adjetivo, sin flexión\n\nEl griego moderno forma el comparativo de un solo modo: πιο más el adjetivo, sin flexionar. πιο καλός «mejor», πιο ακριβός «más caro». Compárese con el español, que flexiona: bueno, mejor, el mejor: el griego se ahorra ese trabajo.\n\nLa comparación con otra persona o cosa usa από, no que: πιο καλός από εσένα «mejor que tú». Y cuando el segundo término es una persona, el pronombre lleva artículo: από εσένα, από εμένα, no από εγώ.\n\n## Superlativo: entra el artículo\n\nEl superlativo es πιο más el adjetivo, pero con artículo definido: ο πιο καλός «el mejor», η πιο καλή «la mejor», το πιο μικρό «el menor». El artículo es lo que marca el superlativo; sin él, πιο καλός es solo comparativo.\n\nY ο πιο καλός «el mejor» se diferencia de ο καλύτερος (el mejor de un grupo). Si la frase no dice de quién, el griego usa el artículo igual: la comparación viene del contexto, no del sustantivo.\n\n## Igualdad y diferencia\n\nτόσο… όσο es la construcción de igualdad: τόσο μεγάλο όσο το σπίτι «tan grande como la casa». La misma forma a los dos lados, y el verbo suele copiarse del segundo: είναι τόσο… όσο.\n\nPara menos: λιγότερο, μικρότερος, πιο μικρό. Para cantidad: λιγότερο από εμένα «menos que yo». Para el superlativo absoluto, sin término de comparación, el griego usa πιο más el adjetivo o el sufijo -τατος: ο πιο καλύτερος, ο καλύτερος.\n\n## Las formas antiguas siguen, pero no son el patrón\n\nκαλύτερος, μεγαλύτερος, χειρότερος sobreviven en registros elevados y en expresiones fijas. El patrón productivo del griego moderno es πιο más el adjetivo, y el aoristo antiguo murió como regla. Quien traduzca el Nuevo Testamento con καλύτερος acierta la forma y yerra el oído: suena a español, no a griego hablado.\n\n## Criterio de lectura\n\nCada vez que veas πιο, decide primero si hay artículo: con artículo es superlativo, sin él es comparativo. Y si aparece el griego antiguo (μεγαλύτερος), entiéndelo, pero no lo reproduzcas en una traducción actual."
+      },
+      "vocab": [
+        {
+          "form": "πιο",
+          "lemma": "πιο",
+          "lang": "el",
+          "pt": "mais",
+          "en": "more",
+          "es": "más"
+        },
+        {
+          "form": "πιο καλός",
+          "lemma": "καλός",
+          "lang": "el",
+          "pt": "melhor",
+          "en": "better",
+          "es": "mejor"
+        },
+        {
+          "form": "ο πιο καλός",
+          "lemma": "καλός",
+          "lang": "el",
+          "pt": "o melhor",
+          "en": "the best",
+          "es": "el mejor"
+        },
+        {
+          "form": "από",
+          "lemma": "από",
+          "lang": "el",
+          "pt": "que (comparação)",
+          "en": "than",
+          "es": "que"
+        },
+        {
+          "form": "τόσο",
+          "lemma": "τόσο",
+          "lang": "el",
+          "pt": "tan",
+          "en": "so",
+          "es": "tan"
+        },
+        {
+          "form": "όσο",
+          "lemma": "όσο",
+          "lang": "el",
+          "pt": "como; cuanto",
+          "en": "as; as much as",
+          "es": "como; cuanto"
+        },
+        {
+          "form": "λιγότερο",
+          "lemma": "λίγο",
+          "lang": "el",
+          "pt": "menos",
+          "en": "less",
+          "es": "menos"
+        },
+        {
+          "form": "καλύτερος",
+          "lemma": "καλός",
+          "lang": "el",
+          "pt": "melhor (elevado)",
+          "en": "better (elevated)",
+          "es": "mejor (elevado)"
+        },
+        {
+          "form": "μεγαλύτερος",
+          "lemma": "μεγάλος",
+          "lang": "el",
+          "pt": "maior (elevado)",
+          "en": "greater (elevated)",
+          "es": "mayor (elevado)"
+        },
+        {
+          "form": "ακριβός",
+          "lemma": "ακριβός",
+          "lang": "el",
+          "pt": "caro",
+          "en": "expensive",
+          "es": "caro"
+        },
+        {
+          "form": "μικρός",
+          "lemma": "μικρός",
+          "lang": "el",
+          "pt": "pequeno",
+          "en": "small",
+          "es": "pequeño"
+        },
+        {
+          "form": "μικρότερος",
+          "lemma": "μικρός",
+          "lang": "el",
+          "pt": "menor",
+          "en": "smaller",
+          "es": "menor"
+        },
+        {
+          "form": "σπίτι",
+          "lemma": "σπίτι",
+          "lang": "el",
+          "pt": "casa",
+          "en": "house",
+          "es": "casa"
+        },
+        {
+          "form": "εσένα",
+          "lemma": "εσύ",
+          "lang": "el",
+          "pt": "a ti",
+          "en": "you (acc.)",
+          "es": "a ti"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "___ καλός από μένα",
+          "en": "better than me",
+          "es": "mejor que yo"
+        },
+        "answer": "πιο",
+        "hint": {
+          "pt": "Palavra «mais»",
+          "en": "The word “more”",
+          "es": "La palabra «más»"
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual é o superlativo?",
+            "en": "Which is the superlative?",
+            "es": "¿Cuál es el superlativo?"
+          },
+          "options": [
+            {
+              "pt": "πιο καλός",
+              "en": "πιο καλός",
+              "es": "πιο καλός"
+            },
+            {
+              "pt": "ο πιο καλός",
+              "en": "ο πιο καλός",
+              "es": "ο πιο καλός"
+            },
+            {
+              "pt": "από μένα",
+              "en": "από μένα",
+              "es": "από μένα"
+            },
+            {
+              "pt": "τόσο καλός",
+              "en": "τόσο καλός",
+              "es": "τόσο καλός"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "τόσο καλός ___ ο φίλος μου",
+            "en": "as good as my friend",
+            "es": "tan bueno como mi amigo"
+          },
+          "answer": "όσο",
+          "hint": {
+            "pt": "Segunda parte da igualdade",
+            "en": "Second part of equality",
+            "es": "Segunda parte de la igualdad"
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associar estrutura",
+            "en": "Match structure",
+            "es": "Relacionar estructura"
+          },
+          "pairs": [
+            {
+              "a": "πιο",
+              "b": {
+                "pt": "mais",
+                "en": "more",
+                "es": "más"
+              }
+            },
+            {
+              "a": "τόσο",
+              "b": {
+                "pt": "intensidade",
+                "en": "degree",
+                "es": "grado"
+              }
+            },
+            {
+              "a": "όσο",
+              "b": {
+                "pt": "comparação",
+                "en": "comparison",
+                "es": "comparación"
+              }
+            }
+          ],
+          "answer": [
+            "a1",
+            "a2",
+            "a3"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "πιο no varía por género o número.",
+            "en": "πιο does not change for gender or number.",
+            "es": "πιο no varía por género ni número."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Precaución",
+            "en": "Caution",
+            "es": "Precaución"
+          },
+          "text": {
+            "pt": "από εμένα significa «de mí» como origen o agente; en comparación de cantidad también significa «que yo».",
+            "en": "από εμένα can mean “from me” as origin or agent; in quantity comparison it also means “than I”.",
+            "es": "από εμένα puede significar «de mí» como origen o agente; en comparación de cantidad también significa «que yo»."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "η Αθήνα είναι πιο μεγάλη από την Τρίβα",
+          "gloss": {
+            "pt": "Atenas es mayor que Trípoli",
+            "en": "Athens is larger than Tripoli",
+            "es": "Atenas es más grande que Trípoli"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Grados",
+            "en": "Degrees",
+            "es": "Grados"
+          },
+          "head": [
+            "Grado",
+            "Estructura"
+          ],
+          "rows": [
+            [
+              "comparativo",
+              "πιο + adjetivo"
+            ],
+            [
+              "superlativo",
+              "artículo + πιο + adjetivo"
+            ],
+            [
+              "igualdad",
+              "τόσο + adj. + όσο"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "contentVersion": "1.0.0+g3440eaa4"
+}

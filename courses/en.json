@@ -1,0 +1,3998 @@
+{
+  "schemaVersion": 1,
+  "id": "en",
+  "lang": "en",
+  "title": {
+    "pt": "Inglês",
+    "en": "English"
+  },
+  "description": {
+    "pt": "Inglês da King James: artigos, presente, passado e João 1:1 (KJV).",
+    "en": "King James English: articles, present, past and John 1:1 (KJV)."
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "title": {
+        "pt": "Artigos e substantivos",
+        "en": "Articles and nouns",
+        "es": "Artículos y sustantivos"
+      },
+      "subtitle": {
+        "pt": "a/an/the e a formação do plural",
+        "en": "a/an/the and plural formation",
+        "es": "a/an/the y formación del plural"
+      },
+      "section": {
+        "pt": "O substantivo",
+        "en": "The noun",
+        "es": "El sustantivo"
+      },
+      "body": {
+        "pt": "## O sistema de artigos\n\nO inglês distingue três funções que o português expressa de maneiras diferentes. {a/an} introduz algo ainda não identificado; {the} remete a algo já identificável para quem ouve ou pelo contexto; a ausência de artigo costuma indicar generalização ou uma classe inteira.\n\nEscolha {an} pelo som, não pela letra: {an hour} tem h mudo; {a university} começa com som consonantal. Nomes próprios normalmente não levam artigo: {Jesus}, {Mary}, {London}. Os plurais gerais também não: {Birds fly}; {The birds in the cage fly} identifica um grupo concreto.\n\n## Número e contagem\n\nOs plurais regulares acrescentam {-s}; palavras terminadas em {-s, -sh, -ch, -x} acrescentam {-es}. Se {y} vier depois de consoante, {-y} vira {-ies}: {city} → {cities}. Alguns substantivos só existem no plural, como {sheep}, e plurais irregulares são frequentes nos textos bíblicos: {man/men}, {woman/women}, {child/children}, {foot/feet}, {mouse/mice}.\n\n## Critério de leitura\n\nPergunte primeiro se o substantivo é contável. Depois decida se quem fala apresenta um item não especificado, um item identificável ou a classe inteira. No inglês bíblico, a escolha do artigo também carrega ritmo e foco: {the Word}, {the Father}, {the light} desviam a atenção para um referente determinado.",
+        "en": "## The article system\n\nEnglish distinguishes three functions that Portuguese expresses in different ways. {a/an} introduces something not yet identified; {the} points to something already identifiable to the listener or context; no article usually expresses generalization or a whole class.\n\nChoose {an} by sound, not spelling: {an hour} has a silent h; {a university} begins with a consonant sound. Proper names normally take no article: {Jesus}, {Mary}, {London}. General plurals likewise: {Birds fly}; {The birds in the cage fly} identifies a particular group.\n\n## Number and countability\n\nRegular plurals add {-s}; words ending in {-s, -sh, -ch, -x} add {-es}. If {y} follows a consonant, {-y} becomes {-ies}: {city} → {cities}. Some nouns are plural-only, such as {sheep}, and irregular plurals are common in Biblical texts: {man/men}, {woman/women}, {child/children}, {foot/feet}, {mouse/mice}.\n\n## Reading method\n\nFirst ask whether the noun is countable. Then decide whether the speaker presents one unspecified item, an identifiable item, or the whole class. In Biblical English, article choice also carries rhythm and focus: {the Word}, {the Father}, {the light} direct attention to a determinate referent.",
+        "es": "## El sistema de artículos\n\nEl inglés distingue tres funciones que el portugués expresa de maneras diferentes. {a/an} introduce algo todavía no identificado; {the} remite a algo identificable por quien habla o por el contexto; la ausencia de artículo suele indicar generalización o una clase completa.\n\n{an} se elige por el sonido, no por la letra: {an hour} tiene h muda; {a university} comienza con sonido consonantal. Los nombres propios normalmente no llevan artículo: {Jesus}, {Mary}, {London}. Los plurales generales tampoco: {Birds fly}; {The birds in the cage fly} identifica un grupo concreto.\n\n## Número y contabilidad\n\nEl plural regular añade {-s}; las palabras terminadas en {-s, -sh, -ch, -x} añaden {-es}. Si {y} va precedida de consonante, {-y} se convierte en {-ies}: {city} → {cities}. Hay plurales únicamente plurales, como {sheep}, y plurales irregulares frecuentes en la Biblia: {man/men}, {woman/women}, {child/children}, {foot/feet}, {mouse/mice}.\n\n## Criterio de lectura\n\nPrimero pregunta si el sustantivo es contable. Después decide si el hablante presenta un objeto no especificado, uno identificable o toda una clase. En el inglés bíblico, el artículo también aporta ritmo y foco: {the Word}, {the Father}, {the light} señalan un referente determinado."
+      },
+      "vocab": [
+        {
+          "form": "the",
+          "lemma": "the",
+          "lang": "en",
+          "pt": "o/a determinado",
+          "en": "the (definite)",
+          "es": "el/la determinado"
+        },
+        {
+          "form": "a/an",
+          "lemma": "a",
+          "lang": "en",
+          "pt": "um/uma",
+          "en": "a/an",
+          "es": "un/una"
+        },
+        {
+          "form": "Word",
+          "lemma": "word",
+          "lang": "en",
+          "pt": "Palavra",
+          "en": "Word",
+          "es": "Palabra"
+        },
+        {
+          "form": "light",
+          "lemma": "light",
+          "lang": "en",
+          "pt": "luz",
+          "en": "light",
+          "es": "luz"
+        },
+        {
+          "form": "shepherd",
+          "lemma": "shepherd",
+          "lang": "en",
+          "pt": "pastor",
+          "en": "shepherd",
+          "es": "pastor"
+        },
+        {
+          "form": "men",
+          "lemma": "man",
+          "lang": "en",
+          "pt": "homens",
+          "en": "men",
+          "es": "hombres"
+        },
+        {
+          "form": "women",
+          "lemma": "woman",
+          "lang": "en",
+          "pt": "mulheres",
+          "en": "women",
+          "es": "mujeres"
+        },
+        {
+          "form": "children",
+          "lemma": "child",
+          "lang": "en",
+          "pt": "crianças",
+          "en": "children",
+          "es": "niños"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual forma completa naturalmente a frase: “I saw ___ shepherd”?",
+          "en": "Which form naturally completes: “I saw ___ shepherd”?",
+          "es": "¿Qué forma completa naturalmente: “I saw ___ shepherd”?"
+        },
+        "options": [
+          {
+            "pt": "a (um pastor qualquer)",
+            "en": "a (any shepherd)",
+            "es": "a (un pastor cualquiera)"
+          },
+          {
+            "pt": "the (um pastor já identificado)",
+            "en": "the (an identified shepherd)",
+            "es": "the (un pastor ya identificado)"
+          },
+          {
+            "pt": "an (um pastor qualquer)",
+            "en": "an (any shepherd)",
+            "es": "an (un pastor cualquiera)"
+          },
+          {
+            "pt": "sem artigo",
+            "en": "no article",
+            "es": "sin artículo"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "O plural de city é ___.",
+            "en": "The plural of city is ___.",
+            "es": "El plural de city es ___."
+          },
+          "answer": "cities",
+          "hint": {
+            "pt": "y precedida de consonante muda para -ies.",
+            "en": "y after a consonant changes to -ies.",
+            "es": "La y tras consonante cambia a -ies."
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione uso y artículo.",
+            "en": "Match each use with an article.",
+            "es": "Relaciona cada uso con un artículo."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "general",
+                "en": "general",
+                "es": "general"
+              },
+              "b": {
+                "pt": "sin artículo",
+                "en": "no article",
+                "es": "sin artículo"
+              }
+            },
+            {
+              "a": {
+                "pt": "identificable",
+                "en": "identifiable",
+                "es": "identificable"
+              },
+              "b": {
+                "pt": "the",
+                "en": "the",
+                "es": "the"
+              }
+            },
+            {
+              "a": {
+                "pt": "uno no especificado",
+                "en": "one unspecified",
+                "es": "uno no especificado"
+              },
+              "b": {
+                "pt": "a/an",
+                "en": "a/an",
+                "es": "a/an"
+              }
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Por qué se dice an hour?",
+            "en": "Why is it an hour?",
+            "es": "¿Por qué se dice an hour?"
+          },
+          "options": [
+            {
+              "pt": "porque hour termina en vocal escrita",
+              "en": "because hour has a written final vowel",
+              "es": "porque hour termina en vocal escrita"
+            },
+            {
+              "pt": "porque la h de hour es muda",
+              "en": "because the h in hour is silent",
+              "es": "porque la h de hour es muda"
+            },
+            {
+              "pt": "porque todas las h son mudas",
+              "en": "because every h is silent",
+              "es": "porque todas las h son mudas"
+            },
+            {
+              "pt": "porque hour es plural",
+              "en": "because hour is plural",
+              "es": "porque hour es plural"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Use a/an para uma unidade contável ainda não identificada; nas perguntas e negações, o plural exige some: some books, not a books.",
+            "en": "Use a/an for one countable unit not yet identified; in questions and negatives, plurals require some: some books, not a books.",
+            "es": "Usa a/an para una unidad contable aún no identificada; en preguntas y negaciones, el plural exige some: some books, not a books."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Use the quando o referente é identificável ou quando o plural significa el conjunto entero.",
+            "en": "Use the when the referent is identifiable or when the plural means the whole set.",
+            "es": "Usa the cuando el referente es identificable o cuando el plural significa el conjunto entero."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "No plural general no se usa artículo; con un grupo delimitado, suele usarse the.",
+            "en": "General plurals take no article; a bounded group normally takes the.",
+            "es": "Los plurales generales no llevan artículo; un grupo delimitado suele llevar the."
+          }
+        },
+        {
+          "n": "4",
+          "text": {
+            "pt": "a/an depende de la pronunciación: an hour, a university.",
+            "en": "a/an follows pronunciation: an hour, a university.",
+            "es": "a/an depende de la pronunciación: an hour, a university."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Registro:",
+            "en": "Register:",
+            "es": "Registro:"
+          },
+          "text": {
+            "pt": "Omissão de artigo e substantivos próprios são gramaticais, não erros.",
+            "en": "Omitted articles and proper nouns are grammatical, not errors.",
+            "es": "La omisión de artículos y los nombres propios son gramaticales, no errores."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{the Word}",
+          "gloss": {
+            "pt": "a Palavra: referente determinado",
+            "en": "the Word: a determinate referent",
+            "es": "la Palabra: referente determinado"
+          }
+        },
+        {
+          "text": "{a disciple}",
+          "gloss": {
+            "pt": "um discípulo: ainda não identificado",
+            "en": "a disciple: not yet identified",
+            "es": "un discípulo: todavía no identificado"
+          }
+        },
+        {
+          "text": "{Christians pray}",
+          "gloss": {
+            "pt": "os cristãos oram: generalização",
+            "en": "Christians pray: generalization",
+            "es": "los cristianos oran: generalización"
+          }
+        },
+        {
+          "text": "{the children in the house}",
+          "gloss": {
+            "pt": "as crianças da casa: grupo delimitado",
+            "en": "the children in the house: bounded group",
+            "es": "los niños de la casa: grupo delimitado"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Artigos e contabilidade",
+            "en": "Articles and countability",
+            "es": "Artículos y contabilidad"
+          },
+          "head": [
+            {
+              "pt": "Contexto",
+              "en": "Context",
+              "es": "Contexto"
+            },
+            {
+              "pt": "Uso",
+              "en": "Use",
+              "es": "Uso"
+            },
+            {
+              "pt": "Ejemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "Un ejemplo no identificado",
+                "en": "One unspecified item",
+                "es": "Un ejemplo no identificado"
+              },
+              {
+                "pt": "a/an + singular",
+                "en": "a/an + singular",
+                "es": "a/an + singular"
+              },
+              "{a shepherd}"
+            ],
+            [
+              {
+                "pt": "Referente identificable",
+                "en": "Identifiable referent",
+                "es": "Referente identificable"
+              },
+              {
+                "pt": "the + singular/plural",
+                "en": "the + singular/plural",
+                "es": "the + singular/plural"
+              },
+              "{the shepherd}"
+            ],
+            [
+              {
+                "pt": "Toda una clase",
+                "en": "A whole class",
+                "es": "Toda una clase"
+              },
+              {
+                "pt": "plural sin artículo",
+                "en": "plural without article",
+                "es": "plural sin artículo"
+              },
+              "{Shepherds care for sheep}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "pt": "Presente simples",
+        "en": "Simple present",
+        "es": "Presente simple"
+      },
+      "subtitle": {
+        "pt": "he speaks — presente regular e negativo",
+        "en": "he speaks — regular and negative patterns",
+        "es": "he speaks — presente y patrones negativos"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## A forma de presente\n\nO presente simples usa uma forma verbal no singular fora de {I/you/we/they}. As formas regulares acrescentam {-s}; diante de {-o, -ch, -sh, -ss, -x} e alguns sibilantes finais, usam {-es}. {know}, {go} e {do} têm formas especiais: {knows}, {goes}, {does}.\n\n{BE} é irregular: {I am}, {he is}, {they are}. No presente, {have} torna-se {has}. A terceira pessoa funciona como teste rápido de concordância.\n\n## O auxiliar {do}\n\nEm perguntas e negações, o -{s} da terceira pessoa passa para {do/does}: {She sings} → {Does she sing?} → {She does not sing}. O verbo principal fica na forma base. Depois de {do not} negado e adelantado, porém, o verbo principal conserva a forma normal: {I do believe}.\n\n## Quatro valores\n\nO mesmo tempo expressa hábito, verdade, estado e referência futura. Compare {God is love} (verdade), {the church prays} (hábito), {she knows} (estado) e {the train leaves tomorrow} (agenda). O inglês bíblico pode soar arcaico, mas a regra básica permanece.",
+        "en": "## The present form\n\nThe simple present takes an -s form in the third-person singular. Regular forms add {-s}; final {-o, -ch, -sh, -ss, -x} and certain sibilants take {-es}. {know}, {go} and {do} use special forms: {knows}, {goes}, {does}.\n\n{BE} is irregular: {I am}, {he is}, {they are}. In the present, {have} becomes {has}. The third person provides a quick agreement test.\n\n## The auxiliary {do}\n\nIn questions and negatives, third-person -s moves to {do/does}: {She sings} → {Does she sing?} → {She does not sing}. The main verb returns to its base form. After a fronted {do not}, however, the main verb keeps its ordinary present form: {I do believe}.\n\n## Four values\n\nOne tense can express habit, truth, state and scheduled future. Compare {God is love} (truth), {the church prays} (habit), {she knows} (state) and {the train leaves tomorrow} (schedule). Biblical English may sound archaic, but the core system remains the same.",
+        "es": "## La forma de presente\n\nEl presente simple adopta la forma en -s en la tercera persona del singular. Las formas regulares añaden -s; las terminadas en -o, -ch, -sh, -ss, -x y ciertas sibilantes finales añaden -es. {know}, {go} y {do} tienen formas especiales: {knows}, {goes}, {does}.\n\n{BE} es irregular: {I am}, {he is}, {they are}. En presente, {have} se convierte en {has}. La tercera persona ofrece una prueba rápida de concordancia.\n\n## El auxiliar {do}\n\nEn preguntas y negaciones, la -s de tercera persona pasa a {do/does}: {She sings} → {Does she sing?} → {She does not sing}. El verbo principal vuelve a la forma base. Tras {do not} negado y adelantado, el verbo principal conserva su forma normal: {I do believe}.\n\n## Cuatro valores\n\nUn mismo tiempo expresa hábito, verdad, estado y futuro programado. Compáralo en {God is love} (verdad), {the church prays} (hábito), {she knows} (estado) y {the train leaves tomorrow} (agenda). El inglés bíblico puede sonar arcaico, pero el sistema básico sigue vigente."
+      },
+      "vocab": [
+        {
+          "form": "speak",
+          "lemma": "speak",
+          "lang": "en",
+          "pt": "falar",
+          "en": "to speak",
+          "es": "hablar"
+        },
+        {
+          "form": "reads",
+          "lemma": "read",
+          "lang": "en",
+          "pt": "lê",
+          "en": "reads",
+          "es": "lee"
+        },
+        {
+          "form": "has",
+          "lemma": "have",
+          "lang": "en",
+          "pt": "tem",
+          "en": "has",
+          "es": "tiene"
+        },
+        {
+          "form": "is",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "é/está",
+          "en": "is",
+          "es": "es/está"
+        },
+        {
+          "form": "prays",
+          "lemma": "pray",
+          "lang": "en",
+          "pt": "ora",
+          "en": "prays",
+          "es": "ora"
+        },
+        {
+          "form": "knows",
+          "lemma": "know",
+          "lang": "en",
+          "pt": "sabe",
+          "en": "knows",
+          "es": "sabe"
+        },
+        {
+          "form": "does",
+          "lemma": "do",
+          "lang": "en",
+          "pt": "faz; auxiliar",
+          "en": "does",
+          "es": "hace; auxiliar"
+        },
+        {
+          "form": "comes",
+          "lemma": "come",
+          "lang": "en",
+          "pt": "vem",
+          "en": "comes",
+          "es": "viene"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Complete: “The disciple ___ (pray) every day.”",
+          "en": "Complete: “The disciple ___ (pray) every day.”",
+          "es": "Completa: “The disciple ___ (pray) every day.”"
+        },
+        "answer": "prays",
+        "hint": {
+          "pt": "Terceira pessoa do singular.",
+          "en": "Third-person singular.",
+          "es": "Tercera persona del singular."
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual forma é correta?",
+            "en": "Which form is correct?",
+            "es": "¿Qué forma es correcta?"
+          },
+          "options": [
+            {
+              "pt": "She does not pray",
+              "en": "She does not pray",
+              "es": "She does not pray"
+            },
+            {
+              "pt": "She do not pray",
+              "en": "She do not pray",
+              "es": "She do not pray"
+            },
+            {
+              "pt": "She does not prays",
+              "en": "She does not prays",
+              "es": "She does not prays"
+            },
+            {
+              "pt": "She don't pray",
+              "en": "She don't pray",
+              "es": "She don't pray"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione forma e valor temporal.",
+            "en": "Match form with time value.",
+            "es": "Relaciona forma y valor temporal."
+          },
+          "pairs": [
+            {
+              "a": "{usually prays}",
+              "b": {
+                "pt": "hábito",
+                "en": "habit",
+                "es": "hábito"
+              }
+            },
+            {
+              "a": "{is with God}",
+              "b": {
+                "pt": "estado/verdade",
+                "en": "state/truth",
+                "es": "estado/verdad"
+              }
+            },
+            {
+              "a": "{leaves tomorrow}",
+              "b": {
+                "pt": "agenda",
+                "en": "schedule",
+                "es": "agenda"
+              }
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Numa pergunta: “___ he speak?”",
+            "en": "In a question: “___ he speak?”",
+            "es": "En una pregunta: “___ he speak?”"
+          },
+          "answer": "Does",
+          "hint": {
+            "pt": "O auxiliar assume a -s da terceira pessoa.",
+            "en": "The auxiliary takes over third-person -s.",
+            "es": "El auxiliar asume la -s de tercera persona."
+          }
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O -s de 3ª pessoa pertence ao verbo, não ao sujeito em todos os casos: she read → she reads; they read → they read.",
+            "en": "Third-person -s belongs to the verb, not always the subject: she read → she reads; they read → they read.",
+            "es": "La -s de tercera persona pertenece al verbo, no siempre al sujeto: she read → she reads; they read → they read."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Com do/does, o verbo principal fica no infinitivo sem to: Does he read?; He doesn't read.",
+            "en": "With do/does, the main verb takes the bare infinitive: Does he read?; He doesn't read.",
+            "es": "Con do/does, el verbo principal va en infinitivo sin to: Does he read?; He doesn't read."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "I believe significa credo; I believe in significa creo en. O contexto escolhe a preposição.",
+            "en": "I believe means I have faith; I believe in expresses belief in someone or something.",
+            "es": "I believe expresa que tengo fe; I believe in expresa creer en alguien o algo."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Registro:",
+            "en": "Register:",
+            "es": "Registro:"
+          },
+          "text": {
+            "pt": "KJV pode escrever heareth ou heareth?; essas formas arcaicas pertencem ao estilo da versão, não ao presente contemporâneo padrão.",
+            "en": "KJV forms such as heareth belong to that version's archaic style, not standard contemporary usage.",
+            "es": "Las formas de la KJV como hearith pertenecen al estilo arcaico de esa versión, no al uso contemporáneo estándar."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{God is love}",
+          "gloss": {
+            "pt": "Deus é amor — verdade",
+            "en": "God is love — truth",
+            "es": "Dios es amor — verdad"
+          }
+        },
+        {
+          "text": "{The church prays}",
+          "gloss": {
+            "pt": "A igreja ora — hábito",
+            "en": "The church prays — habit",
+            "es": "La iglesia ora — hábito"
+          }
+        },
+        {
+          "text": "{Does he pray?}",
+          "gloss": {
+            "pt": "Ele ora? — auxiliar do",
+            "en": "Does he pray? — do-auxiliary",
+            "es": "¿Él ora? — auxiliar do"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Presente simples",
+            "en": "Simple present",
+            "es": "Presente simple"
+          },
+          "head": [
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Verbo regular",
+              "en": "Regular verb",
+              "es": "Verbo regular"
+            },
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            }
+          ],
+          "rows": [
+            [
+              "I/you/we/they",
+              "{speak}",
+              "{I speak}"
+            ],
+            [
+              "he/she/it",
+              "{speaks}",
+              "{God speaks}"
+            ],
+            [
+              "negativo",
+              "{do/does not + base}",
+              "{He does not speak}"
+            ],
+            [
+              "interrogativo",
+              "{Do/Does + subject + base?}",
+              "{Does he speak?}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "pt": "Passado simples",
+        "en": "Simple past",
+        "es": "Pasado simple"
+      },
+      "subtitle": {
+        "pt": "spoke, said, was — narrativa e irregulares",
+        "en": "spoke, said, was — narrative and irregular forms",
+        "es": "spoke, said, was — narración e irregulares"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## Regulares e irregulares\n\nO passado simples situa uma ação num ponto do passado. A forma regular acrescenta {-ed}; depois de {-e} basta {-d}: {love/loved}. Uma consoante final normalmente duplica-se: {stop/stopped}; {-y} precedido de consonante torna-se {-ied}: {carry/carried}.\n\nOs irregulares devem ser aprendidos como unidades: {speak/spoke}, {say/said}, {see/saw}, {come/came}, {give/gave}, {take/took}, {write/wrote}. O particípio pode coincidir ou não: {speak/spoken}, mas {say/said}.\n\n## {BE}, {DID} e {WAS/WERE}\n\n{BE} no passado dá {was} para I/he/she/it e {were} para you/we/they. Em perguntas e negações, {did} absorve o tempo: {Did he speak?}, {He did not speak}; o verbo principal volta à base.\n\nGênesis 1:3 preserva o contraste: {God said}, {Let there be}, {and there was light}. Say e be são irregulares; let pode expressar pedido ou missão, e o contexto bíblico favorece “haja luz”.\n\n## Discurso indireto\n\nO discurso citado normalmente mantém o tempo original: {He said, “I am the light.”} Depois de um verbo de dizer, porém, o inglês costuma recuar o tempo: {He said that he was the light}. Esse deslocamento é normal, não uma tradução incorreta.",
+        "en": "## Regular and irregular forms\n\nThe simple past places an action at a point in the past. Regular forms add {-ed}; after {-e}, add {-d}: {love/loved}. A final consonant usually doubles: {stop/stopped}; consonant + {y} becomes {-ied}: {carry/carried}.\n\nLearn irregular verbs as units: {speak/spoke}, {say/said}, {see/saw}, {come/came}, {give/gave}, {take/took}, {write/wrote}. The participle may or may not match the past: {speak/spoken}, but {say/said}.\n\n## {BE}, {DID} and {WAS/WERE}\n\nPast {BE} gives {was} for I/he/she/it and {were} for you/we/they. In questions and negatives, {did} carries tense: {Did he speak?}, {He did not speak}; the lexical verb returns to its base.\n\nGenesis 1:3 preserves the contrast: {God said}, {Let there be}, {and there was light}. Say and be are irregular; let can express request or commission, and the Biblical context favors “let there be light”.\n\n## Reported speech\n\nQuoted speech usually keeps its original tense: {He said, “I am the light.”} After a reporting verb, however, English often backshifts: {He said that he was the light}. The shift is normal, not a mistranslation.",
+        "es": "## Formas regulares e irregulares\n\nEl pasado simple sitúa una acción en un punto del pasado. La forma regular añade -ed; tras -e basta -d: {love/loved}. Una consonante final normalmente se duplica: {stop/stopped}; consonante + y pasa a -ied: {carry/carried}.\n\nAprende los irregulares como unidades: {speak/spoke}, {say/said}, {see/saw}, {come/came}, {give/gave}, {take/took}, {write/wrote}. El participio puede coincidir o no con el pasado: {speak/spoken}, pero {say/said}.\n\n## {BE}, {DID} y {WAS/WERE}\n\nEl BE pasado es {was} para I/he/she/it y {were} para you/we/they. En preguntas y negaciones, {did} carga el tiempo: {Did he speak?}, {He did not speak}; el verbo léxico vuelve a su forma base.\n\nGénesis 1:3 conserva el contraste: {God said}, {Let there be}, {and there was light}. Say y be son irregulares; let puede expresar petición o encargo, y el contexto bíblico favorece “haya luz”.\n\n## Discurso indirecto\n\nEl discurso citado suele conservar su tiempo original: {He said, “I am the light.”} Tras un verbo de habla, sin embargo, el inglés suele hacer retroceso temporal: {He said that he was the light}. Ese desplazamiento es normal, no una mala traducción."
+      },
+      "vocab": [
+        {
+          "form": "spoke",
+          "lemma": "speak",
+          "lang": "en",
+          "pt": "falou",
+          "en": "spoke",
+          "es": "habló"
+        },
+        {
+          "form": "said",
+          "lemma": "say",
+          "lang": "en",
+          "pt": "disse",
+          "en": "said",
+          "es": "dijo"
+        },
+        {
+          "form": "was",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "era/foi",
+          "en": "was",
+          "es": "era/fue"
+        },
+        {
+          "form": "were",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "eram/foram",
+          "en": "were",
+          "es": "eran/fueron"
+        },
+        {
+          "form": "saw",
+          "lemma": "see",
+          "lang": "en",
+          "pt": "viu",
+          "en": "saw",
+          "es": "vio"
+        },
+        {
+          "form": "came",
+          "lemma": "come",
+          "lang": "en",
+          "pt": "veio",
+          "en": "came",
+          "es": "vino"
+        },
+        {
+          "form": "gave",
+          "lemma": "give",
+          "lang": "en",
+          "pt": "deu",
+          "en": "gave",
+          "es": "dio"
+        },
+        {
+          "form": "prayed",
+          "lemma": "pray",
+          "lang": "en",
+          "pt": "orou",
+          "en": "prayed",
+          "es": "oró"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual é o passado de say?",
+          "en": "What is the past of say?",
+          "es": "¿Cuál es el pasado de say?"
+        },
+        "options": [
+          {
+            "pt": "sayed",
+            "en": "sayed",
+            "es": "sayed"
+          },
+          {
+            "pt": "said",
+            "en": "said",
+            "es": "said"
+          },
+          {
+            "pt": "says",
+            "en": "says",
+            "es": "says"
+          },
+          {
+            "pt": "sayd",
+            "en": "sayd",
+            "es": "sayd"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: “He ___ (not speak) yesterday.”",
+            "en": "Complete: “He ___ (not speak) yesterday.”",
+            "es": "Completa: “He ___ (not speak) yesterday.”"
+          },
+          "answer": "did not speak"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione base e passado.",
+            "en": "Match base and past.",
+            "es": "Relaciona base y pasado."
+          },
+          "pairs": [
+            {
+              "a": "write",
+              "b": "wrote"
+            },
+            {
+              "a": "take",
+              "b": "took"
+            },
+            {
+              "a": "see",
+              "b": "saw"
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em “When I arrived, they ___ with God”, qual forma é a mais natural?",
+            "en": "In “When I arrived, they ___ with God”, which form is most natural?",
+            "es": "En “When I arrived, they ___ with God”, ¿qué forma es más natural?"
+          },
+          "options": [
+            {
+              "pt": "was",
+              "en": "was",
+              "es": "was"
+            },
+            {
+              "pt": "were",
+              "en": "were",
+              "es": "were"
+            },
+            {
+              "pt": "are",
+              "en": "are",
+              "es": "are"
+            },
+            {
+              "pt": "been",
+              "en": "been",
+              "es": "been"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Com did, o verbo principal não recebe -ed: He did not go, não did not went.",
+            "en": "With did, the main verb does not take -ed: He did not go, not did not went.",
+            "es": "Con did, el verbo principal no lleva -ed: He did not go, no did not went."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Was referencia I/he/she/it; were, you/we/they. No passado, however, is often contracted: I was.",
+            "en": "Was refers to I/he/she/it; were to you/we/they. Contractions are common: I was.",
+            "es": "Was corresponde a I/he/she/it; were a you/we/they. Las contracciones son comunes: I was."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "O passado pode ser remoto em relação ao presente, não necessariamente terminado: yesterday marca tempo; simple past sozinho não o faz.",
+            "en": "The simple past can stand before the present without implying a finished story: yesterday marks time; the tense alone does not.",
+            "es": "El pasado puede ser remoto respecto del presente sin implicar una historia terminada: yesterday marca tiempo; el tiempo verbal por sí solo no."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "KJV:",
+            "en": "KJV:",
+            "es": "KJV:"
+          },
+          "text": {
+            "pt": "A KJV pode omitir was no presente, mas conserva o pretérito was/were em narrativas.",
+            "en": "KJV may omit was in the present, but retains was/were in narrative past clauses.",
+            "es": "La KJV puede omitir was en presente, pero conserva was/were en la narración pasada."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{God said, Let there be light}",
+          "gloss": {
+            "pt": "Deus disse: haja luz",
+            "en": "God said, Let there be light",
+            "es": "Dios dijo: Sea luz"
+          }
+        },
+        {
+          "text": "{He did not speak}",
+          "gloss": {
+            "pt": "Ele não falou",
+            "en": "He did not speak",
+            "es": "Él no habló"
+          }
+        },
+        {
+          "text": "{They were with God}",
+          "gloss": {
+            "pt": "Eles estavam com Deus",
+            "en": "They were with God",
+            "es": "Ellos estaban con Dios"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Formas irregulares essenciais",
+            "en": "Essential irregular forms",
+            "es": "Formas irregulares esenciales"
+          },
+          "head": [
+            {
+              "pt": "Base",
+              "en": "Base",
+              "es": "Base"
+            },
+            {
+              "pt": "Passado",
+              "en": "Past",
+              "es": "Pasado"
+            },
+            {
+              "pt": "Particípio",
+              "en": "Participle",
+              "es": "Participio"
+            }
+          ],
+          "rows": [
+            [
+              "speak",
+              "spoke",
+              "spoken"
+            ],
+            [
+              "say",
+              "said",
+              "said"
+            ],
+            [
+              "see",
+              "saw",
+              "seen"
+            ],
+            [
+              "come",
+              "came",
+              "come"
+            ],
+            [
+              "be",
+              "was/were",
+              "been"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "pt": "Leitura: João 1:1 (KJV)",
+        "en": "Reading: John 1:1 (KJV)",
+        "es": "Lectura: Juan 1:1 (KJV)"
+      },
+      "subtitle": {
+        "pt": "In the beginning was the Word — leitura KJV",
+        "en": "In the beginning was the Word — a guided KJV reading",
+        "es": "In the beginning was the Word — lectura guiada de la KJV"
+      },
+      "section": {
+        "pt": "Leituras",
+        "en": "Readings",
+        "es": "Lecturas"
+      },
+      "body": {
+        "pt": "## O texto e seu registro\n\nKJV, 1611: {In the beginning was the Word, and the Word was with God, and the Word was God.}\n\nEste verso reúne várias estruturas: {was} como verbo irregular, {the Word} com artigo definido e maiúscula, {with} para relação próxima e {was God} sem artigo diante de {God}. Esta última forma ecoa o grego e concentra a afirmação; não é apenas estilo arcaico. O registro é arcaizante, mas a gramática continua legível.\n\n## Leitura em camadas\n\nPrimeiro localize o verbo: {was} se repete três vezes. Depois identifique o sujeito: {the Word} retorna nas três cláusulas. Os complementos alternam: {in the beginning}, {with God}, {God}. O movimento sintático paralelo mostra identidade: a Palavra estava no princípio, estava com Deus e era Deus.\n\nLeia João 1:5 e 1:14: {the light shineth} usa {shineth} com terminação arcaica; {was made flesh} combina passiva com uma afirmação bíblica; {dwelt} significa “morou”, não necessariamente “construiu uma tenda”. A glosa traduz a palavra; uma nota mais ampla pode mencionar a imagem do “tabernáculo”.",
+        "en": "## Text and register\n\nKJV, 1611: {In the beginning was the Word, and the Word was with God, and the Word was God.}\n\nThe verse brings together several structures: irregular {was}, the definite and capitalized {the Word}, {with} for close relationship, and {was God} without an article before {God}. The last pattern echoes Greek and carries the climactic assertion; it is not merely decorative archaism. The register is archaizing, but the grammar remains readable.\n\n## Layered reading\n\nFirst locate the verb: {was} appears in all three clauses. Then identify the subject: {the Word} returns in every clause. The complements alternate: {in the beginning}, {with God}, {God}. This parallel movement shows identity: the Word was in the beginning, was with God, and was God.\n\nRead John 1:5 and 1:14: {the light shineth} uses archaic {shineth}; {was made flesh} combines passive voice with a theological assertion; {dwelt} means “took up residence,” not necessarily “built a tent”. A gloss should translate the word, while a broader note may mention the “tabernacle” image.",
+        "es": "## El texto y su registro\n\nKJV, 1611: {In the beginning was the Word, and the Word was with God, and the Word was God.}\n\nEl verso reúne varias estructuras: {was} como verbo irregular, {the Word} con artículo definido y mayúscula, {with} para una relación cercana y {was God} sin artículo ante {God}. Este último patrón hace eco del griego y contiene la afirmación culminante; no es una simple rareza arcaica. El registro es arcaizante, pero la gramática sigue siendo legible.\n\n## Lectura por capas\n\nPrimero localiza el verbo: {was} aparece en las tres cláusulas. Después identifica el sujeto: {the Word} vuelve en cada cláusula. Los complementos alternan: {in the beginning}, {with God}, {God}. Ese movimiento paralelo muestra identidad: {the Word was in the beginning, was with God, and was God}.\n\nLee Juan 1:5 y 1:14: {the light shineth} usa la terminación arcaica {shineth}; {was made flesh} combina pasiva con una afirmación teológica; {dwelt} significa “tomó residencia”, no necesariamente “levantó una tienda”. La glosa debe traducir la palabra; una nota más amplia puede mencionar la imagen del “tabernáculo”."
+      },
+      "vocab": [
+        {
+          "form": "beginning",
+          "lemma": "beginning",
+          "lang": "en",
+          "pt": "princípio",
+          "en": "beginning",
+          "es": "principio"
+        },
+        {
+          "form": "Word",
+          "lemma": "word",
+          "lang": "en",
+          "pt": "Palavra",
+          "en": "Word",
+          "es": "Palabra"
+        },
+        {
+          "form": "with",
+          "lemma": "with",
+          "lang": "en",
+          "pt": "com",
+          "en": "with",
+          "es": "con"
+        },
+        {
+          "form": "flesh",
+          "lemma": "flesh",
+          "lang": "en",
+          "pt": "carne",
+          "en": "flesh",
+          "es": "carne"
+        },
+        {
+          "form": "dwelt",
+          "lemma": "dwell",
+          "lang": "en",
+          "pt": "morou",
+          "en": "dwelt",
+          "es": "moró"
+        },
+        {
+          "form": "light",
+          "lemma": "light",
+          "lang": "en",
+          "pt": "luz",
+          "en": "light",
+          "es": "luz"
+        },
+        {
+          "form": "grace",
+          "lemma": "grace",
+          "lang": "en",
+          "pt": "graça",
+          "en": "grace",
+          "es": "gracia"
+        },
+        {
+          "form": "truth",
+          "lemma": "truth",
+          "lang": "en",
+          "pt": "verdade",
+          "en": "truth",
+          "es": "verdad"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "O que dwelt significa em João 1:14?",
+          "en": "What does dwelt mean in John 1:14?",
+          "es": "¿Qué significa dwelt en Juan 1:14?"
+        },
+        "options": [
+          {
+            "pt": "Morreu",
+            "en": "Died",
+            "es": "murió"
+          },
+          {
+            "pt": "Morou entre nós",
+            "en": "Dwelt among us",
+            "es": "moró entre nosotros"
+          },
+          {
+            "pt": "Subiu ao céu",
+            "en": "Ascended to heaven",
+            "es": "subió al cielo"
+          },
+          {
+            "pt": "Falou em público",
+            "en": "Spoke publicly",
+            "es": "habló en público"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: “the Word ___ God” (João 1:1).",
+            "en": "Complete: “the Word ___ God” (John 1:1).",
+            "es": "Completa: “the Word ___ God” (Juan 1:1)."
+          },
+          "answer": "was"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione palavra e glosa.",
+            "en": "Match word and gloss.",
+            "es": "Relaciona palabra y glosa."
+          },
+          "pairs": [
+            {
+              "a": "beginning",
+              "b": {
+                "pt": "princípio",
+                "en": "beginning",
+                "es": "principio"
+              }
+            },
+            {
+              "a": "flesh",
+              "b": {
+                "pt": "carne",
+                "en": "flesh",
+                "es": "carne"
+              }
+            },
+            {
+              "a": "truth",
+              "b": {
+                "pt": "verdade",
+                "en": "truth",
+                "es": "verdad"
+              }
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Que função tem a repetição de the Word nas três cláusulas?",
+            "en": "What is the function of repeating the Word in the three clauses?",
+            "es": "¿Qué función tiene repetir the Word en las tres cláusulas?"
+          },
+          "options": [
+            {
+              "pt": "Reforçar a identidade e criar paralelismo",
+              "en": "Reinforce identity and create parallelism",
+              "es": "Reforzar la identidad y crear paralelismo"
+            },
+            {
+              "pt": "Indicar três palavras diferentes",
+              "en": "Indicate three different words",
+              "es": "Indicar tres palabras diferentes"
+            },
+            {
+              "pt": "Criar três novos tempos verbais",
+              "en": "Create three new verb tenses",
+              "es": "Crear tres nuevos tiempos verbales"
+            },
+            {
+              "pt": "Eliminar o verbo was",
+              "en": "Remove the verb was",
+              "es": "Eliminar el verbo was"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Não leia cada was isoladamente: a repetição cria paralelismo e reforça a identidade do sujeito.",
+            "en": "Do not read each was in isolation: repetition creates parallelism and reinforces subject identity.",
+            "es": "No leas cada was aisladamente: la repetición crea paralelismo y refuerza la identidad del sujeto."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "KJV usa terminações em -eth; não as reproduzas no inglês contemporâneo.",
+            "en": "KJV uses -eth endings; do not reproduce them in contemporary English.",
+            "es": "La KJV usa terminaciones en -eth; no las reproduzcas en el inglés contemporáneo."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Dwelt here means resided; the tabernacle image is a contextual resonance, not a literal building action.",
+            "en": "Dwelt here means resided; the tabernacle image is contextual resonance, not a literal building action.",
+            "es": "Dwelt aquí significa residir; la imagen del tabernáculo es resonancia contextual, no una acción literal de construcción."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Registro:",
+            "en": "Register:",
+            "es": "Registro:"
+          },
+          "text": {
+            "pt": "A KJV é arcaizante, não o registro da versão moderna. Use a leitura para reconhecer a gramática, não para imitar cada forma.",
+            "en": "KJV is archaizing, not modern register. Read it to recognize grammar, not to imitate every form.",
+            "es": "La KJV es arcaizante, no el registro moderno. Léela para reconocer la gramática, no para imitar cada forma."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{was the Word}",
+          "gloss": {
+            "pt": "era a Palavra",
+            "en": "was the Word",
+            "es": "era la Palabra"
+          }
+        },
+        {
+          "text": "{with God}",
+          "gloss": {
+            "pt": "com Deus: relação próxima",
+            "en": "with God: close relationship",
+            "es": "con Dios: relación cercana"
+          }
+        },
+        {
+          "text": "{dwelt among us}",
+          "gloss": {
+            "pt": "morou entre nós",
+            "en": "dwelt among us",
+            "es": "moró entre nosotros"
+          }
+        },
+        {
+          "text": "{was made flesh}",
+          "gloss": {
+            "pt": "foi feito carne",
+            "en": "was made flesh",
+            "es": "fue hecho carne"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Mapa do verso",
+            "en": "Verse map",
+            "es": "Mapa del verso"
+          },
+          "head": [
+            {
+              "pt": "Elemento",
+              "en": "Element",
+              "es": "Elemento"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Valor",
+              "en": "Value",
+              "es": "Valor"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "tempo",
+                "en": "time",
+                "es": "tiempo"
+              },
+              "{in the beginning}",
+              {
+                "pt": "ponto de origem",
+                "en": "starting point",
+                "es": "punto de origen"
+              }
+            ],
+            [
+              {
+                "pt": "sujeito",
+                "en": "subject",
+                "es": "sujeto"
+              },
+              "{the Word}",
+              {
+                "pt": "referente determinado",
+                "en": "determinate referent",
+                "es": "referente determinado"
+              }
+            ],
+            [
+              {
+                "pt": "verbo",
+                "en": "verb",
+                "es": "verbo"
+              },
+              "{was}",
+              {
+                "pt": "pasado irregular",
+                "en": "irregular past",
+                "es": "pasado irregular"
+              }
+            ],
+            [
+              {
+                "pt": "complemento",
+                "en": "complement",
+                "es": "complemento"
+              },
+              "{with God}",
+              {
+                "pt": "relação",
+                "en": "relationship",
+                "es": "relación"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "pt": "Modais e voz passiva",
+        "en": "Modals and passive voice",
+        "es": "Modales y voz pasiva"
+      },
+      "subtitle": {
+        "pt": "must, may, shall — was made",
+        "en": "must, may, shall — was made",
+        "es": "must, may, shall — was made"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## Modais: uma única forma\n\nOs modais {can/could}, {may/might}, {must}, {shall/should}, {will/would} e {ought} não mudam de forma segundo a pessoa. Depois deles entra o infinitivo sem {to}: {can pray}, {must obey}, {may come}. No passado ou no irreal, o auxiliar se modifica: {could go}, {should have helped}, {might come}.\n\nOs valores não são intercambiáveis. {Can} trata de capacidade ou possibilidade; {may}, de permissão formal ou possibilidade incerta; {must}, de obrigação forte; {shall} aparece em promessas formais, instruções e fórmulas bíblicas. No inglês contemporâneo, {will} normalmente expressa vontade ou predição.\n\n## Passiva\n\nA passiva usa {be} em todos os tempos + particípio: {is written}, {was healed}, {will be saved}. O agente pode aparecer com {by}; se a informação importante é quem sofre a ação, o {by} pode ser omitido: {The prisoner was released}.\n\n{Was made flesh} é ao mesmo tempo passiva e uma forte afirmação teológica. Em João 1:14, {was made} destaca a encarnação, enquanto o agente divino pode ficar sem nome. Não conclua que toda passiva elimina o agente; ela muda a ordem da informação.",
+        "en": "## Modals have one form\n\nThe modals {can/could}, {may/might}, {must}, {shall/should}, {will/would} and {ought} do not change form for person. They are followed by a bare infinitive: {can pray}, {must obey}, {may come}. In the past or unreal context, the auxiliary changes: {could go}, {should have helped}, {might come}.\n\nTheir values are not interchangeable. {Can} marks ability or possibility; {may}, formal permission or uncertain possibility; {must}, strong obligation; {shall} appears in formal promises, instructions and Biblical formulas. In contemporary English, {will} normally expresses volition or prediction.\n\n## Passive voice\n\nThe passive uses {be} in every tense + participle: {is written}, {was healed}, {will be saved}. The agent may appear after {by}; when the patient or event matters more, {by} can be omitted: {The prisoner was released}.\n\n{Was made flesh} is both passive and a strong theological clause. In John 1:14, {was made} foregrounds the incarnation, while the divine agent need not be named. A passive does not mean “the action has no agent”; it changes information order.",
+        "es": "## Los modales tienen una sola forma\n\nLos modales {can/could}, {may/might}, {must}, {shall/should}, {will/would} y {ought} no cambian según la persona. Van seguidos de infinitivo sin to: {can pray}, {must obey}, {may come}. En pasado o contexto irreal cambia el auxiliar: {could go}, {should have helped}, {might come}.\n\nSus valores no son intercambiables. {Can} expresa capacidad o posibilidad; {may}, permiso formal o posibilidad incierta; {must}, obligación fuerte; {shall} aparece en promesas formales, instrucciones y fórmulas bíblicas. En el inglés contemporáneo, {will} suele expresar voluntad o predicción.\n\n## Voz pasiva\n\nLa pasiva emplea {be} en todos los tiempos + participio: {is written}, {was healed}, {will be saved}. El agente puede aparecer con {by}; si importa más el paciente o el suceso, {by} puede omitirse: {The prisoner was released}.\n\n{Was made flesh} es a la vez pasiva y una afirmación teológica autorizada. En Juan 1:14, {was made} destaca la encarnación mientras el agente divino puede quedar sin nombrar. La pasiva no significa “no hay agente”: cambia el orden de la información."
+      },
+      "vocab": [
+        {
+          "form": "can",
+          "lemma": "can",
+          "lang": "en",
+          "pt": "poder",
+          "en": "can",
+          "es": "poder"
+        },
+        {
+          "form": "may",
+          "lemma": "may",
+          "lang": "en",
+          "pt": "poder/permitir",
+          "en": "may",
+          "es": "poder/permitir"
+        },
+        {
+          "form": "must",
+          "lemma": "must",
+          "lang": "en",
+          "pt": "dever",
+          "en": "must",
+          "es": "deber"
+        },
+        {
+          "form": "shall",
+          "lemma": "shall",
+          "lang": "en",
+          "pt": "deverá/deve",
+          "en": "shall",
+          "es": "deberá/debe"
+        },
+        {
+          "form": "should",
+          "lemma": "should",
+          "lang": "en",
+          "pt": "deveria/conselho",
+          "en": "should",
+          "es": "debería/consejo"
+        },
+        {
+          "form": "was made",
+          "lemma": "make",
+          "lang": "en",
+          "pt": "foi feito",
+          "en": "was made",
+          "es": "fue hecho"
+        },
+        {
+          "form": "is written",
+          "lemma": "write",
+          "lang": "en",
+          "pt": "está escrito",
+          "en": "is written",
+          "es": "está escrito"
+        },
+        {
+          "form": "will be saved",
+          "lemma": "save",
+          "lang": "en",
+          "pt": "será salvo",
+          "en": "will be saved",
+          "es": "será salvado"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Que construção é “was made flesh”?",
+          "en": "What construction is “was made flesh”?",
+          "es": "¿Qué construcción es “was made flesh”?"
+        },
+        "options": [
+          {
+            "pt": "Ativa",
+            "en": "Active",
+            "es": "activa"
+          },
+          {
+            "pt": "Passiva: be + particípio",
+            "en": "Passive: be + participle",
+            "es": "pasiva: be + participio"
+          },
+          {
+            "pt": "Reflexiva",
+            "en": "Reflexive",
+            "es": "reflexiva"
+          },
+          {
+            "pt": "Condicional",
+            "en": "Conditional",
+            "es": "condicional"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: “She ___ pray” (ela pode orar).",
+            "en": "Complete: “She ___ pray” (she is able to pray).",
+            "es": "Completa: “She ___ pray” (ella puede orar)."
+          },
+          "answer": "can"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione modal e valor.",
+            "en": "Match modal and value.",
+            "es": "Relaciona modal y valor."
+          },
+          "pairs": [
+            {
+              "a": "must",
+              "b": {
+                "pt": "obrigação",
+                "en": "obligation",
+                "es": "obligación"
+              }
+            },
+            {
+              "a": "may",
+              "b": {
+                "pt": "permissão",
+                "en": "permission",
+                "es": "permiso"
+              }
+            },
+            {
+              "a": "should",
+              "b": {
+                "pt": "conselho",
+                "en": "advice",
+                "es": "consejo"
+              }
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual frase está correta?",
+            "en": "Which sentence is correct?",
+            "es": "¿Qué frase es correcta?"
+          },
+          "options": [
+            {
+              "pt": "He must to go",
+              "en": "He must to go",
+              "es": "He must to go"
+            },
+            {
+              "pt": "He must go",
+              "en": "He must go",
+              "es": "He must go"
+            },
+            {
+              "pt": "He must went",
+              "en": "He must went",
+              "es": "He must went"
+            },
+            {
+              "pt": "He must going",
+              "en": "He must going",
+              "es": "He must going"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "After a modal, never use to: He can help, não He can to help.",
+            "en": "Never use to after a modal: He can help, not He can to help.",
+            "es": "Nunca uses to después de un modal: He can help, no He can to help."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Modal base + have + participle locates a past action in modal time: She should have called.",
+            "en": "Base modal + have + participle locates a past action in modal time: She should have called.",
+            "es": "Modal base + have + participio sitúa una acción pasada en el tiempo modal: She should have called."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Na passiva, o auxiliar é be: is made, was made, will be made; não *is made por have.",
+            "en": "The passive auxiliary is be: is made, was made, will be made, not has made.",
+            "es": "El auxiliar pasivo es be: is made, was made, will be made; no has made."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Registro:",
+            "en": "Register:",
+            "es": "Registro:"
+          },
+          "text": {
+            "pt": "Shall has a formal or Biblical tone today. {Will} is normal in ordinary promises, while {should} advises rather than commands.",
+            "en": "Shall has a formal or Biblical tone today. {Will} is normal in ordinary promises, while {should} advises rather than commands.",
+            "es": "Hoy shall tiene tono formal o bíblico. {Will} es normal en promesas cotidianas, mientras que {should} suele recomendar."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{Thou shalt not kill}",
+          "gloss": {
+            "pt": "Não matarás — arcaico/mandamento",
+            "en": "Thou shalt not kill — archaic/commandment",
+            "es": "No matarás — arcaico/mandamiento"
+          }
+        },
+        {
+          "text": "{The Word was made flesh}",
+          "gloss": {
+            "pt": "A Palavra foi feita carne — passiva",
+            "en": "The Word was made flesh — passive",
+            "es": "La Palabra fue hecha carne — pasiva"
+          }
+        },
+        {
+          "text": "{It shall be done}",
+          "gloss": {
+            "pt": "Será feito — shall + passiva",
+            "en": "It shall be done — shall + passive",
+            "es": "Será hecho — shall + pasiva"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Valores modais",
+            "en": "Modal values",
+            "es": "Valores modales"
+          },
+          "head": [
+            {
+              "pt": "Modal",
+              "en": "Modal",
+              "es": "Modal"
+            },
+            {
+              "pt": "Valor típico",
+              "en": "Typical value",
+              "es": "Valor típico"
+            },
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            }
+          ],
+          "rows": [
+            [
+              "{can}",
+              {
+                "pt": "capacidade",
+                "en": "ability",
+                "es": "capacidad"
+              },
+              "{I can read}"
+            ],
+            [
+              "{may}",
+              {
+                "pt": "permissão",
+                "en": "permission",
+                "es": "permiso"
+              },
+              "{You may enter}"
+            ],
+            [
+              "{must}",
+              {
+                "pt": "obrigação",
+                "en": "obligation",
+                "es": "obligación"
+              },
+              "{We must love}"
+            ],
+            [
+              "{should}",
+              {
+                "pt": "conselho/dever",
+                "en": "advice/duty",
+                "es": "consejo/deber"
+              },
+              "{You should pray}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "pt": "Leitura: Pai-Nosso e Salmo 23",
+        "en": "Reading: Lord’s Prayer and Psalm 23",
+        "es": "Lectura: Padrenuestro y Salmo 23"
+      },
+      "subtitle": {
+        "pt": "Our Father which art in heaven — registro arcaico",
+        "en": "Our Father which art in heaven — reading an archaic register",
+        "es": "Our Father which art in heaven — lectura de un registro arcaico"
+      },
+      "section": {
+        "pt": "Leituras",
+        "en": "Readings",
+        "es": "Lecturas"
+      },
+      "body": {
+        "pt": "## A KJV como janela histórica\n\nNa KJV de Mateus 6:9, {Our Father which art in heaven, hallowed be thy name}. {Art} é {are} arcaico; {thy} é possessivo de segunda pessoa; {hallowed be} é uma fórmula passiva. Essas formas não devem ser tomadas como erros do inglês contemporâneo. A forma moderna é {Our Father who is in heaven, may your name be holy}.\n\n{thou/thee/thy/thine} dirige-se formalmente a uma pessoa; {you/your} pode dirigir-se a uma ou a muitas. O antigo sistema de segunda pessoa singular também torna a concordância visível: {thou art}, {thou hast}, {thou shalt}. Formas como {art} e {hallowed} são marcadores de época.\n\n## A oração por sua estrutura\n\nA oração passa da invocação às petições e pedidos. {Give us this day our daily bread} coloca o imperativo antes do objeto indireto. {Forgive us our debts, as we forgive our debtors} usa as para ligar o perdão humano e o divino.\n\nO Salmo 23:1 tem outro registro poético: {The LORD is my shepherd; I shall not want}. A metáfora não diz que toda circunstância seja indolor; diz que o pastor fornece o necessário. {I shall not want} é uma promessa orientada ao futuro, não a afirmação de que o salmista possui tudo.",
+        "en": "## The KJV as a historical window\n\nIn Matthew 6:9 KJV, {Our Father which art in heaven, hallowed be thy name}. {Art} is archaic {are}; {thy} is a second-person possessive; {hallowed be} is a passive formula. These are not errors in contemporary English. The modern form is {Our Father who is in heaven, may your name be holy}.\n\n{thou/thee/thy/thine} address one person formally; {you/your} can address one or many. The older second-person singular system also makes agreement visible: {thou art}, {thou hast}, {thou shalt}. KJV forms such as {art} and {hallowed} are period markers.\n\n## Reading the prayer by structure\n\nThe prayer moves from invocation to petitions and requests. {Give us this day our daily bread} places the imperative before the indirect object. {Forgive us our debts, as we forgive our debtors} uses as to link human and divine forgiveness.\n\nPsalm 23:1 has a different poetic register: {The LORD is my shepherd; I shall not want}. The metaphor does not say every circumstance is painless; it says the shepherd supplies what is needed. {I shall not want} is a future-oriented promise, not a claim that the psalmist owns everything.",
+        "es": "## La KJV como ventana histórica\n\nEn Mateo 6:9 KJV: {Our Father which art in heaven, hallowed be thy name}. {Art} es un {are} arcaico; {thy} es un posesivo de segunda persona; {hallowed be} es una fórmula pasiva. No son errores del inglés contemporáneo. La forma actual es {Our Father who is in heaven, may your name be holy}.\n\n{thou/thee/thy/thine} se dirigen formalmente a una sola persona; {you/your} puede dirigirse a una o a varias. El antiguo sistema de segunda persona singular hace visible la concordancia: {thou art}, {thou hast}, {thou shalt}. Formas como {art} y {hallowed} son marcadores de época.\n\n## Leer la oración por su estructura\n\nLa oración pasa de la invocación a las peticiones y solicitudes. {Give us this day our daily bread} coloca el imperativo ante el objeto indirecto. {Forgive us our debts, as we forgive our debtors} usa as para vincular el perdón humano y el divino.\n\nEl Salmo 23:1 tiene un registro poético distinto: {The LORD is my shepherd; I shall not want}. La metáfora no afirma que toda circunstancia sea indolora; afirma que el pastor suple lo necesario. {I shall not want} orienta una promesa futura, no dice que el salmista lo posea todo."
+      },
+      "vocab": [
+        {
+          "form": "art",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "és (arcaico)",
+          "en": "art",
+          "es": "eres (arcaico)"
+        },
+        {
+          "form": "thou",
+          "lemma": "thou",
+          "lang": "en",
+          "pt": "tu (arcaico)",
+          "en": "thou",
+          "es": "tú (arcaico)"
+        },
+        {
+          "form": "thee",
+          "lemma": "thee",
+          "lang": "en",
+          "pt": "te (arcaico)",
+          "en": "thee",
+          "es": "te (arcaico)"
+        },
+        {
+          "form": "thy",
+          "lemma": "thy",
+          "lang": "en",
+          "pt": "teu",
+          "en": "thy",
+          "es": "tu"
+        },
+        {
+          "form": "hallowed",
+          "lemma": "hallow",
+          "lang": "en",
+          "pt": "santificado",
+          "en": "hallowed",
+          "es": "santificado"
+        },
+        {
+          "form": "bread",
+          "lemma": "bread",
+          "lang": "en",
+          "pt": "pão",
+          "en": "bread",
+          "es": "pan"
+        },
+        {
+          "form": "shepherd",
+          "lemma": "shepherd",
+          "lang": "en",
+          "pt": "pastor",
+          "en": "shepherd",
+          "es": "pastor"
+        },
+        {
+          "form": "shall not want",
+          "lemma": "want",
+          "lang": "en",
+          "pt": "não faltará",
+          "en": "shall not want",
+          "es": "no faltará"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "O que é art em “which art”?",
+          "en": "What is art in “which art”?",
+          "es": "¿Qué es art en “which art”?"
+        },
+        "options": [
+          {
+            "pt": " substantivo arte",
+            "en": "the noun art",
+            "es": "el sustantivo arte"
+          },
+          {
+            "pt": "2ª pessoa arcaica de be",
+            "en": "archaic 2nd person of be",
+            "es": "2.ª persona arcaica de be"
+          },
+          {
+            "pt": "artigo",
+            "en": "an article",
+            "es": "artículo"
+          },
+          {
+            "pt": "passado de eat",
+            "en": "past of eat",
+            "es": "pasado de eat"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Modernize: “Our Father which ___ in heaven”.",
+            "en": "Modernize: “Our Father which ___ in heaven”.",
+            "es": "Moderniza: “Our Father which ___ in heaven”."
+          },
+          "answer": "is"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione expressão e glosa.",
+            "en": "Match expression and gloss.",
+            "es": "Relaciona expresión y glosa."
+          },
+          "pairs": [
+            {
+              "a": "thou",
+              "b": {
+                "pt": "tu",
+                "en": "you",
+                "es": "tú"
+              }
+            },
+            {
+              "a": "thy",
+              "b": {
+                "pt": "teu",
+                "en": "your",
+                "es": "tu"
+              }
+            },
+            {
+              "a": "hallowed",
+              "b": {
+                "pt": "santificado",
+                "en": "hallowed",
+                "es": "santificado"
+              }
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em I shall not want, o que shall acrescenta?",
+            "en": "In I shall not want, what does shall add?",
+            "es": "En I shall not want, ¿qué aporta shall?"
+          },
+          "options": [
+            {
+              "pt": "Uma obrigação presente",
+              "en": "A present obligation",
+              "es": "Una obligación presente"
+            },
+            {
+              "pt": "Certeza/promessa futura",
+              "en": "Future certainty/promise",
+              "es": "Certeza/promesa futura"
+            },
+            {
+              "pt": "Pasado remoto",
+              "en": "Remote past",
+              "es": "Pasado remoto"
+            },
+            {
+              "pt": "Terceiro condicional",
+              "en": "Third conditional",
+              "es": "Condicional tercera"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Leia toda forma arcaica como KJV ou linguagem litúrgica, salvo indication that it is a modern quotation.",
+            "en": "Read every archaic form as KJV or liturgical language unless the context explicitly presents modern quotation.",
+            "es": "Lee toda forma arcaica como KJV o lenguaje litúrgico, salvo que el contexto indique una cita moderna."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Shall in a first-person Biblical promise normally expresses certainty or divine assurance, not an ordinary modern prediction.",
+            "en": "First-person shall in a Biblical promise usually expresses certainty or divine assurance, not ordinary modern prediction.",
+            "es": "El shall de primera persona en una promesa bíblica expresa normalmente certeza o garantía divina, no una predicción cotidiana."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "A metáfora do pastor pertence ao Salmo; não aapliques mecanicamente a toda experiência religiosa.",
+            "en": "The shepherd metaphor belongs to the poem; do not apply it mechanically to every religious experience.",
+            "es": "La metáfora del pastor pertenece al poema; no la apliques mecánicamente a toda experiencia religiosa."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Tradução:",
+            "en": "Translation:",
+            "es": "Traducción:"
+          },
+          "text": {
+            "pt": "Uma tradução bíblica pode atualizar a sintaxe e manter a imagem. Informe sempre que a forma foi adaptada.",
+            "en": "A Bible translation may update syntax and retain imagery. Always disclose when a form has been modernized.",
+            "es": "Una traducción bíblica puede actualizar la sintaxis y conservar la imagen. Indica siempre cuándo se ha modernizado una forma."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{thou art}",
+          "gloss": {
+            "pt": "tu és — arcaico",
+            "en": "thou art — archaic",
+            "es": "tú eres — arcaico"
+          }
+        },
+        {
+          "text": "{hallowed be thy name}",
+          "gloss": {
+            "pt": "santificado sea tu nombre — passiva litúrgica",
+            "en": "hallowed be thy name — liturgical passive",
+            "es": "santificado sea tu nombre — pasiva litúrgica"
+          }
+        },
+        {
+          "text": "{daily bread}",
+          "gloss": {
+            "pt": "pão de cada dia",
+            "en": "daily bread",
+            "es": "pan de cada día"
+          }
+        },
+        {
+          "text": "{I shall not want}",
+          "gloss": {
+            "pt": "não me faltará — promessa",
+            "en": "I shall not want — promise",
+            "es": "no me faltará — promesa"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Segunda pessoa: KJV e uso atual",
+            "en": "Second person: KJV and current use",
+            "es": "Segunda persona: KJV y uso actual"
+          },
+          "head": [
+            {
+              "pt": "Função",
+              "en": "Function",
+              "es": "Función"
+            },
+            {
+              "pt": "KJV",
+              "en": "KJV",
+              "es": "KJV"
+            },
+            {
+              "pt": "Atual",
+              "en": "Current",
+              "es": "Actual"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "tu (singular)",
+                "en": "you (singular)",
+                "es": "tú (singular)"
+              },
+              "thou",
+              "you"
+            ],
+            [
+              {
+                "pt": "teu",
+                "en": "your",
+                "es": "tu"
+              },
+              "thy/thine",
+              "your"
+            ],
+            [
+              {
+                "pt": "és",
+                "en": "are",
+                "es": "eres"
+              },
+              "art",
+              "are"
+            ],
+            [
+              {
+                "pt": "vós/plural",
+                "en": "you (plural)",
+                "es": "vosotros/plural"
+              },
+              "ye",
+              "you"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "pt": "Tempos perfeito",
+        "en": "Perfect tenses",
+        "es": "Tiempos perfecto"
+      },
+      "subtitle": {
+        "pt": "have seen, had seen — relação com o presente",
+        "en": "have seen, had seen — relation to the present",
+        "es": "have seen, had seen — relación con el presente"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## O presente perfeito\n\nO presente perfeito combina um passado com relevância presente: {I have read the book} pode indicar conhecimento ou experiência atual. A ação está concluída, mas o momento que interessa é agora. Também acumula experiência: {She has visited Rome}.\n\nNormalmente, não pode acompanhar um tempo passado já fechado: não {I have seen him yesterday}. Use {I saw him yesterday}. No entanto, {has gone} pode descrever um resultado de destino: {He has gone to Paris} pode significar que ele está lá ou não voltará.\n\n## Presente e passado perfeito\n\nO passado perfeito coloca um acontecimento antes de outro: {When I arrived, he had left}. O inglês também usa {was/were} + particípio: {It was written}. Isso é especialmente importante no inglês bíblico, em que o tempo costuma seguir a lógica e o discurso mais do que uma linha do tempo rígida.\n\nJoão 19:30, {It is finished}, e 2 Timóteo 4:7, {I have fought the good fight}, devem ser traduzidos sem forçar suas formas para um único tempo português. O contexto distingue estado resultante, experiência acumulada e aspecto narrativo.",
+        "en": "## The present perfect\n\nThe present perfect combines past with present relevance: {I have read the book} may indicate present knowledge or experience. The action is complete, but the time of interest is now. It also accumulates experience: {She has visited Rome}.\n\nNormally, it cannot stand with a finished past-time expression: not {I have seen him yesterday}. Use {I saw him yesterday}. However, {has gone} can describe a destination result: {He has gone to Paris} may mean he is there or will not be back.\n\n## Present and past perfect\n\nThe present perfect places one past event before another: {When I arrived, he had left}. English also uses {was/were} + participle: {It was written}. This is especially important in Biblical English, where tense often follows logic and discourse rather than a fixed timeline.\n\nJohn 19:30, {It is finished}, and 2 Timothy 4:7, {I have fought the good fight}, should be translated without forcing their forms into one Portuguese tense. Context distinguishes resulting state, accumulated experience and narrative aspect.",
+        "es": "## El presente perfecto\n\nEl presente perfecto combina un pasado con relevancia presente: {I have read the book} puede indicar conocimiento o experiencia actual. La acción está terminada, pero el momento que interesa es ahora. También acumula experiencia: {She has visited Rome}.\n\nNormalmente no admite un tiempo pasado ya cerrado: no {I have seen him yesterday}; usa {I saw him yesterday}. En cambio, {has gone} puede describir un resultado de destino: {He has gone to Paris} puede significar que está allí o que no volverá.\n\n## Presente y pasado perfecto\n\nEl pasado perfecto sitúa un suceso antes de otro: {When I arrived, he had left}. El inglés también usa {was/were} + participio: {It was written}. Esto es especialmente importante en el inglés bíblico, donde el tiempo suele seguir la lógica y el discurso más que una línea temporal rígida.\n\nJuan 19:30, {It is finished}, y 2 Timoteo 4:7, {I have fought the good fight}, deben traducirse sin forzar sus formas hacia un único tiempo português. El contexto distingue estado resultante, experiencia acumulada y aspecto narrativo."
+      },
+      "vocab": [
+        {
+          "form": "has seen",
+          "lemma": "see",
+          "lang": "en",
+          "pt": "tem visto",
+          "en": "has seen",
+          "es": "ha visto"
+        },
+        {
+          "form": "have believed",
+          "lemma": "believe",
+          "lang": "en",
+          "pt": "temos crido",
+          "en": "have believed",
+          "es": "hemos creído"
+        },
+        {
+          "form": "had gone",
+          "lemma": "go",
+          "lang": "en",
+          "pt": "tinha ido",
+          "en": "had gone",
+          "es": "había ido"
+        },
+        {
+          "form": "is finished",
+          "lemma": "finish",
+          "lang": "en",
+          "pt": "está consumado",
+          "en": "is finished",
+          "es": "está consumado"
+        },
+        {
+          "form": "yesterday",
+          "lemma": "yesterday",
+          "lang": "en",
+          "pt": "ontem",
+          "en": "yesterday",
+          "es": "ayer"
+        },
+        {
+          "form": "experience",
+          "lemma": "experience",
+          "lang": "en",
+          "pt": "experiência",
+          "en": "experience",
+          "es": "experiencia"
+        },
+        {
+          "form": "result",
+          "lemma": "result",
+          "lang": "en",
+          "pt": "resultado",
+          "en": "result",
+          "es": "resultado"
+        },
+        {
+          "form": "already",
+          "lemma": "already",
+          "lang": "en",
+          "pt": "já",
+          "en": "already",
+          "es": "ya"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual frase é natural?",
+          "en": "Which sentence is natural?",
+          "es": "¿Qué frase es natural?"
+        },
+        "options": [
+          {
+            "pt": "I have seen him yesterday",
+            "en": "I have seen him yesterday",
+            "es": "I have seen him yesterday"
+          },
+          {
+            "pt": "I saw him yesterday",
+            "en": "I saw him yesterday",
+            "es": "I saw him yesterday"
+          },
+          {
+            "pt": "I did saw him yesterday",
+            "en": "I did saw him yesterday",
+            "es": "I did saw him yesterday"
+          },
+          {
+            "pt": "I have saw him yesterday",
+            "en": "I have saw him yesterday",
+            "es": "I have saw him yesterday"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: 'When she arrived, he ___ (leave).'",
+            "en": "Complete: 'When she arrived, he ___ (leave).'",
+            "es": "Completa: 'When she arrived, he ___ (leave).'"
+          },
+          "answer": "had left"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione forma e particípio.",
+            "en": "Match form and participle.",
+            "es": "Relaciona forma y participio."
+          },
+          "pairs": [
+            {
+              "a": "speak",
+              "b": "spoken"
+            },
+            {
+              "a": "say",
+              "b": "said"
+            },
+            {
+              "a": "write",
+              "b": "written"
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "O que normalmente bloqueia o presente perfeito com yesterday?",
+            "en": "What normally blocks the present perfect with yesterday?",
+            "es": "¿Qué bloquea normalmente el presente perfecto con yesterday?"
+          },
+          "options": [
+            {
+              "pt": "A ausência de artigo",
+              "en": "The absence of an article",
+              "es": "La ausencia de artículo"
+            },
+            {
+              "pt": "Um tempo passado já fechado",
+              "en": "A finished past-time expression",
+              "es": "Una expresión de tiempo pasado ya cerrado"
+            },
+            {
+              "pt": "O uso de was",
+              "en": "The use of was",
+              "es": "El uso de was"
+            },
+            {
+              "pt": "A negação",
+              "en": "Negation",
+              "es": "La negación"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Use presente perfeito for a situation bearing on now: I have lost my keys. Use simple past for a completed time: I lost them yesterday.",
+            "en": "Use the present perfect for a situation bearing on now: I have lost my keys. Use the simple past for a completed time: I lost them yesterday.",
+            "es": "Usa el presente perfecto para una situación vigente ahora: I have lost my keys. Usa el pasado simple para un tiempo cerrado: I lost them yesterday."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "O passado perfeito não significa apenas passado: ele mede uma relação de anterioridade dentro de uma narrativa passada.",
+            "en": "The past perfect means more than simply past: it measures anteriority within a past narrative.",
+            "es": "El pasado perfecto significa más que solo pasado: mide una relación de anterioridad dentro de una narración pasada."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "O participio não é o mesmo que o passado: speak/spoken, say/said. Aprenda os dois quando forem diferentes.",
+            "en": "The participle is not always the past form: speak/spoken, say/said. Learn both when they differ.",
+            "es": "El participio no siempre coincide con el pasado: speak/spoken, say/said. Aprende ambos cuando difieren."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Cuidado:",
+            "en": "Caution:",
+            "es": "Cuidado:"
+          },
+          "text": {
+            "pt": "Não presuma que 'perfect' significa 'perfeito' em português: a função é discursiva.",
+            "en": "Do not assume perfect maps onto a single Portuguese tense; its function is discourse-based.",
+            "es": "No supongas que perfect corresponde a un solo tiempo português; su función es discursiva."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{I have believed}",
+          "gloss": {
+            "pt": "tenho crido — experiência/estado atual",
+            "en": "I have believed — experience/current state",
+            "es": "he creído — experiencia/estado actual"
+          }
+        },
+        {
+          "text": "{When I came, he had gone}",
+          "gloss": {
+            "pt": "quando cheguei, ele já fora",
+            "en": "When I came, he had gone",
+            "es": "cuando llegué, él ya se había ido"
+          }
+        },
+        {
+          "text": "{It is finished}",
+          "gloss": {
+            "pt": "está consumado — estado resultante",
+            "en": "It is finished — resulting state",
+            "es": "está consumado — estado resultante"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Escolha do tempo",
+            "en": "Tense choice",
+            "es": "Elección del tiempo"
+          },
+          "head": [
+            {
+              "pt": "Situação",
+              "en": "Situation",
+              "es": "Situación"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Valor",
+              "en": "Value",
+              "es": "Valor"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "ontem",
+                "en": "yesterday",
+                "es": "ayer"
+              },
+              "{saw}",
+              {
+                "pt": "passado fechado",
+                "en": "finished past",
+                "es": "pasado cerrado"
+              }
+            ],
+            [
+              {
+                "pt": "experiência/resultado",
+                "en": "experience/result",
+                "es": "experiencia/resultado"
+              },
+              "{have seen}",
+              {
+                "pt": "presente relevante",
+                "en": "present relevance",
+                "es": "presente relevante"
+              }
+            ],
+            [
+              {
+                "pt": "passado anterior",
+                "en": "earlier past",
+                "es": "pasado anterior"
+              },
+              "{had seen}",
+              {
+                "pt": "perspectiva passada",
+                "en": "past perspective",
+                "es": "perspectiva pasada"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": {
+        "pt": "Futuro e progressivas",
+        "en": "Future and progressive forms",
+        "es": "Futuro y formas progresivas"
+      },
+      "subtitle": {
+        "pt": "will, shall, going to; be + -ing",
+        "en": "will, shall, going to; be + -ing",
+        "es": "will, shall, going to; be + -ing"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## Três futuros\n\n{Will} é o futuro normal do inglês moderno: {I will pray}. Também expressa vontade, predição ou decisão espontânea: {I will answer}; {He will arrive tomorrow}.\n\n{Be going to} normalmente vem de um plano presente ou de evidência atual: {I am going to pray}; {The glass is going to fall}. Uma predição baseada em evidências costuma ser mais forte do que um futuro simples com will.\n\n{Shall} é menos comum na fala cotidiana contemporânea. Permanece em promessas formais, instruções, oferecimentos e linguagem bíblica: {I shall not want}. Não traduza automaticamente shall como um futuro gramatical separado; leia sua força no contexto.\n\n## Formas progressivas\n\n{Be} + verbo + {-ing} apresenta um acontecimento como em curso, temporário ou em desenvolvimento: {I am reading}; {They were praying}. O inglês também usa essa forma para acordos: {I am meeting her at six}.\n\nVerbos de estado normalmente não usam a progressiva: {know}, {believe}, {want}, {belong}, {seem}. Alguns mudam de sentido na progressiva: {know} → {be knowing} costuma soar estranho; {think} → {be thinking} sugere uma visão atual. Na Bíblia, {is come} pode ser uma forma presente arcaica, não uma progressiva moderna: identifique o registro antes de analisar {-ing}.",
+        "en": "## Three future systems\n\n{Will} is the ordinary future in modern English: {I will pray}. It also expresses willingness, prediction or spontaneous decision: {I will answer}; {He will arrive tomorrow}.\n\n{Be going to} usually comes from a present plan or current evidence: {I am going to pray}; {The glass is going to fall}. Evidence-based prediction is often stronger than a bare will-future.\n\n{Shall} is less common in everyday contemporary speech. It remains in formal promises, instructions, offers and Biblical language: {I shall not want}. Do not automatically treat shall as a separate grammatical future; read its force in context.\n\n## Progressive forms\n\n{Be} + verb + {-ing} presents an event as in progress, temporary or developing: {I am reading}; {They were praying}. English also uses this form for arrangements: {I am meeting her at six}.\n\nState verbs are normally not progressive: {know}, {believe}, {want}, {belong}, {seem}. Some change meaning when progressive: {know} → {be knowing} is usually unnatural; {think} → {be thinking} suggests a current view. Biblical {is come} may be an archaic present form, not a modern progressive; identify the register before analyzing {-ing}.",
+        "es": "## Tres sistemas de futuro\n\n{Will} es el futuro normal del inglés moderno: {I will pray}. También expresa voluntad, predicción o decisión espontánea: {I will answer}; {He will arrive tomorrow}.\n\n{Be going to} suele partir de un plan presente o de indicios actuales: {I am going to pray}; {The glass is going to fall}. Una predicción basada en indicios suele ser más fuerte que un futuro simple con will.\n\n{Shall} es menos frecuente en el habla contemporánea cotidiana. Se mantiene en promesas formales, instrucciones, ofrecimientos y lenguaje bíblico: {I shall not want}. No conviertas automáticamente shall en un futuro gramatical separado: interpreta su fuerza en contexto.\n\n## Formas progresivas\n\n{Be} + verbo + {-ing} presenta un suceso en curso, temporal o en desarrollo: {I am reading}; {They were praying}. El inglés también emplea esta forma para citas: {I am meeting her at six}.\n\nLos verbos de estado normalmente no van en progresiva: {know}, {believe}, {want}, {belong}, {seem}. Algunos cambian de significado: {be knowing} suele sonar poco natural; {be thinking} expresa una consideración actual. En la Biblia, {is come} puede ser una forma presente arcaica, no una progresiva moderna: identifica el registro antes de analizar -ing."
+      },
+      "vocab": [
+        {
+          "form": "will pray",
+          "lemma": "pray",
+          "lang": "en",
+          "pt": "vou orar",
+          "en": "will pray",
+          "es": "voy a orar"
+        },
+        {
+          "form": "going to read",
+          "lemma": "read",
+          "lang": "en",
+          "pt": "vou ler",
+          "en": "going to read",
+          "es": "voy a leer"
+        },
+        {
+          "form": "is reading",
+          "lemma": "read",
+          "lang": "en",
+          "pt": "está lendo",
+          "en": "is reading",
+          "es": "está leyendo"
+        },
+        {
+          "form": "was coming",
+          "lemma": "come",
+          "lang": "en",
+          "pt": "estava vindo",
+          "en": "was coming",
+          "es": "estaba viniendo"
+        },
+        {
+          "form": "believe",
+          "lemma": "believe",
+          "lang": "en",
+          "pt": "crer",
+          "en": "believe",
+          "es": "creer"
+        },
+        {
+          "form": "know",
+          "lemma": "know",
+          "lang": "en",
+          "pt": "saber",
+          "en": "know",
+          "es": "saber"
+        },
+        {
+          "form": "seem",
+          "lemma": "seem",
+          "lang": "en",
+          "pt": "parecer",
+          "en": "seem",
+          "es": "parecer"
+        },
+        {
+          "form": "tomorrow",
+          "lemma": "tomorrow",
+          "lang": "en",
+          "pt": "amanhã",
+          "en": "tomorrow",
+          "es": "mañana"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Por que 'I am believing' soa errado?",
+          "en": "Why does 'I am believing' sound wrong?",
+          "es": "¿Por qué 'I am believing' suena mal?"
+        },
+        "options": [
+          {
+            "pt": "Believe é verbo de estado",
+            "en": "Believe is a state verb",
+            "es": "Believe es verbo de estado"
+          },
+          {
+            "pt": "Falta um sujeito",
+            "en": "A subject is missing",
+            "es": "Falta un sujeto"
+          },
+          {
+            "pt": "É uma forma futura",
+            "en": "It is future",
+            "es": "Es una forma futura"
+          },
+          {
+            "pt": "Está correto",
+            "en": "It is correct",
+            "es": "Es correcto"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Plano: 'I ___ going to pray.'",
+            "en": "Plan: 'I ___ going to pray.'",
+            "es": "Plan: 'I ___ going to pray.'"
+          },
+          "answer": "am"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione forma e uso.",
+            "en": "Match form and use.",
+            "es": "Relaciona forma y uso."
+          },
+          "pairs": [
+            {
+              "a": "will",
+              "b": {
+                "pt": "decisão/predição",
+                "en": "decision/prediction",
+                "es": "decisión/predicción"
+              }
+            },
+            {
+              "a": "going to",
+              "b": {
+                "pt": "plano/indício",
+                "en": "plan/evidence",
+                "es": "plan/indicio"
+              }
+            },
+            {
+              "a": "am -ing",
+              "b": {
+                "pt": "ação em curso",
+                "en": "action in progress",
+                "es": "acción en curso"
+              }
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual frase descreve uma evidência atual?",
+            "en": "Which sentence describes present evidence?",
+            "es": "¿Qué frase describe indicios actuales?"
+          },
+          "options": [
+            {
+              "pt": "The glass is going to fall",
+              "en": "The glass is going to fall",
+              "es": "The glass is going to fall"
+            },
+            {
+              "pt": "The glass falls tomorrow",
+              "en": "The glass falls tomorrow",
+              "es": "The glass falls tomorrow"
+            },
+            {
+              "pt": "I will be fall",
+              "en": "I will be fall",
+              "es": "I will be fall"
+            },
+            {
+              "pt": "The glass go to fall",
+              "en": "The glass go to fall",
+              "es": "The glass go to fall"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Não use progressiva automaticamente com verbos de estado. A forma comum {believe} descreve uma posição estável.",
+            "en": "Do not use the progressive automatically with state verbs. Ordinary {believe} describes a stable position.",
+            "es": "No uses la progresiva automáticamente con verbos de estado. {believe} describe una posición estable."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "A progressiva pode-pressupor algo temporário ou em desenvolvimento: He is being patient is different from He is patient.",
+            "en": "The progressive can imply temporary or developing behavior: He is being patient differs from He is patient.",
+            "es": "La progresiva puede implicar algo temporal o en desarrollo: He is being patient se diferencia de He is patient."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Will não é automático em orações com if/when. Compare: If I call, I will tell you; If you call, you tell me.",
+            "en": "Will is not automatic in if/when clauses. Compare: If I call, I will tell you; If you call, you tell me.",
+            "es": "Will no es automático en cláusulas con if/when. Compara: If I call, I will tell you; If you call, you tell me."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Registro:",
+            "en": "Register:",
+            "es": "Registro:"
+          },
+          "text": {
+            "pt": "Shall e is come são fortes sinais de KJV/inglês arcaico quando o contexto é bíblico.",
+            "en": "Shall and is come are strong KJV/archaic signals in Biblical context.",
+            "es": "Shall e is come son fuertes señales de KJV/inglés arcaico en contexto bíblico."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{I shall not want}",
+          "gloss": {
+            "pt": "não me faltará — promessa bíblica",
+            "en": "I shall not want — Biblical promise",
+            "es": "no me faltará — promesa bíblica"
+          }
+        },
+        {
+          "text": "{They were praying}",
+          "gloss": {
+            "pt": "estavam orando — ação em curso",
+            "en": "They were praying — event in progress",
+            "es": "estaban orando — acción en curso"
+          }
+        },
+        {
+          "text": "{I believe}",
+          "gloss": {
+            "pt": "creio — estado, não progressiva",
+            "en": "I believe — state, not progressive",
+            "es": "creo — estado, no progresiva"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Futuro y progresiva",
+            "en": "Future and progressive",
+            "es": "Futuro y progresiva"
+          },
+          "head": [
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Uso",
+              "en": "Use",
+              "es": "Uso"
+            },
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            }
+          ],
+          "rows": [
+            [
+              "{will + base}",
+              {
+                "pt": "voluntad/predicción",
+                "en": "will/prediction",
+                "es": "voluntad/predicción"
+              },
+              "{I will pray}"
+            ],
+            [
+              "{be going to + base}",
+              {
+                "pt": "plan/indicio",
+                "en": "plan/evidence",
+                "es": "plan/indicio"
+              },
+              "{She is going to leave}"
+            ],
+            [
+              "{be + -ing}",
+              {
+                "pt": "en curso/arrangement",
+                "en": "in progress/arrangement",
+                "es": "en curso/cita"
+              },
+              "{I am reading}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": {
+        "pt": "Condicionais 0–3",
+        "en": "Conditionals 0–3",
+        "es": "Condicionales 0–3"
+      },
+      "subtitle": {
+        "pt": "if, unless, wish — quatro degrees of reality",
+        "en": "if, unless, wish — four degrees of reality",
+        "es": "if, unless, wish — cuatro grados de realidad"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## Quatro graus\n\nO condicional zero expressa uma verdade geral: {If you sow, you reap}. O primeiro apresenta uma condição possível: {If you pray, God will hear}. O segundo situa presente e resultado no passado irreal: {If I had faith, I would move mountains}. O terceiro apresenta uma condição passada não realizada: {If he had called, I would have come}.\n\nA tabela ensina um padrão padrão, não uma prisão. O inglês bíblico pode usar formas de presente em cláusulas voltadas ao futuro: {he that heareth}. Isso pode ser atemporal ou orientado ao futuro; tradução e contexto decidem.\n\n## Formas e premissas\n\nNo segundo e terceiro condicional, o inglês usa normalmente {were} para todas as pessoas: {If I were you}, {If she were here}. No passado factual comum, use {was}: {I was tired}. {Unless} normalmente significa {if not}; um {if} sem negação também pode ser enfático: If you love me, keep my commands.\n\n{Provided that}, {as long as}, {even if} e {otherwise} têm funções distintas. Distinga o inglês contemporâneo da KJV.",
+        "en": "## Four degrees\n\nThe zero conditional states a general truth: {If you sow, you reap}. The first presents a possible condition: {If you pray, God will hear}. The second sets present and result in an unreal past: {If I had faith, I would move mountains}. The third presents an unrealized past condition: {If he had called, I would have come}.\n\nThis table teaches a default pattern, not a prison. Biblical English may use present forms in future-looking clauses: {he that heareth}. That can be timeless or future-oriented; context and translation decide.\n\n## Forms and assumptions\n\nIn second and third conditionals, English commonly uses {were} for every person: {If I were you}, {If she were here}. In an ordinary factual past, use {was}: {I was tired}. {Unless} usually means {if not}; a positive {if} can be emphatic: If you love me, keep my commands.\n\n{Provided that}, {as long as}, {even if} and {otherwise} have different meanings. Keep contemporary English and KJV separate.",
+        "es": "## Cuatro grados\n\nEl condicional cero expresa una verdad general: {If you sow, you reap}. El primero presenta una condición posible: {If you pray, God will hear}. El segundo sitúa presente y resultado en un pasado irreal: {If I had faith, I would move mountains}. El tercero presenta una condición pasada no realizada: {If he had called, I would have come}.\n\nLa tabla enseña un patrón por defecto, no una cárcel. El inglés bíblico puede emplear presentes en cláusulas orientadas al futuro: {he that heareth}. Puede tener valor atemporal o futuro; el contexto y la traducción deciden.\n\n## Formas y presupuestos\n\nEn el segundo y tercer condicional, el inglés suele usar {were} para todas las personas: {If I were you}, {If she were here}. En un pasado real, usa {was}: {I was tired}. {Unless} suele significar {if not}; un {if} positivo puede ser enfático: If you love me, keep my commands.\n\n{Provided that}, {as long as}, {even if} y {otherwise} tienen valores distintos. Mantén separados el inglés contemporáneo y la KJV."
+      },
+      "vocab": [
+        {
+          "form": "if",
+          "lemma": "if",
+          "lang": "en",
+          "pt": "se",
+          "en": "if",
+          "es": "si"
+        },
+        {
+          "form": "unless",
+          "lemma": "unless",
+          "lang": "en",
+          "pt": "a menos que",
+          "en": "unless",
+          "es": "a menos que"
+        },
+        {
+          "form": "were",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "fosse",
+          "en": "were",
+          "es": "fuera/fueses"
+        },
+        {
+          "form": "would come",
+          "lemma": "come",
+          "lang": "en",
+          "pt": "viria",
+          "en": "would come",
+          "es": "vendría"
+        },
+        {
+          "form": "had come",
+          "lemma": "come",
+          "lang": "en",
+          "pt": "tivesse vindo",
+          "en": "had come",
+          "es": "hubiera venido"
+        },
+        {
+          "form": "sow",
+          "lemma": "sow",
+          "lang": "en",
+          "pt": "semear",
+          "en": "sow",
+          "es": "sembrar"
+        },
+        {
+          "form": "reap",
+          "lemma": "reap",
+          "lang": "en",
+          "pt": "colher",
+          "en": "reap",
+          "es": "cosechar"
+        },
+        {
+          "form": "as long as",
+          "lemma": "as long as",
+          "lang": "en",
+          "pt": "desde que/enquanto",
+          "en": "as long as",
+          "es": "mientras/con tal que"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Complete: 'If I ___ (be) you…'",
+          "en": "Complete: 'If I ___ (be) you…'",
+          "es": "Completa: 'If I ___ (be) you…'"
+        },
+        "answer": "were",
+        "hint": {
+          "pt": "No irreal, were para todas as pessoas.",
+          "en": "In the unreal, were for every person.",
+          "es": "En lo irreal, were para todas las personas."
+        }
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete a clause: If he ___, I will answer.",
+            "en": "Complete the clause: If he ___, I will answer.",
+            "es": "Completa la cláusula: If he ___, I will answer."
+          },
+          "answer": "calls"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione estrutura e tipo.",
+            "en": "Match structure and type.",
+            "es": "Relaciona estructura y tipo."
+          },
+          "pairs": [
+            {
+              "a": "if + present + present",
+              "b": {
+                "pt": "zero",
+                "en": "zero",
+                "es": "cero"
+              }
+            },
+            {
+              "a": "if + past + would",
+              "b": {
+                "pt": "segundo",
+                "en": "second",
+                "es": "segundo"
+              }
+            },
+            {
+              "a": "if + had + would have",
+              "b": {
+                "pt": "terceiro",
+                "en": "third",
+                "es": "terceiro"
+              }
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual frase é quase equivalente a 'unless you believe'?",
+            "en": "Which sentence is nearly equivalent to 'unless you believe'?",
+            "es": "¿Qué frase es casi equivalente a 'unless you believe'?"
+          },
+          "options": [
+            {
+              "pt": "If you do not believe",
+              "en": "If you do not believe",
+              "es": "If you do not believe"
+            },
+            {
+              "pt": "If you believe",
+              "en": "If you believe",
+              "es": "If you believe"
+            },
+            {
+              "pt": "When you believe",
+              "en": "When you believe",
+              "es": "When you believe"
+            },
+            {
+              "pt": "Although you believe",
+              "en": "Although you believe",
+              "es": "Although you believe"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O condicional zero descreve regularidades; os condicionais 1–3 tratam de pessoas e situações específicas.",
+            "en": "Zero conditionals describe regularities; first–third discuss particular people and situations.",
+            "es": "Los condicionales cero describen regularidades; el primero al tercero tratan de personas y situaciones concretas."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "No segundo e terceiro, were aparece com todas as pessoas quando a situação é irreal.",
+            "en": "In second and third conditionals, were appears with every person when the situation is unreal.",
+            "es": "En el segundo y tercer condicional, aparece were con todas las personas cuando la situación es irreal."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Unless significa normalmente if not, mas a negação direta pode ser mais enfática: If I don't know, nobody does.",
+            "en": "Unless normally means if not, but direct negation may be more emphatic: If I don't know, nobody does.",
+            "es": "Unless suele significar if not, pero la negación directa puede ser más enfática: If I don't know, nobody does."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Bíblico:",
+            "en": "Biblical:",
+            "es": "Bíblico:"
+          },
+          "text": {
+            "pt": "Uma forma presente na KJV pode ser intemporal; não force will dentro do versículo.",
+            "en": "A present form in KJV may be timeless; do not force will into the verse.",
+            "es": "Una forma presente en la KJV puede ser atemporal; no fuerces will dentro del versículo."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{If I were you}",
+          "gloss": {
+            "pt": "Se eu fosse você — irreal presente",
+            "en": "If I were you — unreal present",
+            "es": "Si yo fuera tú — presente irreal"
+          }
+        },
+        {
+          "text": "{If he had come, we would have prayed}",
+          "gloss": {
+            "pt": "Se ele tivesse vindo, teríamos orado",
+            "en": "If he had come, we would have prayed",
+            "es": "Si él hubiera venido, habríamos orado"
+          }
+        },
+        {
+          "text": "{unless you believe}",
+          "gloss": {
+            "pt": "a menos que creias / se não credes",
+            "en": "unless you believe",
+            "es": "a menos que creas / si no crees"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Padrão dos condicionais",
+            "en": "Conditional patterns",
+            "es": "Patrones condicionales"
+          },
+          "head": [
+            {
+              "pt": "Tipo",
+              "en": "Type",
+              "es": "Tipo"
+            },
+            {
+              "pt": "If +",
+              "en": "If +",
+              "es": "If +"
+            },
+            {
+              "pt": "Resultado",
+              "en": "Result",
+              "es": "Resultado"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "0 — geral",
+                "en": "0 — general",
+                "es": "0 — general"
+              },
+              "present",
+              "present"
+            ],
+            [
+              {
+                "pt": "1 — real",
+                "en": "1 — real",
+                "es": "1 — real"
+              },
+              "present",
+              "will + base"
+            ],
+            [
+              {
+                "pt": "2 — irreal",
+                "en": "2 — unreal",
+                "es": "2 — irreal"
+              },
+              "past",
+              "would + base"
+            ],
+            [
+              {
+                "pt": "3 — passado irreal",
+                "en": "3 — unreal past",
+                "es": "3 — pasado irreal"
+              },
+              "had + participle",
+              "would have + participle"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": {
+        "pt": "Orações relativas e vírgulas",
+        "en": "Relative clauses and commas",
+        "es": "Oraciones de relativo y comas"
+      },
+      "subtitle": {
+        "pt": "who, which, that — informação e identificação",
+        "en": "who, which, that — information and identification",
+        "es": "who, which, that — información e identificación"
+      },
+      "section": {
+        "pt": "Sintaxe",
+        "en": "Syntax",
+        "es": "Sintaxis"
+      },
+      "body": {
+        "pt": "## O que faz uma oração relativa\n\nUma relativa restritiva identifica o antecedente: {the disciples who believed rejoiced} significa que só os discípulos que criram se regozijaram. Em relativas restritivas, {that} pode referir-se a pessoas ou a coisas: {the disciple that prayed}.\n\nUma relativa explicativa acrescenta informação sobre um grupo já identificado: {the disciples, who believed, rejoiced}. As vírgulas marcam a diferença. {Who} normalmente se refere a pessoas; {which}, a coisas; {whose}, aos possuidores.\n\n## Preposições e relativos\n\n{Where}, {when} e {why} podem substituir uma preposição mais o pronome relativo: {the city where he lived}, {the day when we met}, {the reason why he stayed}. No inglês moderno cuidado, pessoa ou coisa também pode vir depois da preposição: {the person to whom I spoke}.\n\nJoão 1:39 na KJV traz {Where dwellest thou?}; a pergunta contemporânea equivalente seria {Where do you live?}. As duas não são intercambiáveis quanto ao registro.\n\n## What\n\n{What} é um pronome relativo fundido em contextos como {do what he says}. Não o confunda com a palavra interrogativa em {What did he say?}. Na KJV, {whatsoever} é um relativo livre enfático: whatever.",
+        "en": "## What a relative clause does\n\nA defining relative clause identifies its antecedent: {the disciples who believed rejoiced} means only the believing disciples rejoiced. In restrictive clauses, {that} can refer to people or things: {the disciple that prayed}.\n\nA non-defining relative adds information about an already identified group: {the disciples, who believed, rejoiced}. The commas mark the difference. {Who} normally refers to people; {which} to things; {whose} to possessors.\n\n## Prepositions and relatives\n\n{Where}, {when} and {why} can replace a preposition plus relative pronoun: {the city where he lived}, {the day when we met}, {the reason why he stayed}. In careful modern English, a person or thing can also follow the preposition: {the person to whom I spoke}.\n\nJohn 1:39 KJV has {Where dwellest thou?}; the underlying contemporary question is {Where do you live?}. The two are not interchangeable in register.\n\n## What\n\n{What} is a fused relative pronoun in contexts like {do what he says}. Do not confuse it with the question word in {What did he say?}. In KJV, {whatsoever} is an emphatic free relative: whatever.",
+        "es": "## Qué hace una oración de relativo\n\nUn relativo restrictivo identifica el antecedente: {the disciples who believed rejoiced} significa que solo se regozijaron los discípulos que creyeron. En relativas restrictivas, {that} puede referirse a personas o cosas: {the disciple that prayed}.\n\nUn relativo explicativo añade información sobre un grupo ya identificado: {the disciples, who believed, rejoiced}. Las comas marcan la diferencia. {Who} se refiere normalmente a personas; {which}, a cosas; {whose}, a poseedores.\n\n## Preposiciones y relativos\n\n{Where}, {when} y {why} pueden sustituir una preposición más pronombre relativo: {the city where he lived}, {the day when we met}, {the reason why he stayed}. En inglés cuidado, una persona o cosa también puede ir tras la preposición: {the person to whom I spoke}.\n\nJuan 1:39 KJV tiene {Where dwellest thou?}; la pregunta contemporánea subyacente es {Where do you live?}. No son intercambiables por registro.\n\n## What\n\n{What} es un pronombre relativo fusionado en contextos como {do what he says}. No lo confundas con la pregunta de {What did he say?}. En KJV, {whatsoever} es un relativo libre enfático: whatever."
+      },
+      "vocab": [
+        {
+          "form": "who",
+          "lemma": "who",
+          "lang": "en",
+          "pt": "que (pessoas)",
+          "en": "who",
+          "es": "que (personas)"
+        },
+        {
+          "form": "which",
+          "lemma": "which",
+          "lang": "en",
+          "pt": "que (coisas)",
+          "en": "which",
+          "es": "que (cosas)"
+        },
+        {
+          "form": "that",
+          "lemma": "that",
+          "lang": "en",
+          "pt": "que (restrictiva)",
+          "en": "that",
+          "es": "que (restrictiva)"
+        },
+        {
+          "form": "whose",
+          "lemma": "whose",
+          "lang": "en",
+          "pt": "cujo",
+          "en": "whose",
+          "es": "cuyo"
+        },
+        {
+          "form": "where",
+          "lemma": "where",
+          "lang": "en",
+          "pt": "onde",
+          "en": "where",
+          "es": "donde"
+        },
+        {
+          "form": "when",
+          "lemma": "when",
+          "lang": "en",
+          "pt": "quando",
+          "en": "when",
+          "es": "cuando"
+        },
+        {
+          "form": "why",
+          "lemma": "why",
+          "lang": "en",
+          "pt": "por que",
+          "en": "why",
+          "es": "por qué"
+        },
+        {
+          "form": "what",
+          "lemma": "what",
+          "lang": "en",
+          "pt": "o que",
+          "en": "what",
+          "es": "lo que"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "O que indica a vírgula em 'the disciples, who believed, rejoiced'?",
+          "en": "What does the comma indicate in 'the disciples, who believed, rejoiced'?",
+          "es": "¿Qué indica la coma en 'the disciples, who believed, rejoiced'?"
+        },
+        "options": [
+          {
+            "pt": "Que só os crentes se alegrarem",
+            "en": "That only believers rejoiced",
+            "es": "Que solo los creyentes se regozijaron"
+          },
+          {
+            "pt": "Que o grupo já identificado tinha todos crido",
+            "en": "That the already identified group all believed",
+            "es": "Que todo el grupo ya identificado había creído"
+          },
+          {
+            "pt": "Que o verbo muda de tempo",
+            "en": "That the verb changes tense",
+            "es": "Que el verbo cambia de tiempo"
+          },
+          {
+            "pt": "Que there is a question",
+            "en": "That there is a question",
+            "es": "Que hay una pregunta"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: 'God, ___ name is holy…'",
+            "en": "Complete: 'God, ___ name is holy…'",
+            "es": "Completa: 'God, ___ name is holy…'"
+          },
+          "answer": "whose"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione relativo e antecedente.",
+            "en": "Match relative and antecedent.",
+            "es": "Relaciona relativo y antecedente."
+          },
+          "pairs": [
+            {
+              "a": "who",
+              "b": {
+                "pt": "pessoa",
+                "en": "person",
+                "es": "persona"
+              }
+            },
+            {
+              "a": "which",
+              "b": {
+                "pt": "coisa",
+                "en": "thing",
+                "es": "cosa"
+              }
+            },
+            {
+              "a": "whose",
+              "b": {
+                "pt": "posse",
+                "en": "possession",
+                "es": "posesión"
+              }
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual frase identifica apenas um subgrupo?",
+            "en": "Which sentence identifies only a subgroup?",
+            "es": "¿Qué frase identifica solo un subgrupo?"
+          },
+          "options": [
+            {
+              "pt": "The disciples who believed rejoiced",
+              "en": "The disciples who believed rejoiced",
+              "es": "The disciples who believed rejoiced"
+            },
+            {
+              "pt": "The disciples, who believed, rejoiced",
+              "en": "The disciples, who believed, rejoiced",
+              "es": "The disciples, who believed, rejoiced"
+            },
+            {
+              "pt": "The disciples who, believed, rejoiced",
+              "en": "The disciples who, believed, rejoiced",
+              "es": "The disciples who, believed, rejoiced"
+            },
+            {
+              "pt": "The disciples, who believed rejoiced",
+              "en": "The disciples, who believed rejoiced",
+              "es": "The disciples, who believed rejoiced"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "A ausência de vírgula cria uma DEFINIÇÃO: the man who came identifica um homem particular.",
+            "en": "No comma creates a DEFINITION: the man who came identifies a particular man.",
+            "es": "La ausencia de coma crea una DEFINICIÓN: the man who came identifica a un hombre concreto."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Vírgulas indicam informação adicional sobre um antecedente já completo; o relativo então equivale a 'o qual/que'.",
+            "en": "Commas mark added information about a complete antecedent; the relative then means 'which/who'.",
+            "es": "Las comas indican información añadida sobre un antecedente ya completo; el relativo equivale a 'el cual/que'."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Whose pode indicar posse em pessoas e coisas: the man whose son came; the city whose people prayed.",
+            "en": "Whose expresses possession with people and things: the man whose son came; the city whose people prayed.",
+            "es": "Whose expresa posesión con personas y cosas: the man whose son came; the city whose people prayed."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Precisão:",
+            "en": "Precision:",
+            "es": "Precisión:"
+          },
+          "text": {
+            "pt": "A vírgula não muda o pronome, mas muda o conjunto de referência e, muitas vezes, a interpretação.",
+            "en": "The comma does not change the pronoun, but it changes the reference set and often the interpretation.",
+            "es": "La coma no cambia el pronombre, pero cambia el conjunto de referencia y a menudo la interpretación."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{the man who came}",
+          "gloss": {
+            "pt": "o homem que veio — subconjunto identificado",
+            "en": "the man who came — identified subset",
+            "es": "el hombre que vino — subconjunto identificado"
+          }
+        },
+        {
+          "text": "{the disciples, who believed, rejoiced}",
+          "gloss": {
+            "pt": "os discípulos, os quais creram, alegravaram-se",
+            "en": "the disciples, who believed, rejoiced",
+            "es": "los discípulos, que creyeron, se regocijaron"
+          }
+        },
+        {
+          "text": "{the name of which he spoke}",
+          "gloss": {
+            "pt": "o nome do qual falou",
+            "en": "the name of which he spoke",
+            "es": "el nombre del cual habló"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Restritiva × explicativa",
+            "en": "Defining × non-defining",
+            "es": "Restrictiva × explicativa"
+          },
+          "head": [
+            {
+              "pt": "Tipo",
+              "en": "Type",
+              "es": "Tipo"
+            },
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Coisas",
+              "en": "Thing",
+              "es": "Cosa"
+            },
+            {
+              "pt": "Vírgulas",
+              "en": "Commas",
+              "es": "Comas"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "restritiva",
+                "en": "defining",
+                "es": "restrictiva"
+              },
+              "who/that",
+              "which/that",
+              {
+                "pt": "geralmente sem",
+                "en": "usually none",
+                "es": "normalmente ninguna"
+              }
+            ],
+            [
+              {
+                "pt": "explicativa",
+                "en": "non-defining",
+                "es": "explicativa"
+              },
+              "who",
+              "which",
+              {
+                "pt": "normalmente com",
+                "en": "usually required",
+                "es": "normalmente obligatorias"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": {
+        "pt": "Phrasal verbs e preposições bíblicas",
+        "en": "Phrasal verbs and Biblical prepositions",
+        "es": "Phrasal verbs y preposiciones bíblicas"
+      },
+      "subtitle": {
+        "pt": "put on, cast out, come unto — verbos compostos",
+        "en": "put on, cast out, come unto — compound verbs",
+        "es": "put on, cast out, come unto — verbos compuestos"
+      },
+      "section": {
+        "pt": "Sintaxe",
+        "en": "Syntax",
+        "es": "Sintaxis"
+      },
+      "body": {
+        "pt": "## Verbo mais partícula\n\nUm phrasal verb combina verbo e partícula com sentido próprio. A partícula pode ser {on/off/up/out/in/away}, como em {put on}, {cast out}, {come in}, ou uma preposição lexical, como em {come unto} e {look upon}. Não aprenda a palavra isolada; memorize a unidade inteira com seu objeto típico.\n\n{Put on Christ} significa «vestir-se de Cristo», metáfora de um modo de viver transformado. {Put off the old man} exprime rejeitar uma identidade antiga. As duas são metáforas bíblicas, não instruções literais de vestuário.\n\n## Partículas e objetos\n\nCom objeto nominal, a partícula normalmente fica no lugar: {cast out demons}, {look at the house}. Com pronome, a partícula pode se deslocar em alguns usos informais britânicos: {look him at}; o inglês americano padrão costuma mantê-la antes do objeto. Com gerúndio também há variação: {put a coat on}.\n\n## Registro\n\nA KJV usa com frequência {unto} e {upon}; esses não são automaticamente phrasal verbs modernos. O inglês contemporâneo pode dizer {come to} ou {look at}. Registre a forma exata e o registro dela, para que uma tradução não achate o estilo original.",
+        "en": "## Verb plus particle\n\nA phrasal verb combines a verb and particle with its own meaning. The particle may be {on/off/up/out/in/away}, as in {put on}, {cast out}, {come in}, or a lexical preposition, as in {come unto} and {look upon}. Do not learn a word alone; memorize the whole unit with its typical object.\n\n{Put on Christ} means 'clothe oneself with Christ,' a metaphor for a changed way of living. {Put off the old man} expresses rejecting an old identity. Both are Biblical metaphors, not literal clothing instructions.\n\n## Particles and objects\n\nWith a noun object, the particle normally stays in place: {cast out demons}, {look at the house}. With a pronoun, the particle may shift in some informal British usage: {look him at}; standard AmE usually keeps it before the object. With a gerund, variation also occurs: {put a coat on}.\n\n## Register\n\nKJV frequently uses {unto} and {upon}; these are not automatically modern phrasal verbs. Contemporary English may say {come to} or {look at}. Record the exact form and its register so a translation does not flatten the original style.",
+        "es": "## Verbo y partícula\n\nUn phrasal verb combina verbo y partícula con un valor propio. La partícula puede ser {on/off/up/out/in/away}, como en {put on}, {cast out}, {come in}, o una preposición léxica, como en {come unto} y {look upon}. No aprendas una palabra aislada: memoriza la unidad completa con su objeto típico.\n\n{Put on Christ} significa 'revestirse de Cristo', metáfora de un modo de vida cambiado. {Put off the old man} expresa rechazar una identidad antigua. Ambas son metáforas bíblicas, no instrucciones literales de vestir.\n\n## Partículas y objetos\n\nCon objeto nominal, la partícula suele permanecer: {cast out demons}, {look at the house}. Con pronombre, puede desplazarse en algunos usos ingleses informales: {look him at}; el estándar americano normalmente la mantiene antes del objeto. Con gerundio también hay variación: {put a coat on}.\n\n## Registro\n\nLa KJV usa con frecuencia {unto} y {upon}; no son automáticamente phrasal verbs modernos. El inglés contemporáneo puede decir {come to} o {look at}. Registra la forma exacta y su registro para que la traducción no aplane el estilo original."
+      },
+      "vocab": [
+        {
+          "form": "put on",
+          "lemma": "put on",
+          "lang": "en",
+          "pt": "revestir-se de",
+          "en": "put on",
+          "es": "revestirse de"
+        },
+        {
+          "form": "put off",
+          "lemma": "put off",
+          "lang": "en",
+          "pt": "despojar-se de",
+          "en": "put off",
+          "es": "despojarse de"
+        },
+        {
+          "form": "cast out",
+          "lemma": "cast out",
+          "lang": "en",
+          "pt": "expulsar",
+          "en": "cast out",
+          "es": "expulsar"
+        },
+        {
+          "form": "come unto",
+          "lemma": "come unto",
+          "lang": "en",
+          "pt": "vir a",
+          "en": "come unto",
+          "es": "venir a"
+        },
+        {
+          "form": "fall away",
+          "lemma": "fall away",
+          "lang": "en",
+          "pt": "apostatar/cair",
+          "en": "fall away",
+          "es": "apostar/caer"
+        },
+        {
+          "form": "hold fast",
+          "lemma": "hold fast",
+          "lang": "en",
+          "pt": "reter firme",
+          "en": "hold fast",
+          "es": "agarrarse firme de"
+        },
+        {
+          "form": "look after",
+          "lemma": "look after",
+          "lang": "en",
+          "pt": "cuidar",
+          "en": "look after",
+          "es": "cuidar de"
+        },
+        {
+          "form": "look for",
+          "lemma": "look for",
+          "lang": "en",
+          "pt": "procurar",
+          "en": "look for",
+          "es": "buscar"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "O que significa 'put on Christ'?",
+          "en": "What does 'put on Christ' mean?",
+          "es": "¿Qué significa 'put on Christ'?"
+        },
+        "options": [
+          {
+            "pt": "Colocar Cristo",
+            "en": "Place Christ",
+            "es": "colocar a Cristo"
+          },
+          {
+            "pt": "Revestir-se de Cristo",
+            "en": "Clothe oneself with Christ",
+            "es": "revestirse de Cristo"
+          },
+          {
+            "pt": "Despir Cristo",
+            "en": "Take Christ off",
+            "es": "quitar a Cristo"
+          },
+          {
+            "pt": "Mirar a Cristo",
+            "en": "Look at Christ",
+            "es": "mirar a Cristo"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: 'We must look ___ the Lord.'",
+            "en": "Complete: 'We must look ___ the Lord.'",
+            "es": "Completa: 'We must look ___ the Lord.'"
+          },
+          "answer": "for"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione unidade e sentido.",
+            "en": "Match unit and meaning.",
+            "es": "Relaciona unidad y sentido."
+          },
+          "pairs": [
+            {
+              "a": "cast out",
+              "b": {
+                "pt": "expulsar",
+                "en": "expel",
+                "es": "expulsar"
+              }
+            },
+            {
+              "a": "look after",
+              "b": {
+                "pt": "cuidar",
+                "en": "care for",
+                "es": "cuidar"
+              }
+            },
+            {
+              "a": "hold fast",
+              "b": {
+                "pt": "reter",
+                "en": "hold firmly",
+                "es": "retener"
+              }
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual forma identifica melhor o registro KJV?",
+            "en": "Which form best identifies the KJV register?",
+            "es": "¿Qué forma identifica mejor el registro KJV?"
+          },
+          "options": [
+            {
+              "pt": "come unto",
+              "en": "come unto",
+              "es": "come unto"
+            },
+            {
+              "pt": "come to",
+              "en": "come to",
+              "es": "come to"
+            },
+            {
+              "pt": "come at",
+              "en": "come at",
+              "es": "come at"
+            },
+            {
+              "pt": "come by",
+              "en": "come by",
+              "es": "come by"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Aprenda a unidade inteira, não a partícula isolada: look for ≠ look.",
+            "en": "Learn the whole unit, not the particle alone: look for ≠ look.",
+            "es": "Aprende la unidad entera, no la partícula aislada: look for ≠ look."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Com objeto nominal, a partícula costuma ficar depois do verbo: look at him.",
+            "en": "With a noun object, the particle normally follows the verb: look at the house.",
+            "es": "Con objeto nominal, la partícula suele ir tras el verbo: look at the house."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Não atualize KJV silenciosamente: {come unto} é registrável como forma arcaica.",
+            "en": "Do not silently modernize KJV: {come unto} is meaningfully archaic.",
+            "es": "No modernices la KJV en silencio: {come unto} es una forma arcaica significativa."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Tradução:",
+            "en": "Translation:",
+            "es": "Traducción:"
+          },
+          "text": {
+            "pt": "Atualizar o registro pode melhorar a compreensão, mas é necessário informar que isso foi feito.",
+            "en": "Modernizing register can improve clarity, but it must be disclosed.",
+            "es": "Modernizar el registro puede mejorar la claridad, pero debe indicarse expresamente."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{put on Christ}",
+          "gloss": {
+            "pt": "revestir-se de Cristo",
+            "en": "put on Christ",
+            "es": "revestirse de Cristo"
+          }
+        },
+        {
+          "text": "{cast out demons}",
+          "gloss": {
+            "pt": "expulsar demônios",
+            "en": "cast out demons",
+            "es": "expulsar demonios"
+          }
+        },
+        {
+          "text": "{come unto me}",
+          "gloss": {
+            "pt": "vinde a mim — KJV",
+            "en": "come unto me",
+            "es": "venid a mí — KJV"
+          }
+        },
+        {
+          "text": "{look for}",
+          "gloss": {
+            "pt": "procurar",
+            "en": "look for",
+            "es": "buscar"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Unidades e valores",
+            "en": "Units and values",
+            "es": "Unidades y valores"
+          },
+          "head": [
+            {
+              "pt": "Unidade",
+              "en": "Unit",
+              "es": "Unidad"
+            },
+            {
+              "pt": "Valor",
+              "en": "Value",
+              "es": "Valor"
+            },
+            {
+              "pt": "Registro",
+              "en": "Register",
+              "es": "Registro"
+            }
+          ],
+          "rows": [
+            [
+              "{put on}",
+              {
+                "pt": "revestir-se de",
+                "en": "put on/put on oneself in",
+                "es": "revestirse de"
+              },
+              {
+                "pt": "bíblico",
+                "en": "Biblical",
+                "es": "bíblico"
+              }
+            ],
+            [
+              "{cast out}",
+              {
+                "pt": "expulsar",
+                "en": "expel",
+                "es": "expulsar"
+              },
+              {
+                "pt": "bíblico",
+                "en": "Biblical",
+                "es": "bíblico"
+              }
+            ],
+            [
+              "{come unto}",
+              {
+                "pt": "venir a",
+                "en": "come to",
+                "es": "venir a"
+              },
+              {
+                "pt": "arcaico/KJV",
+                "en": "archaic/KJV",
+                "es": "arcaico/KJV"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": {
+        "pt": "Capstone: discurso indireto, relativos e tag questions",
+        "en": "Capstone: reported speech, relatives and tag questions",
+        "es": "Capstone: discurso indirecto, relativos y tag questions"
+      },
+      "subtitle": {
+        "pt": "He said that… — integração final",
+        "en": "He said that… — final integration",
+        "es": "He said that… — integración final"
+      },
+      "section": {
+        "pt": "Sintaxe",
+        "en": "Syntax",
+        "es": "Sintaxis"
+      },
+      "body": {
+        "pt": "## Discurso indireto\n\nDepois de um verbo de fala no passado, o inglês costuma recuar o tempo: {He says he comes} → {He said he would come}; {He says he came} → {He said he had come}. Isso é concordância gramatical, não mudança no fato histórico. O presente perfeito pode virar passado perfeito: {has seen} → {had seen}. Quando o fato permanece verdadeiro, o presente pode ficar: {He said that God is love}.\n\n{Say} normalmente não recebe objeto indireto: {He said that...}. {Tell} recebe: {He told them that...}. Perguntar e ordenar costumam usar o infinitivo: {He asked where they lived}; {He told them to go}.\n\n## Uma capela gramatical\n\nUm parágrafo integrador pode combinar artigo, tempo, passiva, oração relativa, condicional e phrasal verb: {The light that was made to shine before the nations was not put out by those who believed}. {That} restringe {the light}; {was made} é passiva; {to shine} é um infinitivo final; {those who believed} é uma oração relativa; {put out} é um phrasal verb.\n\n## Tag questions\n\nA tag repete o auxiliar ou a cópula, não o verbo inteiro. {You believe, don't you?}; {He is good, isn't he?}; {They have gone, haven't they?}; {We were not late, were we?}. Afirmação positiva → tag negativa; afirmação negativa → tag positiva. Pronome e auxiliar têm de concordar.\n\nA tag também busca contato real com quem ouve. {You are coming, aren't you?} convida à confirmação. No inglês literário, as tags podem ser ecoadas em prosa formal, mas o padrão contemporâneo prefere perguntas comuns de sujeito e verbo.",
+        "en": "## Reported speech\n\nAfter a past reporting verb, English often backshifts tense: {He says he comes} → {He said he would come}; {He says he came} → {He said he had come}. This is grammatical concord, not a change in historical fact. Present perfect may become past perfect: {has seen} → {had seen}. When the fact remains true, present can stay: {He said that God is love}.\n\n{Say} does not normally take an indirect object: {He said that...}. {Tell} takes one: {He told them that...}. Ask and order often use an infinitive: {He asked where they lived}; {He told them to go}.\n\n## A grammar chapel\n\nAn integrating paragraph can combine articles, tense, passive, relative clause, conditional and phrasal verb: {The light that was made to shine before the nations was not put out by those who believed}. {That} restricts {the light}; {was made} is passive; {to shine} is a purpose infinitive; {those who believed} is a relative clause; {put out} is a phrasal verb.\n\n## Tag questions\n\nA tag repeats the auxiliary or copula, not the whole verb. {You believe, don't you?}; {He is good, isn't he?}; {They have gone, haven't they?}; {We were not late, were we?}. Positive statement → negative tag; negative statement → positive tag. Pronoun and auxiliary must agree.\n\nA tag also seeks real contact with the listener. {You are coming, aren't you?} invites confirmation. In literary English, tags can be echoed in formal prose, but contemporary standard prefers ordinary subject–verb questions.",
+        "es": "## Discurso indirecto\n\nTras un verbo de habla en pasado, el inglés suele hacer retroceso temporal: {He says he comes} → {He said he would come}; {He says he came} → {He said he had come}. Es concordancia gramatical, no un cambio de los hechos. El presente perfecto puede pasar a pasado perfecto: {has seen} → {had seen}. Si el hecho sigue siendo verdad, puede mantenerse el presente: {He said that God is love}.\n\n{Say} normalmente no lleva objeto indirecto: {He said that...}. {Tell} sí: {He told them that...}. Ask y order a menudo emplean infinitivo: {He asked where they lived}; {He told them to go}.\n\n## Una capilla de gramática\n\nUn párrafo integrador reúne artículos, tiempo, pasiva, relativo, condicional y phrasal verb: {The light that was made to shine before the nations was not put out by those who believed}. {That} restringe {the light}; {was made} es pasiva; {to shine} es infinitivo de finalidad; {those who believed} es relativo; {put out} es phrasal verb.\n\n## Tag questions\n\nLa etiqueta repite el auxiliar o cópula, no el verbo entero. {You believe, don't you?}; {He is good, isn't he?}; {They have gone, haven't they?}; {We were not late, were we?}. Enunciado positivo → etiqueta negativa; enunciado negativo → etiqueta positiva. Pronombre y auxiliar deben concordar.\n\nLa etiqueta busca contacto real con el interlocutor. {You are coming, aren't you?} solicita confirmación. En inglés literario puede aparecer en prosa formal, pero el estándar contemporáneo prefiere la pregunta normal sujeto-verbo."
+      },
+      "vocab": [
+        {
+          "form": "said that",
+          "lemma": "say",
+          "lang": "en",
+          "pt": "disse que",
+          "en": "said that",
+          "es": "dijo que"
+        },
+        {
+          "form": "would come",
+          "lemma": "come",
+          "lang": "en",
+          "pt": "viria",
+          "en": "would come",
+          "es": "vendría"
+        },
+        {
+          "form": "had come",
+          "lemma": "come",
+          "lang": "en",
+          "pt": "havia vindo",
+          "en": "had come",
+          "es": "había venido"
+        },
+        {
+          "form": "ask where",
+          "lemma": "ask",
+          "lang": "en",
+          "pt": "perguntar onde",
+          "en": "ask where",
+          "es": "preguntar dónde"
+        },
+        {
+          "form": "tell to go",
+          "lemma": "tell",
+          "lang": "en",
+          "pt": "mandar ir",
+          "en": "tell to go",
+          "es": "decir que vaya"
+        },
+        {
+          "form": "isn't he",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "não é?",
+          "en": "isn't he?",
+          "es": "¿no es?"
+        },
+        {
+          "form": "don't you",
+          "lemma": "do",
+          "lang": "en",
+          "pt": "não você?",
+          "en": "don't you?",
+          "es": "¿no es verdad?"
+        },
+        {
+          "form": "aren't you",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "não está você?",
+          "en": "aren't you?",
+          "es": "¿no estás?"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Complete: 'He is good, ___?'",
+          "en": "Complete: 'He is good, ___?'",
+          "es": "Completa: 'He is good, ___?'"
+        },
+        "answer": "isn't he",
+        "hint": {
+          "pt": "Afirmativa recebe tag negativa com o mesmo auxiliar.",
+          "en": "A positive statement takes a negative tag with the same auxiliary.",
+          "es": "Un enunciado positivo lleva una tag negativa con el mismo auxiliar."
+        }
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Retrocesso temporal: 'He said he would ___.'",
+            "en": "Backshift: 'He said he would ___.'",
+            "es": "Retroceso temporal: 'He said he would ___.'"
+          },
+          "answer": "come"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Relacione estrutura e função.",
+            "en": "Match structure and function.",
+            "es": "Relaciona estructura y función."
+          },
+          "pairs": [
+            {
+              "a": "that was made",
+              "b": {
+                "pt": "relativo + passiva",
+                "en": "relative + passive",
+                "es": "relativo + pasiva"
+              }
+            },
+            {
+              "a": "to shine",
+              "b": {
+                "pt": "finalidade",
+                "en": "purpose",
+                "es": "finalidad"
+              }
+            },
+            {
+              "a": "who believed",
+              "b": {
+                "pt": "relativo restritivo",
+                "en": "defining relative",
+                "es": "relativo restrictivo"
+              }
+            }
+          ],
+          "answer": [
+            "0-0",
+            "1-1",
+            "2-2"
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual tag está correta para 'We were not late, ___?'",
+            "en": "Which tag is correct for 'We were not late, ___?'",
+            "es": "¿Qué tag es correcta para 'We were not late, ___?'"
+          },
+          "options": [
+            {
+              "pt": "weren't we?",
+              "en": "weren't we?",
+              "es": "weren't we?"
+            },
+            {
+              "pt": "wasn't we?",
+              "en": "wasn't we?",
+              "es": "wasn't we?"
+            },
+            {
+              "pt": "aren't we?",
+              "en": "aren't we?",
+              "es": "aren't we?"
+            },
+            {
+              "pt": "don't we?",
+              "en": "don't we?",
+              "es": "don't we?"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O discurso indireto pode recuar o tempo, mas o conteúdo original permanece: reported tense is a present view of the past, not a new event.",
+            "en": "Reported speech may backshift tense, but the original content remains: reported tense is a present view of the past, not a new event.",
+            "es": "El discurso indirecto puede hacer retroceso temporal, pero el contenido original permanece: el tiempo indirecto es una visión presente del pasado, no un suceso nuevo."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Tag = auxiliar + pronome, com sinal oposto. Use o auxiliar da primeira oração, inclusive nas respostas curtas: Yes, I do.",
+            "en": "Tag = auxiliary + pronoun, with opposite polarity. Use the main auxiliary, including in short answers: Yes, I do.",
+            "es": "Tag = auxiliar + pronombre, con polaridad opuesta. Usa el auxiliar principal, también en respuestas breves: Yes, I do."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Leia a frase integrada em camadas e identifique estrutura, tempo, voz e léxico antes de traduzir.",
+            "en": "Read an integrated sentence in layers and identify structure, tense, voice and lexis before translating.",
+            "es": "Lee una frase integrada por capas e identifica estructura, tiempo, voz y léxico antes de traducir."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Tarefa final:",
+            "en": "Final task:",
+            "es": "Tarea final:"
+          },
+          "text": {
+            "pt": "Leia o exemplo integrado em voz alta, cubra as glosas e identifique cada estrutura antes de conferir.",
+            "en": "Read the integrated example aloud, cover the glosses and identify each structure before checking.",
+            "es": "Lee el ejemplo integrado en voz alta, tapa las glosas e identifica cada estructura antes de comprobar."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "{He said that he would come}",
+          "gloss": {
+            "pt": "Ele disse que viria",
+            "en": "He said that he would come",
+            "es": "Dijo que vendría"
+          }
+        },
+        {
+          "text": "{The light that was made to shine}",
+          "gloss": {
+            "pt": "A luz que foi feita para brilhar",
+            "en": "The light that was made to shine",
+            "es": "La luz que fue hecha para brillar"
+          }
+        },
+        {
+          "text": "{You believe, don't you?}",
+          "gloss": {
+            "pt": "Você acredita, não é?",
+            "en": "You believe, don't you?",
+            "es": "Tú crees, ¿no es verdad?"
+          }
+        },
+        {
+          "text": "{I don't know, do you?}",
+          "gloss": {
+            "pt": "Não sei, e você?",
+            "en": "I don't know, do you?",
+            "es": "No lo sé, ¿y tú?"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Mapa de integração final",
+            "en": "Final integration map",
+            "es": "Mapa de integración final"
+          },
+          "head": [
+            {
+              "pt": "Estrutura",
+              "en": "Structure",
+              "es": "Estructura"
+            },
+            {
+              "pt": "No exemplo",
+              "en": "In the example",
+              "es": "En el ejemplo"
+            },
+            {
+              "pt": "Função",
+              "en": "Function",
+              "es": "Función"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "relativo restritivo",
+                "en": "defining relative",
+                "es": "relativo restrictivo"
+              },
+              "{that was made}",
+              {
+                "pt": "identifica a luz",
+                "en": "identifies the light",
+                "es": "identifica la luz"
+              }
+            ],
+            [
+              {
+                "pt": "infinitivo",
+                "en": "infinitive",
+                "es": "infinitivo"
+              },
+              "{to shine}",
+              {
+                "pt": "finalidade",
+                "en": "purpose",
+                "es": "finalidad"
+              }
+            ],
+            [
+              {
+                "pt": "relativo",
+                "en": "relative",
+                "es": "relativo"
+              },
+              "{who believed}",
+              {
+                "pt": "restringe those",
+                "en": "restricts those",
+                "es": "restringe those"
+              }
+            ],
+            [
+              {
+                "pt": "phrasal verb",
+                "en": "phrasal verb",
+                "es": "phrasal verb"
+              },
+              "{put out}",
+              {
+                "pt": "apagar",
+                "en": "extinguish",
+                "es": "apagar"
+              }
+            ],
+            [
+              {
+                "pt": "tag",
+                "en": "tag",
+                "es": "tag"
+              },
+              "{aren't you?}",
+              {
+                "pt": "confirma contato",
+                "en": "seeks contact",
+                "es": "busca contacto"
+              }
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "contentVersion": "1.0.0+g45422be1"
+}

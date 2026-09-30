@@ -1,0 +1,5293 @@
+{
+  "schemaVersion": 1,
+  "id": "ar",
+  "lang": "ar",
+  "title": {
+    "pt": "Árabe",
+    "en": "Arabic"
+  },
+  "description": {
+    "pt": "Árabe do alfabeto ao texto bíblico: letras, artigo ال, verbos e João 1:1 (Van Dyck).",
+    "en": "Arabic from alphabet to biblical text: letters, ال article, verbs and John 1:1 (Van Dyck)."
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "title": {
+        "pt": "O alfabeto árabe",
+        "en": "The Arabic alphabet",
+        "es": "El alfabeto árabe"
+      },
+      "subtitle": {
+        "pt": "28 letras, da direita para a esquerda",
+        "en": "28 letters, right to left",
+        "es": "28 letras, de derecha a izquierda"
+      },
+      "section": {
+        "pt": "Alfabeto e escrita",
+        "en": "Alphabet and writing",
+        "es": "Alfabeto y escritura"
+      },
+      "body": {
+        "pt": "## A direção da escrita\n\nO árabe se lê e se escreve da DIREITA para a ESQUERDA, e as letras mudam de forma conforme a posição: inicial, medial, final ou isolada. Em {الْكَلِمَةُ} a letra {ك} aparece com forma diferente de quando está sozinha, e isso vale para as outras. A pontuação é opcional na escrita tradicional: a leitura se orienta pelo contexto.\n\n## As 28 letras\n\nSão 28 letras, mais a {ة} e a {ء} — que na contagem tradicional entram como formas à parte. Compare os sons com o latim: {ب} [b] e {ت} [t] coincidem; {ج} tem som de [ʒ] e {غ} de [ɣ], ausentes no português; {ح} e {ه} são sopros fortes, e {خ} e {ه} também. A letra {ع} não tem equivalente em português: é uma faringal.\n\n## Formas de ligação\n\nUma letra muda de forma se estiver ligada à seguinte. Isso vale para {بـ-ب-ب} e para as outras; apenas seis letras — {ا د ذ ر ز و} — não se ligam à seguinte, porque só vivem no começo ou no fim da palavra. Por isso {الله} lê-se alif-lam-lam-hā, com as duas lams ligadas.\n\n## Anotação vocálica\n\nO texto bíblico vem com vogais curtas acima e abaixo das consoantes: {كَتَبَ} é ka-ta-ba. Elas não são acentos, e sim informação de pronúncia, sempre presente. A {سْ} marca a ausência de vogal. Por isso o mesmo esqueleto consonantal pode receber leitura diferente conforme as vogais.\n\n## Critério de leitura\n\nLeia primeiro o esqueleto consonantal da palavra e depois as vogais. Ao encontrar {قُلْ} identifique {ق} como raiz do verbo e as vogais como marca de tempo e pessoa — é o primeiro passo para a lição 3.",
+        "en": "## The direction of writing\n\nArabic is read and written from RIGHT to LEFT, and letters change shape according to position: initial, medial, final or isolated. In {الْكَلِمَةُ} the letter {ك} looks different from when it stands alone, and so do the others. Punctuation is optional in traditional writing: reading is guided by context.\n\n## The 28 letters\n\nThere are 28 letters, plus {ة} and {ء} — which traditional counts treat as separate forms. Compare the sounds with Latin: {ب} [b] and {ت} [t] coincide; {ج} has [ʒ] and {غ} has [ɣ], both absent from Portuguese; {ح} and {ه} are strong h-like fricatives, and so are {خ} and {ه}. The letter {ع} has no Portuguese equivalent: it is a pharyngeal.\n\n## Joining forms\n\nA letter changes shape when it joins the one that follows. This applies to {بـ-ب-ب} and to the rest; only six letters — {ا د ذ ر ز و} — never join what follows, because they occur only at the start or the end of a word. That is why {الله} is read alif-lam-lam-hā, with the two lams joined.\n\n## Vowel notation\n\nBiblical text carries short vowels above and below the consonants: {كَتَبَ} is ka-ta-ba. They are not accents but pronunciation information, and they are always present. {سْ} marks the absence of a vowel. The same consonantal skeleton can therefore be read differently depending on the vowels.\n\n## Reading criterion\n\nRead the consonantal skeleton of the word first, then the vowels. On meeting {قُلْ}, identify {ق} as the verbal root and the vowels as marking tense and person — the first step into lesson 3.",
+        "es": "## La dirección de la escritura\n\nEl árabe se lee y se escribe de DERECHA a IZQUIERDA, y las letras cambian de forma según la posición: inicial, media, final o aislada. En {الْكَلِمَةُ} la letra {ك} tiene una forma distinta de cuando está sola, y lo mismo vale para las demás. La puntuación es opcional en la escritura tradicional: la lectura se orienta por el contexto.\n\n## Las 28 letras\n\nSon 28 letras, más {ة} y {ء} — que la recuento tradicional trata como formas aparte. Compara los sonidos con el latín: {ب} [b] y {ت} [t] coinciden; {ج} tiene [ʒ] y {غ} tiene [ɣ], ambos ausentes en el portugués; {ح} y {ه} son fuertes, y también {خ} y {ه}. La letra {ع} no tiene equivalente en portugués: es una faringal.\n\n## Formas de unión\n\nUna letra cambia de forma cuando se une a la siguiente. Esto vale para {بـ-ب-ب} y para las demás; solo seis letras — {ا د ذ ر ز و} — no se unen a lo que sigue, porque solo aparecen al principio o al final de la palabra. Por eso {الله} se lee alif-lam-lam-hā, con las dos lams unidas.\n\n## Notación vocálica\n\nEl texto bíblico trae vocales breves encima y debajo de las consonantes: {كَتَبَ} es ka-ta-ba. No son acentos, sino información de pronunciación, y siempre están presentes. {سْ} marca la ausencia de vocal. Por eso el mismo esqueleto consonántico puede leerse de forma distinta según las vocales.\n\n## Criterio de lectura\n\nLee primero el esqueleto consonántico de la palabra y después las vocales. Al encontrar {قُلْ}, identifica {ق} como raíz verbal y las vocales como marca de tiempo y persona — el primer paso hacia la lección 3."
+      },
+      "vocab": [
+        {
+          "form": "ا",
+          "lemma": "ا",
+          "lang": "ar",
+          "pt": "alif",
+          "en": "alif",
+          "es": "alif"
+        },
+        {
+          "form": "ب",
+          "lemma": "ب",
+          "lang": "ar",
+          "pt": "bāʾ",
+          "en": "ba",
+          "es": "bāʾ"
+        },
+        {
+          "form": "ت",
+          "lemma": "ت",
+          "lang": "ar",
+          "pt": "tāʾ",
+          "en": "ta",
+          "es": "tāʾ"
+        },
+        {
+          "form": "ث",
+          "lemma": "ث",
+          "lang": "ar",
+          "pt": "ṯāʾ",
+          "en": "tha",
+          "es": "ṯāʾ"
+        },
+        {
+          "form": "ج",
+          "lemma": "ج",
+          "lang": "ar",
+          "pt": "jīm",
+          "en": "jim",
+          "es": "jīm"
+        },
+        {
+          "form": "ح",
+          "lemma": "ح",
+          "lang": "ar",
+          "pt": "ḥāʾ",
+          "en": "ha",
+          "es": "ḥāʾ"
+        },
+        {
+          "form": "خ",
+          "lemma": "خ",
+          "lang": "ar",
+          "pt": "khāʾ",
+          "en": "kha",
+          "es": "khāʾ"
+        },
+        {
+          "form": "د",
+          "lemma": "د",
+          "lang": "ar",
+          "pt": "dāl",
+          "en": "dal",
+          "es": "dāl"
+        },
+        {
+          "form": "ذ",
+          "lemma": "ذ",
+          "lang": "ar",
+          "pt": "ḏāl",
+          "en": "dhal",
+          "es": "ḏāl"
+        },
+        {
+          "form": "ر",
+          "lemma": "ر",
+          "lang": "ar",
+          "pt": "rāʾ",
+          "en": "ra",
+          "es": "rāʾ"
+        },
+        {
+          "form": "س",
+          "lemma": "س",
+          "lang": "ar",
+          "pt": "sīn",
+          "en": "sin",
+          "es": "sīn"
+        },
+        {
+          "form": "ص",
+          "lemma": "ص",
+          "lang": "ar",
+          "pt": "ṣād",
+          "en": "sad",
+          "es": "ṣād"
+        },
+        {
+          "form": "ط",
+          "lemma": "ط",
+          "lang": "ar",
+          "pt": "ṭāʾ",
+          "en": "emphatic ta",
+          "es": "ṭāʾ enfática"
+        },
+        {
+          "form": "ع",
+          "lemma": "ع",
+          "lang": "ar",
+          "pt": "ʿayn",
+          "en": "ayn",
+          "es": "ʿayn"
+        },
+        {
+          "form": "ف",
+          "lemma": "ف",
+          "lang": "ar",
+          "pt": "fāʾ",
+          "en": "fa",
+          "es": "fāʾ"
+        },
+        {
+          "form": "ق",
+          "lemma": "ق",
+          "lang": "ar",
+          "pt": "qāf",
+          "en": "qaf",
+          "es": "qāf"
+        },
+        {
+          "form": "ك",
+          "lemma": "ك",
+          "lang": "ar",
+          "pt": "kāf",
+          "en": "kaf",
+          "es": "kāf"
+        },
+        {
+          "form": "ل",
+          "lemma": "ل",
+          "lang": "ar",
+          "pt": "lām",
+          "en": "lam",
+          "es": "lām"
+        },
+        {
+          "form": "م",
+          "lemma": "م",
+          "lang": "ar",
+          "pt": "mīm",
+          "en": "mim",
+          "es": "mīm"
+        },
+        {
+          "form": "ن",
+          "lemma": "ن",
+          "lang": "ar",
+          "pt": "nūn",
+          "en": "nun",
+          "es": "nūn"
+        },
+        {
+          "form": "ه",
+          "lemma": "ه",
+          "lang": "ar",
+          "pt": "hāʾ",
+          "en": "ha",
+          "es": "hāʾ"
+        },
+        {
+          "form": "و",
+          "lemma": "و",
+          "lang": "ar",
+          "pt": "wāw",
+          "en": "waw",
+          "es": "wāw"
+        },
+        {
+          "form": "ي",
+          "lemma": "ي",
+          "lang": "ar",
+          "pt": "yāʾ",
+          "en": "ya",
+          "es": "yāʾ"
+        },
+        {
+          "form": "الله",
+          "lemma": "الله",
+          "lang": "ar",
+          "pt": "Deus",
+          "en": "God",
+          "es": "Dios"
+        },
+        {
+          "form": "نُور",
+          "lemma": "نور",
+          "lang": "ar",
+          "pt": "luz",
+          "en": "light",
+          "es": "luz"
+        },
+        {
+          "form": "كَلِمَة",
+          "lemma": "كلمة",
+          "lang": "ar",
+          "pt": "palavra",
+          "en": "word",
+          "es": "palabra"
+        },
+        {
+          "form": "حَيَاة",
+          "lemma": "حياة",
+          "lang": "ar",
+          "pt": "vida",
+          "en": "life",
+          "es": "vida"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em que direção se lê o árabe?",
+          "en": "Which way is Arabic read?",
+          "es": "¿En qué dirección se lee el árabe?"
+        },
+        "options": [
+          {
+            "pt": "Da esquerda para a direita",
+            "en": "From left to right",
+            "es": "De izquierda a derecha"
+          },
+          {
+            "pt": "Da direita para a esquerda",
+            "en": "From right to left",
+            "es": "De derecha a izquierda"
+          },
+          {
+            "pt": "De cima para baixo",
+            "en": "Top to bottom",
+            "es": "De arriba abajo"
+          },
+          {
+            "pt": "Em colunas",
+            "en": "In columns",
+            "es": "En columnas"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Escreva as 28 letras fundamentais na ordem padrão.",
+            "en": "Write the 28 core letters in standard order.",
+            "es": "Escribe las 28 letras básicas en el orden estándar."
+          },
+          "answer": "ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي",
+          "hint": {
+            "pt": "Comemce por ا e termine por ي.",
+            "en": "Start with ا and end with ي.",
+            "es": "Empieza por ا y termina en ي."
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe som e grafema.",
+            "en": "Match sounds to letters.",
+            "es": "Relaciona sonidos y grafemas."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "ba",
+                "en": "ba",
+                "es": "ba"
+              },
+              "b": {
+                "pt": "ب",
+                "en": "ب",
+                "es": "ب"
+              }
+            },
+            {
+              "a": {
+                "pt": "kha",
+                "en": "kha",
+                "es": "jā"
+              },
+              "b": {
+                "pt": "خ",
+                "en": "خ",
+                "es": "خ"
+              }
+            },
+            {
+              "a": {
+                "pt": "ayn",
+                "en": "ayn",
+                "es": "ayn"
+              },
+              "b": {
+                "pt": "ع",
+                "en": "ع",
+                "es": "ع"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual sinal indica a vocal i?",
+            "en": "Which mark indicates i?",
+            "es": "¿Qué signo indica la vocal i?"
+          },
+          "options": [
+            {
+              "pt": "fatha",
+              "en": "fatha",
+              "es": "fatha"
+            },
+            {
+              "pt": "kasra",
+              "en": "kasra",
+              "es": "kasra"
+            },
+            {
+              "pt": "ḍamma",
+              "en": "ḍamma",
+              "es": "ḍamma"
+            },
+            {
+              "pt": "sukūn",
+              "en": "sukun",
+              "es": "sukun"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "A direção de lectura é de derecha a izquierda.",
+            "en": "Reading runs from right to left.",
+            "es": "La lectura va de derecha a izquierda."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Seis letras — ا د ذ ر ز و — solo enlazan con la letra precedente.",
+            "en": "Six letters — ا د ذ ر ز و — join only to the preceding letter.",
+            "es": "Seis letras — ا د ذ ر ز و — solo se enlazan con la letra anterior."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Las vocales breves se escriben con fatha َ, kasra ِ y ḍamma ُ.",
+            "en": "Short vowels are written with fatha َ, kasra ِ, and ḍamma ُ.",
+            "es": "Las vocales breves se escriben con fatha َ, kasra ِ y ḍamma ُ."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Pronunciación",
+            "en": "Pronunciation",
+            "es": "Pronunciación"
+          },
+          "text": {
+            "pt": "Las vocales son claras; la articulación de las consonantes es implícita.",
+            "en": "Vowels are clear; consonant articulation is implied.",
+            "es": "Las vocales son claras; la articulación de las consonantes es implícita."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "نُور",
+          "gloss": {
+            "pt": "nūr — luz",
+            "en": "nūr — light",
+            "es": "nūr — luz"
+          }
+        },
+        {
+          "text": "كَلِمَة",
+          "gloss": {
+            "pt": "kalima — palavra",
+            "en": "kalima — word",
+            "es": "kalima — palabra"
+          }
+        },
+        {
+          "text": "بَيْت",
+          "gloss": {
+            "pt": "bayt — casa; la_connection facilita la lectura",
+            "en": "bayt — house; joining makes it readable",
+            "es": "bayt — casa; la unión facilita la lectura"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Letras e sons",
+            "en": "Letters and sounds",
+            "es": "Letras y sonidos"
+          },
+          "head": [
+            {
+              "pt": "Grupo",
+              "en": "Group",
+              "es": "Grupo"
+            },
+            {
+              "pt": "Letras",
+              "en": "Letters",
+              "es": "Letras"
+            },
+            {
+              "pt": "Notas",
+              "en": "Notes",
+              "es": "Notas"
+            }
+          ],
+          "rows": [
+            [
+              "alif, wāw, yāʾ",
+              "ا و ي",
+              "No forman por sí solas sílaba abierta"
+            ],
+            [
+              "consonantes aspuras",
+              "ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه",
+              "Permiten sílabas cerradas"
+            ],
+            [
+              "hamza",
+              "ء أ إ ؤ ئ",
+              "Indica sonido de vocal o consonante glotal"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "pt": "O artigo e o gênero",
+        "en": "The article and gender",
+        "es": "El artículo y el género"
+      },
+      "subtitle": {
+        "pt": "ال: o sol e a lua",
+        "en": "ال: the sun and the moon",
+        "es": "ال: el sol y la luna"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "## O artigo definido\n\nO artigo {ال} — o equivalente ao \"o\" do português — marca definitude: {الكِتَاب} é \"o livro\", o livro já conhecido. Ele se junta ao substantivo e pode assimilar a consoante inicial: após {ال} um {د} vira {ذ}, um {ت} vira {ط}, um {ر} ou {ز} recebem {ش}. Compare {الْمَلِك} e {الْمَلِكَة}: a troca do tema de {مَلِك} para {مَلِكة} é o outro mecanismo, o gênero.\n\n## O gênero\n\nO gênero não é livre: {الْمَلِك} é masculino e {الْمَلِكَة} feminino, {ابْن} e {ابْنَة} idem. O feminino costuma se formar com {ة}, e o plural masculino com {ونَ} ({مُؤْمِنُونَ}) contra o feminino {ات} ({كَلِمَات}). O gênero governa a concordância de todos os adjetivos e particípios, então errar o gênero quebra a frase inteira, não só uma palavra.\n\n## Adual, plural e contagem\n\nO substantivo aparece sempre de forma definida e no plural. O plural {كَلِمَات} é mais comum que o dual, que o árabe trata como categoria própria: {كَلِمَتَانِ} significa \"duas palavras\" e é o plural mais distante do singular.\n\n## Critério de leitura\n\nSempre que ver {ال} em um versículo, pergunte se ele é artigo ou parte da raiz. Em {الله} e em {الْحَيَاة} ele está grudado à palavra; separar o artigo da raiz muda o sentido.",
+        "en": "## The definite article\n\nThe article {ال} — the equivalent of the Portuguese \"o\" — marks definiteness: {الكِتَاب} is \"the book\", the book already known. It joins the noun and may assimilate its initial consonant: after {ال} a {د} becomes {ذ}, a {ت} becomes {ط}, and a {ر} or {ز} take {ش}. Compare {الْمَلِك} and {الْمَلِكَة}: the change of theme plus {ة} is the other mechanism, gender.\n\n## Gender\n\nGender is not free: {الْمَلِك} is masculine and {الْمَلِكَة} feminine, {ابْن} and {ابْنَة} likewise. The feminine is usually formed with {ة}, the masculine plural with {ونَ} ({مُؤْمِنُونَ}) against the feminine {ات} ({كَلِمَات}). Gender governs the agreement of every adjective and participle, so getting gender wrong breaks the whole clause, not just one word.\n\n## Singular, plural and counting\n\nThe noun always appears in definite form. The plural {كَلِمَات} is commoner than the dual, which Arabic treats as its own category: {كَلِمَتَانِ} means \"two words\" and is the plural furthest from the singular.\n\n## Reading criterion\n\nWhenever you meet {ال} in a verse, ask whether it is the article or part of the root. In {الله} and {الْحَيَاة} it is stuck to the word; separating article from root changes the sense.",
+        "es": "## El artículo definido\n\nEl artículo {ال} — el equivalente de «o» en portugués — marca definitud: {الكِتَاب} es «el libro», el libro ya conocido. Se une al sustantivo y puede asimilar la consonante inicial: tras {ال} una {د} se vuelve {ذ}, una {ت} se vuelve {ط}, y {ر} o {ز} toman {ش}. Compara {الْمَلِك} y {الْمَلِكَة}: el cambio de tema más {ة} es el otro mecanismo, el género.\n\n## El género\n\nEl género no es libre: {الْمَلِك} es masculino y {الْمَلِكَة} femenino, {ابْن} y {ابْنَة} igual. El femenino suele formarse con {ة}, el plural masculino con {ونَ} ({مُؤْمِنُونَ}) frente al femenino {ات} ({كَلِمَات}). El género gobierna la concordancia de todos los adjetivos y participios, así que equivocarse de género rompe la cláusula entera, no solo una palabra.\n\n## Singular, plural y recuento\n\nEl sustantivo aparece siempre en forma definida. El plural {كَلِمَات} es más común que el dual, que el árabe trata como categoría propia: {كَلِمَتَانِ} significa «dos palabras» y es el plural más alejado del singular.\n\n## Criterio de lectura\n\nSiempre que veas {ال} en un versículo, pregunta si es el artículo o parte de la raíz. En {الله} y en {الْحَيَاة} va pegado a la palabra; separar el artículo de la raíz cambia el sentido."
+      },
+      "vocab": [
+        {
+          "form": "الكِتَاب",
+          "lemma": "كتاب",
+          "lang": "ar",
+          "pt": "o livro",
+          "en": "the book",
+          "es": "el libro"
+        },
+        {
+          "form": "النُّور",
+          "lemma": "نور",
+          "lang": "ar",
+          "pt": "a luz",
+          "en": "the light",
+          "es": "la luz"
+        },
+        {
+          "form": "الشَّمْس",
+          "lemma": "شمس",
+          "lang": "ar",
+          "pt": "o sol",
+          "en": "the sun",
+          "es": "el sol"
+        },
+        {
+          "form": "القَمَر",
+          "lemma": "قمر",
+          "lang": "ar",
+          "pt": "a lua",
+          "en": "the moon",
+          "es": "la luna"
+        },
+        {
+          "form": "الْمَلِك",
+          "lemma": "ملك",
+          "lang": "ar",
+          "pt": "o rei",
+          "en": "the king",
+          "es": "el rey"
+        },
+        {
+          "form": "الْمَلِكَة",
+          "lemma": "ملكة",
+          "lang": "ar",
+          "pt": "a rainha",
+          "en": "the queen",
+          "es": "la reina"
+        },
+        {
+          "form": "ابْن",
+          "lemma": "ابن",
+          "lang": "ar",
+          "pt": "filho",
+          "en": "son",
+          "es": "hijo"
+        },
+        {
+          "form": "ابْنَة",
+          "lemma": "ابنة",
+          "lang": "ar",
+          "pt": "filha",
+          "en": "daughter",
+          "es": "hija"
+        },
+        {
+          "form": "كَلِمَة",
+          "lemma": "كلمة",
+          "lang": "ar",
+          "pt": "palavra",
+          "en": "word",
+          "es": "palabra"
+        },
+        {
+          "form": "كَلِمَات",
+          "lemma": "كلمة",
+          "lang": "ar",
+          "pt": "palavras",
+          "en": "words",
+          "es": "palabras"
+        },
+        {
+          "form": "مُؤْمِن",
+          "lemma": "مؤمن",
+          "lang": "ar",
+          "pt": "crente",
+          "en": "believer",
+          "es": "creyente"
+        },
+        {
+          "form": "مُؤْمِنُونَ",
+          "lemma": "مؤمن",
+          "lang": "ar",
+          "pt": "crentes",
+          "en": "believers",
+          "es": "creyentes"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Como se lê {الشَّمْس}?",
+          "en": "How is {الشَّمْس} pronounced?",
+          "es": "¿Cómo se pronuncia {الشَّمْس}?"
+        },
+        "options": [
+          {
+            "pt": "al-šams",
+            "en": "al-shams",
+            "es": "al-šams"
+          },
+          {
+            "pt": "aš-šams",
+            "en": "ash-shams",
+            "es": "aš-šams"
+          },
+          {
+            "pt": "šams-al",
+            "en": "shams-al",
+            "es": "šams-al"
+          },
+          {
+            "pt": "a-šams sem artigo",
+            "en": "a-shams without the article",
+            "es": "a-šams sin artículo"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe substantivo e gênero.",
+            "en": "Match noun and gender.",
+            "es": "Relaciona sustantivo y género."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "مَلِك",
+                "en": "king",
+                "es": "rey"
+              },
+              "b": {
+                "pt": "masc.",
+                "en": "masc.",
+                "es": "masc."
+              }
+            },
+            {
+              "a": {
+                "pt": "مَلِكَة",
+                "en": "queen",
+                "es": "reina"
+              },
+              "b": {
+                "pt": "fem.",
+                "en": "fem.",
+                "es": "fem."
+              }
+            },
+            {
+              "a": {
+                "pt": "ابْنَة",
+                "en": "daughter",
+                "es": "hija"
+              },
+              "b": {
+                "pt": "fem.",
+                "en": "fem.",
+                "es": "fem."
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Plural de {كَلِمَة}.",
+            "en": "Plural of {كَلِمَة}.",
+            "es": "Plural de {كَلِمَة}."
+          },
+          "answer": "كَلِمَات",
+          "hint": {
+            "pt": "Use o plural -{ات}.",
+            "en": "Use the -{ات} plural.",
+            "es": "Usa el plural -{ات}."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual palavra é solar?",
+            "en": "Which word begins with a sun letter?",
+            "es": "¿Qué palabra empieza por letra solar?"
+          },
+          "options": [
+            {
+              "pt": "القمر",
+              "en": "the moon",
+              "es": "la luna"
+            },
+            {
+              "pt": "الشمس",
+              "en": "the sun",
+              "es": "el sol"
+            },
+            {
+              "pt": "الكتاب",
+              "en": "the book",
+              "es": "el libro"
+            },
+            {
+              "pt": "الحياة",
+              "en": "life",
+              "es": "la vida"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O artículo definido é {ال}: {كِتَاب} → {الكِتَاب}.",
+            "en": "The definite article is {ال}: {كِتَاب} → {الكِتَاب}.",
+            "es": "El artículo definido es {ال}: {كِتَاب} → {الكِتَاب}."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Depois de letra solar, articule {ال} como a- e omita {ل} na pronúncia.",
+            "en": "After a sun letter, pronounce {ال} as a- and omit {ل}.",
+            "es": "Tras una letra solar, pronuncia {ال} como a- y omite {ل}."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "O feminino lexical costuma terminar em {ـة}; o plural regular {-ات} é marcador forte.",
+            "en": "Lexical feminine commonly ends in {ـة}; the regular {ـات} plural is a strong clue.",
+            "es": "El femenino léxico suele terminar en {ـة}; el plural regular {-ات} es una pista forte."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Cuidado",
+            "en": "Careful",
+            "es": "Atención"
+          },
+          "text": {
+            "pt": "A assimilação é fonética, não ortográfica: a lâmina inicial continua escrita, mas não soa.",
+            "en": "Assimilation is phonetic, not orthographic: the initial lām remains written but is not heard.",
+            "es": "La asimilación es fonética, no ortográfica: la lām inicial sigue escrita, pero no suena."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "الشَّمْس",
+          "gloss": {
+            "pt": "aš-šams — o sol",
+            "en": "aš-šams — the sun",
+            "es": "aš-šams — el sol"
+          }
+        },
+        {
+          "text": "القَمَر",
+          "gloss": {
+            "pt": "al-qamar — a lua",
+            "en": "al-qamar — the moon",
+            "es": "al-qamar — la luna"
+          }
+        },
+        {
+          "text": "كَلِمَات",
+          "gloss": {
+            "pt": "kalimāt — palavras",
+            "en": "kalimāt — words",
+            "es": "kalimāt — palabras"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Letras solares e lunares",
+            "en": "Sun and moon letters",
+            "es": "Letras solares y lunares"
+          },
+          "head": [
+            {
+              "pt": "Tipo",
+              "en": "Type",
+              "es": "Tipo"
+            },
+            {
+              "pt": "Letras",
+              "en": "Letters",
+              "es": "Letras"
+            },
+            {
+              "pt": "Pronúncia inicial",
+              "en": "Initial pronunciation",
+              "es": "Pronunciación inicial"
+            }
+          ],
+          "rows": [
+            [
+              "solares",
+              "ت ث د ذ ر ز س ش ص ض ط ظ ل ن",
+              "aš-šams: no se oye l"
+            ],
+            [
+              "lunares",
+              "remaining connected letters",
+              "al-qamar: se oye l"
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "Gênero e plural",
+            "en": "Gender and plural",
+            "es": "Género y plural"
+          },
+          "head": [
+            {
+              "pt": "Categoria",
+              "en": "Category",
+              "es": "Categoría"
+            },
+            {
+              "pt": "Singular",
+              "en": "Singular",
+              "es": "Singular"
+            },
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
+          ],
+          "rows": [
+            [
+              "masculino",
+              "مَلِك m.",
+              "مُلُوك"
+            ],
+            [
+              "feminino -ة",
+              "مَلِكَة",
+              "مَلِكَات"
+            ],
+            [
+              "masculino humano regular",
+              "مُؤْمِن",
+              "مُؤْمِنُونَ"
+            ],
+            [
+              "feminino -ة",
+              "سَمَاء",
+              "سَمَاوَات"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "pt": "Verbos no passado",
+        "en": "Past-tense verbs",
+        "es": "Verbos en pasado"
+      },
+      "subtitle": {
+        "pt": "كَتَبَ: raízes e sufixos pessoais",
+        "en": "كَتَبَ: roots and personal suffixes",
+        "es": "كَتَبَ: raíces y sufijos personales"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## A raiz triconsonantal\n\nCada verbo árabe nasce de uma raiz de três consoantes, e é ela que carrega o significado. {ك-ت-ب} significa escrever; {ق-و-ل} dizer; {خ-ل-ق} criar. A raiz não é uma palavra: é um padrão de três consoantes ao qual se encaixam vogais e sufixos. Por isso dois verbos da mesma raiz se reconhecem mesmo sem nenhuma semelhança de forma.\n\n## O passado\n\nO passado se forma acrescentando vogais e um sufixo de pessoa. Compare {كَتَبَ} (ele), {كَتَبَتْ} (ela), {كَتَبْتَ} (tu), {كَتَبْتُ} (eu), {كَتَبْنَا} (nós) e {كَتَبُوا} (eles). O final {وا} é a marca do plural masculino; {نا}, a do plural comum. Quem termina em {ت} é a segunda pessoa ou a terceira feminina — é o contexto que separa as duas.\n\n## Vogais epentéticos\n\nAs vogais do passado não são arbitrárias: {كَتَبَ} traz {ا} após a primeira consoante, e a segunda consoante recebe {َ}. Em raízes que terminam em consoante média, aparece {ِ} sob a última: {قَالَ}. É essa regra que permite distinguir uma raiz triconsonantal de uma fraca, tema da lição 8.\n\n## O tempo na frase\n\nEm Gênesis 1:3, {وَقَالَ اللهُ: لِيَكُنْ نُورٌ} a estrutura é verbo no passado seguido de ordem no jussivo. O passado de {ق-و-ل} narrou; o {لِيَكُنْ} ordena. O verbo {خَلَقَ} aparece em seguida, e é a forma que a tradução corrente diz \"houve luz\" — o português genérico esconde a distinção que o árabe mantém.\n\n## Critério de leitura\n\nAo encontrar um verbo no texto, retire primeiro a raiz de três consoantes, depois identifique o sufixo de pessoa e só então interprete o tempo. A raiz é o que permite a pesquisa no dicionário.",
+        "en": "## The triconsonantal root\n\nEvery Arabic verb grows from a root of three consonants, and the root carries the meaning. {ك-ت-ب} means write; {ق-و-ل} say; {خ-ل-ق} create. The root is not a word: it is a pattern of three consonants into which vowels and suffixes are fitted. That is why two verbs from the same root are recognisable even when they share no shape at all.\n\n## The past\n\nThe past is formed by adding vowels and a person suffix. Compare {كَتَبَ} (he), {كَتَبَتْ} (she), {كَتَبْتَ} (you), {كَتَبْتُ} (I), {كَتَبْنَا} (we) and {كَتَبُوا} (they). The ending {وا} marks the masculine plural, {نا} the common plural. An ending in {ت} is either the second person or the third feminine — context tells them apart.\n\n## Epenthetic vowels\n\nThe past vowels are not arbitrary: {كَتَبَ} carries {ا} after the first consonant, and the second consonant takes {َ}. In roots whose last consonant is weak, {ِ} appears beneath it: {قَالَ}. This rule is what lets you tell a triconsonantal root from a weak one, the subject of lesson 8.\n\n## Tense in the sentence\n\nIn Genesis 1:3, {وَقَالَ اللهُ: لِيَكُنْ نُورٌ}, the structure is a past verb followed by a jussive order. The perfect of {ق-و-ل} narrated; {لِيَكُنْ} commands. The verb {خَلَقَ} comes next, and it is the form a plain translation renders as \"there was light\" — generic Portuguese hides the distinction Arabic keeps.\n\n## Reading criterion\n\nWhen you meet a verb in the text, first strip out the three-consonant root, then identify the person suffix, and only then read the tense. The root is what makes dictionary lookup possible.",
+        "es": "## La raíz triconsonantal\n\nCada verbo árabe nace de una raíz de tres consonantes, y es la raíz la que carga el significado. {ك-ت-ب} significa escribir; {ق-و-ل} decir; {خ-ل-ق} crear. La raíz no es una palabra: es un patrón de tres consonantes al que se ajustan vocales y sufijos. Por eso dos verbos de la misma raíz se reconocen aunque no compartan forma alguna.\n\n## El pasado\n\nEl pasado se forma añadiendo vocales y un sufijo de persona. Compara {كَتَبَ} (él), {كَتَبَتْ} (ella), {كَتَبْتَ} (tú), {كَتَبْتُ} (yo), {كَتَبْنَا} (nosotros) y {كَتَبُوا} (ellos). La terminación {وا} marca el plural masculino, {نا} el plural común. Una terminación en {ت} es la segunda persona o la tercera femenina — el contexto las distingue.\n\n## Vocales epentéticas\n\nLas vocales del pasado no son arbitrarias: {كَتَبَ} lleva {ا} tras la primera consonante, y la segunda recibe {َ}. En raíces cuya última consonante es débil, aparece {ِ} debajo: {قَالَ}. Esta regla es la que permite distinguir una raíz triconsonantal de una débil, tema de la lección 8.\n\n## El tiempo en la frase\n\nEn Génesis 1:3, {وَقَالَ اللهُ: لِيَكُنْ نُورٌ}, la estructura es un verbo en pasado seguido de una orden en jussivo. El perfecto de {ق-و-ل} narra; {لِيَكُنْ} ordena. El verbo {خَلَقَ} viene después, y es la forma que una traducción corriente vuelve «hubo luz» — el portugués genérico esconde la distinción que el árabe mantiene.\n\n## Criterio de lectura\n\nAl encontrar un verbo en el texto, retira primero la raíz de tres consonantes, luego identifica el sufijo de persona y solo entonces interpreta el tiempo. La raíz es lo que hace posible buscar en el diccionario."
+      },
+      "vocab": [
+        {
+          "form": "كَتَبَ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "ele escreveu",
+          "en": "he wrote",
+          "es": "escribió"
+        },
+        {
+          "form": "كَتَبَتْ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "ela escreveu",
+          "en": "she wrote",
+          "es": "escribió"
+        },
+        {
+          "form": "كَتَبْتَ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "tu escreveste",
+          "en": "you wrote",
+          "es": "escribiste"
+        },
+        {
+          "form": "كَتَبْتُ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "eu escrevi",
+          "en": "I wrote",
+          "es": "escribí"
+        },
+        {
+          "form": "كَتَبْنَا",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "nós escrevemos",
+          "en": "we wrote",
+          "es": "escribimos"
+        },
+        {
+          "form": "كَتَبُوا",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "eles escreveram",
+          "en": "they wrote",
+          "es": "escribieron"
+        },
+        {
+          "form": "قَالَ",
+          "lemma": "قال",
+          "lang": "ar",
+          "pt": "ele disse",
+          "en": "he said",
+          "es": "dijo"
+        },
+        {
+          "form": "خَلَقَ",
+          "lemma": "خلق",
+          "lang": "ar",
+          "pt": "ele criou",
+          "en": "he created",
+          "es": "creó"
+        },
+        {
+          "form": "آمَنَ",
+          "lemma": "آمن",
+          "lang": "ar",
+          "pt": "ele creu",
+          "en": "he believed",
+          "es": "creyó"
+        },
+        {
+          "form": "أَنَا",
+          "lemma": "أنا",
+          "lang": "ar",
+          "pt": "eu",
+          "en": "I",
+          "es": "yo"
+        },
+        {
+          "form": "أَنْتَ",
+          "lemma": "أنت",
+          "lang": "ar",
+          "pt": "tu",
+          "en": "you",
+          "es": "tú"
+        },
+        {
+          "form": "نَحْنُ",
+          "lemma": "نحن",
+          "lang": "ar",
+          "pt": "nós",
+          "en": "we",
+          "es": "nosotros"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Complete: ___ كَتَبَ (ele escreveu).",
+          "en": "Complete: ___ كَتَبَ (he wrote).",
+          "es": "Completa: ___ كَتَبَ (escribió)."
+        },
+        "answer": "هُوَ",
+        "hint": {
+          "pt": "Pronome de terceira pessoa masculina.",
+          "en": "Third-person masculine pronoun.",
+          "es": "Pronombre de tercera persona masculina."
+        }
+      },
+      "exercises": [
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe pessoa e forma.",
+            "en": "Match person and form.",
+            "es": "Relaciona persona y forma."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "eu",
+                "en": "I",
+                "es": "yo"
+              },
+              "b": {
+                "pt": "كَتَبْتُ",
+                "en": "كتبتُ",
+                "es": "كتبتُ"
+              }
+            },
+            {
+              "a": {
+                "pt": "nós",
+                "en": "we",
+                "es": "nosotros"
+              },
+              "b": {
+                "pt": "كَتَبْنَا",
+                "en": "كتبنا",
+                "es": "كتبنا"
+              }
+            },
+            {
+              "a": {
+                "pt": "ela",
+                "en": "she",
+                "es": "ella"
+              },
+              "b": {
+                "pt": "كَتَبَتْ",
+                "en": "كتبت",
+                "es": "كتبت"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual raiz significa escrever?",
+            "en": "Which root means write?",
+            "es": "¿Qué raíz significa escribir?"
+          },
+          "options": [
+            {
+              "pt": "ق-و-ل",
+              "en": "q-w-l",
+              "es": "q-w-l"
+            },
+            {
+              "pt": "ك-ت-ب",
+              "en": "k-t-b",
+              "es": "k-t-b"
+            },
+            {
+              "pt": "خ-ل-ق",
+              "en": "kh-l-q",
+              "es": "kh-l-q"
+            },
+            {
+              "pt": "آ-م-ن",
+              "en": "ʾ-m-n",
+              "es": "ʾ-m-n"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em {وَقَالَ اللهُ}, qual função tem اللهُ?",
+            "en": "In {وَقَالَ اللهُ}, what is the function of اللهُ?",
+            "es": "En {وَقَالَ اللهُ}, ¿qué función tiene اللهُ?"
+          },
+          "options": [
+            {
+              "pt": "objeto",
+              "en": "object",
+              "es": "objeto"
+            },
+            {
+              "pt": "sujeito",
+              "en": "subject",
+              "es": "sujeto"
+            },
+            {
+              "pt": "advérbio",
+              "en": "adverb",
+              "es": "adverbio"
+            },
+            {
+              "pt": "numeral",
+              "en": "numeral",
+              "es": "numeral"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "A raiz descreve o significado; não aparece sozinha como palavra funcional.",
+            "en": "The root carries lexical meaning; it does not stand alone as a functioning word.",
+            "es": "La raíz aporta el significado; por sí sola no funciona como palabra."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "O passadoBuiltin ends com sufixo pessoal, exceto 3.ª m., cuja terminação -a é ambígua em contexto.",
+            "en": "The perfect normally takes a personal suffix; the 3rd m. ending -a is context-sensitive.",
+            "es": "El perfecto suele llevar sufijo personal; la terminación -a de 3.ª m. se interpreta por contexto."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "A negação do passado pode ser {لَمْ} + jussivo, como em {لَمْ يَكْتُبْ}.",
+            "en": "Past negation can be {لَمْ} + jussive, as in {لَمْ يَكْتُبْ}.",
+            "es": "La negación del pasado puede ser {لَمْ} + jussivo, como en {لَمْ يَكْتُبْ}."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Ordem",
+            "en": "Word order",
+            "es": "Orden"
+          },
+          "text": {
+            "pt": "A ordem verbo-sujeito-objeto é típica, mas a posição do sujeito pode variar.",
+            "en": "Verb-subject-object order is typical, but the subject may move.",
+            "es": "El orden verbo-sujeto-objeto es típico, aunque el sujeto puede desplazarse."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "قَالَ اللهُ",
+          "gloss": {
+            "pt": "allāhu qāla — Deus disse",
+            "en": "allāhu qāla — God said",
+            "es": "allāhu qāla — Dios dijo"
+          }
+        },
+        {
+          "text": "آمَنْتُ بِالله",
+          "gloss": {
+            "pt": "āmantu billāh — eu creu em Deus",
+            "en": "āmantu billāh — I believed in God",
+            "es": "āmantu billāh — creí en Dios"
+          }
+        },
+        {
+          "text": "لِيَكُنْ نُورٌ",
+          "gloss": {
+            "pt": "li-yakun nūr — haja luz",
+            "en": "li-yakun nūr — let there be light",
+            "es": "li-yakun nūr — haya luz"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Paradigma de كتب",
+            "en": "Paradigm of كتب",
+            "es": "Paradigma de كتب"
+          },
+          "head": [
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Singular",
+              "en": "Singular",
+              "es": "Singular"
+            },
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
+          ],
+          "rows": [
+            [
+              "1.ª",
+              "كَتَبْتُ",
+              "كَتَبْنَا"
+            ],
+            [
+              "2.ª m.",
+              "كَتَبْتَ",
+              "كَتَبْتُمْ"
+            ],
+            [
+              "2.ª f.",
+              "كَتَبْتِ",
+              "كَتَبْتُنَّ"
+            ],
+            [
+              "3.ª m.",
+              "كَتَبَ",
+              "كَتَبُوا"
+            ],
+            [
+              "3.ª f.",
+              "كَتَبَتْ",
+              "كَتَبْنَ"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "pt": "Leitura: João 1:1–5",
+        "en": "Reading: John 1:1–5",
+        "es": "Lectura: Juan 1:1–5"
+      },
+      "subtitle": {
+        "pt": "فِي الْبَدْءِ كَانَ الْكَلِمَةُ",
+        "en": "فِي الْبَدْءِ كَانَ الْكَلِمَةُ",
+        "es": "فِي الْبَدْءِ كَانَ الْكَلِمَةُ"
+      },
+      "section": {
+        "pt": "Leituras",
+        "en": "Readings",
+        "es": "Lecturas"
+      },
+      "body": {
+        "pt": "## A passagem em blocos\n\nJoão 1:1-5 tem quatro orações curtas. Em {فِي الْبَدْءِ} a preposição {فِي} governa o genitivo, visível na terminação {الْبَدْءِ}; o substantivo está assim no caso regido, não no nominativo. Em {كَانَ الْكَلِمَةُ} o verbo {كَانَ} expressa estado, e {الْكَلِمَةُ} é o sujeito no nominativo.\n\n## Predicativo e aposição\n\nEm {وَالْكَلِمَةُ كَانَتْ عِنْدَ اللهِ} o sujeito é {الْكَلِمَةُ}. No versículo 1, quando o texto diz que a Palavra *era* Deus, {اللهَ} não é sujeito: está em acusativo, como predicativo. É a marca de que o versículo não cabe numa leitura gramatical simples. Em {نُورَ النَّاسِ} acontece o mesmo: {نُورَ} é predicativo e {النَّاسِ} está em genitivo por aposição.\n\n## Tempo e aspecto\n\n{كَانَ يُضِيءُ النُّورُ} traz o imperfeito {يُضِيءُ} para descrever algo contínuo. O versículo 5,{النُّورُ يُضِيءُ فِي الظُّلْمَةِ}, mantém a luz como agente de uma ação que continua, e {الظُّلْمَة} não a recebe. Note a diferença: quem recebe a luz seria objeto direto, o que exigiria uma preposição ou marcação de caso correta.\n\n## Critério de leitura\n\nMarque cada oração e identifique primeiro o verbo, depois o sujeito, e só então os demais termos. Quase todo erro de leitura de João 1 nasce de trocar sujeito por predicativo.",
+        "en": "## The passage in blocks\n\nJohn 1:1-5 has four short clauses. In {فِي الْبَدْءِ} the preposition {فِي} governs the genitive, visible in the ending {الْبَدْءِ}; the noun is thus in the governed case, not the nominative. In {كَانَ الْكَلِمَةُ} the verb {كَانَ} expresses state, and {الْكَلِمَةُ} is the nominative subject.\n\n## Predicative and apposition\n\nIn {وَالْكَلِمَةُ كَانَتْ عِنْدَ اللهِ} the subject is {الْكَلِمَةُ}. In verse 1, where the text says the Word *was* God, {اللهَ} is not a subject: it stands in the accusative, as a predicate. That is the mark of a verse that does not fit a plain grammatical reading. In {نُورَ النَّاسِ} the same happens: {نُورَ} is predicative and {النَّاسِ} is genitive by apposition.\n\n## Tense and aspect\n\n{كَانَ يُضِيءُ النُّورُ} has the imperfect {يُضِيءُ} describing something continuous. Verse 5, {النُّورُ يُضِيءُ فِي الظُّلْمَةِ}, keeps the light as agent of an action that continues, and {الظُّلْمَة} does not receive it. Note the difference: what received the light would be a direct object, which would need the right case marking.\n\n## Reading criterion\n\nMark each clause, identify the verb first, then the subject, and only then the remaining terms. Nearly every misreading of John 1 comes from exchanging subject and predicate.",
+        "es": "## El pasaje por bloques\n\nJuan 1:1-5 tiene cuatro cláusulas cortas. En {فِي الْبَدْءِ} la preposición {فِي} rige el genitivo, visible en la terminación {الْبَدْءِ}; el sustantivo está, pues, en el caso regido y no en el nominativo. En {كَانَ الْكَلِمَةُ} el verbo {كَانَ} expresa estado, y {الْكَلِمَةُ} es el sujeto en nominativo.\n\n## Predicativo y aposición\n\nEn {وَالْكَلِمَةُ كَانَتْ عِنْدَ اللهِ} el sujeto es {الْكَلِمَةُ}. En el versículo 1, donde el texto dice que la Palabra *era* Dios, {اللهَ} no es sujeto: está en acusativo, como predicativo. Esa es la marca de un versículo que no cabe en una lectura gramatical simple. En {نُورَ النَّاسِ} ocurre lo mismo: {نُورَ} es predicativo y {النَّاسِ} está en genitivo por aposición.\n\n## Tiempo y aspecto\n\n{كَانَ يُضِيءُ النُّورُ} lleva el imperfecto {يُضِيءُ} para describir algo continuo. El versículo 5, {النُّورُ يُضِيءُ فِي الظُّلْمَةِ}, mantiene la luz como agente de una acción que continúa, y {الظُّلْمَة} no la recibe. Nota la diferencia: lo que recibiese la luz sería objeto directo, y eso exigiría la marcación de caso correcta.\n\n## Criterio de lectura\n\nMarca cada cláusula e identifica primero el verbo, luego el sujeto y solo después los demás términos. Casi todos los errores de lectura de Juan 1 nacen de confundir sujeto con predicativo."
+      },
+      "vocab": [
+        {
+          "form": "الْبَدْء",
+          "lemma": "بدء",
+          "lang": "ar",
+          "pt": "princípio",
+          "en": "beginning",
+          "es": "principio"
+        },
+        {
+          "form": "كَانَ",
+          "lemma": "كان",
+          "lang": "ar",
+          "pt": "era; esteve",
+          "en": "was",
+          "es": "era; estuvo"
+        },
+        {
+          "form": "الْكَلِمَة",
+          "lemma": "كلمة",
+          "lang": "ar",
+          "pt": "a Palavra",
+          "en": "the Word",
+          "es": "la Palabra"
+        },
+        {
+          "form": "عِنْدَ",
+          "lemma": "عند",
+          "lang": "ar",
+          "pt": "junto a",
+          "en": "with; at",
+          "es": "junto a"
+        },
+        {
+          "form": "الله",
+          "lemma": "الله",
+          "lang": "ar",
+          "pt": "Deus",
+          "en": "God",
+          "es": "Dios"
+        },
+        {
+          "form": "فِيهِ",
+          "lemma": "في",
+          "lang": "ar",
+          "pt": "nele; nele mesmo",
+          "en": "in him; in it",
+          "es": "en él; en ello"
+        },
+        {
+          "form": "الْحَيَاة",
+          "lemma": "حياة",
+          "lang": "ar",
+          "pt": "a vida",
+          "en": "the life",
+          "es": "la vida"
+        },
+        {
+          "form": "النَّاس",
+          "lemma": "ناس",
+          "lang": "ar",
+          "pt": "os seres humanos",
+          "en": "humanity",
+          "es": "la humanidad"
+        },
+        {
+          "form": "النُّور",
+          "lemma": "نور",
+          "lang": "ar",
+          "pt": "a luz",
+          "en": "the light",
+          "es": "la luz"
+        },
+        {
+          "form": "يُضِيءُ",
+          "lemma": "أضاء",
+          "lang": "ar",
+          "pt": "ilumina",
+          "en": "shines",
+          "es": "ilumina"
+        },
+        {
+          "form": "الظُّلْمَة",
+          "lemma": "ظلام",
+          "lang": "ar",
+          "pt": "as trevas",
+          "en": "the darkness",
+          "es": "las tinieblas"
+        },
+        {
+          "form": "وَ",
+          "lemma": "و",
+          "lang": "ar",
+          "pt": "e; e também",
+          "en": "and",
+          "es": "y; también"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Por que {اللهَ} tem fatha final?",
+          "en": "Why does {اللهَ} have a final fatha?",
+          "es": "¿Por qué {اللهَ} lleva fatha final?"
+        },
+        "options": [
+          {
+            "pt": "Porque é sujeito",
+            "en": "It is the subject",
+            "es": "Es sujeto"
+          },
+          {
+            "pt": "Porque é predicativo de كَانَ",
+            "en": "It is predicative after كَانَ",
+            "es": "Es predicativo de كَانَ"
+          },
+          {
+            "pt": "Porque é plural",
+            "en": "It is plural",
+            "es": "Es plural"
+          },
+          {
+            "pt": "Por convenção",
+            "en": "By convention",
+            "es": "Por convención"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "O substantivo após {فِي} está em caso genitivo: complete “فِي ___”.",
+            "en": "The noun after {فِي} is genitive: complete “فِي ___”.",
+            "es": "El sustantivo tras {فِي} está en genitivo: completa «فِي ___»."
+          },
+          "answer": "الْبَدْءِ",
+          "hint": {
+            "pt": "A terminação muda para -i.",
+            "en": "The ending changes to -i.",
+            "es": "La terminación cambia a -i."
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe palavra e sentido.",
+            "en": "Match word and meaning.",
+            "es": "Relaciona palabra y significado."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "نُور",
+                "en": "light",
+                "es": "luz"
+              },
+              "b": {
+                "pt": "luz",
+                "en": "light",
+                "es": "luz"
+              }
+            },
+            {
+              "a": {
+                "pt": "حَيَاة",
+                "en": "life",
+                "es": "vida"
+              },
+              "b": {
+                "pt": "vida",
+                "en": "life",
+                "es": "vida"
+              }
+            },
+            {
+              "a": {
+                "pt": "ظُلْمَة",
+                "en": "darkness",
+                "es": "tinieblas"
+              },
+              "b": {
+                "pt": "trevas",
+                "en": "darkness",
+                "es": "tinieblas"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em {الْكَلِمَةُ كَانَ اللهَ}, qual word é o sujeito?",
+            "en": "In {الْكَلِمَةُ كَانَ اللهَ}, which word is the subject?",
+            "es": "En {الْكَلِمَةُ كَانَ اللهَ}, ¿qué palabra es sujeto?"
+          },
+          "options": [
+            {
+              "pt": "اللهَ",
+              "en": "اللهَ",
+              "es": "اللهَ"
+            },
+            {
+              "pt": "الْكَلِمَةُ",
+              "en": "الْكَلِمَةُ",
+              "es": "الْكَلِمَةُ"
+            },
+            {
+              "pt": "كَانَ",
+              "en": "كان",
+              "es": "كان"
+            },
+            {
+              "pt": "و",
+              "en": "and",
+              "es": "y"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O nome de {كَانَ} ocupa o nominativo; o predicado pode levar o acusativo.",
+            "en": "The noun after {كَانَ} is nominative; its predicate may take the accusative.",
+            "es": "El nombre de {كَانَ} va en nominativo; el predicado puede llevar acusativo."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "A terminação {اللهَ} com fatha final marca acusativo neste contexto, não uma forma alternativa do nome.",
+            "en": "The final fatha in {اللهَ} marks the accusative here; it is not a separate name form.",
+            "es": "La fatha final de {اللهَ} marca aquí el acusativo; no es otra forma del nombre."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "A {و} inicial liga orações e pode repetir um elemento semântico já conocido.",
+            "en": "Initial {و} links clauses and may repeat a known element.",
+            "es": "La {و} inicial enlaza oraciones y puede repetir un elemento ya conocido."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Transcrição",
+            "en": "Transcription",
+            "es": "Transcripción"
+          },
+          "text": {
+            "pt": "As vogais longas podem não ser escritas no texto ONG; elas normalmente persistem na pronúncia bíblica fully vocalized.",
+            "en": "Long vowels may be unexpressed in unvocalized text; they normally persist in fully vocalized biblical reading.",
+            "es": "Las vocales largas pueden omitirse en el texto no vocalizado; suelen conservarse en la lectura bíblica vocalizada."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "وَالْكَلِمَةُ كَانَ عِنْدَ اللهِ",
+          "gloss": {
+            "pt": "e a Palavra estava com Deus",
+            "en": "and the Word was with God",
+            "es": "y la Palabra estaba con Dios"
+          }
+        },
+        {
+          "text": "وَالْحَيَاةُ كَانَتْ نُورَ النَّاسِ",
+          "gloss": {
+            "pt": "e a vida era a luz dos seres humanos",
+            "en": "and the life was the light of humanity",
+            "es": "y la vida era la luz de la humanidad"
+          }
+        },
+        {
+          "text": "وَالنُّورُ يُضِيءُ فِي الظُّلْمَةِ",
+          "gloss": {
+            "pt": "e a luz brilha nas trevas",
+            "en": "and the light shines in the darkness",
+            "es": "y la luz brilla en las tinieblas"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Análise sintática",
+            "en": "Syntactic analysis",
+            "es": "Análisis sintáctico"
+          },
+          "head": [
+            {
+              "pt": "Segmento",
+              "en": "Segment",
+              "es": "Segmento"
+            },
+            {
+              "pt": "Função",
+              "en": "Function",
+              "es": "Función"
+            },
+            {
+              "pt": "Português",
+              "en": "Portuguese",
+              "es": "Español"
+            }
+          ],
+          "rows": [
+            [
+              "فِي الْبَدْءِ",
+              "prep. + gen.",
+              "no princípio"
+            ],
+            [
+              "كَانَ الْكَلِمَةُ",
+              "verbo + sujeito",
+              "a Palavra era"
+            ],
+            [
+              "عِنْدَ اللهِ",
+              "prep. + gen.",
+              "junto a Deus"
+            ],
+            [
+              "اللهَ",
+              "predicativo acusativo",
+              "era Deus"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "pt": "Formas derivadas II–X",
+        "en": "Derived forms II–X",
+        "es": "Formas derivadas II–X"
+      },
+      "subtitle": {
+        "pt": "Raízes que formam ação, intensidade e reflexão",
+        "en": "Roots forming action, intensity, and reflexion",
+        "es": "Raíces que forman acción, intensidad y reflexión"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## Uma raiz, muitos verbos\n\nA mesma raiz triconsonantal pode gerar verbos de sentidos diferentes, e o padrão de vogais é o que organiza essa família. Com a raiz {علم}, a forma I é neutra; a II {عَلَّمَ} intensify: {عَلَّمَ} é \"ensinou\" em vez de \"soube\". A II costuma ter prefixo {ف} para o factitivo, como {فَعَّلَ}.\n\n## As formas e o que significam\n\nA III {فَاعَلَ} sugere oposição ou participação: {شَارَكَ} é \"participou\". A IV {أَفْعَلَ} e a X {اِسْتَفْعَلَ} indicam resultado ou ação dirigida — {أَرْسَلَ} \"enviou\", {أَنْزَلَ} \"fez descer\" — e a X sugere pedido ou tentativa: {اِسْتَغْفَرَ} \"pediu perdão\". A V {تَفَعَّلَ} sugere intensidade ou resultado: {تَعَلَّمَ} \"aprendeu\", {اِجْتَمَعَ} \"reuniu-se\".\n\n## O que não é tradução literal\n\nNenhuma dessas formas se traduz por cálculo. Uma raiz pode gerar verbos cujo sentido exato é preciso memorizar, e a vogalização {َ} {ِ} {ُ} {ْ} faz parte do padrão, não é ornamento. Por isso o contexto e a lista de formas são mais seguros que a tentativa de adivinhar pelo sentido da raiz.\n\n## Critério de leitura\n\nAo reconhecer uma raiz conhecida, pergunte primeiro qual forma derivada aparece — a II, a V ou a X — e só depois procure o sentido. A forma carrega informação que o dicionário em português não transmite.",
+        "en": "## One root, many verbs\n\nThe same triconsonantal root can generate verbs of different senses, and the vowel pattern is what organises that family. With the root {علم}, form I is neutral; form II {عَلَّمَ} is intensive: {عَلَّمَ} is \"he taught\" rather than \"he knew\". Form II often takes the {ف} prefix for factitive meaning, as in {فَعَّلَ}.\n\n## The forms and what they mean\n\nForm III {فَاعَلَ} suggests opposition or participation: {شَارَكَ} is \"he shared\". Forms IV {أَفْعَلَ} and X {اِسْتَفْعَلَ} point at result or directed action — {أَرْسَلَ} \"he sent\", {أَنْزَلَ} \"he brought down\" — and X suggests request or attempt: {اِسْتَغْفَرَ} \"he asked forgiveness\". Form V {تَفَعَّلَ} suggests intensity or result: {تَعَلَّمَ} \"he learned\", {اِجْتَمَعَ} \"they gathered\".\n\n## What is not literal translation\n\nNone of these forms is rendered by calculation. One root can generate verbs whose exact sense has to be memorised, and the vocalisation {َ} {ِ} {ُ} {ْ} belongs to the pattern rather than being ornament. That is why context and the full list of forms are safer than guessing from the root's meaning.\n\n## Reading criterion\n\nWhen you recognise a known root, first ask which derived form appears — II, V or X — and only then look for the sense. The form carries information a Portuguese dictionary does not convey.",
+        "es": "## Una raíz, muchos verbos\n\nLa misma raíz triconsonantal puede generar verbos de sentidos distintos, y es el patrón vocálico lo que organiza esa familia. Con la raíz {علم}, la forma I es neutra; la II {عَلَّمَ} es intensiva: {عَلَّمَ} es «enseñó» y no «supo». La II suele llevar el prefijo {ف} para el factitivo, como en {فَعَّلَ}.\n\n## Las formas y lo que significan\n\nLa III {فَاعَلَ} sugiere oposición o participación: {شَارَكَ} es «participó». Las formas IV {أَفْعَلَ} y X {اِسْتَفْعَلَ} apuntan a resultado o acción dirigida — {أَرْسَلَ} «envió», {أَنْزَلَ} «hizo bajar» — y la X sugiere petición o intento: {اِسْتَغْفَرَ} «pidió perdón». La V {تَفَعَّلَ} sugiere intensidad o resultado: {تَعَلَّمَ} «aprendió», {اِجْتَمَعَ} «se reunieron».\n\n## Lo que no es traducción literal\n\nNinguna de estas formas se traduce por cálculo. Una raíz puede generar verbos cuyo sentido exacto hay que memorizar, y la vocalización {َ} {ِ} {ُ} {ْ} pertenece al patrón y no es adorno. Por eso el contexto y la lista de formas son más seguros que adivinar por el sentido de la raíz.\n\n## Criterio de lectura\n\nAl reconocer una raíz conocida, pregunta primero qué forma derivada aparece — II, V o X — y solo después busca el sentido. La forma carga información que un diccionario en portugués no transmite."
+      },
+      "vocab": [
+        {
+          "form": "عَلَّمَ",
+          "lemma": "علم",
+          "lang": "ar",
+          "pt": "ensinou",
+          "en": "taught",
+          "es": "enseñó"
+        },
+        {
+          "form": "قَدَّسَ",
+          "lemma": "قدس",
+          "lang": "ar",
+          "pt": "santificou",
+          "en": "sanctified",
+          "es": "santificó"
+        },
+        {
+          "form": "قَاتَلَ",
+          "lemma": "قاتل",
+          "lang": "ar",
+          "pt": "lutou",
+          "en": "fought",
+          "es": "luchó"
+        },
+        {
+          "form": "شَارَكَ",
+          "lemma": "شارك",
+          "lang": "ar",
+          "pt": "participou",
+          "en": "shared",
+          "es": "participó"
+        },
+        {
+          "form": "أَرْسَلَ",
+          "lemma": "أرسل",
+          "lang": "ar",
+          "pt": "enviou",
+          "en": "sent",
+          "es": "envió"
+        },
+        {
+          "form": "أَنْزَلَ",
+          "lemma": "أنزل",
+          "lang": "ar",
+          "pt": "fez descer",
+          "en": "brought down",
+          "es": "hizo bajar"
+        },
+        {
+          "form": "تَعَلَّمَ",
+          "lemma": "تعلم",
+          "lang": "ar",
+          "pt": "aprendeu",
+          "en": "learned",
+          "es": "aprendió"
+        },
+        {
+          "form": "اِجْتَمَعَ",
+          "lemma": "اجتمع",
+          "lang": "ar",
+          "pt": "reuniu-se",
+          "en": "gathered",
+          "es": "se reunió"
+        },
+        {
+          "form": "اِسْتَغْفَرَ",
+          "lemma": "استغفر",
+          "lang": "ar",
+          "pt": "pediu perdão",
+          "en": "sought forgiveness",
+          "es": "pidió perdón"
+        },
+        {
+          "form": "بَارَكَ",
+          "lemma": "بارك",
+          "lang": "ar",
+          "pt": "abençoou",
+          "en": "blessed",
+          "es": "bendijo"
+        },
+        {
+          "form": "بَرَكَ",
+          "lemma": "بارك",
+          "lang": "ar",
+          "pt": "bendisse",
+          "en": "blessed",
+          "es": "bendijo"
+        },
+        {
+          "form": "كَتَبَ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "escreveu",
+          "en": "wrote",
+          "es": "escribió"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "A que forma pertence {عَلَّمَ}?",
+          "en": "Which form is {عَلَّمَ}?",
+          "es": "¿A qué forma pertenece {عَلَّمَ}?"
+        },
+        "options": [
+          {
+            "pt": "I",
+            "en": "I",
+            "es": "I"
+          },
+          {
+            "pt": "II",
+            "en": "II",
+            "es": "II"
+          },
+          {
+            "pt": "IV",
+            "en": "IV",
+            "es": "IV"
+          },
+          {
+            "pt": "X",
+            "en": "X",
+            "es": "X"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual exemplo é forma IV?",
+            "en": "Which example is form IV?",
+            "es": "¿Qué ejemplo es forma IV?"
+          },
+          "options": [
+            {
+              "pt": "كَتَبَ",
+              "en": "كَتَبَ",
+              "es": "كَتَبَ"
+            },
+            {
+              "pt": "بَارَكَ",
+              "en": "بارك",
+              "es": "بارك"
+            },
+            {
+              "pt": "أَرْسَلَ",
+              "en": "أرسل",
+              "es": "أرسل"
+            },
+            {
+              "pt": "اِسْتَغْفَرَ",
+              "en": "استغفر",
+              "es": "استغفر"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe raiz e derivado.",
+            "en": "Match root and derivative.",
+            "es": "Relaciona raíz y derivado."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "ر-س-ل",
+                "en": "r-s-l",
+                "es": "r-s-l"
+              },
+              "b": {
+                "pt": "أَرْسَلَ",
+                "en": "sent",
+                "es": "envió"
+              }
+            },
+            {
+              "a": {
+                "pt": "ج-م-ع",
+                "en": "j-m-ʿ",
+                "es": "j-m-ʿ"
+              },
+              "b": {
+                "pt": "اِجْتَمَعَ",
+                "en": "gathered",
+                "es": "se reunió"
+              }
+            },
+            {
+              "a": {
+                "pt": "غ-ف-ر",
+                "en": "gh-f-r",
+                "es": "gh-f-r"
+              },
+              "b": {
+                "pt": "اِسْتَغْفَرَ",
+                "en": "forgave",
+                "es": "pidió perdón"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete o nome verbal de escrever: ___ابة.",
+            "en": "Complete the verbal noun of writing: ___āba.",
+            "es": "Completa el sustantivo verbal de escribir: ___āba."
+          },
+          "answer": "كِتَابَة",
+          "hint": {
+            "pt": "Começa pela raiz ك-ت-ب.",
+            "en": "Begin with the root ك-ت-ب.",
+            "es": "Empieza por la raíz ك-ت-ب."
+          }
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Identifique a raiz antes de memorizar o verbo; raízes fracas podem mudar o molde.",
+            "en": "Identify the root before memorizing the verb; weak roots can alter the pattern.",
+            "es": "Identifica la raíz antes de memorizar el verbo; las raíces débiles pueden alterar el molde."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "O valor do molde se ajusta ao contexto; não traduza apenas os afixos em português.",
+            "en": "The pattern’s value follows context; do not translate affixes mechanically.",
+            "es": "El valor del molde depende del contexto; no traduzcas los afijos mecánicamente."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Formas derivadas permanecem verbos: conservam pessoa, tempo eAbility para reger objetos.",
+            "en": "Derived forms remain verbs: they preserve person, tense, and transitivity.",
+            "es": "Las formas derivadas siguen siendo verbos: conservan persona, tiempo y transitividad."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Raízes de três letras",
+            "en": "Three-letter roots",
+            "es": "Raíces de tres letras"
+          },
+          "text": {
+            "pt": "A análise histórica ajuda, mas a função da raiz deve ser aprendida pelo uso em vários derivados.",
+            "en": "Historical analysis helps, but root function should be learned from several derivatives.",
+            "es": "El análisis histórico ayuda, pero la función de la raíz debe aprenderse en varios derivados."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "عَلَّمَ",
+          "gloss": {
+            "pt": "II de علم: conhecimento; “ensinou”",
+            "en": "II of علم: “made known”; “taught”",
+            "es": "II de علم: «hacer conocer»; «enseñó»"
+          }
+        },
+        {
+          "text": "تَعَلَّمَ",
+          "gloss": {
+            "pt": "V de علم: forma reflexiva; “aprendeu”",
+            "en": "V of علم: reflexive pattern; “learned”",
+            "es": "V de علم: forma reflexiva; «aprendió»"
+          }
+        },
+        {
+          "text": "بَارَكَ اللهُ إِبْرَاهِيمَ",
+          "gloss": {
+            "pt": "Deus abençoou Abraão",
+            "en": "God blessed Abraham",
+            "es": "Dios bendijo a Abraham"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Formas verbais essenciais",
+            "en": "Essential verbal forms",
+            "es": "Formas verbales esenciales"
+          },
+          "head": [
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Molde",
+              "en": "Pattern",
+              "es": "Molde"
+            },
+            {
+              "pt": "Exemplos",
+              "en": "Examples",
+              "es": "Ejemplos"
+            }
+          ],
+          "rows": [
+            [
+              "I",
+              "فَعَلَ",
+              "كَتَبَ: escrever"
+            ],
+            [
+              "II",
+              "فَعَّلَ",
+              "عَلَّمَ: ensinar; قَدَّسَ: santificar"
+            ],
+            [
+              "III",
+              "فَاعَلَ",
+              "بَارَكَ: abençoar; شَارَكَ: participar"
+            ],
+            [
+              "IV",
+              "أَفْعَلَ",
+              "أَرْسَلَ: enviar; أَنْزَلَ: fazer descer"
+            ],
+            [
+              "V",
+              "تَفَعَّلَ",
+              "تَعَلَّمَ: aprender"
+            ],
+            [
+              "VIII",
+              "اِفْتَعَلَ",
+              "اِجْتَمَعَ: reunir-se"
+            ],
+            [
+              "X",
+              "اِسْتَفْعَلَ",
+              "اِسْتَغْفَرَ: pedir perdão"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "pt": "Iḍāfa e oração do Pai-Nosso",
+        "en": "Iḍāfa and the Lord’s Prayer",
+        "es": "Iḍāfa y oración del Padre nuestro"
+      },
+      "subtitle": {
+        "pt": "Construção nominal: de casa a reino",
+        "en": "Noun construction: from house to kingdom",
+        "es": "Construcción nominal: de casa a reino"
+      },
+      "section": {
+        "pt": "Leituras",
+        "en": "Readings",
+        "es": "Lecturas"
+      },
+      "body": {
+        "pt": "## O que é iḍāfa\n\nA iḍāfa liga dois substantivos como uma frase sem verbo. O primeiro é o **construtor**: perde o artigo e a nunação, e recebe a terminação do caso pedido pela oração. O segundo é o **governado**: recebe o artigo e o caso. Em {بَيْتُ اللهِ}, {بَيْتُ} é construtor e {اللهِ} é governado; a terminação {ـِ} mostra que a iḍāfa inteira é regida por algo fora dela.\n\n## A leitura correta\n\nA iḍāfa é ambígua quando a última palavra também pode ler-se isolada. {كَلِمَةُ اللهِ} pode ser \"a palavra de Deus\" ou \"a palavra que é Deus\" — o contexto decide. Compare {مَلَكُوتُ السَّمَاوَاتِ} e {مَلَكُوتُ}: no primeiro, {السَّمَاوَاتِ} é governado e está em genitivo; no segundo, {مَلَكُوتُ} está sozinho e em nominativo.\n\n## No Pai-Nosso\n\nA oração do Pai-Nosso está cheia de iḍāfas: {أَبَانَا} (que é construtor de {الَّذِي}), {مَلَكُوت} e {مَشِيئَة}. Quando o segundo elemento é um pronome relativo, o pronome é que recebe o artigo e o caso: em {أَبَانَا الَّذِي} é {الَّذِي} que carrega a definitude.\n\n## Critério de leitura\n\nAo ver dois substantivos seguidos em versículo, assuma iḍāfa até prova em contrário: retire o artigo do primeiro e confira se o segundo está em genitivo. Se estiver, é iḍāfa — e a tradução precisa manter o genitivo.",
+        "en": "## What iḍāfa is\n\nIḍāfa links two nouns like a phrase without a verb. The first is the **construct**: it loses the article and nunation and takes the ending of the case the clause requires. The second is the **governed**: it keeps the article and the case. In {بَيْتُ اللهِ}, {بَيْتُ} is construct and {اللهِ} governed; the ending {ـِ} shows that the whole iḍāfa is governed by something outside it.\n\n## Reading it correctly\n\nIḍāfa is ambiguous when the last word can also be read on its own. {كَلِمَةُ اللهِ} can be \"the word of God\" or \"the word that is God\" — context decides. Compare {مَلَكُوتُ السَّمَاوَاتِ} with {مَلَكُوتُ}: in the first, {السَّمَاوَاتِ} is governed and genitive; in the second, {مَلَكُوتُ} stands alone and nominative.\n\n## In the Lord's Prayer\n\nThe Lord's Prayer is full of iḍāfas: {أَبَانَا} (which is construct before {الَّذِي}), {مَلَكُوت} and {مَشِيئَة}. When the second element is a relative pronoun, it is the pronoun that receives the article and the case: in {أَبَانَا الَّذِي} it is {الَّذِي} that carries definiteness.\n\n## Reading criterion\n\nWhen you see two nouns side by side in a verse, assume iḍāfa until proven otherwise: strip the article from the first and check whether the second is genitive. If it is, you have an iḍāfa — and the translation must keep the genitive.",
+        "es": "## Qué es la iḍāfa\n\nLa iḍāfa une dos sustantivos como una frase sin verbo. El primero es el **constructo**: pierde el artículo y la nunación y recibe la terminación del caso que pide la cláusula. El segundo es el **regido**: conserva el artículo y el caso. En {بَيْتُ اللهِ}, {بَيْتُ} es constructo y {اللهِ} regido; la terminación {ـِ} muestra que toda la iḍāfa está regida por algo exterior.\n\n## La lectura correcta\n\nLa iḍāfa es ambigua cuando la última palabra también puede leerse suelta. {كَلِمَةُ اللهِ} puede ser «la palabra de Dios» o «la palabra que es Dios» — decide el contexto. Compara {مَلَكُوتُ السَّمَاوَاتِ} con {مَلَكُوتُ}: en el primero, {السَّمَاوَاتِ} es regido y está en genitivo; en el segundo, {مَلَكُوتُ} está solo y en nominativo.\n\n## En el Padrenuestro\n\nLa oración del Padrenuestro está llena de iḍāfas: {أَبَانَا} (que es constructo de {الَّذِي}), {مَلَكُوت} y {مَشِيئَة}. Cuando el segundo elemento es un pronombre relativo, es el pronombre quien recibe el artículo y el caso: en {أَبَانَا الَّذِي} es {الَّذِي} quien carga la definitud.\n\n## Criterio de lectura\n\nAl ver dos sustantivos seguidos en un versículo, supone iḍāfa hasta que se demuestre lo contrario: quita el artículo del primero y comprueba si el segundo está en genitivo. Si lo está, hay iḍāfa — y la traducción debe mantener el genitivo."
+      },
+      "vocab": [
+        {
+          "form": "أَبَانَا",
+          "lemma": "أب",
+          "lang": "ar",
+          "pt": "nosso pai",
+          "en": "our Father",
+          "es": "nuestro Padre"
+        },
+        {
+          "form": "الَّذِي",
+          "lemma": "الذي",
+          "lang": "ar",
+          "pt": "que; o qual",
+          "en": "who; which",
+          "es": "que; el cual"
+        },
+        {
+          "form": "السَّمَاوَات",
+          "lemma": "سماء",
+          "lang": "ar",
+          "pt": "os céus",
+          "en": "the heavens",
+          "es": "los cielos"
+        },
+        {
+          "form": "اسْم",
+          "lemma": "اسم",
+          "lang": "ar",
+          "pt": "nome",
+          "en": "name",
+          "es": "nombre"
+        },
+        {
+          "form": "مَلَكُوت",
+          "lemma": "ملكوت",
+          "lang": "ar",
+          "pt": "reino",
+          "en": "kingdom",
+          "es": "reino"
+        },
+        {
+          "form": "مَشِيئَة",
+          "lemma": "مشية",
+          "lang": "ar",
+          "pt": "vontade",
+          "en": "will",
+          "es": "voluntad"
+        },
+        {
+          "form": "خُبْز",
+          "lemma": "خبز",
+          "lang": "ar",
+          "pt": "pão",
+          "en": "bread",
+          "es": "pan"
+        },
+        {
+          "form": "كَفَّافًا",
+          "lemma": "كف",
+          "lang": "ar",
+          "pt": "sustento",
+          "en": "sustenance",
+          "es": "sustento"
+        },
+        {
+          "form": "بَيْت",
+          "lemma": "بيت",
+          "lang": "ar",
+          "pt": "casa",
+          "en": "house",
+          "es": "casa"
+        },
+        {
+          "form": "الله",
+          "lemma": "الله",
+          "lang": "ar",
+          "pt": "Deus",
+          "en": "God",
+          "es": "Dios"
+        },
+        {
+          "form": "إِلَهِي",
+          "lemma": "إله",
+          "lang": "ar",
+          "pt": "meu Deus",
+          "en": "my God",
+          "es": "mi Dios"
+        },
+        {
+          "form": "تَرَكْتَنِي",
+          "lemma": "ترك",
+          "lang": "ar",
+          "pt": "me deixaste",
+          "en": "you forsake me",
+          "es": "me abandonaste"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "O que caracteriza o primeiro membro de uma iḍāfa?",
+          "en": "What characterizes the first member of an iḍāfa?",
+          "es": "¿Qué caracteriza el primer miembro de una iḍāfa?"
+        },
+        "options": [
+          {
+            "pt": "Perde {ال} e a nunação",
+            "en": "It loses {ال} and nunation",
+            "es": "Pierde {ال} y la nunación"
+          },
+          {
+            "pt": "Sempre leva {ال}",
+            "en": "It always takes {ال}",
+            "es": "Siempre lleva {ال}"
+          },
+          {
+            "pt": "Exige preposição escrita",
+            "en": "It requires a written preposition",
+            "es": "Exige preposición escrita"
+          },
+          {
+            "pt": "É sempre feminino",
+            "en": "It is always feminine",
+            "es": "Siempre es femenino"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete: ___ اللهِ (casa de Deus).",
+            "en": "Complete: ___ اللهِ (house of God).",
+            "es": "Completa: ___ اللهِ (casa de Dios)."
+          },
+          "answer": "بَيْتُ",
+          "hint": {
+            "pt": "Sem artigo e com caso regido pela preposição.",
+            "en": "No article, and with the case governed by the preposition.",
+            "es": "Sin artículo y con el caso regido por la preposición."
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe forma e função.",
+            "en": "Match form and function.",
+            "es": "Relaciona forma y función."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "أَبَانَا",
+                "en": "our Father",
+                "es": "nuestro Padre"
+              },
+              "b": {
+                "pt": "أب + نا",
+                "en": "father + our",
+                "es": "padre + nuestro"
+              }
+            },
+            {
+              "a": {
+                "pt": "إِلَهِي",
+                "en": "my God",
+                "es": "mi Dios"
+              },
+              "b": {
+                "pt": "إله + ي",
+                "en": "God + my",
+                "es": "Dios + mío"
+              }
+            },
+            {
+              "a": {
+                "pt": "تَرَكْتَنِي",
+                "en": "you left me",
+                "es": "me abandonaste"
+              },
+              "b": {
+                "pt": "فعل + ني",
+                "en": "verb + me",
+                "es": "verbo + me"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em {مَلَكُوتُ السَّمَاوَاتِ}, qual palavra é construída?",
+            "en": "In {مَلَكُوتُ السَّمَاوَاتِ}, which word is construct?",
+            "es": "En {مَلَكُوتُ السَّمَاوَاتِ}, ¿qué palabra es construida?"
+          },
+          "options": [
+            {
+              "pt": "السَّمَاوَاتِ",
+              "en": "السماء",
+              "es": "السماوات"
+            },
+            {
+              "pt": "مَلَكُوتُ",
+              "en": "مَلَكُوتُ",
+              "es": "مَلَكُوتُ"
+            },
+            {
+              "pt": "الَّذِي",
+              "en": "الذي",
+              "es": "الذي"
+            },
+            {
+              "pt": "اسْمُ",
+              "en": "اسم",
+              "es": "اسم"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O primeiro membro não pode manter {ال} nem nunação: {بَيْتُ اللهِ}, não {البيتُ}.",
+            "en": "The first member cannot retain {ال} or nunation: {بَيْتُ اللهِ}, not {البيتُ}.",
+            "es": "El primer miembro no puede conservar {ال} ni nunación: {بَيْتُ اللهِ}, no {البيتُ}."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "O segundo membro pode ser definido: {بَيْتُ اللهِ}; a ausência de {ال} pode indicar-testing indefinição.",
+            "en": "The second member may be definite: {بَيْتُ اللهِ}; absence of {ال} can indicate indefiniteness.",
+            "es": "El segundo miembro puede ser definido: {بَيْتُ اللهِ}; la ausencia de {ال} puede indicar indefinidad."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "A tradução de “de” explica a relação, mas não implica uma preposição escrita entre as palavras.",
+            "en": "The translation “of” explains the relation but does not imply a written preposition between the words.",
+            "es": "La traducción «de» explica la relación, pero no implica una preposición escrita entre las palabras."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Iḍāfa profunda",
+            "en": "Deep iḍāfa",
+            "es": "Iḍāfa profunda"
+          },
+          "text": {
+            "pt": "Uma cadeia pode vincular mais de dois nomes: {كَلِمَةُ رَبِّ الْعَالَمِينَ}.",
+            "en": "A chain can link more than two nouns: {كَلِمَةُ رَبِّ الْعَالَمِينَ}.",
+            "es": "Una cadena puede vincular más de dos sustantivos: {كَلِمَةُ رَبِّ الْعَالَمِينَ}."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "أَبَانَا الَّذِي فِي السَّمَاوَاتِ",
+          "gloss": {
+            "pt": "Pai nosso, que estás nos céus",
+            "en": "Our Father who art in heaven",
+            "es": "Padre nuestro, que estás en los cielos"
+          }
+        },
+        {
+          "text": "كَلِمَةُ اللهِ",
+          "gloss": {
+            "pt": "a Palavra de Deus",
+            "en": "the Word of God",
+            "es": "la Palabra de Dios"
+          }
+        },
+        {
+          "text": "إِلَهِي، إِلَهِي، لِمَاذَا تَرَكْتَنِي؟",
+          "gloss": {
+            "pt": "Meu Deus, meu Deus, por que me deixaste?",
+            "en": "My God, my God, why have you forsaken me?",
+            "es": "Dios mío, Dios mío, ¿por qué me has abandonado?"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Iḍāfa",
+            "en": "Iḍāfa",
+            "es": "Iḍāfa"
+          },
+          "head": [
+            {
+              "pt": "Palavra",
+              "en": "Word",
+              "es": "Palabra"
+            },
+            {
+              "pt": "Papel",
+              "en": "Role",
+              "es": "Papel"
+            },
+            {
+              "pt": "Português",
+              "en": "Portuguese",
+              "es": "Español"
+            }
+          ],
+          "rows": [
+            [
+              "بَيْتُ",
+              "modificador construído",
+              "casa de"
+            ],
+            [
+              "اللهِ",
+              "regido",
+              "Deus"
+            ],
+            [
+              "كَلِمَةُ",
+              "modificador construído",
+              "Palavra de"
+            ],
+            [
+              "مَلَكُوتُ السَّمَاوَاتِ",
+              "construto + regido",
+              "reino dos céus"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "pt": "Imperfeito, futuro e modos",
+        "en": "Imperfect, future, and moods",
+        "es": "Imperfecto, futuro y modos"
+      },
+      "subtitle": {
+        "pt": "O valor do tempo depende do contexto",
+        "en": "Time value depends on context",
+        "es": "El valor temporal depende del contexto"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## O imperfeito não é \"agora\"\n\nO imperfeito arábigo não tem valor de presente obrigatório. Ele pode ser habitual — {كَانَ يُضِيءُ النُّورُ} pode descrever o que a luz fazia continuamente — ou histórico, quando o passado recebe forma de imperfeito para narrar. O que decide é o contexto, não a vogalização: {ـُ} no final é a marca do modo.\n\n## Os modos\n\nO jussivo perde a vogal final: {يَكْتُبْ} é \"que escreva\". O subjuntivo costuma manter fatha: {يَكْتُبَ} é \"que escreva\" em contexto de desejo ou ordem. Em {لِيَكُنْ نُورٌ} o jussivo aparece depois de {لِ} — é a partícula de ordem.\n\n## Negação e futuro\n\n{لَمْ} nega o passado, {لَنْ} nega o futuro e {لا} nega o presente. Para o futuro há {سَ}-, como em {سَيَكْتُبُ} \"ele escreverá\", e {سَوْفَ}, que acentua o futuro: {سَوْفَ} acrescenta distância ou ênfase. A escolha entre os dois muda o tom, não o fato.\n\n## Negação concatenada\n\nQuando {لَمْ} encontra o jussivo ou o subjuntivo, os dois se fundem: {لَمْ يَكْتُبْ} é \"não escreveu\" com um único foco na negação. O mesmo vale para {لَمَّا}. O verbo fica assim com o final de um único tempo, o que costuma confundir quem traduz palavra por palavra.\n\n## Critério de leitura\n\nIdentifique primeiro a negação ({لَمْ}, {لَنْ}, {لا}), depois o tempo do verbo que a segue, e só então traduza. No texto original a posição da negação é o que fixa o tempo.",
+        "en": "## The imperfect is not \"now\"\n\nThe Arabic imperfect has no obligatory present value. It can be habitual — {كَانَ يُضِيءُ النُّورُ} may describe what the light kept doing — or historical, when a past event takes imperfect form for narration. What decides is context, not vocalisation: the ending {ـُ} marks mood, not time.\n\n## The moods\n\nThe jussive drops the final vowel: {يَكْتُبْ} is \"let him write\". The subjunctive usually keeps fatha: {يَكْتُبَ} is \"that he write\" in a context of wish or command. In {لِيَكُنْ نُورٌ} the jussive follows {لِ} — the particle of command.\n\n## Negation and future\n\n{لَمْ} negates the past, {لَنْ} the future, {لا} the present. For the future there is {سَ}-, as in {سَيَكْتُبُ} \"he will write\", and {سَوْفَ}, which stresses futurity: it adds distance or emphasis. The choice between them changes the tone, not the fact.\n\n## Contraction\n\nWhen {لَمْ} meets the jussive or the subjunctive, the two merge: {لَمْ يَكْتُبْ} is \"he did not write\" with a single focus on the negation. The same happens with {لَمَّا}. The verb then carries the ending of one tense only, which is what usually confuses literal translation.\n\n## Reading criterion\n\nIdentify the negation first ({لَمْ}, {لَنْ}, {لا}), then the tense of the verb that follows, and only then translate. In the original, the position of the negation is what fixes the tense.",
+        "es": "## El imperfecto no es «ahora»\n\nEl imperfecto árabe no tiene valor de presente obligatorio. Puede ser habitual — {كَانَ يُضِيءُ النُّورُ} puede describir lo que la luz hacía continuamente — o histórico, cuando un suceso pasado toma forma de imperfecto para narrar. Lo que decide es el contexto, no la vocalización: la terminación {ـُ} marca modo, no tiempo.\n\n## Los modos\n\nEl yusivo pierde la vocal final: {يَكْتُبْ} es «que escriba». El subjuntivo suele mantener la fatha: {يَكْتُبَ} es «que escriba» en contexto de deseo u orden. En {لِيَكُنْ نُورٌ} aparece el yusivo tras {لِ} — la partícula de orden.\n\n## Negación y futuro\n\n{لَمْ} niega el pasado, {لَنْ} el futuro y {لا} el presente. Para el futuro está {سَ}-, como en {سَيَكْتُبُ} «escribirá», y {سَوْفَ}, que acentúa el futurity: {سَوْفَ} añade distancia o énfasis. La elección entre ambos cambia el tono, no el hecho.\n\n## Contrae\n\nCuando {لَمْ} se encuentra con el yusivo o el subjuntivo, ambos se fusionan: {لَمْ يَكْتُبْ} es «no escribió» con un único foco en la negación. Lo mismo ocurre con {لَمَّا}. El verbo queda entonces con la terminación de un solo tiempo, que es lo que suele confundir a quien traduce literalmente.\n\n## Criterio de lectura\n\nIdentifica primero la negación ({لَمْ}, {لَنْ}, {لا}), luego el tiempo del verbo que la sigue y solo entonces traduce. En el original, la posición de la negación es lo que fija el tiempo."
+      },
+      "vocab": [
+        {
+          "form": "يَكْتُبُ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "ele escreve",
+          "en": "he writes",
+          "es": "escribe"
+        },
+        {
+          "form": "تَكْتُبُ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "tu escreves; ela escreve",
+          "en": "you/she writes",
+          "es": "escribes"
+        },
+        {
+          "form": "أَكْتُبُ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "eu escrevo",
+          "en": "I write",
+          "es": "escribo"
+        },
+        {
+          "form": "نَكْتُبُ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "nós escrevemos",
+          "en": "we write",
+          "es": "escribimos"
+        },
+        {
+          "form": "يَكْتُبُونَ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "eles escrevem",
+          "en": "they write",
+          "es": "escriben"
+        },
+        {
+          "form": "سَيَكْتُبُ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "ele escreverá",
+          "en": "he will write",
+          "es": "escribirá"
+        },
+        {
+          "form": "سَوْفَ",
+          "lemma": "سوف",
+          "lang": "ar",
+          "pt": "certamente; futuramente",
+          "en": "will; later",
+          "es": "sin duda; luego"
+        },
+        {
+          "form": "لَمْ",
+          "lemma": "لم",
+          "lang": "ar",
+          "pt": "não + passado",
+          "en": "not + past",
+          "es": "no + pasado"
+        },
+        {
+          "form": "لَنْ",
+          "lemma": "لن",
+          "lang": "ar",
+          "pt": "não + futuro",
+          "en": "never; not + future",
+          "es": "nunca; no + futuro"
+        },
+        {
+          "form": "لِيَكُنْ",
+          "lemma": "كان",
+          "lang": "ar",
+          "pt": "seja",
+          "en": "let there be",
+          "es": "sea"
+        },
+        {
+          "form": "يَعْمَلُ",
+          "lemma": "عمل",
+          "lang": "ar",
+          "pt": "ele faz",
+          "en": "he does",
+          "es": "hace"
+        },
+        {
+          "form": "يَعْلَمُ",
+          "lemma": "علم",
+          "lang": "ar",
+          "pt": "ele sabe",
+          "en": "he knows",
+          "es": "sabe"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Que valor expressa {لَمْ يَكْتُبْ}?",
+          "en": "What value does {لَمْ يَكْتُبْ} express?",
+          "es": "¿Qué valor expresa {لَمْ يَكْتُبْ}?"
+        },
+        "options": [
+          {
+            "pt": "Futuro",
+            "en": "Future",
+            "es": "Futuro"
+          },
+          {
+            "pt": "Passado negativo",
+            "en": "Negative past",
+            "es": "Pasado negativo"
+          },
+          {
+            "pt": "Presente negativo",
+            "en": "Negative present",
+            "es": "Presente negativo"
+          },
+          {
+            "pt": "Dúvida",
+            "en": "Doubt",
+            "es": "Duda"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Transforme o jussivo: يَكْتُبُ → ___",
+            "en": "Form the jussive: يَكْتُبُ → ___",
+            "es": "Forma el jussivo: يَكْتُبُ → ___"
+          },
+          "answer": "يَكْتُبْ",
+          "hint": {
+            "pt": "Retire a última vogal breve.",
+            "en": "Remove the final short vowel.",
+            "es": "Retira la última vocal breve."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual forma tem valor futuro próximo?",
+            "en": "Which form marks near future?",
+            "es": "¿Qué forma marca futuro próximo?"
+          },
+          "options": [
+            {
+              "pt": "لَنْ يَكْتُبَ",
+              "en": "lanyakutha",
+              "es": "lanyakuta"
+            },
+            {
+              "pt": "سَيَكْتُبُ",
+              "en": "sayakutub",
+              "es": "sayakutub"
+            },
+            {
+              "pt": "لَمْ يَكْتُبْ",
+              "en": "lamyaktub",
+              "es": "lamyaktub"
+            },
+            {
+              "pt": "كَانَ يَكْتُبُ",
+              "en": "he was writing",
+              "es": "escribía"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe marcador e tempo.",
+            "en": "Match marker and time.",
+            "es": "Relaciona marcador y tiempo."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "لَمْ",
+                "en": "lam",
+                "es": "lam"
+              },
+              "b": {
+                "pt": "não escreveu",
+                "en": "did not write",
+                "es": "no escribió"
+              }
+            },
+            {
+              "a": {
+                "pt": "لَنْ",
+                "en": "lan",
+                "es": "lan"
+              },
+              "b": {
+                "pt": "não escreverá",
+                "en": "will not write",
+                "es": "no escribirá"
+              }
+            },
+            {
+              "a": {
+                "pt": "سَ",
+                "en": "sa",
+                "es": "sa"
+              },
+              "b": {
+                "pt": "escreverá",
+                "en": "will write",
+                "es": "escribirá"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O jussivo perde a última vogal breve: {يَكْتُبُ} → {يَكْتُبْ}.",
+            "en": "The jussive loses the final short vowel: {يَكْتُبُ} → {يَكْتُبْ}.",
+            "es": "El jussivo pierde la vocal breve final: {يَكْتُبُ} → {يَكْتُبْ}."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "{لَمْ} + jussivo produz passado negativo: {لَمْ يَكْتُبْ}.",
+            "en": "{لَمْ} + jussive gives a negative past: {لَمْ يَكْتُبْ}.",
+            "es": "{لَمْ} + jussivo produce pasado negativo: {لَمْ يَكْتُبْ}."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "{لَنْ} + subjuntivo produz futuro negativo enfático: {لَنْ يَكْتُبَ}.",
+            "en": "{لَنْ} + subjunctive gives emphatic negative future: {لَنْ يَكْتُبَ}.",
+            "es": "{لَنْ} + subjuntivo produce futuro negativo enfático: {لَنْ يَكْتُبَ}."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Tempo",
+            "en": "Tense",
+            "es": "Tiempo"
+          },
+          "text": {
+            "pt": "O tempo gramatical e o tempo de referência são diferentes: {كَانَ يَقْرَأُ} pode ser “costumava ler”.",
+            "en": "Grammatical tense and reference time differ: {كَانَ يَقْرَأُ} can mean “used to read”.",
+            "es": "El tiempo gramatical y el de referencia son distintos: {كَانَ يَقْرَأُ} puede significar «solía leer»."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "كَانَ يُضِيءُ النُّورُ",
+          "gloss": {
+            "pt": "a luz vinha iluminando",
+            "en": "the light was shining",
+            "es": "la luz brillaba"
+          }
+        },
+        {
+          "text": "لِيَكُنْ نُورٌ",
+          "gloss": {
+            "pt": "haja luz",
+            "en": "let there be light",
+            "es": "haya luz"
+          }
+        },
+        {
+          "text": "لَنْ تَمُوتُوا",
+          "gloss": {
+            "pt": "não.have-vos-morte; “não.have-morredes”",
+            "en": "you shall not die",
+            "es": "no moriréis"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Formas de كتب",
+            "en": "Forms of كتب",
+            "es": "Formas de كتب"
+          },
+          "head": [
+            {
+              "pt": "Tipo",
+              "en": "Type",
+              "es": "Tipo"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Valor típico",
+              "en": "Typical value",
+              "es": "Valor típico"
+            }
+          ],
+          "rows": [
+            [
+              "imperfecto",
+              "يَكْتُبُ",
+              "presente; habitual; passado"
+            ],
+            [
+              "jussivo",
+              "لِيَكْتُبْ",
+              "desejo; finalidade; exhortação"
+            ],
+            [
+              "subjuntivo",
+              "لَنْ يَكْتُبَ",
+              "fato futuro; resultado"
+            ],
+            [
+              "futuro",
+              "سَيَكْتُبُ",
+              "ação futura"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": {
+        "pt": "Verbos fracos",
+        "en": "Weak verbs",
+        "es": "Verbos débiles"
+      },
+      "subtitle": {
+        "pt": "Raízes com و، ي o ا",
+        "en": "Roots with و, ي, or ا",
+        "es": "Raíces con و، ي o ا"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## O que faz uma raiz ser fraca\n\nUma raiz forte tem três consoantes. Uma raiz fraca tem {و} ou {ي} como consoante medial ou final, e isso muda o desenho do paradigma: uma das consoantes desaparece em certos tempos e reaparece em outros. Reconhecer a classe pelo paradigma é mais seguro que tentar adivinhar pela raiz.\n\n## Raiz oca\n\n{ق-و-ل} é oca porque o {و} medial desaparece: no passado vira {قَالَ}, no futuro {سَيَقُولُ}. O {و} reaparece justamente onde a raiz precisa de apoio, e some onde a terminação já traz a vogal. Compare {يَقُولُ} e {قَالَ} e o padrão fica claro.\n\n## Raiz defectiva\n\n{د-ع-و} termina em {و} e, por isso, as formas aparecem como {دَعَا} ou {يَدْعُو} — a última letra desloca a carga. Em {نَسِيَ} e {يَنْسَى} o mesmo acontece com {ي}. A terminação {ا} do passado substitui a consoante fraca.\n\n## Raiz assimilada\n\n{و-ج-د} é assimilada: o {و} inicial aparece no passado, como em {وَجَدَ} \"achou\", mas não no imperfeito, {يَجِدُ}. A raiz perde uma letra nos dois extremos, o que a torna um caso intermediário entre forte e fraca.\n\n## Critério de leitura\n\nAo ver um verbo com menos de três consoantes, não o considere defectuoso. Liste as formas que você conhece e procure qual consoante reaparece em cada tempo — o padrão revela a raiz subjacente e o significado.",
+        "en": "## What makes a root weak\n\nA strong root has three consonants. A weak root has {و} or {ي} as medial or final consonant, and that changes the shape of the paradigm: one of the consonants disappears in some tenses and reappears in others. Recognising the class from the paradigm is safer than guessing from the root.\n\n## The hollow root\n\n{ق-و-ل} is hollow because the medial {و} disappears: in the perfect it becomes {قَالَ}, in the future {سَيَقُولُ}. The {و} reappears exactly where the root needs support and vanishes where the ending already carries the vowel. Compare {يَقُولُ} with {قَالَ} and the pattern is plain.\n\n## The defective root\n\n{د-ع-و} ends in {و} and the forms accordingly appear as {دَعَا} or {يَدْعُو} — the last letter carries the weight. In {نَسِيَ} and {يَنْسَى} the same happens with {ي}. The {ا} of the perfect replaces the weak consonant.\n\n## The assimilated root\n\n{و-ج-د} is assimilated: the initial {و} appears in the perfect, as in {وَجَدَ} \"he found\", but not in the imperfect, {يَجِدُ}. The root loses a letter at both ends, which makes it an intermediate case between strong and weak.\n\n## Reading criterion\n\nWhen you see a verb with fewer than three consonants, do not write it off as defective. List the forms you know and look for which consonant comes back in each tense — the pattern reveals the underlying root and its meaning.",
+        "es": "## Qué hace que una raíz sea débil\n\nUna raíz fuerte tiene tres consonantes. Una raíz débil tiene {و} o {ي} como consonante media o final, y eso cambia la forma del paradigma: una de las consonantes desaparece en algunos tiempos y reaparece en otros. Reconocer la clase por el paradigma es más seguro que intentar adivinar por la raíz.\n\n## La raíz hueca\n\n{ق-و-ل} es hueca porque la {و} media desaparece: en el perfecto se convierte en {قَالَ}, en el futuro {سَيَقُولُ}. La {و} reaparece justo donde la raíz necesita apoyo y se va donde la terminación ya trae la vocal. Compara {يَقُولُ} con {قَالَ} y el patrón queda claro.\n\n## La raíz defectiva\n\n{د-ع-و} termina en {و} y por eso las formas aparecen como {دَعَا} o {يَدْعُو} — la última letra carga el peso. En {نَسِيَ} y {يَنْسَى} ocurre lo mismo con {ي}. La {ا} del perfecto sustituye a la consonante débil.\n\n## La raíz asimilada\n\n{و-ج-د} es asimilada: la {و} inicial aparece en el perfecto, como en {وَجَدَ} «encontró», pero no en el imperfecto, {يَجِدُ}. La raíz pierde una letra en los dos extremos, lo que la deja en un caso intermedio entre fuerte y débil.\n\n## Criterio de lectura\n\nAl ver un verbo con menos de tres consonantes, no lo descartes como defectuoso. Enumera las formas que conoces y busca qué consonante reaparece en cada tiempo — el patrón revela la raíz subyacente y su significado."
+      },
+      "vocab": [
+        {
+          "form": "قَالَ",
+          "lemma": "قال",
+          "lang": "ar",
+          "pt": "disse",
+          "en": "said",
+          "es": "dijo"
+        },
+        {
+          "form": "يَقُولُ",
+          "lemma": "قال",
+          "lang": "ar",
+          "pt": "diz",
+          "en": "says",
+          "es": "dice"
+        },
+        {
+          "form": "قِيلَ",
+          "lemma": "قال",
+          "lang": "ar",
+          "pt": "foi dito",
+          "en": "was said",
+          "es": "fue dicho"
+        },
+        {
+          "form": "بَاعَ",
+          "lemma": "باع",
+          "lang": "ar",
+          "pt": "vendeu",
+          "en": "sold",
+          "es": "vendió"
+        },
+        {
+          "form": "يَبِيعُ",
+          "lemma": "باع",
+          "lang": "ar",
+          "pt": "vende",
+          "en": "sells",
+          "es": "vende"
+        },
+        {
+          "form": "دَعَا",
+          "lemma": "دعا",
+          "lang": "ar",
+          "pt": "chamou",
+          "en": "called",
+          "es": "llamó"
+        },
+        {
+          "form": "يَدْعُو",
+          "lemma": "دعا",
+          "lang": "ar",
+          "pt": "chama",
+          "en": "calls",
+          "es": "llama"
+        },
+        {
+          "form": "وَجَدَ",
+          "lemma": "وجد",
+          "lang": "ar",
+          "pt": "achou",
+          "en": "found",
+          "es": "encontró"
+        },
+        {
+          "form": "يَجِدُ",
+          "lemma": "وجد",
+          "lang": "ar",
+          "pt": "acha",
+          "en": "finds",
+          "es": "encuentra"
+        },
+        {
+          "form": "نَسِيَ",
+          "lemma": "نسي",
+          "lang": "ar",
+          "pt": "esqueceu",
+          "en": "forgot",
+          "es": "olvidó"
+        },
+        {
+          "form": "يَنْسَى",
+          "lemma": "نسي",
+          "lang": "ar",
+          "pt": "esquece",
+          "en": "forgets",
+          "es": "olvida"
+        },
+        {
+          "form": "خَافَ",
+          "lemma": "خاف",
+          "lang": "ar",
+          "pt": "temeu",
+          "en": "feared",
+          "es": "temió"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual raiz produz {قَالَ} e {يَقُولُ}?",
+          "en": "Which root produces {قَالَ} and {يَقُولُ}?",
+          "es": "¿Qué raíz produce {قَالَ} y {يَقُولُ}?"
+        },
+        "options": [
+          {
+            "pt": "ق-و-ل",
+            "en": "q-w-l",
+            "es": "q-w-l"
+          },
+          {
+            "pt": "د-ع-و",
+            "en": "d-ʿ-w",
+            "es": "d-ʿ-w"
+          },
+          {
+            "pt": "و-ج-د",
+            "en": "w-j-d",
+            "es": "w-j-d"
+          },
+          {
+            "pt": "ن-س-ي",
+            "en": "n-s-y",
+            "es": "n-s-y"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete o imperfeito de {بَاعَ}: ___ (ele vende).",
+            "en": "Complete the imperfect of {بَاعَ}: ___ (he sells).",
+            "es": "Completa el imperfecto de {بَاعَ}: ___ (vende)."
+          },
+          "answer": "يَبِيعُ",
+          "hint": {
+            "pt": "É uma raiz oca.",
+            "en": "It is a hollow root.",
+            "es": "Es una raíz hueca."
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe raiz e classe.",
+            "en": "Match root and class.",
+            "es": "Relaciona raíz y clase."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "ق-و-ل",
+                "en": "q-w-l",
+                "es": "q-w-l"
+              },
+              "b": {
+                "pt": "oca",
+                "en": "hollow",
+                "es": "hueca"
+              }
+            },
+            {
+              "a": {
+                "pt": "د-ع-و",
+                "en": "d-ʿ-w",
+                "es": "d-ʿ-w"
+              },
+              "b": {
+                "pt": "defectiva",
+                "en": "defective",
+                "es": "defectiva"
+              }
+            },
+            {
+              "a": {
+                "pt": "و-ج-د",
+                "en": "w-j-d",
+                "es": "w-j-d"
+              },
+              "b": {
+                "pt": "assimilada",
+                "en": "assimilated",
+                "es": "asimilada"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "O que falta em {يَجِدُ} é…",
+            "en": "What is absent in {يَجِدُ}?",
+            "es": "¿Qué falta en {يَجِدُ}?"
+          },
+          "options": [
+            {
+              "pt": "a {و} inicial da raiz",
+              "en": "the initial root {و}",
+              "es": "la {و} inicial de la raíz"
+            },
+            {
+              "pt": "a {ا} medial",
+              "en": "the medial {ا}",
+              "es": "la {ا} medial"
+            },
+            {
+              "pt": "o artigo",
+              "en": "the article",
+              "es": "el artículo"
+            },
+            {
+              "pt": "o plural",
+              "en": "the plural",
+              "es": "el plural"
+            }
+          ],
+          "answer": 0
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Nas ocas, o {ا} do passado corresponde a {و} ou {ي} do imperfecto.",
+            "en": "In hollow verbs, perfect {ا} corresponds to imperfect {و} or {ي}.",
+            "es": "En las huecas, la {ا} del perfecto corresponde a {و} o {ي} del imperfecto."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Nas defectivas, a última raiz é {و} ou {ي}; compare o contexto de {دَعَا} e {يَدْعُو}.",
+            "en": "In defective verbs, the final root letter is {و} or {ي}; compare {دَعَا} and {يَدْعُو}.",
+            "es": "En las defectivas, la última letra de la raíz es {و} o {ي}; compara {دَعَا} y {يَدْعُو}."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "A forma só é segura quando se conhece o suficiente paradigma; não se force a raiz a partir de uma palavra.",
+            "en": "A form is secure only when enough of the paradigm is known; do not force a root from one word.",
+            "es": "Una forma solo es segura cuando se conoce suficiente paradigma; no fuerces la raíz a partir de una palabra."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Raiz",
+            "en": "Root",
+            "es": "Raíz"
+          },
+          "text": {
+            "pt": "A mesma raiz pode produzir substantivo verbal, particípio e passivo: {قَالَ} → {قَوْل} → {قَائِل} → {مَقُول}.",
+            "en": "One root can yield a verbal noun, participle, and passive: {قَالَ} → {قَوْل} → {قَائِل} → {مَقُول}.",
+            "es": "Una misma raíz puede producir sustantivo verbal, participio y pasiva: {قَالَ} → {قَوْل} → {قَائِل} → {مَقُول}."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "قَالَ الرَّبُّ",
+          "gloss": {
+            "pt": "disse o Senhor",
+            "en": "the Lord said",
+            "es": "dijo el Señor"
+          }
+        },
+        {
+          "text": "وَتَدْعُو اسْمَهُ يَسُوعَ",
+          "gloss": {
+            "pt": "e chamarás seu nome Jesus",
+            "en": "you shall call his name Jesus",
+            "es": "y llamarás su nombre Jesús"
+          }
+        },
+        {
+          "text": "لَا تَخَفْ",
+          "gloss": {
+            "pt": "não temas",
+            "en": "do not fear",
+            "es": "no temas"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Paradigmas selected",
+            "en": "Selected paradigms",
+            "es": "Paradigmas seleccionados"
+          },
+          "head": [
+            {
+              "pt": "Tipo",
+              "en": "Type",
+              "es": "Tipo"
+            },
+            {
+              "pt": "Raiz",
+              "en": "Root",
+              "es": "Raíz"
+            },
+            {
+              "pt": "Perfeito",
+              "en": "Perfect",
+              "es": "Perfecto"
+            },
+            {
+              "pt": "Imperfecto",
+              "en": "Imperfect",
+              "es": "Imperfecto"
+            }
+          ],
+          "rows": [
+            [
+              "oca",
+              "ق-و-ل",
+              "قَالَ",
+              "يَقُولُ"
+            ],
+            [
+              "oca",
+              "ب-ا-ع",
+              "بَاعَ",
+              "يَبِيعُ"
+            ],
+            [
+              "defectiva",
+              "د-ع-و",
+              "دَعَا",
+              "يَدْعُو"
+            ],
+            [
+              "assimilada",
+              "و-ج-د",
+              "وَجَدَ",
+              "يَجِدُ"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": {
+        "pt": "Particípios e nomes verbais",
+        "en": "Participles and verbal nouns",
+        "es": "Participios y sustantivos verbales"
+      },
+      "subtitle": {
+        "pt": "كَاتِب، مَكْتُوب، كِتَابَة",
+        "en": "كَاتِب، مَكْتُوب، كِتَابَة",
+        "es": "كَاتِب، مَكْتُوب، كِتَابَة"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## Três derivados, três funções\n\nA raiz {ك-ت-ب} produz formas nominais que se distinguem pela vogaliação, não pelo sentido bruto. {كَاتِب} tem vogal longa e é o **particípio ativo**: \"quem escreve\". {مَكْتُوب} começa por {م} e é o **particípio passivo**: \"o que foi escrito\". {كِتَابَة} termina em {ة} e é o **nome verbal**: \"a escrita\", sem agente nem paciente definido.\n\n## O particípio descreve ou nomeia\n\n{kَاتِب} seguido de artigo e concordância funciona como substantivo: {الكَاتِبُ} é \"o escritor\". Seguido de um substantivo, funciona como adjetivo: {كَاتِبٌ عَالِمٌ} é \"escritor sábio\". O mesmo vale para {مَكْتُوب} em {كَلِمَةٌ مَكْتُوبَةٌ} e {عِلْمٌ عَمِيقٌ}.\n\n## O tempo que o particípio não tem\n\nO particípio não tem tempo próprio: quem diz {مَكْتُوب} não afirma nem que a escrita ocorreu nem que ocorrerá. O tempo vem do verbo que o acompanha, se houver. Por isso uma tradução que faz do particípio um passado ou um futuro acrescenta algo que o árabe não disse.\n\n## Critério de leitura\n\nIdentifique a vogalização do derivado: {ـاتِب} ativo, {مَـتُوب} passivo, {ـتَابَة} nome verbal. Depois confira se há artigo: com artigo é nome, sem artigo é descrição. Essa checagem decide a tradução em 1 Coríntios e nos Salmos.",
+        "en": "## Three derivatives, three functions\n\nThe root {ك-ت-ب} produces nominal forms distinguished by vocalisation rather than by raw sense. {كَاتِب} has a long vowel and is the **active participle**: \"whoever writes\". {مَكْتُوب} begins with {م} and is the **passive participle**: \"what was written\". {كِتَابَة} ends in {ة} and is the **verbal noun**: \"the writing\", with no defined agent or patient.\n\n## Whether a participle describes or names\n\n{kَاتِب} followed by an article and agreement works as a noun: {الكَاتِبُ} is \"the scribe\". Followed by a noun, it works as an adjective: {كَاتِبٌ عَالِمٌ} is \"a learned scribe\". The same holds for {مَكْتُوب} in {كَلِمَةٌ مَكْتُوبَةٌ} and for {عِلْمٌ عَمِيقٌ}.\n\n## The tense a participle does not have\n\nA participle has no tense of its own: saying {مَكْتُوب} asserts neither that the writing happened nor that it will. Tense comes from the verb accompanying it, if any. A translation that turns a participle into a past or a future adds something Arabic never said.\n\n## Reading criterion\n\nIdentify the vocalisation of the derivative: {ـاتِب} active, {مَـتُوب} passive, {ـتَابَة} verbal noun. Then check for the article: with an article it names, without one it describes. That check settles the translation in 1 Corinthians and the Psalms.",
+        "es": "## Tres derivados, tres funciones\n\nLa raíz {ك-ت-ب} produce formas nominales que se distinguen por la vocalización y no por el sentido bruto. {كَاتِب} lleva vocal larga y es el **participio activo**: «quien escribe». {مَكْتُوب} empieza por {م} y es el **participio pasivo**: «lo que fue escrito». {كِتَابَة} termina en {ة} y es el **nombre verbal**: «la escritura», sin agente ni paciente definido.\n\n## Si el participio describe o nombra\n\n{kَاتِب} seguido de artículo y concordancia funciona como sustantivo: {الكَاتِبُ} es «el escriba». Seguido de un sustantivo, funciona como adjetivo: {كَاتِبٌ عَالِمٌ} es «escriba sabio». Lo mismo vale para {مَكْتُوب} en {كَلِمَةٌ مَكْتُوبَةٌ} y para {عِلْمٌ عَمِيقٌ}.\n\n## El tiempo que el participio no tiene\n\nEl participio no tiene tiempo propio: decir {مَكْتُوب} no afirma ni que la escritura ocurrió ni que ocurrirá. El tiempo viene del verbo que lo acompaña, si lo hay. Una traducción que convierte un participio en pasado o en futuro añade algo que el árabe no dijo.\n\n## Criterio de lectura\n\nIdentifica la vocalización del derivado: {ـاتِب} activo, {مَـتُوب} pasivo, {ـتَابَة} nombre verbal. Después comprueba si hay artículo: con artículo nombra, sin él describe. Esa comprobación decide la traducción en 1 Corintios y en los Salmos."
+      },
+      "vocab": [
+        {
+          "form": "كَاتِب",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "escritor",
+          "en": "writer",
+          "es": "escritor"
+        },
+        {
+          "form": "مَكْتُوب",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "escrito",
+          "en": "written",
+          "es": "escrito"
+        },
+        {
+          "form": "كِتَابَة",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "escrita",
+          "en": "writing",
+          "es": "escritura"
+        },
+        {
+          "form": "عَالِم",
+          "lemma": "علم",
+          "lang": "ar",
+          "pt": "sábio; conhecedor",
+          "en": "scholar; one who knows",
+          "es": "sabio; conocedor"
+        },
+        {
+          "form": "حَافِظ",
+          "lemma": "حفظ",
+          "lang": "ar",
+          "pt": "guardião",
+          "en": "guardian",
+          "es": "guardián"
+        },
+        {
+          "form": "مَحْبُوب",
+          "lemma": "حب",
+          "lang": "ar",
+          "pt": "amado",
+          "en": "beloved",
+          "es": "amado"
+        },
+        {
+          "form": "مُبَارَك",
+          "lemma": "بارك",
+          "lang": "ar",
+          "pt": "bendito",
+          "en": "blessed",
+          "es": "bendito"
+        },
+        {
+          "form": "إِيمَان",
+          "lemma": "آمن",
+          "lang": "ar",
+          "pt": "fé",
+          "en": "faith",
+          "es": "fe"
+        },
+        {
+          "form": "عِلْم",
+          "lemma": "علم",
+          "lang": "ar",
+          "pt": "conhecimento",
+          "en": "knowledge",
+          "es": "conocimiento"
+        },
+        {
+          "form": "حَمْد",
+          "lemma": "حمد",
+          "lang": "ar",
+          "pt": "louvor",
+          "en": "praise",
+          "es": "alabanza"
+        },
+        {
+          "form": "طُوبَى",
+          "lemma": "طوبى",
+          "lang": "ar",
+          "pt": "bem-aventurança",
+          "en": "blessedness",
+          "es": "bienaventuranza"
+        },
+        {
+          "form": "آمَنُوا",
+          "lemma": "آمن",
+          "lang": "ar",
+          "pt": "creram",
+          "en": "they believed",
+          "es": "creyeron"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual é o particípio ativo de {كتب}?",
+          "en": "Which is the active participle of {كتب}?",
+          "es": "¿Cuál es el participio activo de {كتب}?"
+        },
+        "options": [
+          {
+            "pt": "مَكْتُوب",
+            "en": "written",
+            "es": "escrito"
+          },
+          {
+            "pt": "كَاتِب",
+            "en": "writer",
+            "es": "escritor"
+          },
+          {
+            "pt": "كِتَابَة",
+            "en": "writing",
+            "es": "escritura"
+          },
+          {
+            "pt": "كِتَاب",
+            "en": "book",
+            "es": "libro"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe forma e função.",
+            "en": "Match form and function.",
+            "es": "Relaciona forma y función."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "كَاتِب",
+                "en": "writer",
+                "es": "escritor"
+              },
+              "b": {
+                "pt": "participio activo",
+                "en": "active participle",
+                "es": "participio activo"
+              }
+            },
+            {
+              "a": {
+                "pt": "مَكْتُوب",
+                "en": "written",
+                "es": "escrito"
+              },
+              "b": {
+                "pt": "participio passivo",
+                "en": "passive participle",
+                "es": "participio pasivo"
+              }
+            },
+            {
+              "a": {
+                "pt": "كِتَابَة",
+                "en": "writing",
+                "es": "escritura"
+              },
+              "b": {
+                "pt": "nome verbal",
+                "en": "verbal noun",
+                "es": "sustantivo verbal"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete {ال___}: {الْحَمْدُ} significa “o louvor”.",
+            "en": "Complete {ال___}: {الْحَمْدُ} means “praise”.",
+            "es": "Completa {ال___}: {الْحَمْدُ} significa «la alabanza»."
+          },
+          "answer": "حَمْدُ",
+          "hint": {
+            "pt": "É o nome verbal de louvar.",
+            "en": "It is the verbal noun of praising.",
+            "es": "Es el sustantivo verbal de alabar."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em {رَحْمَةُ اللهِ}, qual palavra é regida?",
+            "en": "In {رَحْمَةُ اللهِ}, which word is governed?",
+            "es": "En {رَحْمَةُ اللهِ}, ¿qué palabra es regida?"
+          },
+          "options": [
+            {
+              "pt": "رَحْمَةُ",
+              "en": "mercy",
+              "es": "misericordia"
+            },
+            {
+              "pt": "اللهِ",
+              "en": "God",
+              "es": "Dios"
+            },
+            {
+              "pt": "رَحِمَ",
+              "en": "he had mercy",
+              "es": "tuvo misericordia"
+            },
+            {
+              "pt": "اللهَ",
+              "en": "God accusative",
+              "es": "Dios acusativo"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "O particípio ativo indica atividade presente; o passivo indica resultado ou estado resultante.",
+            "en": "The active participle indicates present activity; the passive indicates result or resulting state.",
+            "es": "El participio activo indica actividad presente; el pasivo indica resultado o estado resultante."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "O nome verbal dá o evento abstrato e pode reger o objeto como o verbo de onde deriva.",
+            "en": "The verbal noun names the abstract event and can govern an object like its source verb.",
+            "es": "El sustantivo verbal nombra el evento abstracto y puede regir objeto como el verbo de origen."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "A preposição {لِ} transforma “misericórdia” em “ter misericórdia”.",
+            "en": "The prefix {لِ} turns “mercy” into “to have mercy”.",
+            "es": "El prefijo {لِ} transforma «misericordia» en «tener misericordia»."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Nota",
+            "en": "Note",
+            "es": "Nota"
+          },
+          "text": {
+            "pt": "Nem todo nome verbal pertence rigorosamente a uma única forma; a nomenclatura didática simplifica Traditionally.",
+            "en": "Not every verbal noun belongs rigidly to one form; teaching labels simplify the system.",
+            "es": "No todo sustantivo verbal pertenece rigurosamente a una sola forma; las etiquetas didácticas simplifican el sistema."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "كَاتِبٌ جَدِيدٌ",
+          "gloss": {
+            "pt": "um escritor novo",
+            "en": "a new writer",
+            "es": "un escritor nuevo"
+          }
+        },
+        {
+          "text": "كِتَابَةٌ مُبْدَعَةٌ",
+          "gloss": {
+            "pt": "uma escrita criativa",
+            "en": "creative writing",
+            "es": "una escritura creativa"
+          }
+        },
+        {
+          "text": "الْحَمْدُ لِلَّهِ",
+          "gloss": {
+            "pt": "o louvor é a Deus",
+            "en": "praise belongs to God",
+            "es": "la alabanza es a Dios"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Derivados de كتب",
+            "en": "Derivatives of كتب",
+            "es": "Derivados de كتب"
+          },
+          "head": [
+            {
+              "pt": "Categoria",
+              "en": "Category",
+              "es": "Categoría"
+            },
+            {
+              "pt": "Padrão",
+              "en": "Pattern",
+              "es": "Patrón"
+            },
+            {
+              "pt": "Resultado",
+              "en": "Result",
+              "es": "Resultado"
+            }
+          ],
+          "rows": [
+            [
+              "particípio ativo",
+              "فَاعِل",
+              "كَاتِب: quem escreve"
+            ],
+            [
+              "particípio passivo",
+              "مَفْعُول",
+              "مَكْتُوب: que foi escrito"
+            ],
+            [
+              "nome verbal",
+              "مَفْعَالَة / مَفْعِل",
+              "كِتَابَة: ato de escrever"
+            ],
+            [
+              "nome verbal",
+              "فِعْلَة",
+              "صَلَاة: oração"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": {
+        "pt": "Adjetivos e comparação",
+        "en": "Adjectives and comparison",
+        "es": "Adjetivos y comparación"
+      },
+      "subtitle": {
+        "pt": "Concordância e padrões",
+        "en": "Agreement and patterns",
+        "es": "Concordancia y patrones"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "## O adjetivo vem depois\n\nEm árabe o adjetivo segue o substantivo e concorda com ele em gênero e número, mas nunca em caso. {الكِتَابُ الكَبِيرُ} é \"o livro grande\"; {الكِتَابُ الكَبِيرَ} é a mesma coisa quando o substantivo cai no caso regido. O caso é do substantivo, e só dele.\n\n## Concordância ou não\n\nO adjetivo concorda em gênero e número, não em definitude. Com nome e adjetivo definidos, os dois levam {ال}: {الكِتَابُ الكَبِيرُ}. Com nome definido e adjetivo indefinido, apenas o nome leva o artigo: {الكِتَابُ كَبِيرٌ}, que deixa aberta a qualidade.\n\n## O padrão de superlativo\n\nO comparativo e o superlativo usam o padrão {أَفْعَلَ}: {أَكْبَرُ} é \"maior\" e, com {مِنْ}, \"maior que\" — {أَكْبَرُ مِنْ}. Como superlativo recebe o artículo {ال}: {الْأَكْبَرُ}. O mesmo padrão aparece nas cores: {أَبْيَضُ}, {أَسْوَدُ}, {أَحْمَرُ}. Repare que o {ال} do superlativo é o da forma, não o do substantivo.\n\n## Critério de leitura\n\nMarque o substantivo primeiro e identifique o seu caso; o adjetivo não interfere. Se o adjetivo vem logo depois e a frase faz sentido, quase sempre é adjetivo — a palavra que vem depois dele é que indica se a construção é substantiva.",
+        "en": "## The adjective follows\n\nIn Arabic the adjective follows the noun and agrees with it in gender and number, but never in case. {الكِتَابُ الكَبِيرُ} is \"the big book\"; {الكِتَابُ الكَبِيرَ} is the same thing once the noun falls into a governed case. The case belongs to the noun, and to the noun alone.\n\n## Agreement, or its absence\n\nThe adjective agrees in gender and number, not in definiteness. With a definite noun and a definite adjective, both take {ال}: {الكِتَابُ الكَبِيرُ}. With a definite noun and an indefinite adjective, only the noun takes the article: {الكِتَابُ كَبِيرٌ}, which leaves the quality open.\n\n## The superlative pattern\n\nComparative and superlative use the {أَفْعَلَ} pattern: {أَكْبَرُ} is \"greater\" and, with {مِنْ}, \"greater than\" — {أَكْبَرُ مِنْ}. As a superlative it takes {ال}: {الْأَكْبَرُ}. The same pattern shows up in colours: {أَبْيَضُ}, {أَسْوَدُ}, {أَحْمَرُ}. Note that the article in the superlative belongs to the form, not to the noun.\n\n## Reading criterion\n\nMark the noun first and identify its case; the adjective does not interfere. If the adjective comes right after and the clause makes sense, it is almost certainly an adjective — the word after it is what shows whether the construction is nominal instead.",
+        "es": "## El adjetivo va después\n\nEn árabe el adjetivo sigue al sustantivo y concuerda con él en género y número, pero nunca en caso. {الكِتَابُ الكَبِيرُ} es «el libro grande»; {الكِتَابُ الكَبِيرَ} es lo mismo cuando el sustantivo cae en un caso regido. El caso es del sustantivo, y solo del sustantivo.\n\n## Concordancia, o su ausencia\n\nEl adjetivo concuerda en género y número, no en definitud. Con nombre y adjetivo definidos, los dos llevan {ال}: {الكِتَابُ الكَبِيرُ}. Con nombre definido y adjetivo indefinido, solo el nombre lleva artículo: {الكِتَابُ كَبِيرٌ}, que deja abierta la cualidad.\n\n## El patrón del superlativo\n\nEl comparativo y el superlativo usan el patrón {أَفْعَلَ}: {أَكْبَرُ} es «mayor» y, con {مِنْ}, «mayor que» — {أَكْبَرُ مِنْ}. Como superlativo lleva artículo: {الْأَكْبَرُ}. El mismo patrón aparece en los colores: {أَبْيَضُ}, {أَسْوَدُ}, {أَحْمَرُ}. Fíjate en que el {ال} del superlativo es el de la forma, no el del sustantivo.\n\n## Criterio de lectura\n\nMarca primero el sustantivo e identifica su caso; el adjetivo no interfiere. Si el adjetivo va justo después y la cláusula tiene sentido, casi con seguridad es un adjetivo — la palabra que viene tras él es la que indica si la construcción es nominal."
+      },
+      "vocab": [
+        {
+          "form": "كَبِير",
+          "lemma": "كبير",
+          "lang": "ar",
+          "pt": "grande",
+          "en": "big",
+          "es": "grande"
+        },
+        {
+          "form": "كَبِيرَة",
+          "lemma": "كبير",
+          "lang": "ar",
+          "pt": "grande (f.)",
+          "en": "big (f.)",
+          "es": "grande (f.)"
+        },
+        {
+          "form": "جَدِيد",
+          "lemma": "جديد",
+          "lang": "ar",
+          "pt": "novo",
+          "en": "new",
+          "es": "nuevo"
+        },
+        {
+          "form": "مُقَدَّس",
+          "lemma": "قدس",
+          "lang": "ar",
+          "pt": "santo",
+          "en": "holy",
+          "es": "santo"
+        },
+        {
+          "form": "أَبْيَض",
+          "lemma": "بيض",
+          "lang": "ar",
+          "pt": "branco",
+          "en": "white",
+          "es": "blanco"
+        },
+        {
+          "form": "أَسْوَد",
+          "lemma": "سود",
+          "lang": "ar",
+          "pt": "preto",
+          "en": "black",
+          "es": "negro"
+        },
+        {
+          "form": "أَحْمَر",
+          "lemma": "حمر",
+          "lang": "ar",
+          "pt": "vermelho",
+          "en": "red",
+          "es": "rojo"
+        },
+        {
+          "form": "أَكْبَر",
+          "lemma": "كبير",
+          "lang": "ar",
+          "pt": "maior",
+          "en": "greater",
+          "es": "mayor"
+        },
+        {
+          "form": "أَقْوَى",
+          "lemma": "قوي",
+          "lang": "ar",
+          "pt": "mais forte",
+          "en": "stronger",
+          "es": "más fuerte"
+        },
+        {
+          "form": "الْحُبّ",
+          "lemma": "حب",
+          "lang": "ar",
+          "pt": "o amor",
+          "en": "love",
+          "es": "el amor"
+        },
+        {
+          "form": "الْمَوْت",
+          "lemma": "موت",
+          "lang": "ar",
+          "pt": "a morte",
+          "en": "death",
+          "es": "la muerte"
+        },
+        {
+          "form": "الْعَهْد",
+          "lemma": "عهد",
+          "lang": "ar",
+          "pt": "a aliança; o testamento",
+          "en": "covenant; testament",
+          "es": "pacto; testamento"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Como se diz “o livro grande”?",
+          "en": "How do you say “the big book”?",
+          "es": "¿Cómo se dice «el libro grande»?"
+        },
+        "options": [
+          {
+            "pt": "كتاب كبير",
+            "en": "book big",
+            "es": "libro grande"
+          },
+          {
+            "pt": "الكتاب الكبير",
+            "en": "the book the-big",
+            "es": "el libro el-grande"
+          },
+          {
+            "pt": "كتاب الكبير",
+            "en": "book the-big",
+            "es": "libro el-grande"
+          },
+          {
+            "pt": "الكتاب كبير",
+            "en": "the-book big",
+            "es": "el-libro grande"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Feminino de {أَبْيَض}: ___",
+            "en": "Feminine of {أَبْيَض}: ___",
+            "es": "Femenino de {أَبْيَض}: ___"
+          },
+          "answer": "بَيْضَاءُ",
+          "hint": {
+            "pt": "O feminino usa {-اء}.",
+            "en": "The feminine uses {-اء}.",
+            "es": "El femenino usa {-اء}."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual sequência está bem concordada?",
+            "en": "Which sequence agrees correctly?",
+            "es": "¿Qué secuencia concuerda bien?"
+          },
+          "options": [
+            {
+              "pt": "كتابٌ كبيرٌ",
+              "en": "book.m big.m",
+              "es": "libro.m grande.m"
+            },
+            {
+              "pt": "كتابٌ كبيرةٌ",
+              "en": "book.m big.f",
+              "es": "libro.m grande.f"
+            },
+            {
+              "pt": "كُتُبٌ كبيرٌ",
+              "en": "books.m big.m",
+              "es": "libros.m grande.m"
+            },
+            {
+              "pt": "كتابٌ كبَارٌ",
+              "en": "book.m big.p",
+              "es": "libro.m grandes.p"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe adjetivo e cor.",
+            "en": "Match adjective and color.",
+            "es": "Relaciona adjetivo y color."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "أَبْيَض",
+                "en": "white",
+                "es": "blanco"
+              },
+              "b": {
+                "pt": "branco",
+                "en": "white",
+                "es": "blanco"
+              }
+            },
+            {
+              "a": {
+                "pt": "أَسْوَد",
+                "en": "black",
+                "es": "negro"
+              },
+              "b": {
+                "pt": "preto",
+                "en": "black",
+                "es": "negro"
+              }
+            },
+            {
+              "a": {
+                "pt": "أَحْمَر",
+                "en": "red",
+                "es": "rojo"
+              },
+              "b": {
+                "pt": "vermelho",
+                "en": "red",
+                "es": "rojo"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "Adjetivo e substantivo concordam em gênero e número.",
+            "en": "Adjective and noun agree in gender and number.",
+            "es": "Adjetivo y sustantivo concuerdan en género y número."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "Artigos definidos podem se repetir, um antes de cada elemento.",
+            "en": "The definite article may be repeated before each agreeing element.",
+            "es": "El artículo definido puede repetirse ante cada elemento concordante."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "{أَفْعَلَ} é frequentíssimo em cores e no comparativo {أَفْعَلُ مِنْ}.",
+            "en": "{أَفْعَلَ} is frequent in colors and the comparative {أَفْعَلُ مِنْ}.",
+            "es": "{أَفْعَلَ} es frecuente en colores y en el comparativo {أَفْعَلُ مِنْ}."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Comparação",
+            "en": "Comparison",
+            "es": "Comparación"
+          },
+          "text": {
+            "pt": "O superlativo pode ser feito com {أَفْعَلُ} ou por {أَكْثَرُ}: {أَكْبَرُ} é comum na fórmula {اللهُ أَكْبَرُ}.",
+            "en": "The superlative may use {أَفْعَلُ} or {أَكْثَرُ}; {أَكْبَرُ} is common in the formula {اللهُ أَكْبَرُ}.",
+            "es": "El superlativo puede usar {أَفْعَلُ} o {أَكْثَرُ}; {أَكْبَرُ} es común en la fórmula {اللهُ أَكْبَرُ}."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "الْكِتَابُ الْجَدِيدُ",
+          "gloss": {
+            "pt": "o novo livro",
+            "en": "the new book",
+            "es": "el nuevo libro"
+          }
+        },
+        {
+          "text": "أَرْضٌ مُقَدَّسَةٌ",
+          "gloss": {
+            "pt": "terra santa",
+            "en": "holy land",
+            "es": "tierra santa"
+          }
+        },
+        {
+          "text": "الْحُبُّ أَقْوَى مِنَ الْمَوْتِ",
+          "gloss": {
+            "pt": "o amor é mais forte que a morte",
+            "en": "love is stronger than death",
+            "es": "el amor es más fuerte que la muerte"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Concordância",
+            "en": "Agreement",
+            "es": "Concordancia"
+          },
+          "head": [
+            {
+              "pt": "Substantivo",
+              "en": "Noun",
+              "es": "Sustantivo"
+            },
+            {
+              "pt": "Adjetivo",
+              "en": "Adjective",
+              "es": "Adjetivo"
+            }
+          ],
+          "rows": [
+            [
+              "كِتَابٌ كَبِيرٌ",
+              "livro grande"
+            ],
+            [
+              "كِتَابٌ كَبِيرَةٌ",
+              "livro grande"
+            ],
+            [
+              "كُتُبٌ كِبَارٌ",
+              "livros grandes"
+            ],
+            [
+              "الكِتَابُ الكَبِيرُ",
+              "o grande livro"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": {
+        "pt": "Preposições e advérbios",
+        "en": "Prepositions and adverbs",
+        "es": "Preposiciones y adverbios"
+      },
+      "subtitle": {
+        "pt": "Relação, tempo e lugar",
+        "en": "Relation, time, and place",
+        "es": "Relación, tiempo y lugar"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "## A preposição governa o caso\n\nUma partícula preposicional não é só \"para\": ela determina o caso do substantivo que vem depois. {فِي الْبَدْءِ} põe o substantivo no genitivo, e a terminação {ـِ} é a prova. {إِلَى النُّورِ} faz o mesmo. {عَلَى السَّمَاءِ} também. A terminação do substantivo regido é o marcador mais confiável que existe: leia a palavra, não a preposição.\n\n## A marca da regência\n\nO substantivo perde a forma indefinida e recebe o genitivo, visível tanto no substantivo comum ({الْبَدْءِ}) quanto nos pronomes: {مِنْهُ}, {إِلَيْهِ}, {عَلَيْهِ}. Quando a terminação é ambígua, a preposição seguinte desempata — é por isso que o texto bíblico repete preposições e nomes.\n\n## {مَعَ} e os pronomes\n\n{mَعَ} significa \"com\", mas com pronomes admite duas formas: {مَعَنَا}, {مَعَهُ} (acusativo) e {مَعِى}, {مَعَهُ} (genitivo) conforme a posição. Trate {مَعَ} como duas preposições distintas e a análise fica segura. O mesmo vale para {حَاشَا} e {خِلَافَ}, que pedem o genitivo.\n\n## Critério de leitura\n\nComece pelo substantivo, identifique o caso pela terminação e só então associe a preposição. Se a terminação indicar genitivo, traduza a relação e não repita a preposição como se fosse um \"de\" genérico — em {مِنَ اللهِ} a preposição já está na palavra.",
+        "en": "## The preposition governs the case\n\nA prepositional particle is not merely \"to\": it determines the case of the noun that follows. {فِي الْبَدْءِ} puts the noun in the genitive, and the ending {ـِ} is the proof. So does {إِلَى النُّورِ}. So does {عَلَى السَّمَاءِ}. The ending of the governed noun is the most reliable marker there is: read the word, not the preposition.\n\n## The mark of government\n\nThe noun loses the indefinite form and takes the genitive, visible both in a common noun ({الْبَدْءِ}) and in pronouns: {مِنْهُ}, {إِلَيْهِ}, {عَلَيْهِ}. When the ending is ambiguous, the following preposition breaks the tie — which is why biblical text repeats prepositions and names.\n\n## {مَعَ} and pronouns\n\n{mَعَ} means \"with\", but with pronouns it takes two forms: {مَعَنَا}, {مَعَهُ} (accusative) and {مَعِى}, {مَعَهُ} (genitive) depending on position. Treat {مَعَ} as two distinct prepositions and the analysis becomes safe. The same holds for {حَاشَا} and {خِلَافَ}, which require the genitive.\n\n## Reading criterion\n\nStart from the noun, identify the case from the ending, and only then attach the preposition. If the ending shows a genitive, translate the relation instead of repeating the preposition as a generic \"of\" — in {مِنَ اللهِ} the preposition is already inside the word.",
+        "es": "## La preposición rige el caso\n\nUna partícula preposicional no es solo «a»: determina el caso del sustantivo que viene después. {فِي الْبَدْءِ} pone el sustantivo en genitivo, y la terminación {ـِ} es la prueba. También {إِلَى النُّورِ}. También {عَلَى السَّمَاءِ}. La terminación del sustantivo regido es el marcador más fiable que existe: lee la palabra, no la preposición.\n\n## La marca de la regencia\n\nEl sustantivo pierde la forma indefinida y toma el genitivo, visible tanto en un sustantivo común ({الْبَدْءِ}) como en los pronombres: {مِنْهُ}, {إِلَيْهِ}, {عَلَيْهِ}. Cuando la terminación es ambigua, la preposición que sigue desempata — por eso el texto bíblico repite preposiciones y nombres.\n\n## {مَعَ} y los pronombres\n\n{mَعَ} significa «con», pero con pronombres admite dos formas: {مَعَنَا}, {مَعَهُ} (acusativo) y {مَعِى}, {مَعَهُ} (genitivo) según la posición. Trata {مَعَ} como dos preposiciones distintas y el análisis queda seguro. Lo mismo vale para {حَاشَا} y {خِلَافَ}, que exigen genitivo.\n\n## Criterio de lectura\n\nEmpieza por el sustantivo, identifica el caso por la terminación y solo entonces asocia la preposición. Si la terminación indica genitivo, traduce la relación y no repitas la preposición como si fuera un «de» genérico — en {مِنَ اللهِ} la preposición ya está en la palabra."
+      },
+      "vocab": [
+        {
+          "form": "فِي",
+          "lemma": "في",
+          "lang": "ar",
+          "pt": "em; dentro de",
+          "en": "in; within",
+          "es": "en; dentro de"
+        },
+        {
+          "form": "مِنْ",
+          "lemma": "من",
+          "lang": "ar",
+          "pt": "de; desde",
+          "en": "from; of",
+          "es": "de; desde"
+        },
+        {
+          "form": "إِلَى",
+          "lemma": "إلى",
+          "lang": "ar",
+          "pt": "a; até",
+          "en": "to; until",
+          "es": "a; hasta"
+        },
+        {
+          "form": "عَلَى",
+          "lemma": "على",
+          "lang": "ar",
+          "pt": "sobre; sobre",
+          "en": "on; upon",
+          "es": "sobre; sobre"
+        },
+        {
+          "form": "مِنْ",
+          "lemma": "من",
+          "lang": "ar",
+          "pt": "apartir de",
+          "en": "from",
+          "es": "a partir de"
+        },
+        {
+          "form": "بِاسْمِ",
+          "lemma": "اسم",
+          "lang": "ar",
+          "pt": "em nome de",
+          "en": "in the name of",
+          "es": "en nombre de"
+        },
+        {
+          "form": "مَعَ",
+          "lemma": "مع",
+          "lang": "ar",
+          "pt": "com",
+          "en": "with",
+          "es": "con"
+        },
+        {
+          "form": "عِنْدَ",
+          "lemma": "عند",
+          "lang": "ar",
+          "pt": "junto a",
+          "en": "at; with",
+          "es": "junto a"
+        },
+        {
+          "form": "بَيْنَ",
+          "lemma": "بين",
+          "lang": "ar",
+          "pt": "entre",
+          "en": "between",
+          "es": "entre"
+        },
+        {
+          "form": "كَانَ",
+          "lemma": "كان",
+          "lang": "ar",
+          "pt": "ser; estar",
+          "en": "to be",
+          "es": "ser; estar"
+        },
+        {
+          "form": "أَيْضًا",
+          "lemma": "أيضا",
+          "lang": "ar",
+          "pt": "também",
+          "en": "also",
+          "es": "también"
+        },
+        {
+          "form": "الآنَ",
+          "lemma": "الآن",
+          "lang": "ar",
+          "pt": "agora",
+          "en": "now",
+          "es": "ahora"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual caso regem {فِي}, {مِنْ}, {إِلَى} e {عَلَى}?",
+          "en": "What case do {فِي}, {مِنْ}, {إِلَى}, and {عَلَى} govern?",
+          "es": "¿Qué caso rigen {فِي}, {مِنْ}, {إِلَى} y {عَلَى}?"
+        },
+        "options": [
+          {
+            "pt": "genitivo",
+            "en": "genitive",
+            "es": "genitivo"
+          },
+          {
+            "pt": "nominativo",
+            "en": "nominative",
+            "es": "nominativo"
+          },
+          {
+            "pt": "acusativo",
+            "en": "accusative",
+            "es": "acusativo"
+          },
+          {
+            "pt": "vocal",
+            "en": "vocal",
+            "es": "vocal"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Em {مِنَ ___} (de Deus), complete o nome.",
+            "en": "In {مِنَ ___} (from God), complete the noun.",
+            "es": "En {مِنَ ___} (de Dios), completa el sustantivo."
+          },
+          "answer": "اللهِ",
+          "hint": {
+            "pt": "O nome fica no genitivo.",
+            "en": "The noun is genitive.",
+            "es": "El sustantivo va en genitivo."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual frase usa “também”?",
+            "en": "Which phrase uses “also”?",
+            "es": "¿Qué frase usa «también»?"
+          },
+          "options": [
+            {
+              "pt": "أَيْضًا",
+              "en": "also",
+              "es": "también"
+            },
+            {
+              "pt": "هُنَا",
+              "en": "here",
+              "es": "aquí"
+            },
+            {
+              "pt": "إِلَى",
+              "en": "to",
+              "es": "a"
+            },
+            {
+              "pt": "مَعَ",
+              "en": "with",
+              "es": "con"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe preposição e sentido.",
+            "en": "Match preposition and meaning.",
+            "es": "Relaciona preposición y significado."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "فِي",
+                "en": "in",
+                "es": "en"
+              },
+              "b": {
+                "pt": "em",
+                "en": "in",
+                "es": "en"
+              }
+            },
+            {
+              "a": {
+                "pt": "مِنْ",
+                "en": "from",
+                "es": "desde"
+              },
+              "b": {
+                "pt": "de",
+                "en": "from",
+                "es": "de"
+              }
+            },
+            {
+              "a": {
+                "pt": "عَلَى",
+                "en": "on",
+                "es": "sobre"
+              },
+              "b": {
+                "pt": "sobre",
+                "en": "on",
+                "es": "sobre"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "As preposições governam normalmente o genitivo do nome seguinte.",
+            "en": "Prepositions normally govern the genitive of the following noun.",
+            "es": "Las preposiciones rigen normalmente el genitivo del sustantivo siguiente."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "A terminação -i é uma pista de caso: {بَيْتِ} após {فِي}.",
+            "en": "The -i ending is a case clue: {بَيْتِ} after {فِي}.",
+            "es": "La terminación -i es una pista de caso: {بَيْتِ} tras {فِي}."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Advérbios não contam como regidos: {هُنَا} significa “aqui” e pode ocupar posição livre.",
+            "en": "Adverbs are not governed nouns: {هُنَا} means “here” and can occupy a freer position.",
+            "es": "Los adverbios no son sustantivos regidos: {هُنَا} significa «aquí» y ocupa una posición más libre."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Caso",
+            "en": "Case",
+            "es": "Caso"
+          },
+          "text": {
+            "pt": "A mesma preposição pode mudar de acordo com o complemento: {مَعَ اللهِ} versus {مَعَنَا}.",
+            "en": "The same particle may change with its complement: {مَعَ اللهِ} versus {مَعَنَا}.",
+            "es": "La misma partícula puede cambiar según el complemento: {مَعَ اللهِ} frente a {مَعَنَا}."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "فِي السَّمَاوَاتِ",
+          "gloss": {
+            "pt": "nos céus",
+            "en": "in the heavens",
+            "es": "en los cielos"
+          }
+        },
+        {
+          "text": "عِنْدَ اللهِ",
+          "gloss": {
+            "pt": "junto a Deus",
+            "en": "with God",
+            "es": "junto a Dios"
+          }
+        },
+        {
+          "text": "اللهُ مَعَنَا",
+          "gloss": {
+            "pt": "Deus conosco",
+            "en": "God with us",
+            "es": "Dios con nosotros"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Preposições principais",
+            "en": "Main prepositions",
+            "es": "Preposiciones principales"
+          },
+          "head": [
+            {
+              "pt": "Preposição",
+              "en": "Preposition",
+              "es": "Preposición"
+            },
+            {
+              "pt": "Português",
+              "en": "Portuguese",
+              "es": "Español"
+            },
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            }
+          ],
+          "rows": [
+            [
+              "فِي",
+              "em; dentro",
+              "genitivo"
+            ],
+            [
+              "مِنْ",
+              "de; desde",
+              "genitivo"
+            ],
+            [
+              "إِلَى",
+              "a; até",
+              "genitivo"
+            ],
+            [
+              "عَلَى",
+              "sobre",
+              "genitivo"
+            ],
+            [
+              "مَعَ",
+              "com",
+              "genitivo; acusativo pronominal"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": {
+        "pt": "Numerais e concordância",
+        "en": "Numerals and agreement",
+        "es": "Numerales y concordancia"
+      },
+      "subtitle": {
+        "pt": "Do um ao milhar",
+        "en": "From one to a thousand",
+        "es": "Del uno al mil"
+      },
+      "section": {
+        "pt": "O nome",
+        "en": "The noun",
+        "es": "El nombre"
+      },
+      "body": {
+        "pt": "## De 3 a 10, o numeral é feminino\n\nDe {ثَلَاثَة} a {عَشَرَة}, o numeral aparece na forma feminina mesmo diante de um substantivo masculino: {ثَلَاثَةُ أَيَّامٍ} é \"três dias\", e não \"três livro\". Não é erro, é herança de uma regra antiga em que o substantivo contável era tratado como feminino. O numeral {اثْنَانِ} é o único que concorda normalmente.\n\n## O substantivo vai para o genitivo\n\nO substantivo contado perde a nunação e recebe o genitivo, visível em {أَيَّامٍ}. O numeral fica no caso que o resto da oração pedir. Por isso a tradução tem de manter a ideia de contagem: em português basta dizer \"três dias\", mas o genitivo está lá e some na tradução.\n\n## De 11 a 99 muda tudo\n\nA estrutura se inverte: a unidade vem primeiro, a dezena depois, e o substantivo continua no plural. {إِحْدَى عَشَرَةَ} é \"onze\" (unidadefemem + dezena) e {ثَلَاثَةَ عَشَرَ} é \"treze\" (unidade masculina + dezena). A inversão entre 13 e 19 em relação a 11 e 12 é uma das características clássicas do sistema.\n\n## Acima de cem\n\n{mِائَة} e {أَلْف} são indeclináveis e não exigem mudança de gênero. A partir de duzentos, a concordência volta: {مِائَتَانِ} é dual, {مِائَةٌ وَثَلَاثُونَ} mantém a unidade e a dezena separadas.\n\n## Critério de leitura\n\nConte de 3 a 20 até o padrão ser automático. Depois, em qualquer versículo com numeral, verifique três coisas: o gênero do numeral, o caso do substantivo e a posição da unidade em relação à dezena.",
+        "en": "## From 3 to 10 the numeral is feminine\n\nFrom {ثَلَاثَة} to {عَشَرَة}, the numeral takes the feminine form even before a masculine noun: {ثَلَاثَةُ أَيَّامٍ} is \"three days\", not \"three book\". This is not an error but the inheritance of an old rule that treated the counted noun as feminine. {اِثْنَانِ} is the only numeral that agrees normally.\n\n## The noun goes genitive\n\nThe counted noun loses nunation and takes the genitive, visible in {أَيَّامٍ}. The numeral stays in whatever case the rest of the clause requires. Translation therefore has to preserve the idea of counting: Portuguese simply says \"three days\", and the genitive disappears in translation.\n\n## From 11 to 99 it changes\n\nThe structure reverses: the unit comes first, the ten after, and the noun stays plural. {إِحْدَى عَشَرَةَ} is \"eleven\" (feminine unit + ten) and {ثَلَاثَةَ عَشَرَ} is \"thirteen\" (masculine unit + ten). This reversal between 13 and 19, against 11 and 12, is one of the system's classic features.\n\n## Above a hundred\n\n{mِائَة} and {أَلْف} are indeclinable and require no gender change. From two hundred on, agreement returns: {مِائَتَانِ} is the dual, and {مِائَةٌ وَثَلَاثُونَ} keeps unit and ten apart.\n\n## Reading criterion\n\nCount from 3 to 20 until the pattern is automatic. Then, in any verse with a numeral, check three things: the gender of the numeral, the case of the noun, and the position of the unit relative to the ten.",
+        "es": "## Del 3 al 10 el numeral es femenino\n\nDe {ثَلَاثَة} a {عَشَرَة}, el numeral aparece en forma femenina incluso ante un sustantivo masculino: {ثَلَاثَةُ أَيَّامٍ} es «tres días», y no «tres libro». No es un error, es la herencia de una regla antigua que trataba el sustantivo contado como femenino. {اِثْنَانِ} es el único numeral que concuerda con normalidad.\n\n## El sustantivo va a genitivo\n\nEl sustantivo contado pierde la nunación y toma el genitivo, visible en {أَيَّامٍ}. El numeral queda en el caso que pida el resto de la cláusula. Por eso la traducción debe conservar la idea de recuento: en português basta decir «tres días», y el genitivo desaparece por el camino.\n\n## Del 11 al 99 cambia todo\n\nLa estructura se invierte: la unidad va primero, la decena después, y el sustantivo sigue en plural. {إِحْدَى عَشَرَةَ} es «once» (unidad femenina + decena) y {ثَلَاثَةَ عَشَرَ} es «trece» (unidad masculina + decena). Esa inversión entre 13 y 19, frente a 11 y 12, es una de las características clásicas del sistema.\n\n## Por encima de cien\n\n{mِائَة} y {أَلْف} son indeclinables y no exigen cambio de género. Desde doscientos vuelve la concordancia: {مِائَتَانِ} es el dual, y {مِائَةٌ وَثَلَاثُونَ} mantiene unidad y decena separadas.\n\n## Criterio de lectura\n\nCuenta del 3 al 20 hasta que el patrón sea automático. Después, en cualquier versículo con numeral, comprueba tres cosas: el género del numeral, el caso del sustantivo y la posición de la unidad respecto de la decena."
+      },
+      "vocab": [
+        {
+          "form": "وَاحِد",
+          "lemma": "واحد",
+          "lang": "ar",
+          "pt": "um",
+          "en": "one",
+          "es": "uno"
+        },
+        {
+          "form": "اِثْنَانِ",
+          "lemma": "اثنان",
+          "lang": "ar",
+          "pt": "dois",
+          "en": "two",
+          "es": "dos"
+        },
+        {
+          "form": "ثَلَاثَة",
+          "lemma": "ثلاثة",
+          "lang": "ar",
+          "pt": "três",
+          "en": "three",
+          "es": "tres"
+        },
+        {
+          "form": "أَرْبَعَة",
+          "lemma": "أربعة",
+          "lang": "ar",
+          "pt": "quatro",
+          "en": "four",
+          "es": "cuatro"
+        },
+        {
+          "form": "خَمْسَة",
+          "lemma": "خمسة",
+          "lang": "ar",
+          "pt": "cinco",
+          "en": "five",
+          "es": "cinco"
+        },
+        {
+          "form": "سِتَّة",
+          "lemma": "ستة",
+          "lang": "ar",
+          "pt": "seis",
+          "en": "six",
+          "es": "seis"
+        },
+        {
+          "form": "سَبْعَة",
+          "lemma": "سبعة",
+          "lang": "ar",
+          "pt": "sete",
+          "en": "seven",
+          "es": "siete"
+        },
+        {
+          "form": "ثَمَانِيَة",
+          "lemma": "ثمانية",
+          "lang": "ar",
+          "pt": "oito",
+          "en": "eight",
+          "es": "ocho"
+        },
+        {
+          "form": "تِسْعَة",
+          "lemma": "تسعة",
+          "lang": "ar",
+          "pt": "nove",
+          "en": "nine",
+          "es": "nueve"
+        },
+        {
+          "form": "عَشَرَة",
+          "lemma": "عشرة",
+          "lang": "ar",
+          "pt": "dez",
+          "en": "ten",
+          "es": "diez"
+        },
+        {
+          "form": "مِائَة",
+          "lemma": "مائة",
+          "lang": "ar",
+          "pt": "cem",
+          "en": "hundred",
+          "es": "cien"
+        },
+        {
+          "form": "أَلْف",
+          "lemma": "ألف",
+          "lang": "ar",
+          "pt": "mil",
+          "en": "thousand",
+          "es": "mil"
+        }
+      ],
+      "exercise": {
+        "kind": "fill",
+        "prompt": {
+          "pt": "Como se diz “sete”?",
+          "en": "How do you say “seven”?",
+          "es": "¿Cómo se dice «siete»?"
+        },
+        "answer": "سَبْعَة",
+        "hint": {
+          "pt": "Começa por sīn e termina em tāʾ marbūṭa.",
+          "en": "Begin with sīn and end with tāʾ marbūṭa.",
+          "es": "Empieza por sīn y termina en tāʾ marbūṭa."
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual numeral conta “livros” (masculinos)?",
+            "en": "Which numeral counts “books” (masculine)?",
+            "es": "¿Qué numeral cuenta «libros» (masculinos)?"
+          },
+          "options": [
+            {
+              "pt": "ثَلَاثَة",
+              "en": "three",
+              "es": "tres"
+            },
+            {
+              "pt": "ثَلَاث",
+              "en": "three masc.",
+              "es": "tres masc."
+            },
+            {
+              "pt": "ثَلَاثُ",
+              "en": "three acc.",
+              "es": "tres acus."
+            },
+            {
+              "pt": "ثُلُث",
+              "en": "third",
+              "es": "tercio"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe número e forma.",
+            "en": "Match number and form.",
+            "es": "Relaciona número y forma."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "2",
+                "en": "two",
+                "es": "dos"
+              },
+              "b": {
+                "pt": "اِثْنَانِ",
+                "en": "two",
+                "es": "dos"
+              }
+            },
+            {
+              "a": {
+                "pt": "5",
+                "en": "five",
+                "es": "cinco"
+              },
+              "b": {
+                "pt": "خَمْسَة",
+                "en": "five",
+                "es": "cinco"
+              }
+            },
+            {
+              "a": {
+                "pt": "10",
+                "en": "ten",
+                "es": "diez"
+              },
+              "b": {
+                "pt": "عَشَرَة",
+                "en": "ten",
+                "es": "diez"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete “___ لَيْلَةٍ” (mil noites).",
+            "en": "Complete “___ لَيْلَةٍ” (a thousand nights).",
+            "es": "Completa «___ لَيْلَةٍ» (mil noches)."
+          },
+          "answer": "أَلْفُ",
+          "hint": {
+            "pt": "A palavra significa “mil”.",
+            "en": "The word means “thousand”.",
+            "es": "La palabra significa «mil»."
+          }
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "De 3 a 10 o numeral é feminino, independentemente do substantivo contado.",
+            "en": "From 3 to 10 the numeral is feminine regardless of the counted noun.",
+            "es": "Del 3 al 10 el numeral es femenino sea cual sea el sustantivo contado."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "O substantivo contado de 3 a 10 fica no genitivo, normalmente plural.",
+            "en": "The counted noun from 3 to 10 is genitive, usually plural.",
+            "es": "El sustantivo contado del 3 al 10 va en genitivo, normalmente plural."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "11–99 são construídos: a unidade vem antes da dezena.",
+            "en": "11–99 are construct compounds: the unit precedes the ten.",
+            "es": "Del 11 al 99 se forman por construcción: la unidad precede a la decena."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Contagem",
+            "en": "Counting",
+            "es": "Contar"
+          },
+          "text": {
+            "pt": "A forma {ثَلَاثَة} não torna “dia” feminino: é um fenômeno de polaridade numeral.",
+            "en": "The form {ثَلَاثَة} does not make “day” feminine; it reflects numeral polarity.",
+            "es": "La forma {ثَلَاثَة} no vuelve femenino «día»; refleja la polaridad del numeral."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "ثَلَاثَةُ أَيَّامٍ",
+          "gloss": {
+            "pt": "três dias",
+            "en": "three days",
+            "es": "tres días"
+          }
+        },
+        {
+          "text": "سَبْعُ سِنِينَ",
+          "gloss": {
+            "pt": "sete anos",
+            "en": "seven years",
+            "es": "siete años"
+          }
+        },
+        {
+          "text": "اِثْنَا عَشَرَ",
+          "gloss": {
+            "pt": "doze",
+            "en": "twelve",
+            "es": "doce"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Números 1–12",
+            "en": "Numbers 1–12",
+            "es": "Números 1–12"
+          },
+          "head": [
+            {
+              "pt": "Número",
+              "en": "Number",
+              "es": "Número"
+            },
+            {
+              "pt": "Árabe",
+              "en": "Arabic",
+              "es": "Árabe"
+            }
+          ],
+          "rows": [
+            [
+              "1",
+              "وَاحِد"
+            ],
+            [
+              "2",
+              "اِثْنَانِ"
+            ],
+            [
+              "3",
+              "ثَلَاثَة"
+            ],
+            [
+              "4",
+              "أَرْبَعَة"
+            ],
+            [
+              "5",
+              "خَمْسَة"
+            ],
+            [
+              "6",
+              "سِتَّة"
+            ],
+            [
+              "7",
+              "سَبْعَة"
+            ],
+            [
+              "8",
+              "ثَمَانِيَة"
+            ],
+            [
+              "9",
+              "تِسْعَة"
+            ],
+            [
+              "10",
+              "عَشَرَة"
+            ],
+            [
+              "11",
+              "إِحْدَى عَشَرَةَ"
+            ],
+            [
+              "12",
+              "اِثْنَا عَشَرَ"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": {
+        "pt": "Perguntas e condicionais",
+        "en": "Questions and conditionals",
+        "es": "Preguntas y condicionales"
+      },
+      "subtitle": {
+        "pt": "Interrogação, relação e consequência",
+        "en": "Interrogation, relation, and consequence",
+        "es": "Interrogación, relación y consecuencia"
+      },
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "body": {
+        "pt": "## Perguntas\n\n{هَلْ} abre perguntas de sim ou não e não admite resposta invertida. As interrogativas usam {مَنْ} para \"quem?\", {مَا} para \"o quê?\", {أَيْنَ} para \"onde?\", {مَتَى} para \"quando?\" e {لِمَاذَا} para \"por quê?\". Em {مَنْ ذَا الَّذِي} a estrutura é invertida: o pronome vem antes do relativo.\n\n## O relativo\n\n{الَّذِي} concorda com o antecedente em gênero e número: masculino {الَّذِي}, feminino {الَّتِي}, plural {الَّذِينَ}. Ele entra depois do substantivo e recebe o caso pedido pelo resto da oração, como qualquer substantivo.\n\n## O condicional\n\n{إِنْ} introduz a condição e pode vir com presente ou com passado. Em {إِنْ تُؤْمِنُ} a condição é apresentada como presente e habitual; em {إِنْ آمَنْتَ} ela aparece como evento já realizado. O verbo da consequência vem no imperfeito, como em {لَنْ يَهْلِكَ} — a consequência é negativa e futura.\n\n## Critério de leitura\n\nAo encontrar {إِنْ} num versículo, pergunte primeiro se a condição está sendo descrita como hábito ou como fato, e depois quem é o sujeito da consequência — quase sempre o mesmo da condição, em forma derivada.",
+        "en": "## Questions\n\n{هَلْ} opens yes/no questions and does not allow an inverted answer. Interrogatives use {مَنْ} for \"who?\", {مَا} for \"what?\", {أَيْنَ} for \"where?\", {مَتَى} for \"when?\" and {لِمَاذَا} for \"why?\". In {مَنْ ذَا الَّذِي} the structure is inverted: the pronoun precedes the relative.\n\n## The relative\n\n{الَّذِي} agrees with its antecedent in gender and number: masculine {الَّذِي}, feminine {الَّتِي}, plural {الَّذِينَ}. It follows the noun and takes the case required by the rest of the clause, like any noun.\n\n## The conditional\n\n{إِنْ} introduces the condition and may be followed by the imperfect or the perfect. In {إِنْ تُؤْمِنُ} the condition is presented as present and habitual; in {إِنْ آمَنْتَ} it appears as an already accomplished event. The verb of the consequence comes in the imperfect, as in {لَنْ يَهْلِكَ} — the consequence is negative and future.\n\n## Reading criterion\n\nOn meeting {إِنْ} in a verse, first ask whether the condition is described as habit or as fact, then who is the subject of the consequence — almost always the same as the condition's, in a derived form.",
+        "es": "## Preguntas\n\n{هَلْ} abre preguntas de sí o no y no admite una respuesta invertida. Las interrogativas usan {مَنْ} para «¿quién?», {مَا} para «¿qué?», {أَيْنَ} para «¿dónde?», {مَتَى} para «¿cuándo?» y {لِمَاذَا} para «¿por qué?». En {مَنْ ذَا الَّذِي} la estructura está invertida: el pronombre precede al relativo.\n\n## El relativo\n\n{الَّذِي} concuerda con su antecedente en género y número: masculino {الَّذِي}, femenino {الَّتِي}, plural {الَّذِينَ}. Va después del sustantivo y recibe el caso que pide el resto de la cláusula, como cualquier sustantivo.\n\n## El condicional\n\n{إِنْ} introduce la condición y puede ir con presente o con pasado. En {إِنْ تُؤْمِنُ} la condición se presenta como presente y habitual; en {إِنْ آمَنْتَ} aparece como suceso ya realizado. El verbo de la consecuencia va en imperfecto, como en {لَنْ يَهْلِكَ} — la consecuencia es negativa y futura.\n\n## Criterio de lectura\n\nAl encontrar {إِنْ} en un versículo, pregunta primero si la condición se describe como hábito o como hecho, y después quién es el sujeto de la consecuencia — casi siempre el mismo que el de la condición, en forma derivada."
+      },
+      "vocab": [
+        {
+          "form": "هَلْ",
+          "lemma": "هل",
+          "lang": "ar",
+          "pt": "acaso; pergunta",
+          "en": "whether; question",
+          "es": "acaso; pregunta"
+        },
+        {
+          "form": "مَنْ",
+          "lemma": "من",
+          "lang": "ar",
+          "pt": "quem",
+          "en": "who",
+          "es": "quién"
+        },
+        {
+          "form": "مَا",
+          "lemma": "ما",
+          "lang": "ar",
+          "pt": "o quê",
+          "en": "what",
+          "es": "qué"
+        },
+        {
+          "form": "مَاذَا",
+          "lemma": "ماذا",
+          "lang": "ar",
+          "pt": "o que; por quê",
+          "en": "what; why",
+          "es": "qué; por qué"
+        },
+        {
+          "form": "أَيْنَ",
+          "lemma": "أين",
+          "lang": "ar",
+          "pt": "onde",
+          "en": "where",
+          "es": "dónde"
+        },
+        {
+          "form": "مَتَى",
+          "lemma": "متى",
+          "lang": "ar",
+          "pt": "quando",
+          "en": "when",
+          "es": "cuándo"
+        },
+        {
+          "form": "كَيْفَ",
+          "lemma": "كيف",
+          "lang": "ar",
+          "pt": "como",
+          "en": "how",
+          "es": "cómo"
+        },
+        {
+          "form": "لِمَاذَا",
+          "lemma": "لماذا",
+          "lang": "ar",
+          "pt": "por quê",
+          "en": "why",
+          "es": "por qué"
+        },
+        {
+          "form": "الَّذِي",
+          "lemma": "الذي",
+          "lang": "ar",
+          "pt": "que; o qual",
+          "en": "who; which",
+          "es": "que; el cual"
+        },
+        {
+          "form": "الَّتِي",
+          "lemma": "التي",
+          "lang": "ar",
+          "pt": "que (f.)",
+          "en": "which (f.)",
+          "es": "que (f.)"
+        },
+        {
+          "form": "إِنْ",
+          "lemma": "إن",
+          "lang": "ar",
+          "pt": "se",
+          "en": "if",
+          "es": "si"
+        },
+        {
+          "form": "فَ",
+          "lemma": "ف",
+          "lang": "ar",
+          "pt": "então; pois",
+          "en": "then; so",
+          "es": "entonces; pues"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "O que {إِنْ آمَنْتَ} pode significar?",
+          "en": "What can {إِنْ آمَنْتَ} mean?",
+          "es": "¿Qué puede significar {إِنْ آمَنْتَ}?"
+        },
+        "options": [
+          {
+            "pt": "Se creíste",
+            "en": "If you believed",
+            "es": "Si creíste"
+          },
+          {
+            "pt": "Se creres",
+            "en": "If you believe",
+            "es": "Si crees"
+          },
+          {
+            "pt": "Não creio",
+            "en": "I do not believe",
+            "es": "No creo"
+          },
+          {
+            "pt": "Creu!",
+            "en": "Believe!",
+            "es": "¡Cree!"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete “___ تُؤْمِنُ؟” (crês?).",
+            "en": "Complete “___ تُؤْمِنُ؟” (Do you believe?).",
+            "es": "Completa «___ تُؤْمِنُ؟» (¿Crees?)."
+          },
+          "answer": "هَلْ",
+          "hint": {
+            "pt": "É a partícula de pergunta sim/não.",
+            "en": "It is the yes/no question particle.",
+            "es": "Es la partícula de pregunta sí/no."
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe pergunta e resposta esperada.",
+            "en": "Match question and expected answer.",
+            "es": "Relaciona pregunta y respuesta esperada."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "مَنْ؟",
+                "en": "Who?",
+                "es": "¿Quién?"
+              },
+              "b": {
+                "pt": "quem?",
+                "en": "a person",
+                "es": "una persona"
+              }
+            },
+            {
+              "a": {
+                "pt": "أَيْنَ؟",
+                "en": "Where?",
+                "es": "¿Dónde?"
+              },
+              "b": {
+                "pt": "lugar",
+                "en": "a place",
+                "es": "un lugar"
+              }
+            },
+            {
+              "a": {
+                "pt": "مَتَى؟",
+                "en": "When?",
+                "es": "¿Cuándo?"
+              },
+              "b": {
+                "pt": "tempo",
+                "en": "a time",
+                "es": "un tiempo"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual partícula introduz a consequência?",
+            "en": "Which particle introduces the consequence?",
+            "es": "¿Qué partícula introduce la consecuencia?"
+          },
+          "options": [
+            {
+              "pt": "إِنْ",
+              "en": "if",
+              "es": "si"
+            },
+            {
+              "pt": "فَ",
+              "en": "then",
+              "es": "entonces"
+            },
+            {
+              "pt": "هَلْ",
+              "en": "whether",
+              "es": "acaso"
+            },
+            {
+              "pt": "بَيْنَ",
+              "en": "between",
+              "es": "entre"
+            }
+          ],
+          "answer": 1
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "{هَلْ} + verbo espera resposta sim/não.",
+            "en": "{هَلْ} + verb expects a yes/no answer.",
+            "es": "{هَلْ} + verbo espera respuesta de sí o no."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "{إِنْ} introduz a condição; {فَ} introduz a consequência ou um novo fato.",
+            "en": "{إِنْ} introduces the condition; {فَ} introduces the consequence or a new fact.",
+            "es": "{إِنْ} introduce la condición; {فَ} introduce la consecuencia o un hecho nuevo."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "O relativo deve concordar com o antecedente, mas sua função sintática pode ser diverse.",
+            "en": "The relative agrees with its antecedent, although its syntactic role may vary.",
+            "es": "El relativo concuerda con el antecedente, aunque su función sintáctica puede variar."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Tradução",
+            "en": "Translation",
+            "es": "Traducción"
+          },
+          "text": {
+            "pt": "A tradução literal de {لَنْ تَمُوتُوا} é “vós não.have-morredes”; o verbo recebe o sentido futuro negativo.",
+            "en": "The literal shape of {لَنْ تَمُوتُوا} is negative future: “you shall not die”.",
+            "es": "La estructura de {لَنْ تَمُوتُوا} expresa futuro negativo: «no moriréis»."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "هَلْ تُؤْمِنُ؟",
+          "gloss": {
+            "pt": "tu crês?",
+            "en": "Do you believe?",
+            "es": "¿Crees?"
+          }
+        },
+        {
+          "text": "مَنْ يَعْمَلْ؟",
+          "gloss": {
+            "pt": "quem fará?",
+            "en": "Who will do it?",
+            "es": "¿Quién lo hará?"
+          }
+        },
+        {
+          "text": "إِنْ تُؤْمِنُ فَسَتَخْلُصُ",
+          "gloss": {
+            "pt": "se creres, serás salvo",
+            "en": "if you believe, you will be saved",
+            "es": "si crees, serás salvo"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Pronomes interrogativos",
+            "en": "Question words",
+            "es": "Pronombres interrogativos"
+          },
+          "head": [
+            {
+              "pt": "Palavra",
+              "en": "Word",
+              "es": "Palabra"
+            },
+            {
+              "pt": "Pergunta",
+              "en": "Question",
+              "es": "Pregunta"
+            }
+          ],
+          "rows": [
+            [
+              "مَنْ",
+              "quem?"
+            ],
+            [
+              "مَا / مَاذَا",
+              "o quê?"
+            ],
+            [
+              "أَيْنَ",
+              "onde?"
+            ],
+            [
+              "مَتَى",
+              "quando?"
+            ],
+            [
+              "كَيْفَ",
+              "como?"
+            ],
+            [
+              "لِمَاذَا",
+              "por quê?"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": {
+        "pt": "Passiva e síntese do curso",
+        "en": "Passive and course synthesis",
+        "es": "Pasiva y síntesis del curso"
+      },
+      "subtitle": {
+        "pt": "كُتِبَ: resultado e agente",
+        "en": "كُتِبَ: result and agent",
+        "es": "كُتِبَ: resultado y agente"
+      },
+      "section": {
+        "pt": "Síntese do curso",
+        "en": "Course synthesis",
+        "es": "Síntesis del curso"
+      },
+      "body": {
+        "pt": "## O que a passiva faz\n\nA passiva arábica destaca o resultado ou o estado e normalmente **omite o agente**. Não é uma transformação vazia de estilo: quando o agente é irrelevante ou já conhecido, apagá-lo libera a estrutura. Em {كُتِبَ} \"foi escrito\", não se diz quem escreveu — e em {خُلِقَ} \"foi criado\", o agente é Deus, que o texto não precisa nomear.\n\n## Mudança de vogaliação\n\nNo passado, {كَتَبَ} vira {كُتِبَ}: as vogais se invertem. No imperfeito, {يَكْتُبُ} vira {يُكْتَبُ}. Com raízes fracas a vogaliação acompanha a raiz, não a terminação: {قَالَ} → {قِيلَ} e {وَلَدَ} → {وُلِدَ}. Perceba que {قِيلَ} não parece com {قَالَ} nem com {يَقُولُ} — é o único jeito de reconhecer a forma.\n\n## Agente explícito\n\nQuando o autor precisa nomear o agente, usa {مِنْ قِبَلِ} ou {بِـ} mais a forma verbal. {مِنْ قِبَلِ} é literalmente \"da parte de\" e aparece em {كُتِبَ مِنْ قِبَلِ}. Um leitor que traduz apenas a passiva perde a informação do agente explícito, que é justamente a informação nova.\n\n## O que este capítulo fecha\n\nO percurso foi da letra ao sistema: alfabeto e vogais (1), artigo e gênero (2), raiz e passado (3), leitura aplicada (4), formas derivadas (5), iḍāfa (6), modos e tempo (7), raízes fracas (8), participos (9), adjetivos (10), preposições (11), numerais (12), perguntas e condicionais (13). A passiva (14) junta tudo, porque usa raiz, vogaliação, tempo e agente na mesma forma.\n\n## Critério de leitura\n\nAo encontrar uma forma com {مُ} inicial, {ِ} sob a primeira consoante ou sufixo {ُ} no final, trate-a como passiva antes de procurar agente. Depois volte à raiz e confira se o sentido permite: nem todo verbo tem passiva natural em todos os tempos.",
+        "en": "## What the passive does\n\nThe Arabic passive foregrounds the result or the state and normally **omits the agent**. It is not an empty stylistic transformation: when the agent is irrelevant or already known, dropping it frees the structure. In {كُتِبَ} \"it was written\", no one says who wrote it — and in {خُلِقَ} \"it was created\" the agent is God, whom the text need not name.\n\n## The change of vocalisation\n\nIn the perfect, {كَتَبَ} becomes {كُتِبَ}: the vowels invert. In the imperfect, {يَكْتُبُ} becomes {يُكْتَبُ}. With weak roots the vocalisation follows the root, not the ending: {قَالَ} → {قِيلَ} and {وَلَدَ} → {وُلِدَ}. Notice that {قِيلَ} resembles neither {قَالَ} nor {يَقُولُ} — that is the only way to recognise the form.\n\n## Explicit agent\n\nWhen the author needs to name the agent, {مِنْ قِبَلِ} or {بِـ} plus the verbal form are used. {مِنْ قِبَلِ} is literally \"from the part of\" and appears in {كُتِبَ مِنْ قِبَلِ}. A reader who translates only the passive loses the explicit agent, which is precisely the new information.\n\n## What this chapter closes\n\nThe path ran from the letter to the system: alphabet and vowels (1), article and gender (2), root and perfect (3), applied reading (4), derived forms (5), iḍāfa (6), moods and tense (7), weak roots (8), participles (9), adjectives (10), prepositions (11), numerals (12), questions and conditionals (13). The passive (14) ties it all together, because it uses root, vocalisation, tense and agent in a single form.\n\n## Reading criterion\n\nOn meeting a form with an initial {مُ}, a {ِ} under the first consonant or a final {ُ}, treat it as passive before hunting for an agent. Then go back to the root and check whether the sense allows it: not every verb has a natural passive in every tense.",
+        "es": "## Qué hace la pasiva\n\nLa pasiva árabe destaca el resultado o el estado y normalmente **omite el agente**. No es una transformación vacía de estilo: cuando el agente es irrelevante o ya conocido, suprimirlo libera la estructura. En {كُتِبَ} «fue escrito» no se dice quién escribió — y en {خُلِقَ} «fue creado» el agente es Dios, a quien el texto no necesita nombrar.\n\n## El cambio de vocalización\n\nEn el perfecto, {كَتَبَ} se convierte en {كُتِبَ}: las vocales se invierten. En el imperfecto, {يَكْتُبُ} se convierte en {يُكْتَبُ}. Con raíces débiles la vocalización sigue a la raíz, no a la terminación: {قَالَ} → {قِيلَ} y {وَلَدَ} → {وُلِدَ}. Fíjate en que {قِيلَ} no se parece ni a {قَالَ} ni a {يَقُولُ} — es la única forma de reconocerla.\n\n## Agente explícito\n\nCuando el autor necesita nombrar al agente, se usa {مِنْ قِبَلِ} o {بِـ} más la forma verbal. {مِنْ قِبَلِ} es literalmente «de parte de» y aparece en {كُتِبَ مِنْ قِبَلِ}. Quien traduzca solo la pasiva pierde el agente explícito, que es justamente la información nueva.\n\n## Lo que cierra este capítulo\n\nEl recorrido fue de la letra al sistema: alfabeto y vocales (1), artículo y género (2), raíz y perfecto (3), lectura aplicada (4), formas derivadas (5), iḍāfa (6), modos y tiempo (7), raíces débiles (8), participios (9), adjetivos (10), preposiciones (11), numerales (12), preguntas y condicionales (13). La pasiva (14) lo ata todo, porque usa raíz, vocalización, tiempo y agente en una sola forma.\n\n## Criterio de lectura\n\nAl encontrar una forma con {مُ} inicial, {ِ} bajo la primera consonante o {ُ} final, trátala como pasiva antes de buscar agente. Después vuelve a la raíz y comprueba si el sentido lo permite: no todo verbo tiene pasiva natural en todos los tiempos."
+      },
+      "vocab": [
+        {
+          "form": "كُتِبَ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "foi escrito",
+          "en": "was written",
+          "es": "fue escrito"
+        },
+        {
+          "form": "خُلِقَ",
+          "lemma": "خلق",
+          "lang": "ar",
+          "pt": "foi criado",
+          "en": "was created",
+          "es": "fue creado"
+        },
+        {
+          "form": "قِيلَ",
+          "lemma": "قال",
+          "lang": "ar",
+          "pt": "foi dito",
+          "en": "was said",
+          "es": "fue dicho"
+        },
+        {
+          "form": "بُورِكَ",
+          "lemma": "بارك",
+          "lang": "ar",
+          "pt": "foi abençoado",
+          "en": "was blessed",
+          "es": "fue bendecido"
+        },
+        {
+          "form": "يُكْتَبُ",
+          "lemma": "كتب",
+          "lang": "ar",
+          "pt": "é escrito",
+          "en": "is being written",
+          "es": "se escribe"
+        },
+        {
+          "form": "مِنْ",
+          "lemma": "من",
+          "lang": "ar",
+          "pt": "de; por",
+          "en": "from; by",
+          "es": "de; por"
+        },
+        {
+          "form": "قِبَلَ",
+          "lemma": "قبل",
+          "lang": "ar",
+          "pt": "antes; por",
+          "en": "before; by",
+          "es": "antes; por"
+        },
+        {
+          "form": "وُلِدَ",
+          "lemma": "ولد",
+          "lang": "ar",
+          "pt": "nasceu",
+          "en": "was born",
+          "es": "nació"
+        },
+        {
+          "form": "صُلِبَ",
+          "lemma": "صلب",
+          "lang": "ar",
+          "pt": "foi crucificado",
+          "en": "was crucified",
+          "es": "fue crucificado"
+        },
+        {
+          "form": "قُبِرَ",
+          "lemma": "قبر",
+          "lang": "ar",
+          "pt": "foi sepultado",
+          "en": "was buried",
+          "es": "fue sepultado"
+        },
+        {
+          "form": "قَامَ",
+          "lemma": "قام",
+          "lang": "ar",
+          "pt": "ressuscitou",
+          "en": "rose",
+          "es": "resucitó"
+        },
+        {
+          "form": "تَمَّتَ",
+          "lemma": "تمم",
+          "lang": "ar",
+          "pt": "foi completado",
+          "en": "was completed",
+          "es": "se completó"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Como se forma a passiva de {كَتَبَ}?",
+          "en": "How is the passive of {كَتَبَ} formed?",
+          "es": "¿Cómo se forma la pasiva de {كَتَبَ}?"
+        },
+        "options": [
+          {
+            "pt": "Com auxiliar",
+            "en": "With an auxiliary",
+            "es": "Con auxiliar"
+          },
+          {
+            "pt": "Trocando as vogais",
+            "en": "By changing vowels",
+            "es": "Cambiando las vocales"
+          },
+          {
+            "pt": "Com prefixo",
+            "en": "With a prefix",
+            "es": "Con prefijo"
+          },
+          {
+            "pt": "Com sufixo",
+            "en": "With a suffix",
+            "es": "Con sufijo"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete a passiva: {قَالَ} → ___",
+            "en": "Complete the passive: {قَالَ} → ___",
+            "es": "Completa la pasiva: {قَالَ} → ___"
+          },
+          "answer": "قِيلَ",
+          "hint": {
+            "pt": "É a passiva de uma raiz oca.",
+            "en": "It is the passive of a hollow root.",
+            "es": "Es la pasiva de una raíz hueca."
+          }
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual frase expressa estado resultante?",
+            "en": "Which phrase expresses a resulting state?",
+            "es": "¿Qué frase expresa estado resultante?"
+          },
+          "options": [
+            {
+              "pt": "كَاتِبٌ",
+              "en": "writing",
+              "es": "escribiendo"
+            },
+            {
+              "pt": "مَكْتُوبٌ",
+              "en": "written",
+              "es": "escrito"
+            },
+            {
+              "pt": "كُتِبَ",
+              "en": "was written",
+              "es": "fue escrito"
+            },
+            {
+              "pt": "يَكْتُبُ",
+              "en": "writes",
+              "es": "escribe"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Associe verbo e estrutura.",
+            "en": "Match verb and structure.",
+            "es": "Relaciona verbo y estructura."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "وُلِدَ",
+                "en": "was born",
+                "es": "nació"
+              },
+              "b": {
+                "pt": "passiva",
+                "en": "passive",
+                "es": "pasiva"
+              }
+            },
+            {
+              "a": {
+                "pt": "قَامَ",
+                "en": "rose",
+                "es": "resucitó"
+              },
+              "b": {
+                "pt": "ativa",
+                "en": "active",
+                "es": "activa"
+              }
+            },
+            {
+              "a": {
+                "pt": "يُكْتَبُ",
+                "en": "is written",
+                "es": "se escribe"
+              },
+              "b": {
+                "pt": "imperfeito passivo",
+                "en": "passive imperfect",
+                "es": "imperfecto pasivo"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "1",
+          "text": {
+            "pt": "A passiva Arab emphasizes resultado and dispenses o agente.",
+            "en": "Arabic passive emphasizes result and dispenses with the agent.",
+            "es": "La pasiva árabe enfatiza el resultado y prescinde del agente."
+          }
+        },
+        {
+          "n": "2",
+          "text": {
+            "pt": "A transformação das vogais é systematic: fatha inicial → ḍamma; kasra da segunda → fatha.",
+            "en": "The vowel transformation is systematic: initial fatha → ḍamma; second-vowel kasra → fatha.",
+            "es": "La transformación vocálica es sistemática: fatha inicial → ḍamma; kasra de la segunda vocal → fatha."
+          }
+        },
+        {
+          "n": "3",
+          "text": {
+            "pt": "Não confunda partícipio {مَكْتُوب} com perfect passivo {كُتِبَ}: um descreve, o outro relata processo.",
+            "en": "Do not confuse participle {مَكْتُوب} with perfect passive {كُتِبَ}: one describes, the other reports a process.",
+            "es": "No confundas participio {مَكْتُوب} con perfecto pasivo {كُتِبَ}: uno describe, el otro relata un proceso."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Síntese",
+            "en": "Synthesis",
+            "es": "Síntesis"
+          },
+          "text": {
+            "pt": "Do {ال} ao credo, a leitura bíblica cresce:Direction, Roots, suffixes, and prefixes let you continue with any passage.",
+            "en": "From {ال} to the creed, biblical reading grows: direction, roots, suffixes, and prefixes prepare you for further passages.",
+            "es": "De {ال} al credo, la lectura bíblica crece: dirección, raíces, sufijos y prefijos permiten continuar con otros pasajes."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "كُتِبَ الإِنْجِيلُ",
+          "gloss": {
+            "pt": "o Evangelho foi escrito",
+            "en": "the Gospel was written",
+            "es": "se escribió el evangelio"
+          }
+        },
+        {
+          "text": "وُلِدَ يَسُوعُ",
+          "gloss": {
+            "pt": "Jesus nasceu",
+            "en": "Jesus was born",
+            "es": "nació Jesús"
+          }
+        },
+        {
+          "text": "صُلِبَ وَقُبِرَ وَقَامَ",
+          "gloss": {
+            "pt": "foi crucificado, sepultado e ressuscitou",
+            "en": "was crucified, buried, and rose",
+            "es": "fue crucificado, sepultado y resucitó"
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Ativo e passiva",
+            "en": "Active and passive",
+            "es": "Activa y pasiva"
+          },
+          "head": [
+            {
+              "pt": "Tipo",
+              "en": "Type",
+              "es": "Tipo"
+            },
+            {
+              "pt": "Ativo",
+              "en": "Active",
+              "es": "Activa"
+            },
+            {
+              "pt": "Passiva",
+              "en": "Passive",
+              "es": "Pasiva"
+            }
+          ],
+          "rows": [
+            [
+              "perfeito",
+              "كَتَبَ",
+              "كُتِبَ"
+            ],
+            [
+              "imperfeito",
+              "يَكْتُبُ",
+              "يُكْتَبُ"
+            ],
+            [
+              "raiz oca",
+              "قَالَ",
+              "قِيلَ"
+            ],
+            [
+              "raiz inicial fraca",
+              "وَلَدَ",
+              "وُلِدَ"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "contentVersion": "1.0.0+g2f5a8860"
+}
