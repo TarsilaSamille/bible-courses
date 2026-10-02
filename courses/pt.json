@@ -3605,9 +3605,9 @@
           "pairs": [
             {
               "a": {
-                "pt": "por",
-                "en": "by",
-                "es": "por"
+                "pt": "por (agente)",
+                "en": "por (agent)",
+                "es": "por (agente)"
               },
               "b": {
                 "pt": "agente",
@@ -3629,9 +3629,9 @@
             },
             {
               "a": {
-                "pt": "por",
-                "en": "for",
-                "es": "por"
+                "pt": "por (causa)",
+                "en": "por (cause)",
+                "es": "por (causa)"
               },
               "b": {
                 "pt": "causa",
@@ -3722,5 +3722,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+ge3256f20"
+  "contentVersion": "1.0.0+gbf216eed"
 }

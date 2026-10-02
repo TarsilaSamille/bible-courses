@@ -427,32 +427,64 @@
             "es": "Tabla 1 — El artículo, singular"
           },
           "head": [
-            "Caso",
-            "Masc.",
-            "Fem.",
-            "Neutro"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Masc.",
+              "en": "Masc.",
+              "es": "Masc."
+            },
+            {
+              "pt": "Fem.",
+              "en": "Fem.",
+              "es": "Fem."
+            },
+            {
+              "pt": "Neutro",
+              "en": "Neuter",
+              "es": "Neutro"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{ὁ}",
               "{ἡ}",
               "{τό}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "τοῦ",
               "τῆς",
               "τοῦ"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "τῷ",
               "τῇ",
               "τῷ"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "{τόν}",
               "{τήν}",
               "{τό}"
@@ -466,32 +498,64 @@
             "es": "Tabla 2 — El artículo, plural"
           },
           "head": [
-            "Caso",
-            "Masc.",
-            "Fem.",
-            "Neutro"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Masc.",
+              "en": "Masc.",
+              "es": "Masc."
+            },
+            {
+              "pt": "Fem.",
+              "en": "Fem.",
+              "es": "Fem."
+            },
+            {
+              "pt": "Neutro",
+              "en": "Neuter",
+              "es": "Neutro"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{οἱ}",
               "{αἱ}",
               "{τά}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "τῶν",
               "τῶν",
               "τῶν"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "τοῖς",
               "ταῖς",
               "τοῖς"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "τούς",
               "τάς",
               "{τά}"
@@ -505,14 +569,34 @@
             "es": "Tabla 3 — Los cuatro casos y a qué equivale cada uno"
           },
           "head": [
-            "Caso",
-            "Pergunta",
-            "Equivale a (pt / en / es)",
-            "Exemplo no grego"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Pergunta",
+              "en": "Question",
+              "es": "Pregunta"
+            },
+            {
+              "pt": "Equivale a",
+              "en": "Equivalent to",
+              "es": "Equivale a"
+            },
+            {
+              "pt": "Exemplo no grego",
+              "en": "Greek example",
+              "es": "Ejemplo en griego"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               {
                 "pt": "quem faz a ação?",
                 "en": "who does the action?",
@@ -526,7 +610,11 @@
               "{ὁ λόγος} «a palavra / the Word / la Palabra»"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               {
                 "pt": "de quem?",
                 "en": "of whom?",
@@ -540,7 +628,11 @@
               "{λόγος τοῦ θεοῦ} «a palavra de Deus / the word of God / la palabra de Dios»"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               {
                 "pt": "a quem?",
                 "en": "to whom?",
@@ -554,7 +646,11 @@
               "{λόγος τῷ θεῷ} «a palavra a Deus / the word to God / la palabra a Dios»"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               {
                 "pt": "o quê? (objeto direto)",
                 "en": "what? (direct object)",
@@ -985,28 +1081,56 @@
             "es": "Table 1 — Feminine in -η: ἡ ἀλήθεια"
           },
           "head": [
-            "Caso",
-            "Singular",
-            "Plural"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Singular",
+              "en": "Singular",
+              "es": "Singular"
+            },
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{ἡ ἀλήθεια}",
               "{αἱ ἀλήθειαι}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "τῆς ἀληθείας",
               "τῶν ἀληθειῶν"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "τῇ ἀληθείᾳ",
               "ταῖς ἀληθείαις"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "τὴν ἀλήθειαν",
               "τὰς ἀληθείας"
             ]
@@ -1019,28 +1143,48 @@
             "es": "Table 2 — Feminine in -α: ἡ δόξα and ἡ ὥρα"
           },
           "head": [
-            "Caso",
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
             "α puro (δόξα)",
             "α impuro (ὥρα)"
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{ἡ δόξα}",
               "{ἡ ὥρα}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "τῆς δόξης",
               "τῆς ὥρας"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "τῇ δόξῃ",
               "τῇ ὥρᾳ"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "τὴν δόξαν",
               "τὴν ὥραν"
             ]
@@ -1053,28 +1197,56 @@
             "es": "Tabla 3 — Masculino en -ης: ὁ μαθητής"
           },
           "head": [
-            "Caso",
-            "Singular",
-            "Plural"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Singular",
+              "en": "Singular",
+              "es": "Singular"
+            },
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{ὁ μαθητής}",
               "{οἱ μαθηταί}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "τοῦ μαθητοῦ",
               "τῶν μαθητῶν"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "τῷ μαθητῇ",
               "τοῖς μαθηταῖς"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "τὸν μαθητήν",
               "τοὺς μαθητάς"
             ]
@@ -1474,28 +1646,56 @@
             "es": "Table 1 — Masculine: ὁ λόγος"
           },
           "head": [
-            "Caso",
-            "Singular",
-            "Plural"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Singular",
+              "en": "Singular",
+              "es": "Singular"
+            },
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{ὁ λόγος}",
               "{οἱ λόγοι}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "τοῦ λόγου",
               "τῶν λόγων"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "τῷ λόγῳ",
               "τοῖς λόγοις"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "{τὸν λόγον}",
               "τοὺς λόγους"
             ]
@@ -1508,28 +1708,56 @@
             "es": "Table 2 — Neuter: τὸ ἔργον"
           },
           "head": [
-            "Caso",
-            "Singular",
-            "Plural"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Singular",
+              "en": "Singular",
+              "es": "Singular"
+            },
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{τὸ ἔργον}",
               "{τὰ ἔργα}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "τοῦ ἔργου",
               "τῶν ἔργων"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "τῷ ἔργῳ",
               "τοῖς ἔργοις"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "{τὸ ἔργον}",
               "{τὰ ἔργα}"
             ]
@@ -1932,32 +2160,64 @@
             "es": "Table 1 — ἀγαθός, singular"
           },
           "head": [
-            "Caso",
-            "Masc.",
-            "Fem.",
-            "Neutro"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Masc.",
+              "en": "Masc.",
+              "es": "Masc."
+            },
+            {
+              "pt": "Fem.",
+              "en": "Fem.",
+              "es": "Fem."
+            },
+            {
+              "pt": "Neutro",
+              "en": "Neuter",
+              "es": "Neutro"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{ἀγαθός}",
               "{ἀγαθή}",
               "{ἀγαθόν}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "ἀγαθοῦ",
               "ἀγαθῆς",
               "ἀγαθοῦ"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "ἀγαθῷ",
               "ἀγαθῇ",
               "ἀγαθῷ"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "ἀγαθόν",
               "ἀγαθήν",
               "{ἀγαθόν}"
@@ -1971,32 +2231,64 @@
             "es": "Tabla 2 — ἀγαθός, plural"
           },
           "head": [
-            "Caso",
-            "Masc.",
-            "Fem.",
-            "Neutro"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Masc.",
+              "en": "Masc.",
+              "es": "Masc."
+            },
+            {
+              "pt": "Fem.",
+              "en": "Fem.",
+              "es": "Fem."
+            },
+            {
+              "pt": "Neutro",
+              "en": "Neuter",
+              "es": "Neutro"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{ἀγαθοί}",
               "{ἀγαθαί}",
               "{ἀγαθά}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "ἀγαθῶν",
               "ἀγαθῶν",
               "ἀγαθῶν"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "ἀγαθοῖς",
               "ἀγαθαῖς",
               "ἀγαθοῖς"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "ἀγαθούς",
               "ἀγαθάς",
               "{ἀγαθά}"
@@ -2010,28 +2302,56 @@
             "es": "Table 3 — Feminine in -α: δικαία"
           },
           "head": [
-            "Caso",
-            "Singular",
-            "Plural"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Singular",
+              "en": "Singular",
+              "es": "Singular"
+            },
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{δικαία}",
               "{δίκαιαι}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "δικαίας",
               "δικαίων"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "δικαίᾳ",
               "δικαίαις"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "δικαίαν",
               "δικαίας"
             ]
@@ -2434,9 +2754,21 @@
             "es": "Table 1 — Present active of λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -2478,8 +2810,21 @@
             "es": "Tabla 2 — Finales personales actuales"
           },
           "head": [
-            "Singular",
-            "Plural"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Singular",
+              "en": "Singular",
+              "es": "Singular"
+            },
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
           ],
           "rows": [
             [
@@ -2901,9 +3246,21 @@
             "es": "Tabla 1 — Presente de ἀγαπάω"
           },
           "head": [
-            "Pessoa",
-            "Não contraída",
-            "Contraída"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Não contraída",
+              "en": "Uncontracted",
+              "es": "No contraída"
+            },
+            {
+              "pt": "Contraída",
+              "en": "Contracted",
+              "es": "Contraída"
+            }
           ],
           "rows": [
             [
@@ -2945,9 +3302,21 @@
             "es": "Tabla 2 — Presente de ποιέω"
           },
           "head": [
-            "Pessoa",
-            "Não contraída",
-            "Contraída"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Não contraída",
+              "en": "Uncontracted",
+              "es": "No contraída"
+            },
+            {
+              "pt": "Contraída",
+              "en": "Contracted",
+              "es": "Contraída"
+            }
           ],
           "rows": [
             [
@@ -2989,9 +3358,21 @@
             "es": "Tabla 3 — Presente de δηλόω"
           },
           "head": [
-            "Pessoa",
-            "Não contraída",
-            "Contraída"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Não contraída",
+              "en": "Uncontracted",
+              "es": "No contraída"
+            },
+            {
+              "pt": "Contraída",
+              "en": "Contracted",
+              "es": "Contraída"
+            }
           ],
           "rows": [
             [
@@ -3442,9 +3823,21 @@
             "es": "Table 1 — Active imperfect of λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -3486,9 +3879,21 @@
             "es": "Tabla 2 — 1er aoristo activo de λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -3530,9 +3935,21 @@
             "es": "Tabla 3 — Aumento temporal (verbo inicial de vocal)"
           },
           "head": [
-            "Presente",
-            "Aumento",
-            "Exemplo passado"
+            {
+              "pt": "Presente",
+              "en": "Present",
+              "es": "Presente"
+            },
+            {
+              "pt": "Aumento",
+              "en": "Augment",
+              "es": "Aumento"
+            },
+            {
+              "pt": "Exemplo passado",
+              "en": "Past example",
+              "es": "Ejemplo pasado"
+            }
           ],
           "rows": [
             [
@@ -3954,9 +4371,21 @@
             "es": "Tabla 1 — Presente de subjuntivo activo de λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Pista"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Pista",
+              "en": "Hint",
+              "es": "Pista"
+            }
           ],
           "rows": [
             [
@@ -3998,9 +4427,21 @@
             "es": "Tabla 2 — Subjuntivo aoristo activo de λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Sentido"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            }
           ],
           "rows": [
             [
@@ -4042,9 +4483,21 @@
             "es": "Tabla 3 — Presente optativo activo de λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Sentido"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            }
           ],
           "rows": [
             [
@@ -4481,9 +4934,21 @@
             "es": "Tabla 1 — Presente imperativo activo de λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -4515,9 +4980,21 @@
             "es": "Tabla 2 — Imperativo aoristo activo de λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -4549,9 +5026,21 @@
             "es": "Tabla 3 — Presente imperativo medio"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -4973,9 +5462,21 @@
             "es": "Tabla 1 — Infinitivos de λύω"
           },
           "head": [
-            "Tempo/Voz",
-            "Forma",
-            "Sentido"
+            {
+              "pt": "Tempo/Voz",
+              "en": "Tense/Voice",
+              "es": "Tiempo/Voz"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            }
           ],
           "rows": [
             [
@@ -5017,9 +5518,26 @@
             "es": "Tabla 2 — Participios de λύω (nominativo)"
           },
           "head": [
-            "Ativo",
-            "Médio",
-            "Passivo"
+            {
+              "pt": "Tempo",
+              "en": "Tense",
+              "es": "Tiempo"
+            },
+            {
+              "pt": "Ativo",
+              "en": "Active",
+              "es": "Activo"
+            },
+            {
+              "pt": "Médio",
+              "en": "Middle",
+              "es": "Medio"
+            },
+            {
+              "pt": "Passivo",
+              "en": "Passive",
+              "es": "Pasivo"
+            }
           ],
           "rows": [
             [
@@ -5465,9 +5983,21 @@
             "es": "Tabla 1 — Presente de εἰμί"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -5509,9 +6039,21 @@
             "es": "Table 2 — Imperfect of εἰμί"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -5553,7 +6095,11 @@
             "es": "Tabla 3 — οἶδα y φημί (presente)"
           },
           "head": [
-            "Pessoa",
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
             "οἶδα «sei»",
             "φημί «digo»"
           ],
@@ -5991,9 +6537,21 @@
             "es": "Table 1 — Present active of δίδωμι"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -6035,7 +6593,11 @@
             "es": "Tabla 2 — Aoristo activo de δίδωμι y τίθημι"
           },
           "head": [
-            "Pessoa",
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
             "δίδωμι",
             "τίθημι"
           ],
@@ -6079,9 +6641,21 @@
             "es": "Table 3 — ἵστημι: transitive vs intransitive"
           },
           "head": [
-            "Tempo",
-            "Forma",
-            "Sentido"
+            {
+              "pt": "Tempo",
+              "en": "Tense",
+              "es": "Tiempo"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            }
           ],
           "rows": [
             [
@@ -6522,28 +7096,56 @@
             "es": "Tabla 1 — Vástago de parada: ἡ σάρξ"
           },
           "head": [
-            "Caso",
-            "Singular",
-            "Plural"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Singular",
+              "en": "Singular",
+              "es": "Singular"
+            },
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{σάρξ}",
               "{σάρκες}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "{σαρκός}",
               "{σαρκῶν}"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "{σαρκί}",
               "{σαρξί(ν)}"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "{σάρκα}",
               "σάρκας"
             ]
@@ -6556,28 +7158,56 @@
             "es": "Tabla 2 — Neutro en -μα: τὸ πνεῦμα"
           },
           "head": [
-            "Caso",
-            "Singular",
-            "Plural"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Singular",
+              "en": "Singular",
+              "es": "Singular"
+            },
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{πνεῦμα}",
               "{πνεύματα}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "{πνεύματος}",
               "πνευμάτων"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "{πνεύματι}",
               "πνεύμασι(ν)"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "{πνεῦμα}",
               "{πνεύματα}"
             ]
@@ -6590,33 +7220,57 @@
             "es": "Tabla 3 — Parentesco: ὁ πατήρ y ἡ γυνή"
           },
           "head": [
-            "Caso",
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
             "πατήρ",
             "γυνή"
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{πατήρ}",
               "{γυνή}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "{πατρός}",
               "γυναικός"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "{πατρί}",
               "γυναικί"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "{πατέρα}",
               "γυναῖκα"
             ],
             [
-              "Vocativo",
+              {
+                "pt": "Vocativo",
+                "en": "Vocative",
+                "es": "Vocativo"
+              },
               "{Πάτερ}",
               "γύναι"
             ]
@@ -7024,32 +7678,56 @@
             "es": "Tabla 1 — ἐγώ (primera persona)"
           },
           "head": [
-            "Caso",
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
             "Sg. tônica",
             "Sg. enclítica",
-            "Plural"
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{ἐγώ}",
               "—",
               "{ἡμεῖς}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "{ἐμοῦ}",
               "{μου}",
               "{ἡμῶν}"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "{ἐμοί}",
               "{μοι}",
               "{ἡμῖν}"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "{ἐμέ}",
               "{με}",
               "{ἡμᾶς}"
@@ -7063,32 +7741,56 @@
             "es": "Tabla 2 — σύ (segunda persona)"
           },
           "head": [
-            "Caso",
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
             "Sg. tônica",
             "Sg. enclítica",
-            "Plural"
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{σύ}",
               "—",
               "{ὑμεῖς}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "{σοῦ}",
               "{σου}",
               "{ὑμῶν}"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "{σοί}",
               "{σοι}",
               "{ὑμῖν}"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "{σέ}",
               "{σε}",
               "{ὑμᾶς}"
@@ -7102,32 +7804,64 @@
             "es": "Tabla 3 - αὐτός (declina como un adjetivo 2-1-2)"
           },
           "head": [
-            "Caso",
-            "Masc.",
-            "Fem.",
-            "Neutro"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Masc.",
+              "en": "Masc.",
+              "es": "Masc."
+            },
+            {
+              "pt": "Fem.",
+              "en": "Fem.",
+              "es": "Fem."
+            },
+            {
+              "pt": "Neutro",
+              "en": "Neuter",
+              "es": "Neutro"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{αὐτός}",
               "{αὐτή}",
               "{αὐτό}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "{αὐτοῦ}",
               "{αὐτῆς}",
               "{αὐτοῦ}"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "{αὐτῷ}",
               "{αὐτῇ}",
               "{αὐτῷ}"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "{αὐτόν}",
               "αὐτήν",
               "{αὐτό}"
@@ -7536,9 +8270,21 @@
             "es": "Table 1 — Active perfect of λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -7580,9 +8326,21 @@
             "es": "Tabla 2 — Perfecto medio de λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -7624,8 +8382,21 @@
             "es": "Tabla 3 — Pluscuamperfecto activo y medio"
           },
           "head": [
-            "Ativo",
-            "Médio"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Ativo",
+              "en": "Active",
+              "es": "Activo"
+            },
+            {
+              "pt": "Médio",
+              "en": "Middle",
+              "es": "Medio"
+            }
           ],
           "rows": [
             [
@@ -8039,9 +8810,21 @@
             "es": "Tabla 1 — Regular comparativo y superlativo"
           },
           "head": [
-            "Positivo",
-            "Comparativo",
-            "Superlativo"
+            {
+              "pt": "Positivo",
+              "en": "Positive",
+              "es": "Positivo"
+            },
+            {
+              "pt": "Comparativo",
+              "en": "Comparative",
+              "es": "Comparativo"
+            },
+            {
+              "pt": "Superlativo",
+              "en": "Superlative",
+              "es": "Superlativo"
+            }
           ],
           "rows": [
             [
@@ -8068,9 +8851,21 @@
             "es": "Tabla 2 — Irregulares esenciales"
           },
           "head": [
-            "Positivo",
-            "Comparativo",
-            "Superlativo"
+            {
+              "pt": "Positivo",
+              "en": "Positive",
+              "es": "Positivo"
+            },
+            {
+              "pt": "Comparativo",
+              "en": "Comparative",
+              "es": "Comparativo"
+            },
+            {
+              "pt": "Superlativo",
+              "en": "Superlative",
+              "es": "Superlativo"
+            }
           ],
           "rows": [
             [
@@ -8502,9 +9297,21 @@
             "es": "Tabla 1 — Futuro activo de λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -8546,9 +9353,21 @@
             "es": "Tabla 2 — Futuro medio de λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -8590,9 +9409,21 @@
             "es": "Tabla 3 — Futuros contratados (líquidos)"
           },
           "head": [
-            "Presente",
-            "Futuro",
-            "Sentido"
+            {
+              "pt": "Presente",
+              "en": "Present",
+              "es": "Presente"
+            },
+            {
+              "pt": "Futuro",
+              "en": "Future",
+              "es": "Futuro"
+            },
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            }
           ],
           "rows": [
             [
@@ -9011,9 +9842,21 @@
             "es": "Tabla 1 - 2do aoristo de λείπω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -9055,9 +9898,17 @@
             "es": "Table 2 — The giants and their stems"
           },
           "head": [
-            "Presente",
+            {
+              "pt": "Presente",
+              "en": "Present",
+              "es": "Presente"
+            },
             "Aoristo 2º",
-            "Sentido"
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            }
           ],
           "rows": [
             [
@@ -9099,9 +9950,21 @@
             "es": "Tabla 3 — Formas nominales del segundo aoristo"
           },
           "head": [
-            "Forma",
-            "Exemplo",
-            "Pista"
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            },
+            {
+              "pt": "Pista",
+              "en": "Hint",
+              "es": "Pista"
+            }
           ],
           "rows": [
             [
@@ -9530,9 +10393,21 @@
             "es": "Table 1 — Aorist passive of λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -9574,9 +10449,21 @@
             "es": "Tabla 2 — Líquidos: alargamiento en futuro y aoristo"
           },
           "head": [
-            "Presente",
-            "Futuro",
-            "Aoristo"
+            {
+              "pt": "Presente",
+              "en": "Present",
+              "es": "Presente"
+            },
+            {
+              "pt": "Futuro",
+              "en": "Future",
+              "es": "Futuro"
+            },
+            {
+              "pt": "Aoristo",
+              "en": "Aorist",
+              "es": "Aoristo"
+            }
           ],
           "rows": [
             [
@@ -9613,9 +10500,21 @@
             "es": "Tabla 3 — Segundo aoristo pasivo (sin θ)"
           },
           "head": [
-            "Verbo",
-            "Forma",
-            "Sentido"
+            {
+              "pt": "Verbo",
+              "en": "Verb",
+              "es": "Verbo"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            }
           ],
           "rows": [
             [
@@ -10047,9 +10946,21 @@
             "es": "Tabla 1 — Perfecto medio pasivo de λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -10091,9 +11002,21 @@
             "es": "Tabla 2 — Pasiva futura de λύω"
           },
           "head": [
-            "Pessoa",
-            "Forma",
-            "Tradução"
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -10135,9 +11058,21 @@
             "es": "Tabla 3 — Deponentes esenciales"
           },
           "head": [
-            "Verbo",
-            "Aoristo",
-            "Sentido ativo"
+            {
+              "pt": "Verbo",
+              "en": "Verb",
+              "es": "Verbo"
+            },
+            {
+              "pt": "Aoristo",
+              "en": "Aorist",
+              "es": "Aoristo"
+            },
+            {
+              "pt": "Sentido ativo",
+              "en": "Active meaning",
+              "es": "Sentido activo"
+            }
           ],
           "rows": [
             [
@@ -10574,32 +11509,64 @@
             "es": "Tabla 1 — Participio presente activo de λύω"
           },
           "head": [
-            "Caso",
-            "Masc.",
-            "Fem.",
-            "Neutro"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Masc.",
+              "en": "Masc.",
+              "es": "Masc."
+            },
+            {
+              "pt": "Fem.",
+              "en": "Fem.",
+              "es": "Fem."
+            },
+            {
+              "pt": "Neutro",
+              "en": "Neuter",
+              "es": "Neutro"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{λύων}",
               "{λύουσα}",
               "{λῦον}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "{λύοντος}",
               "λυούσης",
               "{λύοντος}"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "λύοντι",
               "λυούσῃ",
               "λύοντι"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "λύοντα",
               "λύουσαν",
               "{λῦον}"
@@ -10613,26 +11580,54 @@
             "es": "Tabla 2 — Participio presente en voz media de λύω"
           },
           "head": [
-            "Caso",
-            "Masc.",
-            "Fem.",
-            "Neutro"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Masc.",
+              "en": "Masc.",
+              "es": "Masc."
+            },
+            {
+              "pt": "Fem.",
+              "en": "Fem.",
+              "es": "Fem."
+            },
+            {
+              "pt": "Neutro",
+              "en": "Neuter",
+              "es": "Neutro"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{λυόμενος}",
               "{λυομένη}",
               "{λυόμενον}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "λυομένου",
               "λυομένης",
               "λυομένου"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "λυόμενον",
               "λυομένην",
               "{λυόμενον}"
@@ -11033,7 +12028,11 @@
             "es": "Tabla 1 — Participio aoristo activo (λύσας y λιπών)"
           },
           "head": [
-            "Caso",
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
             "λύσας (1º)",
             "λιπών (2º)"
           ],
@@ -11072,6 +12071,11 @@
             "es": "Tabla 2 — Participios aoristo pasivo y perfecto"
           },
           "head": [
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
             "Passivo (λυθείς)",
             "Perfeito (λελυκώς)"
           ],
@@ -11492,9 +12496,21 @@
             "es": "Tabla 1 — Modelo de genitivos absolutos"
           },
           "head": [
-            "Construção",
-            "Análise",
-            "Tradução"
+            {
+              "pt": "Construção",
+              "en": "Construction",
+              "es": "Construcción"
+            },
+            {
+              "pt": "Análise",
+              "en": "Analysis",
+              "es": "Análisis"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -11526,9 +12542,21 @@
             "es": "Tabla 2 — Infinitivo articular"
           },
           "head": [
-            "Forma",
-            "Caso",
-            "Sentido"
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            }
           ],
           "rows": [
             [
@@ -11933,9 +12961,21 @@
             "es": "Table 1 — The three conditionals"
           },
           "head": [
-            "Classe",
-            "Prótase (se…)",
-            "Apódose (…então)"
+            {
+              "pt": "Classe",
+              "en": "Class",
+              "es": "Clase"
+            },
+            {
+              "pt": "Prótase (se…)",
+              "en": "Protasis (if…)",
+              "es": "Prótasis (si…)"
+            },
+            {
+              "pt": "Apódose (…então)",
+              "en": "Apodosis (…then)",
+              "es": "Apódosis (…entonces)"
+            }
           ],
           "rows": [
             [
@@ -11962,9 +13002,21 @@
             "es": "Tabla 2: Ejemplos por clase"
           },
           "head": [
-            "Classe",
-            "Exemplo",
-            "Tradução"
+            {
+              "pt": "Classe",
+              "en": "Class",
+              "es": "Clase"
+            },
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            },
+            {
+              "pt": "Tradução",
+              "en": "Translation",
+              "es": "Traducción"
+            }
           ],
           "rows": [
             [
@@ -12369,9 +13421,21 @@
             "es": "Tabla 1 — Interrogativos esenciales"
           },
           "head": [
-            "Forma",
-            "Sentido",
-            "Exemplo"
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            },
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            }
           ],
           "rows": [
             [
@@ -12413,9 +13477,21 @@
             "es": "Tabla 2 — Discurso indirecto"
           },
           "head": [
-            "Direto",
-            "Indireto com ὅτι",
-            "Indireto com infinitivo"
+            {
+              "pt": "Direto",
+              "en": "Direct",
+              "es": "Directo"
+            },
+            {
+              "pt": "Indireto com ὅτι",
+              "en": "Indirect with ὅτι",
+              "es": "Indirecto con ὅτι"
+            },
+            {
+              "pt": "Indireto com infinitivo",
+              "en": "Indirect with infinitive",
+              "es": "Indirecto con infinitivo"
+            }
           ],
           "rows": [
             [
@@ -12815,32 +13891,64 @@
             "es": "Tabla 1 — Relativo ὅς (singular)"
           },
           "head": [
-            "Caso",
-            "Masc.",
-            "Fem.",
-            "Neutro"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Masc.",
+              "en": "Masc.",
+              "es": "Masc."
+            },
+            {
+              "pt": "Fem.",
+              "en": "Fem.",
+              "es": "Fem."
+            },
+            {
+              "pt": "Neutro",
+              "en": "Neuter",
+              "es": "Neutro"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{ὅς}",
               "{ἥ}",
               "{ὅ}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "{οὗ}",
               "ἧς",
               "{οὗ}"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "{ᾧ}",
               "ᾗ",
               "{ᾧ}"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "{ὅν}",
               "ἥν",
               "{ὅ}"
@@ -12854,32 +13962,64 @@
             "es": "Tabla 2 — Relativo ὅς (plural)"
           },
           "head": [
-            "Caso",
-            "Masc.",
-            "Fem.",
-            "Neutro"
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
+            {
+              "pt": "Masc.",
+              "en": "Masc.",
+              "es": "Masc."
+            },
+            {
+              "pt": "Fem.",
+              "en": "Fem.",
+              "es": "Fem."
+            },
+            {
+              "pt": "Neutro",
+              "en": "Neuter",
+              "es": "Neutro"
+            }
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{οἵ}",
               "{αἵ}",
               "{ἅ}"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "{ὧν}",
               "{ὧν}",
               "{ὧν}"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "{οἷς}",
               "{αἷς}",
               "{οἷς}"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "{οὕς}",
               "{ἅς}",
               "{ἅ}"
@@ -12893,9 +14033,26 @@
             "es": "Tabla 3 — Demostrativos (nominativo)"
           },
           "head": [
-            "Masc.",
-            "Fem.",
-            "Neutro"
+            {
+              "pt": "Pronome",
+              "en": "Pronoun",
+              "es": "Pronombre"
+            },
+            {
+              "pt": "Masc.",
+              "en": "Masc.",
+              "es": "Masc."
+            },
+            {
+              "pt": "Fem.",
+              "en": "Fem.",
+              "es": "Fem."
+            },
+            {
+              "pt": "Neutro",
+              "en": "Neuter",
+              "es": "Neutro"
+            }
           ],
           "rows": [
             [
@@ -13313,32 +14470,52 @@
             "es": "Tabla 1 — εἷς, τρεῖς, τέσσαρες"
           },
           "head": [
-            "Caso",
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
             "εἷς (m./f./n.)",
             "τρεῖς",
             "τέσσαρες"
           ],
           "rows": [
             [
-              "Nominativo",
+              {
+                "pt": "Nominativo",
+                "en": "Nominative",
+                "es": "Nominativo"
+              },
               "{εἷς} / {μία} / {ἕν}",
               "{τρεῖς} / {τρία}",
               "τέσσαρες / τέσσαρα"
             ],
             [
-              "Genitivo",
+              {
+                "pt": "Genitivo",
+                "en": "Genitive",
+                "es": "Genitivo"
+              },
               "ἑνός / μιᾶς / ἑνός",
               "{τριῶν}",
               "τεσσάρων"
             ],
             [
-              "Dativo",
+              {
+                "pt": "Dativo",
+                "en": "Dative",
+                "es": "Dativo"
+              },
               "ἑνί / μιᾷ / ἑνί",
               "τρισί",
               "τέσσαρσι"
             ],
             [
-              "Acusativo",
+              {
+                "pt": "Acusativo",
+                "en": "Accusative",
+                "es": "Acusativo"
+              },
               "ἕνα / μίαν / ἕν",
               "τρεῖς / τρία",
               "τέσσαρας / τέσσαρα"
@@ -13352,8 +14529,16 @@
             "es": "Tabla 2 — Invariables del 5 al 12 y grandes"
           },
           "head": [
-            "Número",
-            "Forma",
+            {
+              "pt": "Número",
+              "en": "Number",
+              "es": "Número"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
             "Exemplo no texto"
           ],
           "rows": [
@@ -13778,9 +14963,21 @@
             "es": "Tabla 1 — Tiempos del testimonio (1Jn 1.1)"
           },
           "head": [
-            "Forma",
-            "Tempo",
-            "Nuance"
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tempo",
+              "en": "Tense",
+              "es": "Tiempo"
+            },
+            {
+              "pt": "Nuance",
+              "en": "Nuance",
+              "es": "Matiz"
+            }
           ],
           "rows": [
             [
@@ -13817,9 +15014,21 @@
             "es": "Tabla 2 — Relativos del prólogo"
           },
           "head": [
-            "Forma",
-            "Análise",
-            "Função"
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Análise",
+              "en": "Analysis",
+              "es": "Análisis"
+            },
+            {
+              "pt": "Função",
+              "en": "Function",
+              "es": "Función"
+            }
           ],
           "rows": [
             [
@@ -14245,9 +15454,21 @@
             "es": "Tabla 1 — Las ocho bienaventuranzas"
           },
           "head": [
-            "Sujeito",
-            "Promessa",
-            "Tempo"
+            {
+              "pt": "Sujeito",
+              "en": "Subject",
+              "es": "Sujeto"
+            },
+            {
+              "pt": "Promessa",
+              "en": "Promise",
+              "es": "Promesa"
+            },
+            {
+              "pt": "Tempo",
+              "en": "Tense",
+              "es": "Tiempo"
+            }
           ],
           "rows": [
             [
@@ -14700,9 +15921,21 @@
             "es": "Tabla 1 — Las peticiones y su gramática"
           },
           "head": [
-            "Petição",
-            "Forma-chave",
-            "Capítulos"
+            {
+              "pt": "Petição",
+              "en": "Petition",
+              "es": "Petición"
+            },
+            {
+              "pt": "Forma-chave",
+              "en": "Key form",
+              "es": "Forma clave"
+            },
+            {
+              "pt": "Capítulos",
+              "en": "Chapters",
+              "es": "Capítulos"
+            }
           ],
           "rows": [
             [
@@ -14750,5 +15983,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g4d756843"
+  "contentVersion": "1.0.0+g7d06e48b"
 }

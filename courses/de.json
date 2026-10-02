@@ -6502,7 +6502,16 @@
             "Gênero",
             "Artigo",
             "Substantivo",
-            "Exemplo"
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            },
+            {
+              "pt": "Outro exemplo",
+              "en": "Another example",
+              "es": "Otro ejemplo"
+            }
           ],
           "rows": [
             [
@@ -6999,6 +7008,11 @@
             "es": "Las tres declinaciones del adjetivo"
           },
           "head": [
+            {
+              "pt": "Caso",
+              "en": "Case",
+              "es": "Caso"
+            },
             "masc.",
             "fem.",
             "neut.",
@@ -20208,5 +20222,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g4c70e845"
+  "contentVersion": "1.0.0+g972769ab"
 }

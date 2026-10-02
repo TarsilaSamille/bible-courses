@@ -513,51 +513,51 @@
               "-an / -en",
               "[ã]",
               "{enfant}",
-              [
-                "criança",
-                "child",
-                "niño"
-              ]
+              {
+                "pt": "criança",
+                "en": "child",
+                "es": "niño"
+              }
             ],
             [
               "-on",
               "[õ]",
               "{mon}",
-              [
-                "meu",
-                "my",
-                "mi"
-              ]
+              {
+                "pt": "meu",
+                "en": "my",
+                "es": "mi"
+              }
             ],
             [
               "-in / -ain / -ein",
               "[ẽ]",
               "{bien}",
-              [
-                "bem",
-                "well",
-                "bien"
-              ]
+              {
+                "pt": "bem",
+                "en": "well",
+                "es": "bien"
+              }
             ],
             [
               "-un",
               "[œ̃]",
               "{un}",
-              [
-                "um",
-                "one",
-                "uno"
-              ]
+              {
+                "pt": "um",
+                "en": "one",
+                "es": "uno"
+              }
             ],
             [
               "+ vogal seguinte",
               "[a] / [e] / [o]",
               "{enfants}",
-              [
-                "crianças",
-                "children",
-                "niños"
-              ]
+              {
+                "pt": "crianças",
+                "en": "children",
+                "es": "niños"
+              }
             ]
           ]
         },
@@ -594,101 +594,101 @@
               "Ch",
               "[ʃ]",
               "{cheval}",
-              [
-                "cavalo",
-                "horse",
-                "caballo"
-              ]
+              {
+                "pt": "cavalo",
+                "en": "horse",
+                "es": "caballo"
+              }
             ],
             [
               "G",
               "[ɲ]",
               "{agneau}",
-              [
-                "cordero",
-                "lamb",
-                "cordero"
-              ]
+              {
+                "pt": "cordero",
+                "en": "lamb",
+                "es": "cordero"
+              }
             ],
             [
               "J",
               "[ʒ]",
               "{jeune}",
-              [
-                "jovem",
-                "young",
-                "joven"
-              ]
+              {
+                "pt": "jovem",
+                "en": "young",
+                "es": "joven"
+              }
             ],
             [
               "Ç",
               "[s]",
               "{français}",
-              [
-                "francês",
-                "French",
-                "francés"
-              ]
+              {
+                "pt": "francês",
+                "en": "French",
+                "es": "francés"
+              }
             ],
             [
               "Qu",
               "[k]",
               "{qui}",
-              [
-                "quem",
-                "who",
-                "quién"
-              ]
+              {
+                "pt": "quem",
+                "en": "who",
+                "es": "quién"
+              }
             ],
             [
               "Oi",
               "[wa]",
               "{oui}",
-              [
-                "sim",
-                "yes",
-                "sí"
-              ]
+              {
+                "pt": "sim",
+                "en": "yes",
+                "es": "sí"
+              }
             ],
             [
               "Au / eau",
               "[o]",
               "{eau}",
-              [
-                "água",
-                "water",
-                "agua"
-              ]
+              {
+                "pt": "água",
+                "en": "water",
+                "es": "agua"
+              }
             ],
             [
               "Euil",
               "[œj]",
               "{soleil}",
-              [
-                "sol",
-                "sun",
-                "sol"
-              ]
+              {
+                "pt": "sol",
+                "en": "sun",
+                "es": "sol"
+              }
             ],
             [
               "Ill",
               "[j]",
               "{famille}",
-              [
-                "família",
-                "family",
-                "familia"
-              ]
+              {
+                "pt": "família",
+                "en": "family",
+                "es": "familia"
+              }
             ],
             [
               "Ph",
               "[f]",
               "{philosophe}",
-              [
-                "filósofo",
-                "philosopher",
-                "filósofo"
-              ]
+              {
+                "pt": "filósofo",
+                "en": "philosopher",
+                "es": "filósofo"
+              }
             ]
           ]
         }
@@ -1485,7 +1485,8 @@
             "pt": "A palavra já começa com {l’}. Nada entra no espaço.",
             "en": "The word already begins with {l’}. Nothing goes in the blank.",
             "es": "La palabra ya empieza por {l’}. No entra nada en el hueco."
-          }
+          },
+          "answer": "’"
         },
         {
           "kind": "choose",
@@ -19913,7 +19914,8 @@
                 "pt": "Tout est possible",
                 "en": "Everything is possible",
                 "es": "Todo es posible"
-              }
+              },
+              "tudo é possível"
             ],
             [
               {
@@ -19930,7 +19932,8 @@
                 "pt": "Tous priaient",
                 "en": "All prayed",
                 "es": "Todos rezaban"
-              }
+              },
+              "todos rezavam"
             ],
             [
               {
@@ -19947,7 +19950,8 @@
                 "pt": "le monde tout entier",
                 "en": "the whole world",
                 "es": "el mundo entero"
-              }
+              },
+              "o mundo todo"
             ],
             [
               {
@@ -19964,7 +19968,8 @@
                 "pt": "tout de suite",
                 "en": "at once",
                 "es": "de inmediato"
-              }
+              },
+              "logo, imediatamente"
             ]
           ]
         }
@@ -21986,7 +21991,8 @@
                 "pt": "le livre du professeur",
                 "en": "the teacher's book",
                 "es": "el libro del profesor"
-              }
+              },
+              "o livro do professor"
             ],
             [
               {
@@ -22003,7 +22009,8 @@
                 "pt": "la porte de la maison",
                 "en": "the door of the house",
                 "es": "la puerta de la casa"
-              }
+              },
+              "a porta da casa"
             ],
             [
               {
@@ -22020,7 +22027,8 @@
                 "pt": "l’âge de l’homme",
                 "en": "the age of man",
                 "es": "la edad del hombre"
-              }
+              },
+              "a idade do homem"
             ],
             [
               {
@@ -22037,7 +22045,8 @@
                 "pt": "la loi des hommes",
                 "en": "the law of men",
                 "es": "la ley de los hombres"
-              }
+              },
+              "a lei dos homens"
             ]
           ]
         }
@@ -23558,5 +23567,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gf31f2834"
+  "contentVersion": "1.0.0+gbb80ad6b"
 }

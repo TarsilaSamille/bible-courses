@@ -320,7 +320,7 @@
       "tables": [
         {
           "caption": {
-            "pt": " paradigms",
+            "pt": "Paradigmas do artigo",
             "en": "Article paradigms",
             "es": "Paradigmas del artículo"
           },
@@ -4075,5 +4075,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g3440eaa4"
+  "contentVersion": "1.0.0+g51463985"
 }

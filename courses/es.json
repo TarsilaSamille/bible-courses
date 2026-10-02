@@ -1300,6 +1300,11 @@
           },
           "head": [
             {
+              "pt": "Número",
+              "en": "Number",
+              "es": "Número"
+            },
+            {
               "pt": "Masculino",
               "en": "Masculine",
               "es": "Masculino"
@@ -1671,6 +1676,11 @@
           },
           "head": [
             {
+              "pt": "Número",
+              "en": "Number",
+              "es": "Número"
+            },
+            {
               "pt": "Masculino",
               "en": "Masculine",
               "es": "Masculino"
@@ -1947,9 +1957,9 @@
           "pairs": [
             {
               "a": {
-                "pt": "masculinos",
-                "en": "masculine",
-                "es": "masculinos"
+                "pt": "masculinos (-o)",
+                "en": "masculine (-o)",
+                "es": "masculinos (-o)"
               },
               "b": {
                 "pt": "{el problema}",
@@ -1959,9 +1969,9 @@
             },
             {
               "a": {
-                "pt": "femininos",
-                "en": "feminine",
-                "es": "femeninos"
+                "pt": "femininos (-a)",
+                "en": "feminine (-a)",
+                "es": "femininos (-a)"
               },
               "b": {
                 "pt": "{la mano}",
@@ -1971,9 +1981,9 @@
             },
             {
               "a": {
-                "pt": "masculinos",
-                "en": "masculine",
-                "es": "masculinos"
+                "pt": "masculinos (-e)",
+                "en": "masculine (-e)",
+                "es": "masculinos (-e)"
               },
               "b": {
                 "pt": "{el hombre} (-ambre)",
@@ -1983,9 +1993,9 @@
             },
             {
               "a": {
-                "pt": "femininos",
-                "en": "feminine",
-                "es": "femeninos"
+                "pt": "femininos (-dad)",
+                "en": "feminine (-dad)",
+                "es": "femininos (-dad)"
               },
               "b": {
                 "pt": "{la verdad} (-dad)",
@@ -15235,5 +15245,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gb605bca5"
+  "contentVersion": "1.0.0+g43a5fd29"
 }
