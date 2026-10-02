@@ -146,21 +146,21 @@
       "id": "ja",
       "lang": "ja",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g94d46355",
-      "lessons": 11,
+      "contentVersion": "1.0.0+g0a186ce6",
+      "lessons": 24,
       "file": "courses/ja.json",
-      "bytes": 395229,
-      "sha256": "29720b070698d8b5"
+      "bytes": 999524,
+      "sha256": "7a66112e1e976bb1"
     },
     {
       "id": "ko",
       "lang": "ko",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+ge84f9470",
-      "lessons": 13,
+      "contentVersion": "1.0.0+ge7f110fb",
+      "lessons": 24,
       "file": "courses/ko.json",
-      "bytes": 617188,
-      "sha256": "5d3cfc25b393e0dd"
+      "bytes": 1217779,
+      "sha256": "e51f737cab9b2a18"
     },
     {
       "id": "id",
