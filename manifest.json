@@ -136,11 +136,11 @@
       "id": "zh",
       "lang": "zh",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+gdf431daa",
+      "contentVersion": "1.0.0+g2ac25725",
       "lessons": 24,
       "file": "courses/zh.json",
-      "bytes": 688381,
-      "sha256": "fb872a2879f05808"
+      "bytes": 688557,
+      "sha256": "0adc5604d52a7482"
     },
     {
       "id": "ja",
