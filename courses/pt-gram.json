@@ -9226,7 +9226,1489 @@
           ]
         }
       ]
+    },
+    {
+      "id": 29,
+      "title": {
+        "pt": "As oito orações subordinadas",
+        "en": "The eight subordinate clauses",
+        "es": "Las ocho oraciones subordinadas"
+      },
+      "subtitle": {
+        "pt": "O valor que o conectivo abre",
+        "en": "The value the connector opens",
+        "es": "El valor que abre el conectivo"
+      },
+      "section": {
+        "pt": "Gramática normativa",
+        "en": "Normative grammar",
+        "es": "Gramática normativa"
+      },
+      "body": {
+        "pt": "**Visão geral.** Toda subordinada abre com um conectivo, e é o conectivo que diz o valor dela. O {que} de {Creio que isto é verdade} e o {que} de {O barco que vias era o dele} são a mesma palavra em posições diferentes: a primeira introduz um objeto, a segunda caracteriza um nome.\n\n**Regra 1.** Substantiva, adjetiva e adverbial dizem o nome da função que exercem; as adverbiais se dividem em causal, consecutiva, condicional, final, concessiva, comparativa, conformativa e proporcional.\n\n**Regra 2.** O conectivo abre a subordinada, não a nomeia: {se} é condicional com verbo conjugado e partícula apassivadora com verbo intransitivo, e quem desempata é o sentido da oração principal.\n\n**Aplicação.** Em {Se eu visse o barco, navegaria}, {Se eu visse o barco} é adverbial condicional de primeiro grau, e {navegaria} é o verbo da principal. Em {Sei que ele sabe}, o mesmo {se} acompanha um verbo intransitivo, não deixa nada por sujeito nem por objeto, e a subordinada {que ele sabe} ocupa o lugar de sujeito: é substantiva subjetiva. Romanos 8, 31 traz o primeiro tipo em forma de pergunta retórica: «Se Deus é conosco, quem será contra nós?» O grego escreve εἰ θεὸς πρὸς ἡμᾶς, τίς καθ᾽ ἡμᾶς, e o {εἰ} condicional é exatamente o {se} do português.\n\n**Verificação.** Três perguntas, sempre nesta ordem. Primeira: qual é o conectivo? Segunda: a subordinada pode ser trocada por um sintagma, e por qual? Por {isto} ou {aquilo}, ela é substantiva; por {o barco que vias}, é adjetiva; por {ontem de manhã}, é adverbial. Terceira, e só quando for adverbial: qual das oito? A segunda pergunta é a que mais engana, porque uma adverbial também pode ser trocada por um sintagma no nominativo.",
+        "en": "**Overview.** Every subordinate clause opens with a connector, and it is the connector that names its value. The {que} of {Creio que isto é verdade} and the {que} of {O barco que vias era o dele} are the same word in different positions: the first introduces an object, the second characterizes a noun.\n\n**Rule 1.** Substantive, adjectival and adverbial name the function they perform; the adverbials divide into causal, consecutive, conditional, final, concessive, comparative, conformative and proportional.\n\n**Rule 2.** The connector opens the subordinate clause, it does not name it: {se} is conditional with a finite verb and a passive particle with an intransitive verb, and what settles it is the sense of the main clause.\n\n**Application.** In {Se eu visse o barco, navegaria}, {Se eu visse o barco} is a first-degree conditional adverbial, and {navegaria} is the verb of the main clause. In {Sei que ele sabe}, the same {se} follows an intransitive verb, leaves nothing as subject and nothing as object, and the subordinate clause {que ele sabe} fills the slot of the subject: it is a subjective substantive. Romans 8:31 gives the first type in the shape of a rhetorical question: \"If God is for us, who can be against us?\" Greek writes εἰ θεὸς πρὸς ἡμᾶς, τίς καθ᾽ ἡμᾶς, and the conditional {εἰ} is exactly the Portuguese {se}.\n\n**Check.** Three questions, always in this order. First: what is the connector? Second: can the subordinate clause be replaced by a phrase, and by which one? By {isto} or {aquilo}, it is substantive; by {o barco que vias}, it is adjectival; by {ontem de manhã}, it is adverbial. Third, and only when it is adverbial: which of the eight? The second question is the one that trips people most, because an adverbial can also be replaced by a phrase in the nominative.",
+        "es": "**Visión general.** Toda subordinada se abre con un conectivo, y es el conectivo lo que nombra su valor. El {que} de {Creio que isto é verdade} y el {que} de {O barco que vias era o dele} son la misma palabra en posiciones distintas: el primero introduce un objeto, el segundo caracteriza un nombre.\n\n**Regla 1.** Sustantiva, adjetiva y adverbial nombran la función que ejercen; las adverbiales se dividen en causal, consecutiva, condicional, final, concessiva, comparativa, conformativa y proporcional.\n\n**Regla 2.** El conectivo abre la subordinada, no la nombra: {se} es condicional con verbo conjugado y partícula apasivadora con verbo intransitivo, y lo que desempata es el sentido de la oración principal.\n\n**Aplicación.** En {Se eu visse o barco, navegaria}, {Se eu visse o barco} es una adverbial condicional de primer grado, y {navigaria} es el verbo de la principal. En {Sei que ele sabe}, el mismo {se} acompaña a un verbo intransitivo, no deja nada por sujeto ni por objeto, y la subordinada {que ele sabe} ocupa el lugar del sujeto: es una sustantiva subjetiva. Romanos 8, 31 trae el primer tipo en forma de pregunta retórica: «Si Dios está con nosotros, ¿quién estará contra nosotros?» El griego escribe εἰ θεὸς πρὸς ἡμᾶς, τίς καθ᾽ ἡμᾶς, y el {εἰ} condicional es exactamente el {se} del portugués.\n\n**Comprobación.** Tres preguntas, siempre en este orden. Primera: ¿cuál es el conectivo? Segunda: ¿se puede sustituir la subordinada por un sintagma, y por cuál? Por {isto} o {aquilo}, es sustantiva; por {o barco que vias}, es adjetiva; por {ontem de manhã}, es adverbial. Tercera, y solo cuando sea adverbial: ¿cuál de las ocho? La segunda pregunta es la que más engaña, porque una adverbial también se puede sustituir por un sintagma en nominativo."
+      },
+      "vocab": [
+        {
+          "form": "substantiva",
+          "lemma": "substantiva",
+          "lang": "pt",
+          "pt": "cumpre função de substantivo: é sujeito, objeto ou complemento nominal",
+          "en": "performs a noun function: it is subject, object or nominal complement",
+          "es": "desempeña función de sustantivo: es sujeto, objeto o complemento nominal"
+        },
+        {
+          "form": "adjetiva",
+          "lemma": "adjetiva",
+          "lang": "pt",
+          "pt": "cumpre função de adjetivo: caracteriza ou restringe um nome",
+          "en": "performs an adjective function: it characterizes or restricts a noun",
+          "es": "desempeña función de adjetivo: caracteriza o restringe un nombre"
+        },
+        {
+          "form": "adverbial",
+          "lemma": "adverbial",
+          "lang": "pt",
+          "pt": "indica circunstância de tempo, causa, condição ou finalidade",
+          "en": "marks circumstance of time, cause, condition or purpose",
+          "es": "indica circunstancia de tiempo, causa, condición o finalidad"
+        },
+        {
+          "form": "conectivo",
+          "lemma": "conectivo",
+          "lang": "pt",
+          "pt": "palavra que abre a subordinada e dá a ela seu valor",
+          "en": "word that opens the subordinate clause and gives it its value",
+          "es": "palabra que abre la subordinada y le da su valor"
+        },
+        {
+          "form": "relativa",
+          "lemma": "relativa",
+          "lang": "pt",
+          "pt": "sinônimo de adjetiva restritiva, que limita o nome",
+          "en": "synonym of restrictive adjectival, which limits the noun",
+          "es": "sinónimo de adjetiva restritiva, que limita el nombre"
+        },
+        {
+          "form": "restritiva",
+          "lemma": "restritiva",
+          "lang": "pt",
+          "pt": "a que vem sem vírgula e limita o nome",
+          "en": "the one that comes without commas and limits the noun",
+          "es": "la que viene sin comas y limita el nombre"
+        },
+        {
+          "form": "explicativa",
+          "lemma": "explicativa",
+          "lang": "pt",
+          "pt": "a que vem entre vírgulas e acrescenta ao nome",
+          "en": "the one that comes between commas and adds to the noun",
+          "es": "la que viene entre comas y añade al nombre"
+        },
+        {
+          "form": "causal",
+          "lemma": "causal",
+          "lang": "pt",
+          "pt": "a que indica causa",
+          "en": "the one that marks cause",
+          "es": "la que indica causa"
+        },
+        {
+          "form": "consecutiva",
+          "lemma": "consecutiva",
+          "lang": "pt",
+          "pt": "a que indica consequência",
+          "en": "the one that marks consequence",
+          "es": "la que indica consecuencia"
+        },
+        {
+          "form": "condicional",
+          "lemma": "condicional",
+          "lang": "pt",
+          "pt": "a que indica condição",
+          "en": "the one that marks condition",
+          "es": "la que indica condición"
+        },
+        {
+          "form": "final",
+          "lemma": "final",
+          "lang": "pt",
+          "pt": "a que indica finalidade",
+          "en": "the one that marks purpose",
+          "es": "la que indica finalidad"
+        },
+        {
+          "form": "concessiva",
+          "lemma": "concessiva",
+          "lang": "pt",
+          "pt": "a que admite um fato apesar do qual outro acontece",
+          "en": "the one that admits a fact in spite of which another happens",
+          "es": "la que admite un hecho a pesar del cual ocurre otro"
+        },
+        {
+          "form": "comparativa",
+          "lemma": "comparativa",
+          "lang": "pt",
+          "pt": "a que estabelece comparação",
+          "en": "the one that establishes a comparison",
+          "es": "la que establece comparación"
+        },
+        {
+          "form": "conformativa",
+          "lemma": "conformativa",
+          "lang": "pt",
+          "pt": "a que indica conformidade",
+          "en": "the one that marks conformity",
+          "es": "la que indica conformidad"
+        },
+        {
+          "form": "proporcional",
+          "lemma": "proporcional",
+          "lang": "pt",
+          "pt": "a que indica proporção entre dois termos",
+          "en": "the one that marks proportion between two terms",
+          "es": "la que indica proporción entre dos términos"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em «Sei que ele sabe», a subordinada {que ele sabe} é:",
+          "en": "In \"Sei que ele sabe\", the subordinate clause {que ele sabe} is:",
+          "es": "En «Sei que ele sabe», la subordinada {que ele sabe} es:"
+        },
+        "options": [
+          {
+            "pt": "substantiva subjetiva, porque ocupa o lugar de sujeito de {sei}",
+            "en": "a subjective substantive, because it fills the slot of subject of {sei}",
+            "es": "sustantiva subjetiva, porque ocupa el lugar de sujeto de {sei}"
+          },
+          {
+            "pt": "adverbial condicional, porque começa por {se}",
+            "en": "a conditional adverbial, because it starts with {se}",
+            "es": "adverbial condicional, porque empieza por {se}"
+          },
+          {
+            "pt": "adjetiva explicativa, porque vem entre vírgulas",
+            "en": "an explanatory adjectival, because it comes between commas",
+            "es": "adjetiva explicativa, porque viene entre comas"
+          },
+          {
+            "pt": "substantiva direta, porque vem depois do verbo",
+            "en": "a direct substantive, because it follows the verb",
+            "es": "sustantiva directa, porque viene después del verbo"
+          }
+        ],
+        "answer": 0,
+        "hint": {
+          "pt": "Substitua a subordinada por {isso}: «Sei isso» continua correto?",
+          "en": "Replace the subordinate clause with {isso}: does \"Sei isso\" still work?",
+          "es": "Sustituye la subordinada por {isso}: ¿«Sei isso» sigue siendo correcto?"
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em {E disse-lhes: «Por que tendes por foro?»}, a oração entre aspas é:",
+            "en": "In {E disse-lhes: «Por que tendes por foro?»}, the clause in quotes is:",
+            "es": "En {E disse-lhes: «Por que tendes por foro?»}, la oración entre comillas es:"
+          },
+          "options": [
+            {
+              "pt": "substantiva direta de primeiro grau, objeto de {disse-lhes}",
+              "en": "a first-degree direct substantive, the object of {disse-lhes}",
+              "es": "sustantiva directa de primer grado, objeto de {disse-lhes}"
+            },
+            {
+              "pt": "oração coordenada assindética, por não ter conectivo",
+              "en": "an asyndetic coordinated clause, because it has no connector",
+              "es": "oración coordinada asindética, por no tener conectivo"
+            },
+            {
+              "pt": "oração principal, porque tem sujeito próprio",
+              "en": "the main clause, because it has a subject of its own",
+              "es": "oración principal, porque tiene sujeto propio"
+            },
+            {
+              "pt": "adverbial final, porque vem no fim do período",
+              "en": "a final adverbial, because it comes at the end of the period",
+              "es": "adverbial final, porque viene al final del período"
+            }
+          ],
+          "answer": 0,
+          "hint": {
+            "pt": "Uma fala reproduzida costuma completar o verbo que a introduz.",
+            "en": "A reported speech usually completes the verb that introduces it.",
+            "es": "Un habla reproducida suele completar el verbo que la introduce."
+          }
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue a subordinada ao seu valor.",
+            "en": "Match the subordinate clause to its value.",
+            "es": "Relaciona la subordinada con su valor."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "Embora chovesse, saiu.",
+                "en": "Embora chovesse, saiu.",
+                "es": "Embora chovesse, saiu."
+              },
+              "b": {
+                "pt": "concessiva",
+                "en": "concessive",
+                "es": "concessiva"
+              }
+            },
+            {
+              "a": {
+                "pt": "Caminhou conforme a palavra.",
+                "en": "Caminhou conforme a palavra.",
+                "es": "Caminhou conforme a palavra."
+              },
+              "b": {
+                "pt": "conformativa",
+                "en": "conformative",
+                "es": "conformativa"
+              }
+            },
+            {
+              "a": {
+                "pt": "Vai a Nazaré para que se cumpram as Escrituras.",
+                "en": "Vai a Nazaré para que se cumpram as Escrituras.",
+                "es": "Vai a Nazaré para que se cumpram as Escrituras."
+              },
+              "b": {
+                "pt": "final",
+                "en": "final",
+                "es": "final"
+              }
+            },
+            {
+              "a": {
+                "pt": "À medida que avançava, a tempestade crescia.",
+                "en": "À medida que avançava, a tempestade crescia.",
+                "es": "À medida que avançava, a tempestade crescia."
+              },
+              "b": {
+                "pt": "proporcional",
+                "en": "proportional",
+                "es": "proporcional"
+              }
+            }
+          ],
+          "answer": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Substantiva, adjetiva e adverbial dizem o nome da função que exercem.",
+            "en": "Substantive, adjectival and adverbial name the function they perform.",
+            "es": "Sustantiva, adjetiva y adverbial nombran la función que ejercen."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "As adverbiais são causal, consecutiva, condicional, final, concessiva, comparativa, conformativa e proporcional.",
+            "en": "The adverbials are causal, consecutive, conditional, final, concessive, comparative, conformative and proportional.",
+            "es": "Las adverbiales son causal, consecutiva, condicional, final, concessiva, comparativa, conformativa y proporcional."
+          }
+        },
+        {
+          "n": "§3",
+          "text": {
+            "pt": "O conectivo abre a subordinada, mas é o sentido da oração principal que decide o valor.",
+            "en": "The connector opens the subordinate clause, but it is the sense of the main clause that decides the value.",
+            "es": "El conectivo abre la subordinada, pero es el sentido de la oración principal lo que decide el valor."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Nota normativa",
+            "en": "Normative note",
+            "es": "Nota normativa"
+          },
+          "text": {
+            "pt": "O conectivo nem sempre coincide com o do original: o grego escreve ὅτι e ὡς para {que} e {como}, e ambos chegam ao português com o mesmo valor que a gramática lhes dá.",
+            "en": "The connector does not always match the original: Greek writes ὅτι and ὡς for {que} and {como}, and both arrive in Portuguese carrying the value grammar gives them.",
+            "es": "El conectivo no siempre coincide con el del original: el griego escribe ὅτι y ὡς para {que} y {como}, y ambos llegan al portugués con el valor que les da la gramática."
+          }
+        },
+        {
+          "label": {
+            "pt": "Verbo transitivo indireto",
+            "en": "Transitive-indirect verb",
+            "es": "Verbo transitivo indirecto"
+          },
+          "text": {
+            "pt": "Em {Se ele vier}, o {se} é condicional porque o verbo {vier} vem com sujeito expresso. Quando o verbo vem sem sujeito, o {se} deixa de abrir uma condicional e vira partícula apassivadora de uma substantiva.",
+            "en": "In {Se ele vier}, the {se} is conditional because the verb {vier} comes with an expressed subject. When the verb comes without a subject, {se} stops opening a conditional and becomes the passive particle of a substantive.",
+            "es": "En {Se ele vier}, el {se} es condicional porque el verbo {vier} viene con sujeto expreso. Cuando el verbo viene sin sujeto, el {se} deja de abrir una condicional y se vuelve partícula apasivadora de una sustantiva."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Creio que isto é verdade.",
+          "gloss": {
+            "pt": "Substantiva direta: ocupa o lugar de objeto de {creio}.",
+            "en": "Direct substantive: it fills the slot of object of {creio}.",
+            "es": "Sustantiva directa: ocupa el lugar de objeto de {creio}."
+          }
+        },
+        {
+          "text": "O barco que vias era o dele.",
+          "gloss": {
+            "pt": "Adjetiva restritiva: o {que} limita o nome a um barco só.",
+            "en": "Restrictive adjectival: the {que} limits the noun to one boat.",
+            "es": "Adjetiva restritiva: el {que} limita el nombre a un solo barco."
+          }
+        },
+        {
+          "text": "O barco, que era velho, adormeceu.",
+          "gloss": {
+            "pt": "Adjetiva explicativa: vem entre vírgulas e acrescenta.",
+            "en": "Explanatory adjectival: it comes between commas and adds.",
+            "es": "Adjetiva explicativa: viene entre comas y añade."
+          }
+        },
+        {
+          "text": "Não navegou porque não tinha fé.",
+          "gloss": {
+            "pt": "Causal: a causa está dentro da subordinada.",
+            "en": "Causal: the cause lies inside the subordinate clause.",
+            "es": "Causal: la causa está dentro de la subordinada."
+          }
+        },
+        {
+          "text": "Não navegou; não tinha fé.",
+          "gloss": {
+            "pt": "Sem conectivo: a segunda oração fica em coordenação.",
+            "en": "Without a connector: the second clause stays coordinated.",
+            "es": "Sin conectivo: la segunda oración queda en coordinación."
+          }
+        },
+        {
+          "text": "A tempestade foi tão forte que o barco se encheu.",
+          "gloss": {
+            "pt": "Consecutiva: a subordinada traz o resultado.",
+            "en": "Consecutive: the subordinate clause brings the result.",
+            "es": "Consecutiva: la subordinada trae el resultado."
+          }
+        },
+        {
+          "text": "Se o vento cessar, embarcaremos.",
+          "gloss": {
+            "pt": "Condicional: o verbo principal está no futuro.",
+            "en": "Conditional: the main verb is in the future.",
+            "es": "Condicional: el verbo principal está en futuro."
+          }
+        },
+        {
+          "text": "Correu como o cavalo corre.",
+          "gloss": {
+            "pt": "Comparativa: os dois termos postulam a mesma qualidade.",
+            "en": "Comparative: both terms claim the same quality.",
+            "es": "Comparativa: los dos términos postulan la misma cualidad."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Mapa do conectivo e do valor",
+            "en": "Map of connector and value",
+            "es": "Mapa del conectivo y del valor"
+          },
+          "head": [
+            {
+              "pt": "Tipo",
+              "en": "Type",
+              "es": "Tipo"
+            },
+            {
+              "pt": "Conectivos",
+              "en": "Connectors",
+              "es": "Conectivos"
+            },
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "substantiva",
+                "en": "substantiva",
+                "es": "substantiva"
+              },
+              {
+                "pt": "que, se, qual, como",
+                "en": "que, se, qual, como",
+                "es": "que, se, qual, como"
+              },
+              {
+                "pt": "Creio que isto é verdade.",
+                "en": "Creio que isto é verdade.",
+                "es": "Creio que isto é verdade."
+              }
+            ],
+            [
+              {
+                "pt": "substantiva objetiva direta",
+                "en": "substantiva objetiva direta",
+                "es": "substantiva objetiva directa"
+              },
+              {
+                "pt": "que, o qual, o que",
+                "en": "que, o qual, o que",
+                "es": "que, o qual, o que"
+              },
+              {
+                "pt": "Disse que viria.",
+                "en": "Disse que viria.",
+                "es": "Disse que viria."
+              }
+            ],
+            [
+              {
+                "pt": "substantiva subjetiva",
+                "en": "substantiva subjetiva",
+                "es": "substantiva subjetiva"
+              },
+              {
+                "pt": "que, se",
+                "en": "que, se",
+                "es": "que, se"
+              },
+              {
+                "pt": "Sei que ele sabe.",
+                "en": "Sei que ele sabe.",
+                "es": "Sei que ele sabe."
+              }
+            ],
+            [
+              {
+                "pt": "substantiva predicativa",
+                "en": "substantiva predicativa",
+                "es": "substantiva predicativa"
+              },
+              {
+                "pt": "que",
+                "en": "que",
+                "es": "que"
+              },
+              {
+                "pt": "É necessário que venhas.",
+                "en": "É necessário que venhas.",
+                "es": "É necessário que venhas."
+              }
+            ],
+            [
+              {
+                "pt": "adjetiva restritiva",
+                "en": "adjetiva restritiva",
+                "es": "adjetiva restritiva"
+              },
+              {
+                "pt": "que, o qual, quem",
+                "en": "que, o qual, quem",
+                "es": "que, o qual, quem"
+              },
+              {
+                "pt": "O barco que vias era o dele.",
+                "en": "O barco que vias era o dele.",
+                "es": "O barco que vias era o dele."
+              }
+            ],
+            [
+              {
+                "pt": "adjetiva explicativa",
+                "en": "adjetiva explicativa",
+                "es": "adjetiva explicativa"
+              },
+              {
+                "pt": "que, o qual, quem",
+                "en": "que, o qual, quem",
+                "es": "que, o qual, quem"
+              },
+              {
+                "pt": "O barco, que era velho, adormeceu.",
+                "en": "O barco, que era velho, adormeceu.",
+                "es": "O barco, que era velho, adormeceu."
+              }
+            ],
+            [
+              {
+                "pt": "adverbial causal",
+                "en": "adverbial causal",
+                "es": "adverbial causal"
+              },
+              {
+                "pt": "porque, pois que, já que, como",
+                "en": "porque, pois que, já que, como",
+                "es": "porque, pois que, já que, como"
+              },
+              {
+                "pt": "Não navegou porque não tinha fé.",
+                "en": "Não navegou porque não tinha fé.",
+                "es": "Não navegou porque não tinha fé."
+              }
+            ],
+            [
+              {
+                "pt": "adverbial consecutiva",
+                "en": "adverbial consecutiva",
+                "es": "adverbial consecutiva"
+              },
+              {
+                "pt": "logo que, de modo que, tanto que",
+                "en": "logo que, de modo que, tanto que",
+                "es": "logo que, de modo que, tanto que"
+              },
+              {
+                "pt": "Tão forte foi que o barco se encheu.",
+                "en": "Tão forte foi que o barco se encheu.",
+                "es": "Tão forte foi que o barco se encheu."
+              }
+            ],
+            [
+              {
+                "pt": "adverbial condicional",
+                "en": "adverbial condicional",
+                "es": "adverbial condicional"
+              },
+              {
+                "pt": "se, caso, contanto que",
+                "en": "se, caso, contanto que",
+                "es": "se, caso, contanto que"
+              },
+              {
+                "pt": "Se o vento cessar, embarcaremos.",
+                "en": "Se o vento cessar, embarcaremos.",
+                "es": "Se o vento cessar, embarcaremos."
+              }
+            ],
+            [
+              {
+                "pt": "adverbial final",
+                "en": "adverbial final",
+                "es": "adverbial final"
+              },
+              {
+                "pt": "para que, a fim de que",
+                "en": "para que, a fim de que",
+                "es": "para que, a fim de que"
+              },
+              {
+                "pt": "Vai para que se cumpram as Escrituras.",
+                "en": "Vai para que se cumpram as Escrituras.",
+                "es": "Vai para que se cumpram as Escrituras."
+              }
+            ],
+            [
+              {
+                "pt": "adverbial concessiva",
+                "en": "adverbial concessiva",
+                "es": "adverbial concessiva"
+              },
+              {
+                "pt": "embora, ainda que, mesmo que",
+                "en": "embora, ainda que, mesmo que",
+                "es": "embora, ainda que, mesmo que"
+              },
+              {
+                "pt": "Embora chovesse, saiu.",
+                "en": "Embora chovesse, saiu.",
+                "es": "Embora chovesse, saiu."
+              }
+            ],
+            [
+              {
+                "pt": "adverbial comparativa",
+                "en": "adverbial comparativa",
+                "es": "adverbial comparativa"
+              },
+              {
+                "pt": "como, que, quanto a",
+                "en": "como, que, quanto a",
+                "es": "como, que, quanto a"
+              },
+              {
+                "pt": "Correu como o cavalo corre.",
+                "en": "Correu como o cavalo corre.",
+                "es": "Correu como o cavalo corre."
+              }
+            ],
+            [
+              {
+                "pt": "adverbial conformativa",
+                "en": "adverbial conformativa",
+                "es": "adverbial conformativa"
+              },
+              {
+                "pt": "conforme, segundo, como",
+                "en": "conforme, segundo, como",
+                "es": "conforme, segundo, como"
+              },
+              {
+                "pt": "Caminhou conforme a palavra.",
+                "en": "Caminhou conforme a palavra.",
+                "es": "Caminhou conforme a palavra."
+              }
+            ],
+            [
+              {
+                "pt": "adverbial proporcional",
+                "en": "adverbial proporcional",
+                "es": "adverbial proporcional"
+              },
+              {
+                "pt": "à medida que, quanto mais",
+                "en": "à medida que, quanto mais",
+                "es": "à medida que, quanto mais"
+              },
+              {
+                "pt": "À medida que avançava, crescia.",
+                "en": "À medida que avançava, crescia.",
+                "es": "À medida que avançava, crescia."
+              }
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "O mesmo conectivo em dois valores",
+            "en": "The same connector in two values",
+            "es": "El mismo conectivo en dos valores"
+          },
+          "head": [
+            {
+              "pt": "Trecho",
+              "en": "Passage",
+              "es": "Fragmento"
+            },
+            {
+              "pt": "Conectivo",
+              "en": "Connector",
+              "es": "Conectivo"
+            },
+            {
+              "pt": "Valor",
+              "en": "Value",
+              "es": "Valor"
+            },
+            {
+              "pt": "Por que",
+              "en": "Why",
+              "es": "Por qué"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "Disse que viria.",
+                "en": "Disse que viria.",
+                "es": "Disse que viria."
+              },
+              {
+                "pt": "que",
+                "en": "que",
+                "es": "que"
+              },
+              {
+                "pt": "substantiva direta",
+                "en": "direct substantive",
+                "es": "sustantiva directa"
+              },
+              {
+                "pt": "completa o verbo {disse}",
+                "en": "it completes the verb {disse}",
+                "es": "completa el verbo {disse}"
+              }
+            ],
+            [
+              {
+                "pt": "O homem que vi era judeu.",
+                "en": "O homem que vi era judeu.",
+                "es": "O homem que vi era judeu."
+              },
+              {
+                "pt": "que",
+                "en": "que",
+                "es": "que"
+              },
+              {
+                "pt": "adjetiva restritiva",
+                "en": "restrictive adjectival",
+                "es": "adjetiva restritiva"
+              },
+              {
+                "pt": "caracteriza o nome {homem}",
+                "en": "it characterizes the noun {homem}",
+                "es": "caracteriza el nombre {homem}"
+              }
+            ],
+            [
+              {
+                "pt": "Se ele vier, sairei.",
+                "en": "Se ele vier, sairei.",
+                "es": "Se ele vier, sairei."
+              },
+              {
+                "pt": "se",
+                "en": "se",
+                "es": "se"
+              },
+              {
+                "pt": "condicional",
+                "en": "conditional",
+                "es": "condicional"
+              },
+              {
+                "pt": "o verbo traz sujeito expresso",
+                "en": "the verb has an expressed subject",
+                "es": "el verbo trae sujeto expreso"
+              }
+            ],
+            [
+              {
+                "pt": "Sei que ele sabe.",
+                "en": "Sei que ele sabe.",
+                "es": "Sei que ele sabe."
+              },
+              {
+                "pt": "se",
+                "en": "se",
+                "es": "se"
+              },
+              {
+                "pt": "substantiva subjetiva",
+                "en": "subjective substantive",
+                "es": "sustantiva subjetiva"
+              },
+              {
+                "pt": "o verbo {sei} é intransitivo",
+                "en": "the verb {sei} is intransitive",
+                "es": "el verbo {sei} es intransitivo"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": {
+        "pt": "O período composto em Marcos 4, 35-41",
+        "en": "The compound period in Mark 4:35-41",
+        "es": "El período compuesto en Marcos 4, 35-41"
+      },
+      "subtitle": {
+        "pt": "Contagem de verbos e grau das orações",
+        "en": "Counting verbs and grading the clauses",
+        "es": "Recuento de verbos y grado de las oraciones"
+      },
+      "section": {
+        "pt": "Gramática normativa",
+        "en": "Normative grammar",
+        "es": "Gramática normativa"
+      },
+      "body": {
+        "pt": "**Visão geral.** São vinte verbos em sete versículos, e é por eles que a análise começa. O período mais longo do trecho, o de Marcos 4, 38, tem seis verbos: quatro coordenadas e uma fala com dois imperativos.\n\n**Regra 1.** Numa oração composta conta-se um verbo por oração; as coordenadas ocupam o mesmo grau entre si, e a subordinada é de primeiro grau quando depende só da principal.\n\n**Regra 2.** O grau se conta pela distância: uma oração metida dentro de uma subordinada é de segundo grau, mesmo que o conectivo seja o mesmo.\n\n**Aplicação.** O parágrafo inteiro cabe em sete períodos, e o caminho curto é percorrê-los um a um.\n\n1. {E, ao anoitecer, disse aos seus discípulos: Passemos para o outro lado} são duas orações: a principal, com o verbo {disse}, e uma subordinada substantiva direta de primeiro grau, {Passemos para o outro lado}, que é o objeto do verbo. O conectivo não está escrito, e é o que mais chama atenção aqui: a fala reproduzida ocupa o lugar do objeto sem precisar de {que}.\n2. {E saiu, e os discípulos o seguiam} são duas orações, as duas independentes: a segunda é uma coordena aditiva. Repare no sujeito {os discípulos}, que vem depois do verbo {seguiam} e mesmo assim é sujeito.\n3. {E levantou-se grande temporal; e as ondas iam batendo contra o barco, de modo que já estava se enchendo de água} são três orações: principal, coordena aditiva e uma subordinada adverbial consecutiva de primeiro grau, introduzida por {de modo que}, com o verbo {estava}.\n4. {E ele, no meio da tempestade, adormeceu; e acordou, e repreendeu aos demônios, e disse-lhe: Cala-te! E saí!} são seis verbos e seis orações: a principal, três coordenadas e a fala, que é uma substantiva direta e, ao mesmo tempo, um período composto por coordenação.\n5. {E ficou grande calma, e cessou o vento} são duas coordenadas.\n6. {E disse-lhes: «Por que tendes por foro? Não haveis fé ainda?»} são três orações: a principal, uma substantiva direta e uma coordenada dentro dela.\n7. {E o medo os assaltou, e eles se admiravam uns dos outros} são duas coordenadas. Em {uns dos outros}, o pronome recíproco não se refere a Jesus e sim aos discípulos entre si.\n\n**Verificação.** O que faz a análise fechar é a contagem de verbos, e ela é conferível: são vinte, e o número de orações do parágrafo é o mesmo número. O que separa coordenada de subordinada não é a vírgula nem o ponto-e-vírgula, e sim o que a oração completa. Uma oração que completa um verbo da principal é substantiva direta, e são três no trecho, as três falas de Jesus. Uma que traz a consequência é adverbial, e é uma só, a enchente de água. Não há uma única adjetiva em sete versículos, e isso também é resultado da análise: as descrições do barco e da tempestade entram como sujeito, {grande temporal} e {o medo os assaltou}, e não como relativo. O que fica para a leitura é o procedimento: marcar o verbo, contar a oração, e perguntar o que ela completa.",
+        "en": "**Overview.** There are twenty verbs in seven verses, and it is through them that the analysis begins. The longest period in the passage, the one in Mark 4:38, has six verbs: four coordinated clauses and a speech with two imperatives.\n\n**Rule 1.** In a compound clause you count one verb per clause; coordinated clauses stand at the same grade as one another, and a subordinate clause is first degree when it depends only on the main clause.\n\n**Rule 2.** Grade is counted by distance: a clause placed inside a subordinate clause is second degree, even when the connector is the same one.\n\n**Application.** The whole passage fits into seven periods, and the short path is to walk through them one by one.\n\n1. {And when evening had come, he said to his disciples: Let us go over} is two clauses: the main one, with the verb {he said}, and a first-degree direct substantive, {Let us go over}, which is the object of the verb. The connector is not written, and that is what draws attention here: reported speech fills the slot of the object without needing {that}.\n2. {And he went out, and his disciples followed him.} is two clauses, both independent: the second is an additive coordinate. Notice the subject {his disciples}, which comes after the verb {followed} and is a subject all the same.\n3. {And a great tempest arose; and the waves were beating against the boat, so that it was already filling with water} is three clauses: the main one, an additive coordinate, and a first-degree consecutive adverbial, introduced by {so that}, with the verb {was}.\n4. {And he, in the midst of the storm, fell asleep; and he awoke, and rebuked the demons, and said to him: Be silent! And get out!} is six verbs and six clauses: the main one, three coordinates, and the speech, which is a direct substantive and, at the same time, a compound period by coordination.\n5. {And there was great calm, and the wind ceased.} is two coordinates.\n6. {And he said to them: Why do you still have no faith?} is three clauses: the main one, a direct substantive, and one coordinate inside it.\n7. {And fear seized them, and they were amazed at one another.} is two coordinates. In {one another}, the reciprocal pronoun does not refer to Jesus but to the disciples among themselves.\n\n**Check.** What closes the analysis is the count of verbs, and it can be verified: there are twenty, and the number of clauses in the passage is the same number. What separates a coordinate from a subordinate clause is neither the comma nor the semicolon but what the clause completes. A clause that completes a verb of the main clause is a direct substantive, and there are three in the passage, the three speeches of Jesus. One that brings the consequence is an adverbial, and there is only one, the flooding with water. There is not a single adjectival in seven verses, and that too is a result of the analysis: the descriptions of the boat and the storm come in as subjects, {a great tempest arose} and {fear seized them}, and not as relatives. What remains for reading is the procedure: mark the verb, count the clause, and ask what it completes.",
+        "es": "**Visión general.** Hay veinte verbos en siete versículos, y es por ellos por donde empieza el análisis. El período más largo del pasaje, el de Marcos 4, 38, tiene seis verbos: cuatro coordinadas y un habla con dos imperativos.\n\n**Regla 1.** En una oración compuesta se cuenta un verbo por oración; las coordinadas ocupan el mismo grado entre sí, y la subordinada es de primer grado cuando depende solo de la principal.\n\n**Regla 2.** El grado se cuenta por la distancia: una oración metida dentro de una subordinada es de segundo grado, aunque el conectivo sea el mismo.\n\n**Aplicación.** Todo el pasaje cabe en siete períodos, y el camino corto es recorrerlos uno a uno.\n\n1. {E, ao anoitecer, disse aos seus discípulos: Passemos para o outro lado} son dos oraciones: la principal, con el verbo {disse}, y una subordinada sustantiva directa de primer grado, {Passemos para o outro lado}, que es el objeto del verbo. El conectivo no está escrito, y eso es lo que más llama la atención aquí: el habla reproducida ocupa el lugar del objeto sin necesitar {que}.\n2. {E saiu, e os discípulos o seguiam} son dos oraciones, las dos independientes: la segunda es una coordinada aditiva. Note que el sujeto {os discípulos}, que va después del verbo {seguiam} y es sujeto igual.\n3. {E levantou-se grande temporal; e as ondas iam batendo contra o barco, de modo que já estava se enchendo de água} son tres oraciones: principal, coordinada aditiva y una subordinada adverbial consecutiva de primer grado, introducida por {de modo que}, con el verbo {estava}.\n4. {E ele, no meio da tempestade, adormeceu; e acordou, e repreendeu aos demônios, e disse-lhe: Cala-te! E saí!} son seis verbos y seis oraciones: la principal, tres coordinadas y el habla, que es una sustantiva directa y, al mismo tiempo, un período compuesto por coordinación.\n5. {E ficou grande calma, e cessou o vento} son dos coordinadas.\n6. {E disse-lhes: «Por que tendes por foro? Não haveis fé ainda?»} son tres oraciones: la principal, una sustantiva directa y una coordinada dentro de ella.\n7. {E o medo os assaltou, e eles se admiravam uns dos outros} son dos coordinadas. En {uns dos outros}, el pronombre recíproco no se refiere a Jesús sino a los discípulos entre sí.\n\n**Comprobación.** Lo que cierra el análisis es el recuento de verbos, y es verificable: son veinte, y el número de oraciones del pasaje es el mismo número. Lo que separa la coordinada de la subordinada no es la coma ni el punto y coma, sino lo que la oración completa. Una oración que completa un verbo de la principal es una sustantiva directa, y hay tres en el pasaje, los tres hablas de Jesús. Una que trae la consecuencia es adverbial, y hay una sola, el llenado de agua. No hay ni una sola adjetiva en siete versículos, y eso también es resultado del análisis: las descripciones del barco y de la tormenta entran como sujeto, {grande temporal} y {o medo os assaltou}, y no como relativo. Lo que queda para la lectura es el procedimiento: marcar el verbo, contar la oración y preguntar qué completa."
+      },
+      "vocab": [
+        {
+          "form": "período",
+          "lemma": "período",
+          "lang": "pt",
+          "pt": "período",
+          "en": "period",
+          "es": "período"
+        },
+        {
+          "form": "período composto",
+          "lemma": "período composto",
+          "lang": "pt",
+          "pt": "período composto",
+          "en": "compound period",
+          "es": "período compuesto"
+        },
+        {
+          "form": "verbo",
+          "lemma": "verbo",
+          "lang": "pt",
+          "pt": "verbo",
+          "en": "verb",
+          "es": "verbo"
+        },
+        {
+          "form": "oração principal",
+          "lemma": "oração principal",
+          "lang": "pt",
+          "pt": "oração principal",
+          "en": "main clause",
+          "es": "oración principal"
+        },
+        {
+          "form": "coordenada",
+          "lemma": "coordenada",
+          "lang": "pt",
+          "pt": "oração coordenada, que depende de outra do mesmo grau",
+          "en": "coordinated clause, which depends on another of the same grade",
+          "es": "oración coordinada, que depende de otra del mismo grado"
+        },
+        {
+          "form": "substantiva direta",
+          "lemma": "substantiva direta",
+          "lang": "pt",
+          "pt": "oração que completa um verbo e é seu objeto",
+          "en": "clause that completes a verb and is its object",
+          "es": "oración que completa un verbo y es su objeto"
+        },
+        {
+          "form": "adverbial consecutiva",
+          "lemma": "adverbial consecutiva",
+          "lang": "pt",
+          "pt": "oração que traz a consequência do que se afirma",
+          "en": "clause that brings the consequence of what is stated",
+          "es": "oración que trae la consecuencia de lo que se afirma"
+        },
+        {
+          "form": "grau",
+          "lemma": "grau",
+          "lang": "pt",
+          "pt": "nível de dependência da oração dentro do período",
+          "en": "level of dependence of a clause within the period",
+          "es": "nivel de dependencia de la oración dentro del período"
+        },
+        {
+          "form": "fala reproduzida",
+          "lemma": "fala reproduzida",
+          "lang": "pt",
+          "pt": "discurso transcrito de outro interlocutor",
+          "en": "speech transcribed from another speaker",
+          "es": "discurso transcrito de otro interlocutor"
+        },
+        {
+          "form": "conectivo",
+          "lemma": "conectivo",
+          "lang": "pt",
+          "pt": "palavra que abre a subordinada",
+          "en": "word that opens the subordinate clause",
+          "es": "palabra que abre la subordinada"
+        },
+        {
+          "form": "relativo",
+          "lemma": "relativo",
+          "lang": "pt",
+          "pt": "que, o qual, quem: o conectivo da adjetiva",
+          "en": "that, which, who: the connector of the adjectival",
+          "es": "que, el cual, quien: el conectivo de la adjetiva"
+        },
+        {
+          "form": "sujeito posposto",
+          "lemma": "sujeito posposto",
+          "lang": "pt",
+          "pt": "sujeito que vem depois do verbo",
+          "en": "subject that comes after the verb",
+          "es": "sujeto que va después del verbo"
+        },
+        {
+          "form": "pronome recíproco",
+          "lemma": "pronome recíproco",
+          "lang": "pt",
+          "pt": "pronome que remete um sujeito a si mesmo",
+          "en": "pronoun that refers a subject to itself",
+          "es": "pronombre que remite un sujeto a sí mismo"
+        },
+        {
+          "form": "pontuação",
+          "lemma": "pontuação",
+          "lang": "pt",
+          "pt": "conjunto de vírgulas, ponto-e-vírgulas e dois-pontos",
+          "en": "set of commas, semicolons and colons",
+          "es": "conjunto de comas, puntos y comas y dos puntos"
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em {E disse-lhes: «Por que tendes por foro? Não haveis fé ainda?»}, a oração {Não haveis fé ainda?} é:",
+          "en": "In {And he said to them: Why do you still have no faith?}, the clause {Why do you still have no faith?} is:",
+          "es": "En {E disse-lhes: «Por que tendes por foro? Não haveis fé ainda?»}, la oración {Não haveis fé ainda?} es:"
+        },
+        "options": [
+          {
+            "pt": "uma coordena de segundo grau, porque está dentro da fala, que é a subordinada",
+            "en": "a second-degree coordinate, because it sits inside the speech, which is the subordinate clause",
+            "es": "una coordinada de segundo grado, porque está dentro del habla, que es la subordinada"
+          },
+          {
+            "pt": "uma coordena de primeiro grau, porque é do mesmo período que {disse-lhes}",
+            "en": "a first-degree coordinate, because it is in the same period as {he said}",
+            "es": "una coordinada de primer grado, porque es del mismo período que {disse-lhes}"
+          },
+          {
+            "pt": "uma subordinada substantiva direta de primeiro grau",
+            "en": "a first-degree direct substantive",
+            "es": "una subordinada sustantiva directa de primer grado"
+          },
+          {
+            "pt": "uma subordinada adverbial final, porque vem no fim do período",
+            "en": "a final adverbial, because it comes at the end of the period",
+            "es": "una subordinada adverbial final, porque viene al final del período"
+          }
+        ],
+        "answer": 0,
+        "hint": {
+          "pt": "A regra 2 conta o grau pela distância: onde está esta oração em relação a {disse-lhes}?",
+          "en": "Rule 2 counts grade by distance: where is this clause in relation to {he said}?",
+          "es": "La regla 2 cuenta el grado por la distancia: ¿dónde está esta oración respecto de {disse-lhes}?"
+        }
+      },
+      "exercises": [
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "No trecho de Marcos 4, quantas orações subordinadas aparecem?",
+            "en": "In the passage from Mark 4, how many subordinate clauses appear?",
+            "es": "En el pasaje de Marcos 4, ¿cuántas oraciones subordinadas aparecen?"
+          },
+          "options": [
+            {
+              "pt": "quatro: três substantivas diretas e uma adverbial consecutiva",
+              "en": "four: three direct substantives and one consecutive adverbial",
+              "es": "cuatro: tres sustantivas directas y una adverbial consecutiva"
+            },
+            {
+              "pt": "sete: uma em cada versículo",
+              "en": "seven: one in every verse",
+              "es": "siete: una en cada versículo"
+            },
+            {
+              "pt": "duas: uma em Marcos 4, 37 e outra em Marcos 4, 38",
+              "en": "two: one in Mark 4:37 and another in Mark 4:38",
+              "es": "dos: una en Marcos 4, 37 y otra en Marcos 4, 38"
+            },
+            {
+              "pt": "nenhuma: o trecho é todo composto por coordenação",
+              "en": "none: the passage is all coordination",
+              "es": "ninguna: el pasaje es todo coordinación"
+            }
+          ],
+          "answer": 0,
+          "hint": {
+            "pt": "Procure as três falas de Jesus e a oração introduzida por {de modo que}.",
+            "en": "Look for the three speeches of Jesus and the clause introduced by {so that}.",
+            "es": "Busque los tres hablas de Jesús y la oración introducida por {de modo que}."
+          }
+        },
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Em {E levantou-se grande temporal}, o sujeito {grande temporal} vem depois do verbo: é um ______ posposto.",
+            "en": "In {And a great tempest arose}, the subject comes after the verb: it is a ______ subject.",
+            "es": "En {E levantou-se grande temporal}, el sujeto va después del verbo: es un sujeto ______."
+          },
+          "answer": "sujeito",
+          "hint": {
+            "pt": "A posição não muda a função do sujeito.",
+            "en": "Position does not change the function of the subject.",
+            "es": "La posición no cambia la función del sujeto."
+          }
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Conta-se um verbo por oração: o número de orações do período é o número de verbos que o formam.",
+            "en": "One verb per clause: the number of clauses in the period is the number of verbs that make it up.",
+            "es": "Se cuenta un verbo por oración: el número de oraciones del período es el número de verbos que lo forman."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "Coordenadas ficam no mesmo grau entre si; a subordinada que depende só da principal é de primeiro grau.",
+            "en": "Coordinates stand at the same grade as one another; a subordinate clause that depends only on the main clause is first degree.",
+            "es": "Las coordinadas quedan en el mismo grado entre sí; la subordinada que depende solo de la principal es de primer grado."
+          }
+        },
+        {
+          "n": "§3",
+          "text": {
+            "pt": "O grau se conta pela distância, e não pelo conectivo.",
+            "en": "Grade is counted by distance, not by the connector.",
+            "es": "El grado se cuenta por la distancia, y no por el conectivo."
+          }
+        },
+        {
+          "n": "§4",
+          "text": {
+            "pt": "A fala reproduzida, sem conectivo, ocupa o lugar de substantiva direta.",
+            "en": "Reported speech, with no connector, fills the slot of a direct substantive.",
+            "es": "El habla reproducida, sin conectivo, ocupa el lugar de una sustantiva directa."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "Nota normativa",
+            "en": "Normative note",
+            "es": "Nota normativa"
+          },
+          "text": {
+            "pt": "A pontuação do trecho não é indício de grau: o ponto-e-vírgula em Marcos 4, 38 separa duas coordenadas, e o ponto-e-vírgula em Marcos 4, 37 separa a principal de uma coordenada e de uma subordinada. A vírgula de {Cala-te! E saí!} separa coordenadas que estão dentro da fala.",
+            "en": "The punctuation of the passage is no evidence of grade: the semicolon in Mark 4:38 separates two coordinates, and the semicolon in Mark 4:37 separates the main clause from a coordinate and a subordinate clause. The comma in {Be silent! And get out!} separates coordinates that sit inside the speech.",
+            "es": "La puntuación del pasaje no es indicio de grado: el punto y coma de Marcos 4, 38 separa dos coordinadas, y el punto y coma de Marcos 4, 37 separa la principal de una coordinada y de una subordinada. La coma de {Cala-te! E saí!} separa coordinadas que están dentro del habla."
+          }
+        },
+        {
+          "label": {
+            "pt": "O que o grego mostra",
+            "en": "What Greek shows",
+            "es": "Lo que muestra el griego"
+          },
+          "text": {
+            "pt": "No grego de Marcos 4, 35 a fala vem logo depois de λέγει τοῖς μαθηταῖς αὐτοῦ, e o verbo seguinte, Διέλθωμεν, é o primeiro da subordinada. O grego tem εἶπεν (disse) e παρέθετο (falou) como verbos que abrem o discurso, e não precisa de dois-pontos: é o verbo que marca o discurso direto, não a pontuação. O português precisa dos dois-pontos, e é por isso que as três falas do trecho aparecem como substantivas diretas.",
+            "en": "In the Greek of Mark 4:35 the speech comes right after λέγει τοῖς μαθηταῖς αὐτοῦ, and the following verb, Διέλθωμεν, is the first of the subordinate clause. Greek has εἶπεν (he said) and παρέθετο (he spoke) as verbs that open the speech, and it needs no colon: it is the verb that marks direct speech, not the punctuation. Portuguese needs the colon, and that is why the three speeches in the passage show up as direct substantives.",
+            "es": "En el griego de Marcos 4, 35 el habla viene justo después de λέγει τοῖς μαθηταῖς αὐτοῦ, y el verbo siguiente, Διέλθωμεν, es el primero de la subordinada. El griego tiene εἶπεν (dijo) y παρέθετο (habló) como verbos que abren el discurso, y no necesita dos puntos: es el verbo lo que marca el discurso directo, no la puntuación. El portugués necesita los dos puntos, y por eso las tres hablas del pasaje aparecen como sustantivas directas."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "E, ao anoitecer, disse aos seus discípulos: Passemos para o outro lado.",
+          "gloss": {
+            "pt": "Principal {disse} mais substantiva direta {Passemos}, de primeiro grau.",
+            "en": "Main clause {he said} plus direct substantive {Let us go over}, first degree.",
+            "es": "Principal {disse} más sustantiva directa {Passemos}, de primer grado."
+          }
+        },
+        {
+          "text": "E saiu, e os discípulos o seguiam.",
+          "gloss": {
+            "pt": "Duas coordenadas; sujeito posposto em {os discípulos}.",
+            "en": "Two coordinates; postponed subject in {his disciples}.",
+            "es": "Dos coordinadas; sujeto pospuesto en {os discípulos}."
+          }
+        },
+        {
+          "text": "As ondas iam batendo contra o barco, de modo que já estava se enchendo de água.",
+          "gloss": {
+            "pt": "Consecutiva de primeiro grau: verbo {estava}.",
+            "en": "First-degree consecutive: the verb {was}.",
+            "es": "Consecutiva de primer grado: verbo {estava}."
+          }
+        },
+        {
+          "text": "E acordou, e repreendeu aos demônios, e disse-lhe: Cala-te! E saí!",
+          "gloss": {
+            "pt": "Três coordenadas; a fala é a última e traz duas coordenadas dentro.",
+            "en": "Three coordinates; the speech is the last and brings two coordinates inside.",
+            "es": "Tres coordinadas; el habla es el último y trae dos coordinadas dentro."
+          }
+        },
+        {
+          "text": "E ficou grande calma, e cessou o vento.",
+          "gloss": {
+            "pt": "Duas coordenadas.",
+            "en": "Two coordinates.",
+            "es": "Dos coordinadas."
+          }
+        },
+        {
+          "text": "Por que tendes por foro? Não haveis fé ainda?",
+          "gloss": {
+            "pt": "Duas coordenadas dentro de uma substantiva direta.",
+            "en": "Two coordinates inside a direct substantive.",
+            "es": "Dos coordinadas dentro de una sustantiva directa."
+          }
+        },
+        {
+          "text": "E eles se admiravam uns dos outros.",
+          "gloss": {
+            "pt": "Coordenada; {uns dos outros} é pronome recíproco.",
+            "en": "Coordinate; {one another} is a reciprocal pronoun.",
+            "es": "Coordinada; {uns dos outros} es pronombre recíproco."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "As subordinadas do parágrafo",
+            "en": "The subordinate clauses of the passage",
+            "es": "Las subordinadas del pasaje"
+          },
+          "head": [
+            {
+              "pt": "Trecho",
+              "en": "Passage",
+              "es": "Fragmento"
+            },
+            {
+              "pt": "Conectivo",
+              "en": "Connector",
+              "es": "Conectivo"
+            },
+            {
+              "pt": "Valor",
+              "en": "Value",
+              "es": "Valor"
+            },
+            {
+              "pt": "Grau",
+              "en": "Grade",
+              "es": "Grado"
+            },
+            {
+              "pt": "Verbo",
+              "en": "Verb",
+              "es": "Verbo"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "Passemos para o outro lado",
+                "en": "Let us go over",
+                "es": "Passemos para o outro lado"
+              },
+              {
+                "pt": "nenhum, é fala",
+                "en": "none, it is speech",
+                "es": "ninguno, es habla"
+              },
+              {
+                "pt": "substantiva direta",
+                "en": "direct substantive",
+                "es": "sustantiva directa"
+              },
+              {
+                "pt": "primeiro",
+                "en": "first degree",
+                "es": "primer grado"
+              },
+              {
+                "pt": "passemos",
+                "en": "let us go",
+                "es": "passemos"
+              }
+            ],
+            [
+              {
+                "pt": "de modo que já estava se enchendo de água",
+                "en": "so that it was already filling with water",
+                "es": "de modo que já estava se enchendo de água"
+              },
+              {
+                "pt": "de modo que",
+                "en": "so that",
+                "es": "de modo que"
+              },
+              {
+                "pt": "adverbial consecutiva",
+                "en": "consecutive adverbial",
+                "es": "adverbial consecutiva"
+              },
+              {
+                "pt": "primeiro",
+                "en": "first degree",
+                "es": "primer grado"
+              },
+              {
+                "pt": "estava",
+                "en": "was",
+                "es": "estava"
+              }
+            ],
+            [
+              {
+                "pt": "Cala-te! E saí!",
+                "en": "Be silent! And get out!",
+                "es": "Cala-te! E saí!"
+              },
+              {
+                "pt": "nenhum, é fala",
+                "en": "none, it is speech",
+                "es": "ninguno, es habla"
+              },
+              {
+                "pt": "substantiva direta",
+                "en": "direct substantive",
+                "es": "sustantiva directa"
+              },
+              {
+                "pt": "primeiro",
+                "en": "first degree",
+                "es": "primer grado"
+              },
+              {
+                "pt": "cala-te, saí",
+                "en": "be silent, get out",
+                "es": "cala-te, saí"
+              }
+            ],
+            [
+              {
+                "pt": "Por que tendes por foro? Não haveis fé ainda?",
+                "en": "Why do you still have no faith?",
+                "es": "Por que tendes por foro? Não haveis fé ainda?"
+              },
+              {
+                "pt": "nenhum, é fala",
+                "en": "none, it is speech",
+                "es": "ninguno, es habla"
+              },
+              {
+                "pt": "substantiva direta",
+                "en": "direct substantive",
+                "es": "sustantiva directa"
+              },
+              {
+                "pt": "primeiro",
+                "en": "first degree",
+                "es": "primer grado"
+              },
+              {
+                "pt": "tendes, haveis",
+                "en": "do you have",
+                "es": "tendes, haveis"
+              }
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "O parágrafo, período por período",
+            "en": "The passage, period by period",
+            "es": "El pasaje, período por período"
+          },
+          "head": [
+            {
+              "pt": "Versículo",
+              "en": "Verse",
+              "es": "Versículo"
+            },
+            {
+              "pt": "Verbos",
+              "en": "Verbs",
+              "es": "Verbos"
+            },
+            {
+              "pt": "Orações",
+              "en": "Clauses",
+              "es": "Oraciones"
+            },
+            {
+              "pt": "Como se dividem",
+              "en": "How it divides",
+              "es": "Cómo se divide"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "Marcos 4, 35",
+                "en": "Mark 4:35",
+                "es": "Marcos 4, 35"
+              },
+              {
+                "pt": "2",
+                "en": "2",
+                "es": "2"
+              },
+              {
+                "pt": "2",
+                "en": "2",
+                "es": "2"
+              },
+              {
+                "pt": "principal + substantiva direta",
+                "en": "main + direct substantive",
+                "es": "principal + sustantiva directa"
+              }
+            ],
+            [
+              {
+                "pt": "Marcos 4, 36",
+                "en": "Mark 4:36",
+                "es": "Marcos 4, 36"
+              },
+              {
+                "pt": "2",
+                "en": "2",
+                "es": "2"
+              },
+              {
+                "pt": "2",
+                "en": "2",
+                "es": "2"
+              },
+              {
+                "pt": "principal + coordena aditiva",
+                "en": "main + additive coordinate",
+                "es": "principal + coordinada aditiva"
+              }
+            ],
+            [
+              {
+                "pt": "Marcos 4, 37",
+                "en": "Mark 4:37",
+                "es": "Marcos 4, 37"
+              },
+              {
+                "pt": "3",
+                "en": "3",
+                "es": "3"
+              },
+              {
+                "pt": "3",
+                "en": "3",
+                "es": "3"
+              },
+              {
+                "pt": "principal + coordena + consecutiva",
+                "en": "main + coordinate + consecutive",
+                "es": "principal + coordinada + consecutiva"
+              }
+            ],
+            [
+              {
+                "pt": "Marcos 4, 38",
+                "en": "Mark 4:38",
+                "es": "Marcos 4, 38"
+              },
+              {
+                "pt": "6",
+                "en": "6",
+                "es": "6"
+              },
+              {
+                "pt": "6",
+                "en": "6",
+                "es": "6"
+              },
+              {
+                "pt": "principal + três coordenadas + fala com uma coordenada",
+                "en": "main + three coordinates + speech with one coordinate",
+                "es": "principal + tres coordinadas + habla con una coordinada"
+              }
+            ],
+            [
+              {
+                "pt": "Marcos 4, 39",
+                "en": "Mark 4:39",
+                "es": "Marcos 4, 39"
+              },
+              {
+                "pt": "2",
+                "en": "2",
+                "es": "2"
+              },
+              {
+                "pt": "2",
+                "en": "2",
+                "es": "2"
+              },
+              {
+                "pt": "principal + coordena aditiva",
+                "en": "main + additive coordinate",
+                "es": "principal + coordinada aditiva"
+              }
+            ],
+            [
+              {
+                "pt": "Marcos 4, 40",
+                "en": "Mark 4:40",
+                "es": "Marcos 4, 40"
+              },
+              {
+                "pt": "3",
+                "en": "3",
+                "es": "3"
+              },
+              {
+                "pt": "3",
+                "en": "3",
+                "es": "3"
+              },
+              {
+                "pt": "principal + fala com uma coordenada",
+                "en": "main + speech with one coordinate",
+                "es": "principal + habla con una coordinada"
+              }
+            ],
+            [
+              {
+                "pt": "Marcos 4, 41",
+                "en": "Mark 4:41",
+                "es": "Marcos 4, 41"
+              },
+              {
+                "pt": "2",
+                "en": "2",
+                "es": "2"
+              },
+              {
+                "pt": "2",
+                "en": "2",
+                "es": "2"
+              },
+              {
+                "pt": "principal + coordena aditiva",
+                "en": "main + additive coordinate",
+                "es": "principal + coordinada aditiva"
+              }
+            ],
+            [
+              {
+                "pt": "total",
+                "en": "total",
+                "es": "total"
+              },
+              {
+                "pt": "20",
+                "en": "20",
+                "es": "20"
+              },
+              {
+                "pt": "20",
+                "en": "20",
+                "es": "20"
+              },
+              {
+                "pt": "7 principais, 9 coordenadas, 4 subordinadas",
+                "en": "7 main, 9 coordinates, 4 subordinate clauses",
+                "es": "7 principales, 9 coordinadas, 4 subordinadas"
+              }
+            ]
+          ]
+        }
+      ]
     }
   ],
-  "contentVersion": "1.0.0+gce0fb304"
+  "contentVersion": "1.0.0+g6790c565"
 }
