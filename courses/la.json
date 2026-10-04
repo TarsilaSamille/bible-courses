@@ -14786,7 +14786,7 @@
         "es": "{bene} es igual en la primera y en la décima persona — la palabra más estable del latín"
       },
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverb",
         "es": "Adverbio"
       },
@@ -15544,7 +15544,7 @@
         "es": "{enim}, {autem}, {quoque}: las palabras que no significan solas y lo cambian todo"
       },
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverb",
         "es": "Adverbio"
       },
@@ -19357,5 +19357,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g7d37b76c"
+  "contentVersion": "1.0.0+ge336b896"
 }

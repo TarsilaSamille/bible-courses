@@ -4077,8 +4077,8 @@
     {
       "id": 14,
       "section": {
-        "pt": "Nome",
-        "en": "Noun",
+        "pt": "O nome",
+        "en": "The noun",
         "es": "Nombre"
       },
       "title": {
@@ -4591,8 +4591,8 @@
     {
       "id": 15,
       "section": {
-        "pt": "Nome",
-        "en": "Noun",
+        "pt": "O nome",
+        "en": "The noun",
         "es": "Nombre"
       },
       "title": {
@@ -7073,7 +7073,7 @@
     {
       "id": 20,
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverb",
         "es": "Adverbio"
       },
@@ -7585,7 +7585,7 @@
     {
       "id": 21,
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverb",
         "es": "Adverbio"
       },
@@ -9094,8 +9094,8 @@
     {
       "id": 24,
       "section": {
-        "pt": "Verbo",
-        "en": "Verb",
+        "pt": "O verbo",
+        "en": "The verb",
         "es": "Verbo"
       },
       "title": {
@@ -9590,8 +9590,8 @@
     {
       "id": 25,
       "section": {
-        "pt": "Verbo",
-        "en": "Verb",
+        "pt": "O verbo",
+        "en": "The verb",
         "es": "Verbo"
       },
       "title": {
@@ -10090,8 +10090,8 @@
     {
       "id": 26,
       "section": {
-        "pt": "Verbo",
-        "en": "Verb",
+        "pt": "O verbo",
+        "en": "The verb",
         "es": "Verbo"
       },
       "title": {
@@ -11492,7 +11492,7 @@
     {
       "id": 29,
       "section": {
-        "pt": "Preposicoes",
+        "pt": "Preposições",
         "en": "Preposition",
         "es": "Preposiciones"
       },
@@ -12531,5 +12531,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g3af9b8af"
+  "contentVersion": "1.0.0+g4ec3062d"
 }

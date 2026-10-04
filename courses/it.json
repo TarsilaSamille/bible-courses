@@ -6927,7 +6927,7 @@
         "es": "lentamente, bene, sempre"
       },
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverb",
         "es": "Adverbio"
       },
@@ -7454,7 +7454,7 @@
         "es": "parla lentamente; domani arrivo"
       },
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverb",
         "es": "Adverbio"
       },
@@ -7960,7 +7960,7 @@
         "es": "non parlo mai; non parlo più"
       },
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverb",
         "es": "Adverbio"
       },
@@ -9668,8 +9668,8 @@
         "es": "parlando; avendo detto; detto questo"
       },
       "section": {
-        "pt": "Verbo",
-        "en": "Verb",
+        "pt": "O verbo",
+        "en": "The verb",
         "es": "Verbo"
       },
       "body": {
@@ -12348,5 +12348,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g47f2b26d"
+  "contentVersion": "1.0.0+g20b7a010"
 }

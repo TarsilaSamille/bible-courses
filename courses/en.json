@@ -7239,7 +7239,7 @@
         "es": "quick → quickly, fast, hardly — tres vías"
       },
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverbs",
         "es": "Adverbios"
       },
@@ -7826,7 +7826,7 @@
         "es": "I have always wanted it — la regla más examinada"
       },
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverbs",
         "es": "Adverbios"
       },
@@ -8435,7 +8435,7 @@
         "es": "greater, the best, I do not think so — qué admite comparación"
       },
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverbs",
         "es": "Adverbios"
       },
@@ -8998,7 +8998,7 @@
         "es": "in, on, at, by — un sistema que no se deduce"
       },
       "section": {
-        "pt": "Preposicoes",
+        "pt": "Preposições",
         "en": "Prepositions",
         "es": "Preposiciones"
       },
@@ -9636,7 +9636,7 @@
         "es": "depend on, consist of, believe in — lo que no se traduce"
       },
       "section": {
-        "pt": "Preposicoes",
+        "pt": "Preposições",
         "en": "Prepositions",
         "es": "Preposiciones"
       },
@@ -10316,7 +10316,7 @@
         "es": "base, pasado, -ing — y la honestidad de los irregulares"
       },
       "section": {
-        "pt": "Verbo",
+        "pt": "O verbo",
         "en": "The verb",
         "es": "El verbo"
       },
@@ -10952,7 +10952,7 @@
         "es": "have gone × went — la distinción de aspecto"
       },
       "section": {
-        "pt": "Verbo",
+        "pt": "O verbo",
         "en": "The verb",
         "es": "El verbo"
       },
@@ -11552,7 +11552,7 @@
         "es": "turn off the light, turn the light off — qué se separa"
       },
       "section": {
-        "pt": "Verbo",
+        "pt": "O verbo",
         "en": "The verb",
         "es": "El verbo"
       },
@@ -12225,7 +12225,7 @@
         "es": "didn't go, have been × have gone — el par que cambia el sentido"
       },
       "section": {
-        "pt": "Verbo",
+        "pt": "O verbo",
         "en": "The verb",
         "es": "El verbo"
       },
@@ -15603,5 +15603,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gecd4aeab"
+  "contentVersion": "1.0.0+g3ab58d0f"
 }

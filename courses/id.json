@@ -3505,7 +3505,7 @@
     {
       "id": 12,
       "section": {
-        "pt": "Nome",
+        "pt": "O nome",
         "en": "The noun",
         "es": "El nombre"
       },
@@ -4034,7 +4034,7 @@
     {
       "id": 13,
       "section": {
-        "pt": "Nome",
+        "pt": "O nome",
         "en": "The noun",
         "es": "El nombre"
       },
@@ -5691,7 +5691,7 @@
     {
       "id": 16,
       "section": {
-        "pt": "Nome",
+        "pt": "O nome",
         "en": "The noun",
         "es": "El nombre"
       },
@@ -14548,5 +14548,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gc62a5442"
+  "contentVersion": "1.0.0+g7edaa33a"
 }

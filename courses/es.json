@@ -4570,7 +4570,7 @@
           },
           "head": [
             {
-              "pt": "Adverbio",
+              "pt": "Advérbio",
               "en": "Adverb",
               "es": "Adverbio"
             },
@@ -15245,5 +15245,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g43a5fd29"
+  "contentVersion": "1.0.0+g5a441334"
 }

@@ -5897,8 +5897,8 @@
     {
       "id": 18,
       "section": {
-        "pt": "Nome",
-        "en": "Noun",
+        "pt": "O nome",
+        "en": "The noun",
         "es": "Nombre"
       },
       "title": {
@@ -6652,8 +6652,8 @@
     {
       "id": 19,
       "section": {
-        "pt": "Nome",
-        "en": "Noun",
+        "pt": "O nome",
+        "en": "The noun",
         "es": "Nombre"
       },
       "title": {
@@ -7428,8 +7428,8 @@
     {
       "id": 20,
       "section": {
-        "pt": "Nome",
-        "en": "Noun",
+        "pt": "O nome",
+        "en": "The noun",
         "es": "Nombre"
       },
       "title": {
@@ -10085,8 +10085,8 @@
     {
       "id": 23,
       "section": {
-        "pt": "Verbo",
-        "en": "Verb",
+        "pt": "O verbo",
+        "en": "The verb",
         "es": "Verbo"
       },
       "title": {
@@ -10860,8 +10860,8 @@
     {
       "id": 24,
       "section": {
-        "pt": "Verbo",
-        "en": "Verb",
+        "pt": "O verbo",
+        "en": "The verb",
         "es": "Verbo"
       },
       "title": {
@@ -11723,8 +11723,8 @@
     {
       "id": 25,
       "section": {
-        "pt": "Verbo",
-        "en": "Verb",
+        "pt": "O verbo",
+        "en": "The verb",
         "es": "Verbo"
       },
       "title": {
@@ -13131,8 +13131,8 @@
     {
       "id": 27,
       "section": {
-        "pt": "Verbo",
-        "en": "Verb",
+        "pt": "O verbo",
+        "en": "The verb",
         "es": "Verbo"
       },
       "title": {
@@ -13824,8 +13824,8 @@
     {
       "id": 28,
       "section": {
-        "pt": "Verbo",
-        "en": "Verb",
+        "pt": "O verbo",
+        "en": "The verb",
         "es": "Verbo"
       },
       "title": {
@@ -15996,5 +15996,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gbd1079e9"
+  "contentVersion": "1.0.0+gbd036f6d"
 }

@@ -2071,7 +2071,7 @@
         "es": "falaré, hablaría, decir-me-ás"
       },
       "section": {
-        "pt": "Futuro e condición",
+        "pt": "Futuro e condição",
         "en": "Future and condition",
         "es": "Futuro y condición"
       },
@@ -6304,7 +6304,7 @@
     {
       "id": 17,
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverbs",
         "es": "Adverbios"
       },
@@ -6824,7 +6824,7 @@
     {
       "id": 18,
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverbs",
         "es": "Adverbios"
       },
@@ -7326,7 +7326,7 @@
     {
       "id": 19,
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverbs",
         "es": "Adverbios"
       },
@@ -13728,5 +13728,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g92b7862d"
+  "contentVersion": "1.0.0+g7196bf43"
 }

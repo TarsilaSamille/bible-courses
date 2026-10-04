@@ -6,91 +6,91 @@
       "id": "grc",
       "lang": "grc",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g7d06e48b",
+      "contentVersion": "1.0.0+gd620be9a",
       "lessons": 30,
       "file": "courses/grc.json",
-      "bytes": 770078,
-      "sha256": "183e660dea1c0676"
+      "bytes": 796019,
+      "sha256": "a68dabb2e7177c51"
     },
     {
       "id": "grc-mod",
       "lang": "grc",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g3af9b8af",
+      "contentVersion": "1.0.0+g4ec3062d",
       "lessons": 30,
       "file": "courses/grc-mod.json",
-      "bytes": 605210,
-      "sha256": "5767cccb4666c280"
+      "bytes": 605244,
+      "sha256": "7fc2a6f8a8ad71ee"
     },
     {
       "id": "heb",
       "lang": "heb",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g7dc75c94",
+      "contentVersion": "1.0.0+g5a22b384",
       "lessons": 30,
       "file": "courses/heb.json",
-      "bytes": 1142063,
-      "sha256": "be74237c06ab2618"
+      "bytes": 1142065,
+      "sha256": "391dea1e8f7273fe"
     },
     {
       "id": "la",
       "lang": "la",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g7d37b76c",
+      "contentVersion": "1.0.0+ge336b896",
       "lessons": 30,
       "file": "courses/la.json",
-      "bytes": 1056628,
-      "sha256": "7b0fd6c5bc74949c"
+      "bytes": 1056630,
+      "sha256": "98e6dc14dd3bb3e6"
     },
     {
       "id": "es",
       "lang": "es",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g43a5fd29",
+      "contentVersion": "1.0.0+g5a441334",
       "lessons": 34,
       "file": "courses/es.json",
-      "bytes": 619714,
-      "sha256": "878d18de78e6689e"
+      "bytes": 619715,
+      "sha256": "088a7e62074018f9"
     },
     {
       "id": "fr",
       "lang": "fr",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+gbb80ad6b",
+      "contentVersion": "1.0.0+g4d07ad04",
       "lessons": 36,
       "file": "courses/fr.json",
-      "bytes": 1484759,
-      "sha256": "0400865b2b13380f"
+      "bytes": 1484763,
+      "sha256": "4ad6443c15604a7b"
     },
     {
       "id": "de",
       "lang": "de",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g972769ab",
+      "contentVersion": "1.0.0+gf8d26923",
       "lessons": 37,
       "file": "courses/de.json",
-      "bytes": 1054235,
-      "sha256": "f7a1966cd5362ca9"
+      "bytes": 1054259,
+      "sha256": "218f95d0e267c94b"
     },
     {
       "id": "it",
       "lang": "it",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g47f2b26d",
+      "contentVersion": "1.0.0+g20b7a010",
       "lessons": 30,
       "file": "courses/it.json",
-      "bytes": 588125,
-      "sha256": "2ca4479f1bfbb903"
+      "bytes": 588134,
+      "sha256": "1eee8bacaf411146"
     },
     {
       "id": "pt",
       "lang": "pt",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g92b7862d",
+      "contentVersion": "1.0.0+g7196bf43",
       "lessons": 30,
       "file": "courses/pt.json",
-      "bytes": 631565,
-      "sha256": "161b741f6ca5d2bd"
+      "bytes": 631568,
+      "sha256": "2157a3d738d041f0"
     },
     {
       "id": "pt-gram",
@@ -106,11 +106,11 @@
       "id": "ru",
       "lang": "ru",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+gbd1079e9",
+      "contentVersion": "1.0.0+gbd036f6d",
       "lessons": 30,
       "file": "courses/ru.json",
-      "bytes": 779943,
-      "sha256": "192ce3b64c777276"
+      "bytes": 779991,
+      "sha256": "ed780a03456cbaff"
     },
     {
       "id": "ar",
@@ -126,11 +126,11 @@
       "id": "en",
       "lang": "en",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+gecd4aeab",
+      "contentVersion": "1.0.0+g3ab58d0f",
       "lessons": 30,
       "file": "courses/en.json",
-      "bytes": 661721,
-      "sha256": "77fb3df37211f1c6"
+      "bytes": 661736,
+      "sha256": "33814003b4f46c22"
     },
     {
       "id": "zh",
@@ -166,11 +166,11 @@
       "id": "id",
       "lang": "id",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+gc62a5442",
+      "contentVersion": "1.0.0+g7edaa33a",
       "lessons": 30,
       "file": "courses/id.json",
-      "bytes": 772394,
-      "sha256": "503a99ee70adaf26"
+      "bytes": 772400,
+      "sha256": "aa11219bdd95f8fe"
     }
   ]
 }

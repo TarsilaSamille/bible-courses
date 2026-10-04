@@ -10714,7 +10714,7 @@
       },
       "section": {
         "pt": "Os verbos",
-        "en": "Verbs",
+        "en": "The verbs",
         "es": "Los verbos"
       },
       "body": {
@@ -11325,7 +11325,7 @@
       },
       "section": {
         "pt": "Os verbos",
-        "en": "Verbs",
+        "en": "The verbs",
         "es": "Los verbos"
       },
       "body": {
@@ -11927,7 +11927,7 @@
       },
       "section": {
         "pt": "Os verbos",
-        "en": "Verbs",
+        "en": "The verbs",
         "es": "Los verbos"
       },
       "body": {
@@ -12488,7 +12488,7 @@
       },
       "section": {
         "pt": "Os verbos",
-        "en": "Verbs",
+        "en": "The verbs",
         "es": "Los verbos"
       },
       "body": {
@@ -13039,7 +13039,7 @@
       },
       "section": {
         "pt": "Os verbos",
-        "en": "Verbs",
+        "en": "The verbs",
         "es": "Los verbos"
       },
       "body": {
@@ -13590,7 +13590,7 @@
       },
       "section": {
         "pt": "Os verbos",
-        "en": "Verbs",
+        "en": "The verbs",
         "es": "Los verbos"
       },
       "body": {
@@ -20222,5 +20222,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g972769ab"
+  "contentVersion": "1.0.0+gf8d26923"
 }

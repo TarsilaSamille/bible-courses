@@ -17601,7 +17601,7 @@
         "es": "בְּכָל, הַיּוֹם, לֹא — la cuarta clase, hecha con otras piezas"
       },
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverb",
         "es": "Adverbio"
       },
@@ -18369,7 +18369,7 @@
         "es": "οὐκ ἔστι × אֵין — por qué el griego no se atasca y el hebreo sí"
       },
       "section": {
-        "pt": "Adverbio",
+        "pt": "Advérbio",
         "en": "Adverb",
         "es": "Adverbio"
       },
@@ -22161,5 +22161,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g7dc75c94"
+  "contentVersion": "1.0.0+g5a22b384"
 }
