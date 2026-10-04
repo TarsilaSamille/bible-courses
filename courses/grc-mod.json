@@ -40,7 +40,7 @@
         {
           "form": "ο",
           "lemma": "ο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "o (masculino singular)",
           "en": "the (masculine singular)",
           "es": "el (masculino singular)"
@@ -48,7 +48,7 @@
         {
           "form": "η",
           "lemma": "ο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "a (feminino singular)",
           "en": "the (feminine singular)",
           "es": "la (femenino singular)"
@@ -56,7 +56,7 @@
         {
           "form": "το",
           "lemma": "ο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "o (neutro singular)",
           "en": "the (neuter singular)",
           "es": "el (neutro singular)"
@@ -64,7 +64,7 @@
         {
           "form": "οι",
           "lemma": "ο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "os (masculino plural)",
           "en": "the (masculine plural)",
           "es": "los (masculino plural)"
@@ -72,7 +72,7 @@
         {
           "form": "τα",
           "lemma": "ο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "os (neutro plural)",
           "en": "the (neuter plural)",
           "es": "los (neutro plural)"
@@ -80,7 +80,7 @@
         {
           "form": "άνθρωπος",
           "lemma": "άνθρωπος",
-          "lang": "el",
+          "lang": "grc",
           "pt": "homem, pessoa",
           "en": "man, person",
           "es": "hombre, persona"
@@ -88,7 +88,7 @@
         {
           "form": "γυναίκα",
           "lemma": "γυναίκα",
-          "lang": "el",
+          "lang": "grc",
           "pt": "mulher",
           "en": "woman",
           "es": "mujer"
@@ -96,7 +96,7 @@
         {
           "form": "παιδί",
           "lemma": "παιδί",
-          "lang": "el",
+          "lang": "grc",
           "pt": "criança",
           "en": "child",
           "es": "niño, niña"
@@ -104,7 +104,7 @@
         {
           "form": "τας",
           "lemma": "ο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "as (feminino plural)",
           "en": "the (feminine plural)",
           "es": "las (femenino plural)"
@@ -112,7 +112,7 @@
         {
           "form": "Θεός",
           "lemma": "Θεός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "Deus",
           "en": "God",
           "es": "Dios"
@@ -120,7 +120,7 @@
         {
           "form": "ζωή",
           "lemma": "ζωή",
-          "lang": "el",
+          "lang": "grc",
           "pt": "vida",
           "en": "life",
           "es": "vida"
@@ -128,7 +128,7 @@
         {
           "form": "καλός",
           "lemma": "καλός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "bom",
           "en": "good",
           "es": "bueno"
@@ -136,7 +136,7 @@
         {
           "form": "καλή",
           "lemma": "καλός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "boa (feminino)",
           "en": "good (feminine)",
           "es": "buena (femenino)"
@@ -144,7 +144,7 @@
         {
           "form": "πραγματικός",
           "lemma": "πραγματικός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "verdadeiro, real",
           "en": "true, real",
           "es": "verdadero, real"
@@ -373,7 +373,7 @@
         {
           "form": "άνθρωπος",
           "lemma": "άνθρωπος",
-          "lang": "el",
+          "lang": "grc",
           "pt": "homem; pessoa",
           "en": "man; person",
           "es": "hombre; persona"
@@ -381,7 +381,7 @@
         {
           "form": "άνθρωποι",
           "lemma": "άνθρωπος",
-          "lang": "el",
+          "lang": "grc",
           "pt": "homens; pessoas",
           "en": "men; people",
           "es": "hombres; personas"
@@ -389,7 +389,7 @@
         {
           "form": "γυναίκα",
           "lemma": "γυναίκα",
-          "lang": "el",
+          "lang": "grc",
           "pt": "mulher",
           "en": "woman",
           "es": "mujer"
@@ -397,7 +397,7 @@
         {
           "form": "γυναίκες",
           "lemma": "γυναίκα",
-          "lang": "el",
+          "lang": "grc",
           "pt": "mulheres",
           "en": "women",
           "es": "mujeres"
@@ -405,7 +405,7 @@
         {
           "form": "παιδί",
           "lemma": "παιδί",
-          "lang": "el",
+          "lang": "grc",
           "pt": "criança",
           "en": "child",
           "es": "niño, niña"
@@ -413,7 +413,7 @@
         {
           "form": "παιδιά",
           "lemma": "παιδί",
-          "lang": "el",
+          "lang": "grc",
           "pt": "crianças",
           "en": "children",
           "es": "niños, niñas"
@@ -421,7 +421,7 @@
         {
           "form": "βιβλίο",
           "lemma": "βιβλίο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "livro",
           "en": "book",
           "es": "libro"
@@ -429,7 +429,7 @@
         {
           "form": "βιβλία",
           "lemma": "βιβλίο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "livros",
           "en": "books",
           "es": "libros"
@@ -437,7 +437,7 @@
         {
           "form": "ζωή",
           "lemma": "ζωή",
-          "lang": "el",
+          "lang": "grc",
           "pt": "vida",
           "en": "life",
           "es": "vida"
@@ -445,7 +445,7 @@
         {
           "form": "θάνατος",
           "lemma": "θάνατος",
-          "lang": "el",
+          "lang": "grc",
           "pt": "morte",
           "en": "death",
           "es": "muerte"
@@ -453,7 +453,7 @@
         {
           "form": "μητέρα",
           "lemma": "μητέρα",
-          "lang": "el",
+          "lang": "grc",
           "pt": "mãe",
           "en": "mother",
           "es": "madre"
@@ -461,7 +461,7 @@
         {
           "form": "ώρα",
           "lemma": "ώρα",
-          "lang": "el",
+          "lang": "grc",
           "pt": "hora",
           "en": "hour",
           "es": "hora"
@@ -469,7 +469,7 @@
         {
           "form": "Κύριε",
           "lemma": "Κύριος",
-          "lang": "el",
+          "lang": "grc",
           "pt": "Senhor (vocativo)",
           "en": "Lord (vocative)",
           "es": "Señor (vocativo)"
@@ -680,7 +680,7 @@
         {
           "form": "είμαι",
           "lemma": "είμαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "sou; estou",
           "en": "I am",
           "es": "soy; estoy"
@@ -688,7 +688,7 @@
         {
           "form": "είσαι",
           "lemma": "είμαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "és; estás",
           "en": "you are",
           "es": "eres; estás"
@@ -696,7 +696,7 @@
         {
           "form": "είναι",
           "lemma": "είμαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "é; está",
           "en": "is; is",
           "es": "es; está"
@@ -704,7 +704,7 @@
         {
           "form": "είμαστε",
           "lemma": "είμαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "somos; estamos",
           "en": "we are",
           "es": "somos; estamos"
@@ -712,7 +712,7 @@
         {
           "form": "είστε",
           "lemma": "είμαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "sois; estais",
           "en": "you are",
           "es": "sois; estáis"
@@ -720,7 +720,7 @@
         {
           "form": "είναι",
           "lemma": "είμαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "são; estão",
           "en": "they are",
           "es": "son; están"
@@ -728,7 +728,7 @@
         {
           "form": "έχω",
           "lemma": "έχω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "tenho",
           "en": "I have",
           "es": "tengo"
@@ -736,7 +736,7 @@
         {
           "form": "έχει",
           "lemma": "έχω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "tem",
           "en": "he/she has",
           "es": "tiene"
@@ -744,7 +744,7 @@
         {
           "form": "έχουν",
           "lemma": "έχω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "têm",
           "en": "they have",
           "es": "tienen"
@@ -752,7 +752,7 @@
         {
           "form": "καλά",
           "lemma": "καλός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "bem (advérbio)",
           "en": "well (adverb)",
           "es": "bien (adverbio)"
@@ -760,7 +760,7 @@
         {
           "form": "εγώ",
           "lemma": "εγώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "eu",
           "en": "I",
           "es": "yo"
@@ -768,7 +768,7 @@
         {
           "form": "αυτός",
           "lemma": "αυτός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "ele",
           "en": "he",
           "es": "él"
@@ -776,7 +776,7 @@
         {
           "form": "σπίτι",
           "lemma": "σπίτι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "casa",
           "en": "house",
           "es": "casa"
@@ -784,7 +784,7 @@
         {
           "form": "πρόβλημα",
           "lemma": "πρόβλημα",
-          "lang": "el",
+          "lang": "grc",
           "pt": "problema",
           "en": "problem",
           "es": "problema"
@@ -1001,7 +1001,7 @@
         {
           "form": "μιλώ",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falo",
           "en": "I speak",
           "es": "hablo"
@@ -1009,7 +1009,7 @@
         {
           "form": "μιλάς",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falas",
           "en": "you speak",
           "es": "hablas"
@@ -1017,7 +1017,7 @@
         {
           "form": "μιλάμε",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falamos",
           "en": "we speak",
           "es": "hablamos"
@@ -1025,7 +1025,7 @@
         {
           "form": "μιλάνε",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falam",
           "en": "they speak",
           "es": "hablan"
@@ -1033,7 +1033,7 @@
         {
           "form": "τρώω",
           "lemma": "τρώω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "como",
           "en": "I eat",
           "es": "como"
@@ -1041,7 +1041,7 @@
         {
           "form": "τρώνε",
           "lemma": "τρώω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "comem",
           "en": "they eat",
           "es": "comen"
@@ -1049,7 +1049,7 @@
         {
           "form": "μένω",
           "lemma": "μένω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "fico; moro",
           "en": "I stay; live",
           "es": "me quedo; vivo"
@@ -1057,7 +1057,7 @@
         {
           "form": "μένουν",
           "lemma": "μένω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "ficam; moram",
           "en": "they stay; live",
           "es": "se quedan; viven"
@@ -1065,7 +1065,7 @@
         {
           "form": "δεν",
           "lemma": "δεν",
-          "lang": "el",
+          "lang": "grc",
           "pt": "não",
           "en": "not",
           "es": "no"
@@ -1073,7 +1073,7 @@
         {
           "form": "πίνω",
           "lemma": "πίνω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "bebo",
           "en": "I drink",
           "es": "bebo"
@@ -1081,7 +1081,7 @@
         {
           "form": "τρως",
           "lemma": "τρώω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "comes",
           "en": "you eat",
           "es": "comes"
@@ -1089,7 +1089,7 @@
         {
           "form": "μένει",
           "lemma": "μένω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "fica; mora",
           "en": "he/she stays; lives",
           "es": "se queda; vive"
@@ -1097,7 +1097,7 @@
         {
           "form": "κάθε",
           "lemma": "κάθε",
-          "lang": "el",
+          "lang": "grc",
           "pt": "cada",
           "en": "every",
           "es": "cada"
@@ -1105,7 +1105,7 @@
         {
           "form": "εδώ",
           "lemma": "εδώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "aqui",
           "en": "here",
           "es": "aquí"
@@ -1346,7 +1346,7 @@
         {
           "form": "μίλησα",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falei",
           "en": "I spoke",
           "es": "hablé"
@@ -1354,7 +1354,7 @@
         {
           "form": "μίλησε",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falou",
           "en": "he/she spoke",
           "es": "habló"
@@ -1362,7 +1362,7 @@
         {
           "form": "μιλήσαμε",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falamos",
           "en": "we spoke",
           "es": "hablamos"
@@ -1370,7 +1370,7 @@
         {
           "form": "μίλησαν",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falaram",
           "en": "they spoke",
           "es": "hablaron"
@@ -1378,7 +1378,7 @@
         {
           "form": "έφαγα",
           "lemma": "τρώω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "comi",
           "en": "I ate",
           "es": "comí"
@@ -1386,7 +1386,7 @@
         {
           "form": "πήγα",
           "lemma": "πάω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "fui",
           "en": "I went",
           "es": "fui"
@@ -1394,7 +1394,7 @@
         {
           "form": "είδα",
           "lemma": "βλέπω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "vi",
           "en": "I saw",
           "es": "vi"
@@ -1402,7 +1402,7 @@
         {
           "form": "είπα",
           "lemma": "λέω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "disse",
           "en": "I said",
           "es": "dije"
@@ -1410,7 +1410,7 @@
         {
           "form": "θα",
           "lemma": "θα",
-          "lang": "el",
+          "lang": "grc",
           "pt": "partícula de futuro",
           "en": "future particle",
           "es": "partícula de futuro"
@@ -1418,7 +1418,7 @@
         {
           "form": "μίλησες",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falaste",
           "en": "you spoke",
           "es": "hablaste"
@@ -1426,7 +1426,7 @@
         {
           "form": "μιλήσατε",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falastes",
           "en": "you (pl.) spoke",
           "es": "hablasteis"
@@ -1434,7 +1434,7 @@
         {
           "form": "πάω",
           "lemma": "πάω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "vou",
           "en": "I go",
           "es": "voy"
@@ -1442,7 +1442,7 @@
         {
           "form": "λέω",
           "lemma": "λέω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "digo",
           "en": "I say",
           "es": "digo"
@@ -1450,7 +1450,7 @@
         {
           "form": "να",
           "lemma": "να",
-          "lang": "el",
+          "lang": "grc",
           "pt": "que (subjuntivo)",
           "en": "that (subjunctive)",
           "es": "que (subjuntivo)"
@@ -1668,7 +1668,7 @@
         {
           "form": "ἦτο",
           "lemma": "εἰμί",
-          "lang": "el",
+          "lang": "grc",
           "pt": "era",
           "en": "was",
           "es": "era"
@@ -1724,7 +1724,7 @@
         {
           "form": "ήταν",
           "lemma": "είμαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "era (demótico)",
           "en": "was (Demotic)",
           "es": "era (demótico)"
@@ -1971,7 +1971,7 @@
         {
           "form": "εγώ",
           "lemma": "εγώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "eu",
           "en": "I",
           "es": "yo"
@@ -1979,7 +1979,7 @@
         {
           "form": "εσύ",
           "lemma": "εσύ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "tu",
           "en": "you",
           "es": "tú"
@@ -1987,7 +1987,7 @@
         {
           "form": "μου",
           "lemma": "εγώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "meu; a mim",
           "en": "my; to me",
           "es": "mi; a mí"
@@ -1995,7 +1995,7 @@
         {
           "form": "σου",
           "lemma": "εσύ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "teu; a ti",
           "en": "your; to you",
           "es": "tu; a ti"
@@ -2003,7 +2003,7 @@
         {
           "form": "μας",
           "lemma": "εμείς",
-          "lang": "el",
+          "lang": "grc",
           "pt": "nosso; a nós",
           "en": "our; to us",
           "es": "nuestro; a nosotros"
@@ -2011,7 +2011,7 @@
         {
           "form": "του",
           "lemma": "αυτός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "dele; a ele",
           "en": "his; to him",
           "es": "su; a él"
@@ -2019,7 +2019,7 @@
         {
           "form": "τη",
           "lemma": "αυτός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "a; a ela",
           "en": "the; her",
           "es": "la; a ella"
@@ -2027,7 +2027,7 @@
         {
           "form": "με",
           "lemma": "εγώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "me; a mim",
           "en": "me; to me",
           "es": "me; a mí"
@@ -2035,7 +2035,7 @@
         {
           "form": "εμείς",
           "lemma": "εμείς",
-          "lang": "el",
+          "lang": "grc",
           "pt": "nós",
           "en": "we",
           "es": "nosotros"
@@ -2043,7 +2043,7 @@
         {
           "form": "εσείς",
           "lemma": "εσείς",
-          "lang": "el",
+          "lang": "grc",
           "pt": "vós",
           "en": "you (pl.)",
           "es": "vosotros"
@@ -2051,7 +2051,7 @@
         {
           "form": "σας",
           "lemma": "εσείς",
-          "lang": "el",
+          "lang": "grc",
           "pt": "seu; a vocês",
           "en": "your; to you (pl.)",
           "es": "su; a ustedes"
@@ -2059,7 +2059,7 @@
         {
           "form": "τους",
           "lemma": "αυτός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "deles; os (artigo masc. pl.)",
           "en": "their; the (masc. pl.)",
           "es": "de ellos; los (artículo masc. pl.)"
@@ -2067,7 +2067,7 @@
         {
           "form": "αλήθεια",
           "lemma": "αλήθεια",
-          "lang": "el",
+          "lang": "grc",
           "pt": "verdade",
           "en": "truth",
           "es": "verdad"
@@ -2075,7 +2075,7 @@
         {
           "form": "φίλος",
           "lemma": "φίλος",
-          "lang": "el",
+          "lang": "grc",
           "pt": "amigo",
           "en": "friend",
           "es": "amigo"
@@ -2278,7 +2278,7 @@
         {
           "form": "να",
           "lemma": "να",
-          "lang": "el",
+          "lang": "grc",
           "pt": "que (subjuntivo)",
           "en": "that (subjunctive)",
           "es": "que (subjuntivo)"
@@ -2286,7 +2286,7 @@
         {
           "form": "θέλω να",
           "lemma": "θέλω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "quero que/que",
           "en": "I want to",
           "es": "quiero que/que"
@@ -2294,7 +2294,7 @@
         {
           "form": "πρέπει να",
           "lemma": "πρέπει",
-          "lang": "el",
+          "lang": "grc",
           "pt": "é preciso que",
           "en": "must",
           "es": "hay que"
@@ -2302,7 +2302,7 @@
         {
           "form": "θα",
           "lemma": "θα",
-          "lang": "el",
+          "lang": "grc",
           "pt": "futuro/possibilidade",
           "en": "future/possibility",
           "es": "futuro/posibilidad"
@@ -2310,7 +2310,7 @@
         {
           "form": "φύγω",
           "lemma": "φεύγω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "sair",
           "en": "leave",
           "es": "salir"
@@ -2318,7 +2318,7 @@
         {
           "form": "μάθω",
           "lemma": "μαθαίνω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "aprender",
           "en": "learn",
           "es": "aprender"
@@ -2326,7 +2326,7 @@
         {
           "form": "έρθει",
           "lemma": "έρχομαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "virá; quizá venga",
           "en": "will/may come",
           "es": "vendrá; quizá venga"
@@ -2334,7 +2334,7 @@
         {
           "form": "μιλήσω",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "hablar",
           "en": "speak",
           "es": "hablar"
@@ -2342,7 +2342,7 @@
         {
           "form": "θέλω",
           "lemma": "θέλω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "quero",
           "en": "I want",
           "es": "quiero"
@@ -2350,7 +2350,7 @@
         {
           "form": "πρέπει",
           "lemma": "πρέπει",
-          "lang": "el",
+          "lang": "grc",
           "pt": "é preciso, devo",
           "en": "I must",
           "es": "debo"
@@ -2358,7 +2358,7 @@
         {
           "form": "μπορώ",
           "lemma": "μπορώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "posso",
           "en": "I can",
           "es": "puedo"
@@ -2366,7 +2366,7 @@
         {
           "form": "ώστε",
           "lemma": "ώστε",
-          "lang": "el",
+          "lang": "grc",
           "pt": "para que",
           "en": "so that",
           "es": "para que"
@@ -2374,7 +2374,7 @@
         {
           "form": "για να",
           "lemma": "για να",
-          "lang": "el",
+          "lang": "grc",
           "pt": "para (finalidade)",
           "en": "in order to",
           "es": "para (finalidad)"
@@ -2382,7 +2382,7 @@
         {
           "form": "ελληνικά",
           "lemma": "ελληνικά",
-          "lang": "el",
+          "lang": "grc",
           "pt": "grego (língua)",
           "en": "Greek (language)",
           "es": "griego (idioma)"
@@ -2576,7 +2576,7 @@
         {
           "form": "μίλαγα",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falava",
           "en": "I was speaking",
           "es": "hablaba"
@@ -2584,7 +2584,7 @@
         {
           "form": "μιλάγαμε",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falávamos",
           "en": "we were speaking",
           "es": "hablábamos"
@@ -2592,7 +2592,7 @@
         {
           "form": "μίλαγαν",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falavam",
           "en": "they were speaking",
           "es": "hablaban"
@@ -2600,7 +2600,7 @@
         {
           "form": "ήμουν",
           "lemma": "είμαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "era/estava",
           "en": "was",
           "es": "era/estaba"
@@ -2608,7 +2608,7 @@
         {
           "form": "είχα",
           "lemma": "έχω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "tinha",
           "en": "I had",
           "es": "tenía"
@@ -2616,7 +2616,7 @@
         {
           "form": "έτρωγα",
           "lemma": "τρώω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "comia",
           "en": "I was eating",
           "es": "comía"
@@ -2624,7 +2624,7 @@
         {
           "form": "ήπινα",
           "lemma": "πίνω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "bebia",
           "en": "I was drinking",
           "es": "bebía"
@@ -2632,7 +2632,7 @@
         {
           "form": "προσευχόταν",
           "lemma": "προσεύχομαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "orava",
           "en": "was praying",
           "es": "rezaba"
@@ -2640,7 +2640,7 @@
         {
           "form": "μιλούσα",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falava (forma culta)",
           "en": "I was speaking (learned)",
           "es": "hablaba (forma culta)"
@@ -2648,7 +2648,7 @@
         {
           "form": "μίλησα",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falei (evento)",
           "en": "I spoke (event)",
           "es": "hablé (evento)"
@@ -2656,7 +2656,7 @@
         {
           "form": "κάθε",
           "lemma": "κάθε",
-          "lang": "el",
+          "lang": "grc",
           "pt": "cada",
           "en": "every",
           "es": "cada"
@@ -2664,7 +2664,7 @@
         {
           "form": "μέρα",
           "lemma": "μέρα",
-          "lang": "el",
+          "lang": "grc",
           "pt": "dia",
           "en": "day",
           "es": "día"
@@ -2672,7 +2672,7 @@
         {
           "form": "νερό",
           "lemma": "νερό",
-          "lang": "el",
+          "lang": "grc",
           "pt": "água",
           "en": "water",
           "es": "agua"
@@ -2680,7 +2680,7 @@
         {
           "form": "φίλος",
           "lemma": "φίλος",
-          "lang": "el",
+          "lang": "grc",
           "pt": "amigo",
           "en": "friend",
           "es": "amigo"
@@ -2887,7 +2887,7 @@
         {
           "form": "θα μιλήσω",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falarei",
           "en": "I will speak",
           "es": "hablaré"
@@ -2895,7 +2895,7 @@
         {
           "form": "θα έρθει",
           "lemma": "έρχομαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "virá",
           "en": "he will come",
           "es": "vendrá"
@@ -2903,7 +2903,7 @@
         {
           "form": "έχω μιλήσει",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "tenho falado",
           "en": "I have spoken",
           "es": "he hablado"
@@ -2911,7 +2911,7 @@
         {
           "form": "έχεις δει",
           "lemma": "βλέπω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "tens visto",
           "en": "you have seen",
           "es": "has visto"
@@ -2919,7 +2919,7 @@
         {
           "form": "είχα φύγει",
           "lemma": "φεύγω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "tinha saído",
           "en": "I had left",
           "es": "había salido"
@@ -2927,7 +2927,7 @@
         {
           "form": "θα έχω τελειώσει",
           "lemma": "τελειώνω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "terei terminado",
           "en": "I will have finished",
           "es": "habré terminado"
@@ -2935,7 +2935,7 @@
         {
           "form": "θα έχει",
           "lemma": "έχω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "terá",
           "en": "will have",
           "es": "tendrá"
@@ -2943,7 +2943,7 @@
         {
           "form": "δεν έχω",
           "lemma": "έχω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "não tenho",
           "en": "I do not have",
           "es": "no tengo"
@@ -2951,7 +2951,7 @@
         {
           "form": "μιλήσει",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "ter falado (participio)",
           "en": "to have spoken (participle)",
           "es": "haber hablado (participio)"
@@ -2959,7 +2959,7 @@
         {
           "form": "έχει",
           "lemma": "έχω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "tem (terá)",
           "en": "has (will have)",
           "es": "tiene (tendrá)"
@@ -2967,7 +2967,7 @@
         {
           "form": "είχα",
           "lemma": "έχω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "tinha",
           "en": "I had",
           "es": "tenía"
@@ -2975,7 +2975,7 @@
         {
           "form": "τέλος",
           "lemma": "τέλος",
-          "lang": "el",
+          "lang": "grc",
           "pt": "fim, final",
           "en": "end, finish",
           "es": "fin, final"
@@ -2983,7 +2983,7 @@
         {
           "form": "τελειώσει",
           "lemma": "τελειώνω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "ter terminado (participio)",
           "en": "to have finished (participle)",
           "es": "haber terminado (participio)"
@@ -3177,7 +3177,7 @@
         {
           "form": "αγαπιέμαι",
           "lemma": "αγαπώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "sou amado",
           "en": "I am loved",
           "es": "soy amado"
@@ -3185,7 +3185,7 @@
         {
           "form": "αγαπιόμαστε",
           "lemma": "αγαπώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "nos amamos",
           "en": "we love each other",
           "es": "nos amamos"
@@ -3193,7 +3193,7 @@
         {
           "form": "γράφομαι",
           "lemma": "γράφω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "sou escrito",
           "en": "I am written",
           "es": "estoy escrito"
@@ -3201,7 +3201,7 @@
         {
           "form": "βαπτίζομαι",
           "lemma": "βαπτίζω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "sou batizado",
           "en": "I am baptized",
           "es": "soy bautizado"
@@ -3209,7 +3209,7 @@
         {
           "form": "αγαπήθηκα",
           "lemma": "αγαπώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "fui amado",
           "en": "I was loved",
           "es": "fui amado"
@@ -3217,7 +3217,7 @@
         {
           "form": "διαβάστηκα",
           "lemma": "διαβάζω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "fui lido",
           "en": "I was read",
           "es": "fui leído"
@@ -3225,7 +3225,7 @@
         {
           "form": "δέχθηκα",
           "lemma": "δέχομαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "recebi",
           "en": "I received",
           "es": "recibí"
@@ -3233,7 +3233,7 @@
         {
           "form": "από",
           "lemma": "από",
-          "lang": "el",
+          "lang": "grc",
           "pt": "de; por",
           "en": "from; by",
           "es": "de; por"
@@ -3241,7 +3241,7 @@
         {
           "form": "αγαπώ",
           "lemma": "αγαπώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "amo",
           "en": "I love",
           "es": "amo"
@@ -3249,7 +3249,7 @@
         {
           "form": "αγαπιούνται",
           "lemma": "αγαπώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "se amam",
           "en": "they love each other",
           "es": "se aman"
@@ -3257,7 +3257,7 @@
         {
           "form": "αγαπιέστε",
           "lemma": "αγαπώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "amaos (2º pl.)",
           "en": "love one another (2nd pl.)",
           "es": "amaos (2.ª pl.)"
@@ -3265,7 +3265,7 @@
         {
           "form": "μητέρα",
           "lemma": "μητέρα",
-          "lang": "el",
+          "lang": "grc",
           "pt": "mãe",
           "en": "mother",
           "es": "madre"
@@ -3273,7 +3273,7 @@
         {
           "form": "Θεός",
           "lemma": "Θεός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "Deus",
           "en": "God",
           "es": "Dios"
@@ -3281,7 +3281,7 @@
         {
           "form": "γράφω",
           "lemma": "γράφω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "escrevo",
           "en": "I write",
           "es": "escribo"
@@ -3488,7 +3488,7 @@
         {
           "form": "μίλα",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "fala!",
           "en": "speak!",
           "es": "¡habla!"
@@ -3496,7 +3496,7 @@
         {
           "form": "μίλαμε",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falemos",
           "en": "let us speak",
           "es": "hablemos"
@@ -3504,7 +3504,7 @@
         {
           "form": "μίλησε",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "fala agora!",
           "en": "speak now!",
           "es": "¡habla ahora!"
@@ -3512,7 +3512,7 @@
         {
           "form": "μιλήσαμε",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "falemos agora",
           "en": "let us speak now",
           "es": "hablemos ahora"
@@ -3520,7 +3520,7 @@
         {
           "form": "πες",
           "lemma": "λέω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "diz!",
           "en": "say!",
           "es": "¡di!"
@@ -3528,7 +3528,7 @@
         {
           "form": "έλα",
           "lemma": "έρχομαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "vem!",
           "en": "come!",
           "es": "¡ven!"
@@ -3536,7 +3536,7 @@
         {
           "form": "ελάστε",
           "lemma": "έρχομαι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "venid!",
           "en": "come! (pl.)",
           "es": "¡venid!"
@@ -3544,7 +3544,7 @@
         {
           "form": "μη μιλήσεις",
           "lemma": "μιλώ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "não falas",
           "en": "do not speak",
           "es": "no hables"
@@ -3552,7 +3552,7 @@
         {
           "form": "πες μου",
           "lemma": "λέω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "diz-me",
           "en": "tell me",
           "es": "dime"
@@ -3560,7 +3560,7 @@
         {
           "form": "φάε",
           "lemma": "τρώω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "come! (de comer)",
           "en": "eat!",
           "es": "¡come!"
@@ -3568,7 +3568,7 @@
         {
           "form": "πήγε",
           "lemma": "πάω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "vai!",
           "en": "go!",
           "es": "¡ve!"
@@ -3576,7 +3576,7 @@
         {
           "form": "πιστεψε",
           "lemma": "πιστεύω",
-          "lang": "el",
+          "lang": "grc",
           "pt": "acredita!",
           "en": "believe!",
           "es": "¡cree!"
@@ -3584,7 +3584,7 @@
         {
           "form": "αλλήλους",
           "lemma": "αλλήλους",
-          "lang": "el",
+          "lang": "grc",
           "pt": "uns aos outros",
           "en": "one another",
           "es": "los unos a los otros"
@@ -3592,7 +3592,7 @@
         {
           "form": "μην",
           "lemma": "μη",
-          "lang": "el",
+          "lang": "grc",
           "pt": "não (negação)",
           "en": "not (negation)",
           "es": "no (negación)"
@@ -3802,7 +3802,7 @@
         {
           "form": "πιο",
           "lemma": "πιο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "mais",
           "en": "more",
           "es": "más"
@@ -3810,7 +3810,7 @@
         {
           "form": "πιο καλός",
           "lemma": "καλός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "melhor",
           "en": "better",
           "es": "mejor"
@@ -3818,7 +3818,7 @@
         {
           "form": "ο πιο καλός",
           "lemma": "καλός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "o melhor",
           "en": "the best",
           "es": "el mejor"
@@ -3826,7 +3826,7 @@
         {
           "form": "από",
           "lemma": "από",
-          "lang": "el",
+          "lang": "grc",
           "pt": "que (comparação)",
           "en": "than",
           "es": "que"
@@ -3834,7 +3834,7 @@
         {
           "form": "τόσο",
           "lemma": "τόσο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "tan",
           "en": "so",
           "es": "tan"
@@ -3842,7 +3842,7 @@
         {
           "form": "όσο",
           "lemma": "όσο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "como; cuanto",
           "en": "as; as much as",
           "es": "como; cuanto"
@@ -3850,7 +3850,7 @@
         {
           "form": "λιγότερο",
           "lemma": "λίγο",
-          "lang": "el",
+          "lang": "grc",
           "pt": "menos",
           "en": "less",
           "es": "menos"
@@ -3858,7 +3858,7 @@
         {
           "form": "καλύτερος",
           "lemma": "καλός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "melhor (elevado)",
           "en": "better (elevated)",
           "es": "mejor (elevado)"
@@ -3866,7 +3866,7 @@
         {
           "form": "μεγαλύτερος",
           "lemma": "μεγάλος",
-          "lang": "el",
+          "lang": "grc",
           "pt": "maior (elevado)",
           "en": "greater (elevated)",
           "es": "mayor (elevado)"
@@ -3874,7 +3874,7 @@
         {
           "form": "ακριβός",
           "lemma": "ακριβός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "caro",
           "en": "expensive",
           "es": "caro"
@@ -3882,7 +3882,7 @@
         {
           "form": "μικρός",
           "lemma": "μικρός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "pequeno",
           "en": "small",
           "es": "pequeño"
@@ -3890,7 +3890,7 @@
         {
           "form": "μικρότερος",
           "lemma": "μικρός",
-          "lang": "el",
+          "lang": "grc",
           "pt": "menor",
           "en": "smaller",
           "es": "menor"
@@ -3898,7 +3898,7 @@
         {
           "form": "σπίτι",
           "lemma": "σπίτι",
-          "lang": "el",
+          "lang": "grc",
           "pt": "casa",
           "en": "house",
           "es": "casa"
@@ -3906,7 +3906,7 @@
         {
           "form": "εσένα",
           "lemma": "εσύ",
-          "lang": "el",
+          "lang": "grc",
           "pt": "a ti",
           "en": "you (acc.)",
           "es": "a ti"
@@ -4075,5 +4075,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g51463985"
+  "contentVersion": "1.0.0+g47576cc3"
 }
