@@ -96,11 +96,11 @@
       "id": "pt-gram",
       "lang": "pt",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g6790c565",
+      "contentVersion": "1.0.0+g8b5efdd8",
       "lessons": 30,
       "file": "courses/pt-gram.json",
-      "bytes": 519561,
-      "sha256": "5e3bccba49863037"
+      "bytes": 519532,
+      "sha256": "2a741fd6e769afaf"
     },
     {
       "id": "ru",
