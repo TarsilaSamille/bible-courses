@@ -4088,6 +4088,674 @@
         "es": "Verbo"
       },
       "title": {
+        "pt": "Os verbos essenciais",
+        "en": "The essential verbs",
+        "es": "Los verbos esenciales"
+      },
+      "subtitle": {
+        "pt": "{gada}, {oda}, {hada}, {itda}, {meokda}, {boda}: os verbos que sustentam quase toda frase",
+        "en": "{gada}, {oda}, {hada}, {itda}, {meokda}, {boda}: the verbs that hold almost every sentence up",
+        "es": "{gada}, {oda}, {hada}, {itda}, {meokda}, {boda}: los verbos que sostienen casi toda frase"
+      },
+      "body": {
+        "pt": "## As duas listas de verbos\n\nTodo verbo coreano pertence a uma de duas listas, e a diferença não é de sentido nem de estilo: é de flexão. Os verbos cuja raiz termina em vogal ou em {-l} mudam de forma conforme o registro: {gada} «ir» faz {ga}, {gayo}, {gamnida}. Os verbos cuja raiz termina em outra consoante nunca mudam: {meokda} «comer» é a mesma palavra em qualquer frase, e o que muda é a terminação que vem depois.\n\nA lista longa é a maior parte do idioma, e é onde o iniciante trava, porque um verbo que não muda parece errado dentro da frase. A lista curta é curta mesmo: {gada} ir, {oda} vir, {hada} fazer, {boda} ver, {juda} dar, {sseuda} escrever, {masida} beber, {gareuchida} ensinar, {saranghada} amar respondem por quase tudo o que se fala.\n\n## {itda} e {eopda}: haver e não haver\n\n{itda} cobre o que o português reparte entre «haver», «estar» e «ter»: {chaek-i itda} é «há um livro» e «tenho um livro», com o mesmo verbo. {eopda} é a negação dele, e não de outro verbo: {chaek-i eopda}, «não há livro». Quem procura um verbo separado para «ter» não encontra, porque não existe.\n\nIsso muda a negação. Como {eopda} já é o negativo de {itda}, a frase «não há» não leva o negador {an}: escrever {an itda} é negar duas vezes.\n\n## O passado e as duas negações\n\nO passado se forma com {-at-} ou {-eot-} entre a raiz e a terminação: {meokda} faz {meogeotda}, «comi», e {hada} faz {haetda}, «fiz». É o mesmo sufixo nas duas listas, e é por isso que a lista longa não é tão imóvel quanto parece: a raiz fica, o passado entra no meio.\n\nA negação tem duas formas. {an} vem antes do verbo: {an meokda}, «não como». E {-ji anta} vem depois, com o verbo auxiliar: {meokji anta}, «não como». As duas dizem o mesmo, e a segunda é a que se usa quando o verbo é longo ou quando a frase pede registro escrito.\n\n## Na Bíblia\n\nJoão 1:1 abre com {gyesida}, o honorífico de {itda}: {taechoe malsseum-i gyesyeotda}, «no princípio era o Verbo». O coreano não usa {itda} puro para falar de Deus: o verbo da existência ganha a marca de respeito, e o passado {gyesyeotda} carrega as duas coisas ao mesmo tempo.\n\nJoão 3:16 traz dois verbos essenciais em sequência: {saranghasa}, de {saranghada} «amar», e {jusyeotda}, o passado honorífico de {juda} «dar». Deus amou e deu, e os dois verbos são da lista curta. Marcos 4:39 fecha com {jamjamhara! goyohara!}, «cala-te! aquieta-te!», que é o imperativo de {-hara} sobre a raiz: o coreano manda sem sujeito e sem pessoa.",
+        "en": "## The two lists of verbs\n\nEvery Korean verb belongs to one of two lists, and the difference is not of meaning or style: it is of inflection. Verbs whose stem ends in a vowel or in {-l} change shape with the register: {gada} \"to go\" makes {ga}, {gayo}, {gamnida}. Verbs whose stem ends in another consonant never change: {meokda} \"to eat\" is the same word in any sentence, and what changes is the ending that comes after it.\n\nThe long list is most of the language, and it is where the beginner gets stuck, because a verb that does not change looks wrong inside the sentence. The short list is short indeed: {gada} to go, {oda} to come, {hada} to do, {boda} to see, {juda} to give, {sseuda} to write, {masida} to drink, {gareuchida} to teach, {saranghada} to love account for almost everything that is said.\n\n## {itda} and {eopda}: there to be and not to be\n\n{itda} covers what Portuguese splits between \"there to be\", \"to be somewhere\" and \"to have\": {chaek-i itda} is \"there is a book\" and \"I have a book\", with the same verb. {eopda} is its negative, and not the negative of some other verb: {chaek-i eopda}, \"there is no book\". Whoever looks for a separate verb for \"to have\" does not find one, because there is none.\n\nThat changes the negation. Since {eopda} is already the negative of {itda}, the sentence \"there is not\" does not take the negator {an}: writing {an itda} is negating twice.\n\n## The past and the two negations\n\nThe past is formed with {-at-} or {-eot-} between the stem and the ending: {meokda} makes {meogeotda}, \"I ate\", and {hada} makes {haetda}, \"I did\". It is the same suffix in both lists, and that is why the long list is not as immovable as it looks: the stem stays, the past goes in the middle.\n\nNegation has two forms. {an} comes before the verb: {an meokda}, \"I do not eat\". And {-ji anta} comes after, with the auxiliary: {meokji anta}, \"I do not eat\". Both say the same, and the second is the one used when the verb is long or the sentence calls for a written register.\n\n## In the Bible\n\nJohn 1:1 opens with {gyesida}, the honorific of {itda}: {taechoe malsseum-i gyesyeotda}, \"in the beginning was the Word\". Korean does not use plain {itda} to speak of God: the verb of existence takes the mark of respect, and the past {gyesyeotda} carries both things at once.\n\nJohn 3:16 has two essential verbs in a row: {saranghasa}, from {saranghada} \"to love\", and {jusyeotda}, the honorific past of {juda} \"to give\". God loved and gave, and both verbs are from the short list. Mark 4:39 closes with {jamjamhara! goyohara!}, \"be silent! be still!\", which is the imperative {-hara} on the stem: Korean commands with no subject and no person.",
+        "es": "## Las dos listas de verbos\n\nTodo verbo coreano pertenece a una de dos listas, y la diferencia no es de sentido ni de estilo: es de flexión. Los verbos cuya raíz termina en vocal o en {-l} cambian de forma según el registro: {gada} «ir» hace {ga}, {gayo}, {gamnida}. Los verbos cuya raíz termina en otra consonante nunca cambian: {meokda} «comer» es la misma palabra en cualquier frase, y lo que cambia es la terminación que viene después.\n\nLa lista larga es la mayor parte del idioma, y es donde el principiante se traba, porque un verbo que no cambia parece equivocado dentro de la frase. La lista corta es corta de verdad: {gada} ir, {oda} venir, {hada} hacer, {boda} ver, {juda} dar, {sseuda} escribir, {masida} beber, {gareuchida} enseñar, {saranghada} amar responden por casi todo lo que se habla.\n\n## {itda} y {eopda}: haber y no haber\n\n{itda} cubre lo que el portugués reparte entre «haber», «estar» y «tener»: {chaek-i itda} es «hay un libro» y «tengo un libro», con el mismo verbo. {eopda} es su negación, y no la de otro verbo: {chaek-i eopda}, «no hay libro». Quien busca un verbo aparte para «tener» no lo encuentra, porque no existe.\n\nEso cambia la negación. Como {eopda} ya es el negativo de {itda}, la frase «no hay» no lleva el negador {an}: escribir {an itda} es negar dos veces.\n\n## El pasado y las dos negaciones\n\nEl pasado se forma con {-at-} o {-eot-} entre la raíz y la terminación: {meokda} hace {meogeotda}, «comí», y {hada} hace {haetda}, «hice». Es el mismo sufijo en las dos listas, y por eso la lista larga no es tan inmóvil como parece: la raíz se queda, el pasado entra en el medio.\n\nLa negación tiene dos formas. {an} va antes del verbo: {an meokda}, «no como». Y {-ji anta} va después, con el auxiliar: {meokji anta}, «no como». Las dos dicen lo mismo, y la segunda es la que se usa cuando el verbo es largo o cuando la frase pide registro escrito.\n\n## En la Biblia\n\nJuan 1:1 abre con {gyesida}, el honorífico de {itda}: {taechoe malsseum-i gyesyeotda}, «en el principio era el Verbo». El coreano no usa {itda} puro para hablar de Dios: el verbo de la existencia recibe la marca de respeto, y el pasado {gyesyeotda} carga las dos cosas a la vez.\n\nJuan 3:16 trae dos verbos esenciales en secuencia: {saranghasa}, de {saranghada} «amar», y {jusyeotda}, el pasado honorífico de {juda} «dar». Dios amó y dio, y los dos verbos son de la lista corta. Marcos 4:39 cierra con {jamjamhara! goyohara!}, «¡cállate! ¡cálmate!», que es el imperativo {-hara} sobre la raíz: el coreano manda sin sujeto y sin persona."
+      },
+      "vocab": [
+        {
+          "form": "gada",
+          "lemma": "가다",
+          "lang": "ko",
+          "pt": "ir",
+          "en": "to go",
+          "es": "ir"
+        },
+        {
+          "form": "ga",
+          "lemma": "가",
+          "lang": "ko",
+          "pt": "vou (forma plana)",
+          "en": "I go (plain form)",
+          "es": "voy (forma plana)"
+        },
+        {
+          "form": "gayo",
+          "lemma": "가요",
+          "lang": "ko",
+          "pt": "vou (polido falado)",
+          "en": "I go (polite spoken)",
+          "es": "voy (polido hablado)"
+        },
+        {
+          "form": "gamnida",
+          "lemma": "갑니다",
+          "lang": "ko",
+          "pt": "vou (polido escrito)",
+          "en": "I go (polite written)",
+          "es": "voy (polido escrito)"
+        },
+        {
+          "form": "oda",
+          "lemma": "오다",
+          "lang": "ko",
+          "pt": "vir",
+          "en": "to come",
+          "es": "venir"
+        },
+        {
+          "form": "hada",
+          "lemma": "하다",
+          "lang": "ko",
+          "pt": "fazer",
+          "en": "to do",
+          "es": "hacer"
+        },
+        {
+          "form": "haetda",
+          "lemma": "했다",
+          "lang": "ko",
+          "pt": "fiz",
+          "en": "I did",
+          "es": "hice"
+        },
+        {
+          "form": "itda",
+          "lemma": "있다",
+          "lang": "ko",
+          "pt": "haver, estar, ter",
+          "en": "there to be, to be somewhere, to have",
+          "es": "haber, estar, tener"
+        },
+        {
+          "form": "eopda",
+          "lemma": "없다",
+          "lang": "ko",
+          "pt": "não haver",
+          "en": "there not to be",
+          "es": "no haber"
+        },
+        {
+          "form": "gyesida",
+          "lemma": "계시다",
+          "lang": "ko",
+          "pt": "haver (honorífico)",
+          "en": "there to be (honorific)",
+          "es": "haber (honorífico)"
+        },
+        {
+          "form": "meokda",
+          "lemma": "먹다",
+          "lang": "ko",
+          "pt": "comer",
+          "en": "to eat",
+          "es": "comer"
+        },
+        {
+          "form": "meogeotda",
+          "lemma": "먹었다",
+          "lang": "ko",
+          "pt": "comi",
+          "en": "I ate",
+          "es": "comí"
+        },
+        {
+          "form": "masida",
+          "lemma": "마시다",
+          "lang": "ko",
+          "pt": "beber",
+          "en": "to drink",
+          "es": "beber"
+        },
+        {
+          "form": "boda",
+          "lemma": "보다",
+          "lang": "ko",
+          "pt": "ver",
+          "en": "to see",
+          "es": "ver"
+        },
+        {
+          "form": "deutda",
+          "lemma": "듣다",
+          "lang": "ko",
+          "pt": "ouvir",
+          "en": "to hear",
+          "es": "oír"
+        },
+        {
+          "form": "malhada",
+          "lemma": "말하다",
+          "lang": "ko",
+          "pt": "dizer",
+          "en": "to say",
+          "es": "decir"
+        },
+        {
+          "form": "alda",
+          "lemma": "알다",
+          "lang": "ko",
+          "pt": "saber",
+          "en": "to know",
+          "es": "saber"
+        },
+        {
+          "form": "juda",
+          "lemma": "주다",
+          "lang": "ko",
+          "pt": "dar",
+          "en": "to give",
+          "es": "dar"
+        },
+        {
+          "form": "jusida",
+          "lemma": "주시다",
+          "lang": "ko",
+          "pt": "dar (honorífico)",
+          "en": "to give (honorific)",
+          "es": "dar (honorífico)"
+        },
+        {
+          "form": "saranghada",
+          "lemma": "사랑하다",
+          "lang": "ko",
+          "pt": "amar",
+          "en": "to love",
+          "es": "amar"
+        },
+        {
+          "form": "an",
+          "lemma": "안",
+          "lang": "ko",
+          "pt": "não (antes do verbo)",
+          "en": "not (before the verb)",
+          "es": "no (antes del verbo)"
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Raiz terminada em vogal ou {-l} flexiona: {gada}, {ga}, {gayo}, {gamnida}. Raiz terminada em consoante não muda: {meokda}.",
+            "en": "A stem ending in a vowel or in {-l} inflects: {gada}, {ga}, {gayo}, {gamnida}. A stem ending in a consonant does not change: {meokda}.",
+            "es": "La raíz terminada en vocal o {-l} flexiona: {gada}, {ga}, {gayo}, {gamnida}. La raíz terminada en consonante no cambia: {meokda}."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "{itda} é «haver», «estar» e «ter» com o mesmo verbo: {chaek-i itda} é «há livro» e «tenho livro».",
+            "en": "{itda} is \"there to be\", \"to be somewhere\" and \"to have\" with the same verb: {chaek-i itda} is \"there is a book\" and \"I have a book\".",
+            "es": "{itda} es «haber», «estar» y «tener» con el mismo verbo: {chaek-i itda} es «hay libro» y «tengo libro»."
+          }
+        },
+        {
+          "n": "§3",
+          "text": {
+            "pt": "{eopda} é o negativo de {itda}, e não leva {an}: {chaek-i eopda}, nunca {an eopda}.",
+            "en": "{eopda} is the negative of {itda}, and does not take {an}: {chaek-i eopda}, never {an eopda}.",
+            "es": "{eopda} es el negativo de {itda}, y no lleva {an}: {chaek-i eopda}, nunca {an eopda}."
+          }
+        },
+        {
+          "n": "§4",
+          "text": {
+            "pt": "O passado entra com {-at-} ou {-eot-} entre a raiz e a terminação: {meokda} → {meogeotda}, {hada} → {haetda}.",
+            "en": "The past goes in with {-at-} or {-eot-} between the stem and the ending: {meokda} → {meogeotda}, {hada} → {haetda}.",
+            "es": "El pasado entra con {-at-} o {-eot-} entre la raíz y la terminación: {meokda} → {meogeotda}, {hada} → {haetda}."
+          }
+        },
+        {
+          "n": "§5",
+          "text": {
+            "pt": "A negação curta {an} vem antes do verbo; a longa {-ji anta} vem depois: {an meokda} e {meokji anta}.",
+            "en": "The short negation {an} comes before the verb; the long {-ji anta} comes after: {an meokda} and {meokji anta}.",
+            "es": "La negación corta {an} va antes del verbo; la larga {-ji anta} va después: {an meokda} y {meokji anta}."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "O itda que não é «ser»",
+            "en": "The itda that is not \"to be\"",
+            "es": "El itda que no es «ser»"
+          },
+          "text": {
+            "pt": "{itda} não é a cópula. «Ele é médico» é {geu-neun uisa-ida}, com {ida}, e não com {itda}. O {ida} identifica; o {itda} diz que algo existe ou está em algum lugar.",
+            "en": "{itda} is not the copula. \"He is a doctor\" is {geu-neun uisa-ida}, with {ida}, not with {itda}. The {ida} identifies; the {itda} says that something exists or is somewhere.",
+            "es": "{itda} no es la cópula. «Él es médico» es {geu-neun uisa-ida}, con {ida}, y no con {itda}. El {ida} identifica; el {itda} dice que algo existe o está en algún lugar."
+          }
+        },
+        {
+          "label": {
+            "pt": "O an que não entra no passado",
+            "en": "The an that does not enter the past",
+            "es": "El an que no entra en el pasado"
+          },
+          "text": {
+            "pt": "A negação curta {an} fica antes do verbo e não se move no passado: {an meogeotda}, «não comi», mantém o {an} na frente e o passado no verbo.",
+            "en": "The short negation {an} stands before the verb and does not move in the past: {an meogeotda}, \"I did not eat\", keeps the {an} in front and the past in the verb.",
+            "es": "La negación corta {an} queda antes del verbo y no se mueve en el pasado: {an meogeotda}, «no comí», mantiene el {an} delante y el pasado en el verbo."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "taechoe malsseum-i gyesyeotda",
+          "gloss": {
+            "pt": "Jo 1:1 — {gyesida}, honorífico de {itda}: no princípio era o Verbo.",
+            "en": "John 1:1 — {gyesida}, honorific of {itda}: in the beginning was the Word.",
+            "es": "Jn 1:1 — {gyesida}, honorífico de {itda}: en el principio era el Verbo."
+          }
+        },
+        {
+          "text": "hananim-i sesang-eul saranghasa",
+          "gloss": {
+            "pt": "Jo 3:16 — {saranghasa}, de {saranghada}: Deus amou o mundo.",
+            "en": "John 3:16 — {saranghasa}, from {saranghada}: God loved the world.",
+            "es": "Jn 3:16 — {saranghasa}, de {saranghada}: Dios amó el mundo."
+          }
+        },
+        {
+          "text": "doksaengja-reul jusyeotda",
+          "gloss": {
+            "pt": "Jo 3:16 — {jusyeotda}, passado honorífico de {juda}: deu o Filho.",
+            "en": "John 3:16 — {jusyeotda}, honorific past of {juda}: he gave the Son.",
+            "es": "Jn 3:16 — {jusyeotda}, pasado honorífico de {juda}: dio al Hijo."
+          }
+        },
+        {
+          "text": "jamjamhara! goyohara!",
+          "gloss": {
+            "pt": "Mc 4:39 — imperativo de {-hara}: cala-te, aquieta-te.",
+            "en": "Mark 4:39 — imperative in {-hara}: be silent, be still.",
+            "es": "Mc 4:39 — imperativo {-hara}: cállate, cálmate."
+          }
+        },
+        {
+          "text": "chaek-i itda",
+          "gloss": {
+            "pt": "{itda} com partícula de sujeito: há livro.",
+            "en": "{itda} with the subject particle: there is a book.",
+            "es": "{itda} con partícula de sujeto: hay libro."
+          }
+        },
+        {
+          "text": "chaek-i eopda",
+          "gloss": {
+            "pt": "{eopda} nega sem {an}: não há livro.",
+            "en": "{eopda} negates without {an}: there is no book.",
+            "es": "{eopda} niega sin {an}: no hay libro."
+          }
+        },
+        {
+          "text": "meogeotda",
+          "gloss": {
+            "pt": "passado de {meokda}: comi.",
+            "en": "past of {meokda}: I ate.",
+            "es": "pasado de {meokda}: comí."
+          }
+        },
+        {
+          "text": "an meokda",
+          "gloss": {
+            "pt": "{an} antes do verbo: não como.",
+            "en": "{an} before the verb: I do not eat.",
+            "es": "{an} antes del verbo: no como."
+          }
+        },
+        {
+          "text": "meokji anta",
+          "gloss": {
+            "pt": "{-ji anta} depois do verbo: não como.",
+            "en": "{-ji anta} after the verb: I do not eat.",
+            "es": "{-ji anta} después del verbo: no como."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Os essenciais: dicionário, polido e passado",
+            "en": "The essentials: dictionary, polite and past",
+            "es": "Los esenciales: diccionario, polido y pasado"
+          },
+          "head": [
+            {
+              "pt": "Dicionário",
+              "en": "Dictionary",
+              "es": "Diccionario"
+            },
+            {
+              "pt": "Polido",
+              "en": "Polite",
+              "es": "Polido"
+            },
+            {
+              "pt": "Passado",
+              "en": "Past",
+              "es": "Pasado"
+            },
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "{gada}",
+                "en": "{gada}",
+                "es": "{gada}"
+              },
+              "{gamnida}",
+              "{gatda}",
+              {
+                "pt": "ir",
+                "en": "to go",
+                "es": "ir"
+              }
+            ],
+            [
+              {
+                "pt": "{oda}",
+                "en": "{oda}",
+                "es": "{oda}"
+              },
+              "{omnida}",
+              "{watda}",
+              {
+                "pt": "vir",
+                "en": "to come",
+                "es": "venir"
+              }
+            ],
+            [
+              {
+                "pt": "{hada}",
+                "en": "{hada}",
+                "es": "{hada}"
+              },
+              "{hamnida}",
+              "{haetda}",
+              {
+                "pt": "fazer",
+                "en": "to do",
+                "es": "hacer"
+              }
+            ],
+            [
+              {
+                "pt": "{boda}",
+                "en": "{boda}",
+                "es": "{boda}"
+              },
+              "{bomnida}",
+              "{boatda}",
+              {
+                "pt": "ver",
+                "en": "to see",
+                "es": "ver"
+              }
+            ],
+            [
+              {
+                "pt": "{meokda}",
+                "en": "{meokda}",
+                "es": "{meokda}"
+              },
+              "{meokseumnida}",
+              "{meogeotda}",
+              {
+                "pt": "comer",
+                "en": "to eat",
+                "es": "comer"
+              }
+            ],
+            [
+              {
+                "pt": "{juda}",
+                "en": "{juda}",
+                "es": "{juda}"
+              },
+              "{jumida}",
+              "{jwotda}",
+              {
+                "pt": "dar",
+                "en": "to give",
+                "es": "dar"
+              }
+            ],
+            [
+              {
+                "pt": "{alda}",
+                "en": "{alda}",
+                "es": "{alda}"
+              },
+              "{amnida}",
+              "{aratda}",
+              {
+                "pt": "saber",
+                "en": "to know",
+                "es": "saber"
+              }
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "As duas negações",
+            "en": "The two negations",
+            "es": "Las dos negaciones"
+          },
+          "head": [
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Posição",
+              "en": "Position",
+              "es": "Posición"
+            },
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "{an}",
+                "en": "{an}",
+                "es": "{an}"
+              },
+              {
+                "pt": "antes do verbo",
+                "en": "before the verb",
+                "es": "antes del verbo"
+              },
+              "{an meokda}"
+            ],
+            [
+              {
+                "pt": "{-ji anta}",
+                "en": "{-ji anta}",
+                "es": "{-ji anta}"
+              },
+              {
+                "pt": "depois do verbo",
+                "en": "after the verb",
+                "es": "después del verbo"
+              },
+              "{meokji anta}"
+            ],
+            [
+              {
+                "pt": "{eopda}",
+                "en": "{eopda}",
+                "es": "{eopda}"
+              },
+              {
+                "pt": "substitui {itda}",
+                "en": "replaces {itda}",
+                "es": "sustituye {itda}"
+              },
+              "{chaek-i eopda}"
+            ]
+          ]
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em {taechoe malsseum-i gyesyeotda}, qual é o verbo de base?",
+          "en": "In {taechoe malsseum-i gyesyeotda}, which is the base verb?",
+          "es": "En {taechoe malsseum-i gyesyeotda}, ¿cuál es el verbo de base?"
+        },
+        "options": [
+          {
+            "pt": "{itda}",
+            "en": "{itda}",
+            "es": "{itda}"
+          },
+          {
+            "pt": "{ida}",
+            "en": "{ida}",
+            "es": "{ida}"
+          },
+          {
+            "pt": "{hada}",
+            "en": "{hada}",
+            "es": "{hada}"
+          },
+          {
+            "pt": "{oda}",
+            "en": "{oda}",
+            "es": "{oda}"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete «{doksaengja-reul ___}» com o passado honorífico de {juda} (Jo 3:16).",
+            "en": "Complete \"{doksaengja-reul ___}\" with the honorific past of {juda} (John 3:16).",
+            "es": "Complete «{doksaengja-reul ___}» con el pasado honorífico de {juda} (Jn 3:16)."
+          },
+          "answer": "jusyeotda"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue o verbo ao seu passado.",
+            "en": "Match the verb to its past.",
+            "es": "Une el verbo con su pasado."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "{meokda}",
+                "en": "{meokda}",
+                "es": "{meokda}"
+              },
+              "b": {
+                "pt": "{meogeotda}",
+                "en": "{meogeotda}",
+                "es": "{meogeotda}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{hada}",
+                "en": "{hada}",
+                "es": "{hada}"
+              },
+              "b": {
+                "pt": "{haetda}",
+                "en": "{haetda}",
+                "es": "{haetda}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{gada}",
+                "en": "{gada}",
+                "es": "{gada}"
+              },
+              "b": {
+                "pt": "{gatda}",
+                "en": "{gatda}",
+                "es": "{gatda}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{oda}",
+                "en": "{oda}",
+                "es": "{oda}"
+              },
+              "b": {
+                "pt": "{watda}",
+                "en": "{watda}",
+                "es": "{watda}"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual forma nega {itda}?",
+            "en": "Which form negates {itda}?",
+            "es": "¿Qué forma niega {itda}?"
+          },
+          "options": [
+            {
+              "pt": "{an itda}",
+              "en": "{an itda}",
+              "es": "{an itda}"
+            },
+            {
+              "pt": "{eopda}",
+              "en": "{eopda}",
+              "es": "{eopda}"
+            },
+            {
+              "pt": "{itji anta}",
+              "en": "{itji anta}",
+              "es": "{itji anta}"
+            },
+            {
+              "pt": "{anida}",
+              "en": "{anida}",
+              "es": "{anida}"
+            }
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": {
+        "pt": "Verbo",
+        "en": "Verb",
+        "es": "Verbo"
+      },
+      "title": {
         "pt": "O verbo e a terminação que já é o pronome",
         "en": "The verb and the ending that already is the pronoun",
         "es": "El verbo y la terminación que ya es el pronombre"
@@ -4971,7 +5639,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "section": {
         "pt": "Verbo",
         "en": "Verb",
@@ -5836,7 +6504,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "section": {
         "pt": "Sintaxe",
         "en": "Syntax",
@@ -6569,7 +7237,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "section": {
         "pt": "Sintaxe",
         "en": "Syntax",
@@ -7355,7 +8023,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "section": {
         "pt": "Verbo",
         "en": "Verb",
@@ -8045,7 +8713,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "section": {
         "pt": "Sintaxe",
         "en": "Syntax",
@@ -8951,7 +9619,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "section": {
         "pt": "Números",
         "en": "Numbers",
@@ -10030,7 +10698,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "section": {
         "pt": "Leitura",
         "en": "Reading",
@@ -10947,7 +11615,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "section": {
         "pt": "Partículas",
         "en": "Particles",
@@ -11858,7 +12526,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "section": {
         "pt": "Pronomes",
         "en": "Pronouns",
@@ -12638,7 +13306,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 17,
       "section": {
         "pt": "Escrita",
         "en": "Writing",
@@ -13442,7 +14110,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "section": {
         "pt": "Adjetivo",
         "en": "Adjective",
@@ -14370,7 +15038,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 19,
       "section": {
         "pt": "Sintaxe",
         "en": "Syntax",
@@ -15069,7 +15737,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 20,
       "section": {
         "pt": "Verbo",
         "en": "Verb",
@@ -15792,7 +16460,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "section": {
         "pt": "Escrita",
         "en": "Writing",
@@ -16572,7 +17240,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
       "section": {
         "pt": "Escrita",
         "en": "Writing",
@@ -17286,7 +17954,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "section": {
         "pt": "Substantivo",
         "en": "Noun",
@@ -18079,7 +18747,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 24,
       "section": {
         "pt": "Leitura",
         "en": "Reading",
@@ -18864,7 +19532,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "section": {
         "pt": "Leitura",
         "en": "Reading",
@@ -19870,7 +20538,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "section": {
         "pt": "Partículas",
         "en": "Particles",
@@ -20613,7 +21281,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "section": {
         "pt": "Partículas",
         "en": "Particles",
@@ -21428,7 +22096,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "section": {
         "pt": "Partículas",
         "en": "Particles",
@@ -22221,7 +22889,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 29,
       "section": {
         "pt": "Partículas",
         "en": "Particles",
@@ -22956,7 +23624,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 30,
       "section": {
         "pt": "Leitura",
         "en": "Reading",
@@ -23686,7 +24354,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 31,
       "section": {
         "pt": "Leitura",
         "en": "Reading",
@@ -24526,5 +25194,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g91242eca"
+  "contentVersion": "1.0.0+g66c8b772"
 }

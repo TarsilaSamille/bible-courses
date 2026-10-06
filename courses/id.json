@@ -638,6 +638,671 @@
     },
     {
       "id": 3,
+      "section": {
+        "pt": "Tempo e verbo",
+        "en": "Time and verb",
+        "es": "Tiempo y verbo"
+      },
+      "title": {
+        "pt": "Os verbos essenciais",
+        "en": "The essential verbs",
+        "es": "Los verbos esenciales"
+      },
+      "subtitle": {
+        "pt": "makan, minum, pergi, datang, lihat, dengar: os verbos que sustentam quase toda frase",
+        "en": "makan, minum, pergi, datang, lihat, dengar: the verbs that hold almost every sentence up",
+        "es": "makan, minum, pergi, datang, lihat, dengar: los verbos que sostienen casi toda frase"
+      },
+      "body": {
+        "pt": "## O verbo que não se conjuga\n\nO verbo indonésio não muda de forma para dizer quem fala nem quando. {makan} é «comer» na primeira pessoa e na terceira, no presente e no passado: {saya makan}, {dia makan}, {kemarin dia makan}. O que muda de sentido não está no verbo, está na palavra que o acompanha.\n\nIsso muda o que «verbo essencial» quer dizer. Em português, essencial é o verbo que se conjuga em toda frase. Em indonésio, é o que carrega o sentido e recebe os afixos: {makan} comer, {minum} beber, {pergi} ir, {datang} vir, {lihat} ver, {dengar} ouvir, {tahu} saber, {mau} querer, {ada} haver, {bilang} dizer, {tidur} dormir, {baca} ler, {tulis} escrever, {beri} dar, {ambil} tomar, {kerja} trabalhar cobrem quase tudo o que se diz num capítulo de Evangelho.\n\n## meN-: o prefixo que muda a voz\n\nO verbo ganha o prefixo {meN-} quando é ativo e tem objeto: {makan} vira {memakan}, {lihat} vira {melihat}, {dengar} vira {mendengar}, {tulis} vira {menulis}, {baca} vira {membaca}, {beri} vira {memberi}, {ambil} vira {mengambil}. O {N} não é uma letra: é a assimilação ao primeiro som da raiz. Diante de {p}, {t}, {k} e {s} o som cai e a raiz perde a consoante, como em {tulis} e {ambil}.\n\nSem {meN-} o verbo fica como está, e a frase muda de voz sem mudar de palavras. {Saya makan nasi} é «eu como arroz»; {nasi itu dimakan} é «esse arroz é comido», com {di-}, que é o {meN-} do passivo.\n\n## sudah, sedang, akan, belum: onde mora o tempo\n\nComo o verbo não flexiona, o tempo vem de quatro palavras que ficam antes dele. {sudah} marca o acabado: {saya sudah makan}, «eu já comi». {sedang} marca o que está em curso: {saya sedang makan}, «estou comendo». {akan} marca o que vem: {saya akan makan}, «vou comer». E {belum} marca o que ainda não aconteceu: {saya belum makan}, «ainda não comi».\n\nO quarto é o que o português não tem com essa precisão. {belum} não é «não»: é «ainda não», e implica que vai acontecer. {tidak} nega o verbo, {bukan} nega o substantivo, e {belum} nega só o tempo.\n\n## Na Bíblia\n\nJoão 1:1 abre com {ada}: {Pada mulanya adalah Firman}. {adalah} é {ada} com o sufixo {lah}, e o indonésio diz «havia a Palavra» onde o grego diz {ἦν ὁ λόγος}. O verbo da existência é o mesmo em toda a Bíblia, e é a primeira palavra do versículo.\n\nMarcos 4:39 traz duas ordens sem sujeito e sem tempo: {Diam! Tenanglah!} «Cala-te! Acalma-te!». O indonésio não precisa flexionar para mandar: o verbo fica nu e o {lah} fecha a ordem. E João 3:16 usa {mengaruniakan}, de {karunia} «dádiva», com {meN-} e {-kan}: «deu» no sentido de dar como presente.",
+        "en": "## The verb that does not conjugate\n\nThe Indonesian verb does not change shape to say who speaks or when. {makan} is \"eat\" in the first person and the third, in the present and the past: {saya makan}, {dia makan}, {kemarin dia makan}. What changes the meaning is not in the verb, it is in the word that goes with it.\n\nThat changes what \"essential verb\" means. In Portuguese, the essential verb is the one that conjugates in every sentence. In Indonesian, it is the one that carries the meaning and takes the affixes: {makan} eat, {minum} drink, {pergi} go, {datang} come, {lihat} see, {dengar} hear, {tahu} know, {mau} want, {ada} be there, {bilang} say, {tidur} sleep, {baca} read, {tulis} write, {beri} give, {ambil} take, {kerja} work cover almost everything said in a chapter of a Gospel.\n\n## meN-: the prefix that changes the voice\n\nThe verb takes the prefix {meN-} when it is active and has an object: {makan} becomes {memakan}, {lihat} becomes {melihat}, {dengar} becomes {mendengar}, {tulis} becomes {menulis}, {baca} becomes {membaca}, {beri} becomes {memberi}, {ambil} becomes {mengambil}. The {N} is not a letter: it is the assimilation to the first sound of the root. Before {p}, {t}, {k} and {s} the sound drops and the root loses its consonant, as in {tulis} and {ambil}.\n\nWithout {meN-} the verb stays as it is, and the sentence changes voice without changing words. {Saya makan nasi} is \"I eat rice\"; {nasi itu dimakan} is \"that rice is eaten\", with {di-}, which is the passive {meN-}.\n\n## sudah, sedang, akan, belum: where the tense lives\n\nSince the verb does not inflect, the tense comes from four words that stand before it. {sudah} marks the finished: {saya sudah makan}, \"I have eaten\". {sedang} marks what is under way: {saya sedang makan}, \"I am eating\". {akan} marks what is coming: {saya akan makan}, \"I will eat\". And {belum} marks what has not happened yet: {saya belum makan}, \"I have not eaten yet\".\n\nThe fourth is the one Portuguese does not have with this precision. {belum} is not \"no\": it is \"not yet\", and it implies that it will happen. {tidak} negates the verb, {bukan} negates the noun, and {belum} negates only the time.\n\n## In the Bible\n\nJohn 1:1 opens with {ada}: {Pada mulanya adalah Firman}. {adalah} is {ada} with the suffix {lah}, and Indonesian says \"the Word was there\" where Greek says {ἦν ὁ λόγος}. The verb of existence is the same all through the Bible, and it is the first word of the verse.\n\nMark 4:39 has two commands with no subject and no tense: {Diam! Tenanglah!} \"Be silent! Be still!\". Indonesian does not need to inflect in order to command: the verb stays bare and the {lah} closes the order. And John 3:16 uses {mengaruniakan}, from {karunia} \"gift\", with {meN-} and {-kan}: \"gave\" in the sense of giving as a present.",
+        "es": "## El verbo que no se conjuga\n\nEl verbo indonesio no cambia de forma para decir quién habla ni cuándo. {makan} es «comer» en la primera persona y en la tercera, en el presente y en el pasado: {saya makan}, {dia makan}, {kemarin dia makan}. Lo que cambia el sentido no está en el verbo, está en la palabra que lo acompaña.\n\nEso cambia lo que «verbo esencial» quiere decir. En portugués, esencial es el verbo que se conjuga en toda frase. En indonesio, es el que lleva el sentido y recibe los afijos: {makan} comer, {minum} beber, {pergi} ir, {datang} venir, {lihat} ver, {dengar} oír, {tahu} saber, {mau} querer, {ada} haber, {bilang} decir, {tidur} dormir, {baca} leer, {tulis} escribir, {beri} dar, {ambil} tomar, {kerja} trabajar cubren casi todo lo que se dice en un capítulo de Evangelio.\n\n## meN-: el prefijo que cambia la voz\n\nEl verbo recibe el prefijo {meN-} cuando es activo y tiene objeto: {makan} se vuelve {memakan}, {lihat} se vuelve {melihat}, {dengar} se vuelve {mendengar}, {tulis} se vuelve {menulis}, {baca} se vuelve {membaca}, {beri} se vuelve {memberi}, {ambil} se vuelve {mengambil}. La {N} no es una letra: es la asimilación al primer sonido de la raíz. Ante {p}, {t}, {k} y {s} el sonido cae y la raíz pierde la consonante, como en {tulis} y {ambil}.\n\nSin {meN-} el verbo queda como está, y la frase cambia de voz sin cambiar de palabras. {Saya makan nasi} es «yo como arroz»; {nasi itu dimakan} es «ese arroz es comido», con {di-}, que es el {meN-} de la pasiva.\n\n## sudah, sedang, akan, belum: dónde vive el tiempo\n\nComo el verbo no flexiona, el tiempo viene de cuatro palabras que van delante de él. {sudah} marca lo acabado: {saya sudah makan}, «ya comí». {sedang} marca lo que está en curso: {saya sedang makan}, «estoy comiendo». {akan} marca lo que viene: {saya akan makan}, «voy a comer». Y {belum} marca lo que todavía no ha pasado: {saya belum makan}, «todavía no comí».\n\nEl cuarto es el que el portugués no tiene con esa precisión. {belum} no es «no»: es «todavía no», e implica que va a pasar. {tidak} niega el verbo, {bukan} niega el sustantivo, y {belum} niega solo el tiempo.\n\n## En la Biblia\n\nJuan 1:1 abre con {ada}: {Pada mulanya adalah Firman}. {adalah} es {ada} con el sufijo {lah}, y el indonesio dice «había la Palabra» donde el griego dice {ἦν ὁ λόγος}. El verbo de la existencia es el mismo en toda la Biblia, y es la primera palabra del versículo.\n\nMarcos 4:39 trae dos órdenes sin sujeto y sin tiempo: {Diam! Tenanglah!} «¡Cállate! ¡Cálmate!». El indonesio no necesita flexionar para mandar: el verbo queda desnudo y el {lah} cierra la orden. Y Juan 3:16 usa {mengaruniakan}, de {karunia} «dádiva», con {meN-} y {-kan}: «dio» en el sentido de dar como regalo."
+      },
+      "vocab": [
+        {
+          "form": "makan",
+          "lemma": "makan",
+          "lang": "id",
+          "pt": "comer",
+          "en": "to eat",
+          "es": "comer"
+        },
+        {
+          "form": "memakan",
+          "lemma": "makan",
+          "lang": "id",
+          "pt": "comer (ativo)",
+          "en": "to eat (active)",
+          "es": "comer (activo)"
+        },
+        {
+          "form": "minum",
+          "lemma": "minum",
+          "lang": "id",
+          "pt": "beber",
+          "en": "to drink",
+          "es": "beber"
+        },
+        {
+          "form": "pergi",
+          "lemma": "pergi",
+          "lang": "id",
+          "pt": "ir",
+          "en": "to go",
+          "es": "ir"
+        },
+        {
+          "form": "datang",
+          "lemma": "datang",
+          "lang": "id",
+          "pt": "vir",
+          "en": "to come",
+          "es": "venir"
+        },
+        {
+          "form": "lihat",
+          "lemma": "lihat",
+          "lang": "id",
+          "pt": "ver",
+          "en": "to see",
+          "es": "ver"
+        },
+        {
+          "form": "melihat",
+          "lemma": "lihat",
+          "lang": "id",
+          "pt": "ver (ativo)",
+          "en": "to see (active)",
+          "es": "ver (activo)"
+        },
+        {
+          "form": "dengar",
+          "lemma": "dengar",
+          "lang": "id",
+          "pt": "ouvir",
+          "en": "to hear",
+          "es": "oír"
+        },
+        {
+          "form": "mendengar",
+          "lemma": "dengar",
+          "lang": "id",
+          "pt": "ouvir (ativo)",
+          "en": "to hear (active)",
+          "es": "oír (activo)"
+        },
+        {
+          "form": "tahu",
+          "lemma": "tahu",
+          "lang": "id",
+          "pt": "saber",
+          "en": "to know",
+          "es": "saber"
+        },
+        {
+          "form": "mau",
+          "lemma": "mau",
+          "lang": "id",
+          "pt": "querer",
+          "en": "to want",
+          "es": "querer"
+        },
+        {
+          "form": "ada",
+          "lemma": "ada",
+          "lang": "id",
+          "pt": "haver, existir",
+          "en": "to be there, to exist",
+          "es": "haber, existir"
+        },
+        {
+          "form": "adalah",
+          "lemma": "ada",
+          "lang": "id",
+          "pt": "é (existencial)",
+          "en": "is (existential)",
+          "es": "es (existencial)"
+        },
+        {
+          "form": "sudah",
+          "lemma": "sudah",
+          "lang": "id",
+          "pt": "já",
+          "en": "already",
+          "es": "ya"
+        },
+        {
+          "form": "sedang",
+          "lemma": "sedang",
+          "lang": "id",
+          "pt": "estar fazendo",
+          "en": "to be doing",
+          "es": "estar haciendo"
+        },
+        {
+          "form": "akan",
+          "lemma": "akan",
+          "lang": "id",
+          "pt": "ir (futuro)",
+          "en": "will",
+          "es": "ir a (futuro)"
+        },
+        {
+          "form": "belum",
+          "lemma": "belum",
+          "lang": "id",
+          "pt": "ainda não",
+          "en": "not yet",
+          "es": "todavía no"
+        },
+        {
+          "form": "berkata",
+          "lemma": "kata",
+          "lang": "id",
+          "pt": "dizer",
+          "en": "to say",
+          "es": "decir"
+        },
+        {
+          "form": "tinggal",
+          "lemma": "tinggal",
+          "lang": "id",
+          "pt": "morar, ficar",
+          "en": "to live, to stay",
+          "es": "vivir, quedarse"
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "O verbo não flexiona: {saya makan}, {dia makan}, {kemarin dia makan} têm a mesma forma.",
+            "en": "The verb does not inflect: {saya makan}, {dia makan}, {kemarin dia makan} have the same shape.",
+            "es": "El verbo no flexiona: {saya makan}, {dia makan}, {kemarin dia makan} tienen la misma forma."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "{meN-} é o ativo com objeto: {makan} → {memakan}, {lihat} → {melihat}, {dengar} → {mendengar}.",
+            "en": "{meN-} is the active with an object: {makan} → {memakan}, {lihat} → {melihat}, {dengar} → {mendengar}.",
+            "es": "{meN-} es el activo con objeto: {makan} → {memakan}, {lihat} → {melihat}, {dengar} → {mendengar}."
+          }
+        },
+        {
+          "n": "§3",
+          "text": {
+            "pt": "Diante de {p}, {t}, {k} e {s} o som do prefixo cai: {tulis} → {menulis}, {ambil} → {mengambil}.",
+            "en": "Before {p}, {t}, {k} and {s} the prefix sound drops: {tulis} → {menulis}, {ambil} → {mengambil}.",
+            "es": "Ante {p}, {t}, {k} y {s} el sonido del prefijo cae: {tulis} → {menulis}, {ambil} → {mengambil}."
+          }
+        },
+        {
+          "n": "§4",
+          "text": {
+            "pt": "{sudah} «já», {sedang} «em curso», {akan} «futuro», {belum} «ainda não»: o tempo fica antes do verbo.",
+            "en": "{sudah} \"already\", {sedang} \"under way\", {akan} \"future\", {belum} \"not yet\": the tense stands before the verb.",
+            "es": "{sudah} «ya», {sedang} «en curso», {akan} «futuro», {belum} «todavía no»: el tiempo va delante del verbo."
+          }
+        },
+        {
+          "n": "§5",
+          "text": {
+            "pt": "{belum} não é {tidak}: nega só o tempo, e implica que ainda vai acontecer.",
+            "en": "{belum} is not {tidak}: it negates only the time, and implies it will still happen.",
+            "es": "{belum} no es {tidak}: niega solo el tiempo, e implica que todavía va a pasar."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "O ada que não é «ter»",
+            "en": "The ada that is not \"have\"",
+            "es": "El ada que no es «tener»"
+          },
+          "text": {
+            "pt": "{ada} é existência, não posse. «Eu tenho um livro» é {saya punya buku}, com {punya}, e {ada buku} é só «há um livro». Quem traduz {ada} por «ter» inverte a frase.",
+            "en": "{ada} is existence, not possession. \"I have a book\" is {saya punya buku}, with {punya}, and {ada buku} is only \"there is a book\". Whoever translates {ada} as \"have\" turns the sentence around.",
+            "es": "{ada} es existencia, no posesión. «Yo tengo un libro» es {saya punya buku}, con {punya}, y {ada buku} es solo «hay un libro». Quien traduce {ada} por «tener» invierte la frase."
+          }
+        },
+        {
+          "label": {
+            "pt": "O imperativo sem forma própria",
+            "en": "The imperative with no form of its own",
+            "es": "El imperativo sin forma propia"
+          },
+          "text": {
+            "pt": "O indonésio não tem imperativo flexionado: o verbo nu já é ordem, e {lah} reforça. {Diam!} é «cala-te» sem desinência, sem pessoa e sem sujeito.",
+            "en": "Indonesian has no inflected imperative: the bare verb is already a command, and {lah} reinforces it. {Diam!} is \"be silent\" with no ending, no person and no subject.",
+            "es": "El indonesio no tiene imperativo flexionado: el verbo desnudo ya es orden, y {lah} la refuerza. {Diam!} es «cállate» sin desinencia, sin persona y sin sujeto."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Pada mulanya adalah Firman",
+          "gloss": {
+            "pt": "Jo 1:1 — {adalah} é {ada} com {lah}: a Palavra existia.",
+            "en": "John 1:1 — {adalah} is {ada} with {lah}: the Word was there.",
+            "es": "Jn 1:1 — {adalah} es {ada} con {lah}: la Palabra existía."
+          }
+        },
+        {
+          "text": "Diam! Tenanglah!",
+          "gloss": {
+            "pt": "Mc 4:39 — duas ordens sem sujeito nem tempo.",
+            "en": "Mark 4:39 — two commands with no subject and no tense.",
+            "es": "Mc 4:39 — dos órdenes sin sujeto ni tiempo."
+          }
+        },
+        {
+          "text": "Ia telah mengaruniakan Anak-Nya",
+          "gloss": {
+            "pt": "Jo 3:16 — {mengaruniakan}, de {karunia}: deu como dádiva.",
+            "en": "John 3:16 — {mengaruniakan}, from {karunia}: gave as a gift.",
+            "es": "Jn 3:16 — {mengaruniakan}, de {karunia}: dio como dádiva."
+          }
+        },
+        {
+          "text": "saya sudah makan",
+          "gloss": {
+            "pt": "{sudah} antes do verbo: comi.",
+            "en": "{sudah} before the verb: I have eaten.",
+            "es": "{sudah} delante del verbo: ya comí."
+          }
+        },
+        {
+          "text": "saya sedang makan",
+          "gloss": {
+            "pt": "{sedang} antes do verbo: estou comendo.",
+            "en": "{sedang} before the verb: I am eating.",
+            "es": "{sedang} delante del verbo: estoy comiendo."
+          }
+        },
+        {
+          "text": "saya belum makan",
+          "gloss": {
+            "pt": "{belum} nega o tempo, não o fato.",
+            "en": "{belum} negates the time, not the fact.",
+            "es": "{belum} niega el tiempo, no el hecho."
+          }
+        },
+        {
+          "text": "nasi itu dimakan",
+          "gloss": {
+            "pt": "{di-} faz o passivo sem mudar o verbo.",
+            "en": "{di-} makes the passive without changing the verb.",
+            "es": "{di-} hace la pasiva sin cambiar el verbo."
+          }
+        },
+        {
+          "text": "saya punya buku",
+          "gloss": {
+            "pt": "{punya} é «ter»; {ada} seria «há».",
+            "en": "{punya} is \"have\"; {ada} would be \"there is\".",
+            "es": "{punya} es «tener»; {ada} sería «hay»."
+          }
+        },
+        {
+          "text": "dia menulis surat",
+          "gloss": {
+            "pt": "{tulis} → {menulis}: o {t} cai diante de {meN-}.",
+            "en": "{tulis} → {menulis}: the {t} drops before {meN-}.",
+            "es": "{tulis} → {menulis}: la {t} cae ante {meN-}."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Os essenciais, com e sem meN-",
+            "en": "The essentials, with and without meN-",
+            "es": "Los esenciales, con y sin meN-"
+          },
+          "head": [
+            {
+              "pt": "Raiz",
+              "en": "Root",
+              "es": "Raíz"
+            },
+            {
+              "pt": "Ativo",
+              "en": "Active",
+              "es": "Activo"
+            },
+            {
+              "pt": "Passivo",
+              "en": "Passive",
+              "es": "Pasivo"
+            },
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "{makan}",
+                "en": "{makan}",
+                "es": "{makan}"
+              },
+              "{memakan}",
+              "{dimakan}",
+              {
+                "pt": "comer",
+                "en": "to eat",
+                "es": "comer"
+              }
+            ],
+            [
+              {
+                "pt": "{lihat}",
+                "en": "{lihat}",
+                "es": "{lihat}"
+              },
+              "{melihat}",
+              "{dilihat}",
+              {
+                "pt": "ver",
+                "en": "to see",
+                "es": "ver"
+              }
+            ],
+            [
+              {
+                "pt": "{dengar}",
+                "en": "{dengar}",
+                "es": "{dengar}"
+              },
+              "{mendengar}",
+              "{didengar}",
+              {
+                "pt": "ouvir",
+                "en": "to hear",
+                "es": "oír"
+              }
+            ],
+            [
+              {
+                "pt": "{tulis}",
+                "en": "{tulis}",
+                "es": "{tulis}"
+              },
+              "{menulis}",
+              "{ditulis}",
+              {
+                "pt": "escrever",
+                "en": "to write",
+                "es": "escribir"
+              }
+            ],
+            [
+              {
+                "pt": "{baca}",
+                "en": "{baca}",
+                "es": "{baca}"
+              },
+              "{membaca}",
+              "{dibaca}",
+              {
+                "pt": "ler",
+                "en": "to read",
+                "es": "leer"
+              }
+            ],
+            [
+              {
+                "pt": "{beri}",
+                "en": "{beri}",
+                "es": "{beri}"
+              },
+              "{memberi}",
+              "{diberi}",
+              {
+                "pt": "dar",
+                "en": "to give",
+                "es": "dar"
+              }
+            ],
+            [
+              {
+                "pt": "{ambil}",
+                "en": "{ambil}",
+                "es": "{ambil}"
+              },
+              "{mengambil}",
+              "{diambil}",
+              {
+                "pt": "tomar",
+                "en": "to take",
+                "es": "tomar"
+              }
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "As quatro marcas de tempo",
+            "en": "The four tense markers",
+            "es": "Las cuatro marcas de tiempo"
+          },
+          "head": [
+            {
+              "pt": "Marca",
+              "en": "Marker",
+              "es": "Marca"
+            },
+            {
+              "pt": "Sentido",
+              "en": "Meaning",
+              "es": "Sentido"
+            },
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "{sudah}",
+                "en": "{sudah}",
+                "es": "{sudah}"
+              },
+              {
+                "pt": "acabado",
+                "en": "finished",
+                "es": "acabado"
+              },
+              "{saya sudah makan}"
+            ],
+            [
+              {
+                "pt": "{sedang}",
+                "en": "{sedang}",
+                "es": "{sedang}"
+              },
+              {
+                "pt": "em curso",
+                "en": "under way",
+                "es": "en curso"
+              },
+              "{saya sedang makan}"
+            ],
+            [
+              {
+                "pt": "{akan}",
+                "en": "{akan}",
+                "es": "{akan}"
+              },
+              {
+                "pt": "futuro",
+                "en": "future",
+                "es": "futuro"
+              },
+              "{saya akan makan}"
+            ],
+            [
+              {
+                "pt": "{belum}",
+                "en": "{belum}",
+                "es": "{belum}"
+              },
+              {
+                "pt": "ainda não",
+                "en": "not yet",
+                "es": "todavía no"
+              },
+              "{saya belum makan}"
+            ]
+          ]
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em {Pada mulanya adalah Firman}, de que verbo vem {adalah}?",
+          "en": "In {Pada mulanya adalah Firman}, which verb does {adalah} come from?",
+          "es": "En {Pada mulanya adalah Firman}, ¿de qué verbo viene {adalah}?"
+        },
+        "options": [
+          {
+            "pt": "{ada}",
+            "en": "{ada}",
+            "es": "{ada}"
+          },
+          {
+            "pt": "{adalah}",
+            "en": "{adalah}",
+            "es": "{adalah}"
+          },
+          {
+            "pt": "{punya}",
+            "en": "{punya}",
+            "es": "{punya}"
+          },
+          {
+            "pt": "{makan}",
+            "en": "{makan}",
+            "es": "{makan}"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete \"Diam! ___!\" com a ordem de acalmar (raiz {tenang}).",
+            "en": "Complete \"Diam! ___!\" with the command to be still (root {tenang}).",
+            "es": "Complete «Diam! ___!» con la orden de calmarse (raíz {tenang})."
+          },
+          "answer": "Tenanglah"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue o verbo ao seu ativo com meN-.",
+            "en": "Match the verb to its active form with meN-.",
+            "es": "Une el verbo con su activo con meN-."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "{tulis}",
+                "en": "{tulis}",
+                "es": "{tulis}"
+              },
+              "b": {
+                "pt": "{menulis}",
+                "en": "{menulis}",
+                "es": "{menulis}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{lihat}",
+                "en": "{lihat}",
+                "es": "{lihat}"
+              },
+              "b": {
+                "pt": "{melihat}",
+                "en": "{melihat}",
+                "es": "{melihat}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{ambil}",
+                "en": "{ambil}",
+                "es": "{ambil}"
+              },
+              "b": {
+                "pt": "{mengambil}",
+                "en": "{mengambil}",
+                "es": "{mengambil}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{dengar}",
+                "en": "{dengar}",
+                "es": "{dengar}"
+              },
+              "b": {
+                "pt": "{mendengar}",
+                "en": "{mendengar}",
+                "es": "{mendengar}"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual marca diz «ainda não, mas vai acontecer»?",
+            "en": "Which marker says \"not yet, but it will happen\"?",
+            "es": "¿Qué marca dice «todavía no, pero va a pasar»?"
+          },
+          "options": [
+            {
+              "pt": "{tidak}",
+              "en": "{tidak}",
+              "es": "{tidak}"
+            },
+            {
+              "pt": "{belum}",
+              "en": "{belum}",
+              "es": "{belum}"
+            },
+            {
+              "pt": "{bukan}",
+              "en": "{bukan}",
+              "es": "{bukan}"
+            },
+            {
+              "pt": "{sudah}",
+              "en": "{sudah}",
+              "es": "{sudah}"
+            }
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
       "title": {
         "pt": "Tempo, aspecto e negação",
         "en": "Time, aspect, and negation",
@@ -962,7 +1627,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": {
         "pt": "Leitura: Yohanes 1:1 (TB)",
         "en": "Reading: John 1:1 (Indonesian)",
@@ -1269,7 +1934,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "title": {
         "pt": "Sufixos -kan, -i e redupicação",
         "en": "-kan, -i suffixes and reduplication",
@@ -1572,7 +2237,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "title": {
         "pt": "Leitura: Pai-Nosso e Salmo 22",
         "en": "Reading: The Lord’s Prayer and Psalm 22",
@@ -1888,7 +2553,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "title": {
         "pt": "Prefixos per- e ke-; sufixo -an",
         "en": "per- and ke- prefixes; -an suffix",
@@ -2205,7 +2870,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "title": {
         "pt": "Registro e tratamento",
         "en": "Register and address",
@@ -2538,7 +3203,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "title": {
         "pt": "Classificadores e quantidade",
         "en": "Classifiers and quantity",
@@ -2871,7 +3536,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "title": {
         "pt": "Voz passiva: di- e ter-",
         "en": "Passive voice: di- and ter-",
@@ -3170,7 +3835,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "title": {
         "pt": "Discurso indireto com bahwa",
         "en": "Indirect speech with bahwa",
@@ -3503,7 +4168,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "section": {
         "pt": "O nome",
         "en": "The noun",
@@ -4032,7 +4697,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "section": {
         "pt": "O nome",
         "en": "The noun",
@@ -4583,7 +5248,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "section": {
         "pt": "Partícula",
         "en": "Particle",
@@ -5120,7 +5785,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "section": {
         "pt": "Partícula",
         "en": "Particle",
@@ -5689,7 +6354,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 17,
       "section": {
         "pt": "O nome",
         "en": "The noun",
@@ -6285,7 +6950,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "section": {
         "pt": "Advérbio",
         "en": "Adverb",
@@ -6836,7 +7501,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 19,
       "section": {
         "pt": "Advérbio",
         "en": "Adverb",
@@ -7401,7 +8066,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 20,
       "section": {
         "pt": "Numeral",
         "en": "Numeral",
@@ -8035,7 +8700,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "section": {
         "pt": "Numeral",
         "en": "Numeral",
@@ -8685,7 +9350,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
       "section": {
         "pt": "Verbo",
         "en": "Verb",
@@ -9309,7 +9974,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "section": {
         "pt": "Verbo",
         "en": "Verb",
@@ -9884,7 +10549,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 24,
       "section": {
         "pt": "Verbo",
         "en": "Verb",
@@ -10471,7 +11136,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "section": {
         "pt": "Verbo",
         "en": "Verb",
@@ -11066,7 +11731,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "section": {
         "pt": "Verbo",
         "en": "Verb",
@@ -11631,7 +12296,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "section": {
         "pt": "Preposições",
         "en": "Prepositions",
@@ -12232,7 +12897,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "section": {
         "pt": "Conjunções",
         "en": "Conjunctions",
@@ -12821,7 +13486,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 29,
       "section": {
         "pt": "Sintaxe",
         "en": "Syntax",
@@ -13424,7 +14089,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 30,
       "section": {
         "pt": "Leitura",
         "en": "Reading",
@@ -13969,7 +14634,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 31,
       "section": {
         "pt": "Leitura",
         "en": "Reading",
@@ -14548,5 +15213,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g7edaa33a"
+  "contentVersion": "1.0.0+g6d53901e"
 }
