@@ -6,21 +6,21 @@
       "id": "grc",
       "lang": "grc",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+gd620be9a",
-      "lessons": 30,
+      "contentVersion": "1.0.0+gde01e4f4",
+      "lessons": 31,
       "file": "courses/grc.json",
-      "bytes": 796019,
-      "sha256": "a68dabb2e7177c51"
+      "bytes": 830543,
+      "sha256": "25671e05c5b768a1"
     },
     {
       "id": "grc-mod",
       "lang": "grc",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g4ec3062d",
-      "lessons": 30,
+      "contentVersion": "1.0.0+gd46860fc",
+      "lessons": 31,
       "file": "courses/grc-mod.json",
-      "bytes": 605244,
-      "sha256": "7fc2a6f8a8ad71ee"
+      "bytes": 633956,
+      "sha256": "32e250996aeba4b5"
     },
     {
       "id": "heb",
@@ -36,11 +36,11 @@
       "id": "la",
       "lang": "la",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+ge336b896",
-      "lessons": 30,
+      "contentVersion": "1.0.0+gc8cc3ea2",
+      "lessons": 31,
       "file": "courses/la.json",
-      "bytes": 1056630,
-      "sha256": "98e6dc14dd3bb3e6"
+      "bytes": 1088327,
+      "sha256": "af7fdbea0c91ddf5"
     },
     {
       "id": "es",

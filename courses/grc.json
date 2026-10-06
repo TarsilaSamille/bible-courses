@@ -2516,6 +2516,730 @@
     },
     {
       "id": 5,
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "title": {
+        "pt": "Os verbos essenciais",
+        "en": "The essential verbs",
+        "es": "Los verbos esenciales"
+      },
+      "subtitle": {
+        "pt": "ἔρχομαι, εἰμί, λέγω, ἐσθίω: as raízes que prendem o NT",
+        "en": "ἔρχομαι, εἰμί, λέγω, ἐσθίω: the roots that hold the NT together",
+        "es": "ἔρχομαι, εἰμί, λέγω, ἐσθίω: las raíces que sostienen el NT"
+      },
+      "body": {
+        "pt": "## Seis verbos que nenhuma gramática discute\n\nO Novo Testamento se apoia em meia dúzia de verbos. {ἔρχομαι} «ir, vir», {εἰμί} «ser», {γίνομαι} «tornar-se, acontecer», {λέγω} «dizer», {ἀκούω} «ouvir» e {ἐσθίω} «comer» aparecem em quase todo versículo, e nenhum deles tem conjugação regular.\n\nA dificuldade de cada um é diferente. {εἰμί} não segue o paradigma de {-ω}: no presente faz {εἰμί}, {εἶ}, {ἐστίν}, {ἐσμέν}, {ἐστέ}, {εἰσίν}, e no imperfeito {ἤμην}, {ἦς}, {ἦν}. É o verbo que fecha a identidade das coisas.\n\n{ἔρχομαι} é deponente — só tem médio — e muda o tema conforme o tempo: presente {ἔρχομαι}, imperfeito {ἠρχόμην}, futuro {ἐλεύσομαι}, aoristo {ἦλθον}. Três temas em um verbo só, e o aoristo não tem nenhuma letra do presente.\n\n{γίνομαι} é o mais traiçoeiro: parece {γίνομαι}, é deponente, é raiz de {γένους} e ainda assim o aoristo sai com {ἐγενόμην}. O sentido de «acontecer» emerge do mesmo verbo que faz «tornar-se»: {ἐγένετο} responde tanto a «ele tornou-se» quanto a «aconteceu».\n\n## εἰμί e ἔχω: ser e ter\n\nO grego do NT continua tendo {εἰμί} onde o hebraico usa {הָיָה}, e o paralelo é exato: {ἦν} «era», como em João 1:1. Mas onde o hebraico continua sem verbo «ter», o grego ganhou um: {ἔχω}. O tradutor que lê {ἔχω} como «ter» perde o verbo que diz «estar com», «possuir» e «levar».\n\n{λέγω} e {ἐσθίω} são a mesma história em graus diferentes. Ambos mudam de tema nos tempos compostos: {εἶπον}, {ἐφάγον}, {φάγω}. O que o português guarda no mesmo infinitivo ({dizer}, {comer}), o grego exprime com três pedaços que se memorizam separados.\n\n## Aoristo, perfeito e o que se perde na tradução\n\n{ἐσθίω} no aoristo é {ἐφάγον} — o «comi» acabado. Mas o perfeito muda tudo: {ἐδήδοκα} traz o estado do que está comido. No diálogo do pão em João 6, {ἐσθίει} e os derivados continuam o aspecto imperfectivo.\n\nA distinção entre {ἦλθον} e {ἐλήλυθα} diz o mesmo que «vim» e «tenho vindo»: um marca o evento, outro o estado atual que dele vem. O leitor que só usa o infinitivo para buscar no léxico perde exatamente essa nota.\n\n## Na Bíblia\n\nJoão 1:1 faz dois verbos em cinco palavras: {Ἐν ἀρχῇ ἦν ὁ λόγος}. {ἦν} é imperfeito de {εἰμί} — o cenário que já estava dado antes do ponto de observação. E João 1:3 fecha com {ἐγένετο}, {γίνομαι} de novo em aoristo, para marcar a criação que se fez. O grego que começa com {ἦν} termina com {ἐγένετο}: o Verbo já era, e tudo o resto aconteceu.\n\nMarcos 4:39 traz {πεφίμωσο}, «calamo-te»: é a forma passiva do aoristo de {φιμόω}, «amarrar a boca». O versículo inteiro mostra o método: o grego coloca a ordem de Jesus no passivo para dizer que o mar não responde à ordem, mas a Cristo.",
+        "en": "## Six verbs no grammar argues with\n\nThe New Testament rests on half a dozen verbs. {ἔρχομαι} \"to come, go\", {εἰμί} \"to be\", {γίνομαι} \"to become, happen\", {λέγω} \"to say\", {ἀκούω} \"to hear\" and {ἐσθίω} \"to eat\" appear in almost every verse, and none of them has a regular conjugation.\n\nThe difficulty of each is different. {εἰμί} does not follow the {-ω} paradigm: in the present it makes {εἰμί}, {εἶ}, {ἐστίν}, {ἐσμέν}, {ἐστέ}, {εἰσίν}, and in the imperfect {ἤμην}, {ἦς}, {ἦν}. It is the verb that closes the identity of things.\n\n{ἔρχομαι} is deponent — it has only a middle — and changes its stem with the tense: present {ἔρχομαι}, imperfect {ἠρχόμην}, future {ἐλεύσομαι}, aorist {ἦλθον}. Three stems in one verb, and the aorist shares no letter with the present.\n\n{γίνομαι} is the most treacherous: it looks like {γίνομαι}, is deponent, is the root of {γένους}, and yet the aorist comes out as {ἐγενόμην}. The sense of \"happen\" emerges from the same verb that makes \"become\": {ἐγένετο} answers both \"he became\" and \"it happened\".\n\n## εἰμί and ἔχω: to be and to have\n\nThe Greek of the NT still has {εἰμί} where Hebrew uses {הָיָה}, and the parallel is exact: {ἦν} \"was\", as in John 1:1. But where Hebrew still has no verb \"to have\", Greek gained one: {ἔχω}. The translator who reads {ἔχω} as \"have\" loses the verb that says \"be with\", \"possess\" and \"carry\".\n\n{λέγω} and {ἐσθίω} are the same story in different degrees. Both change stem in the compound tenses: {εἶπον}, {ἐφάγον}, {φάγω}. What Portuguese keeps in the same infinitive ({dizer}, {comer}), Greek expresses with three pieces that are memorized separately.\n\n## Aorist, perfect, and what translation loses\n\n{ἐσθίω} in the aorist is {ἐφάγον} — the finished \"I ate\". But the perfect changes everything: {ἐδήδοκα} carries the state of what has been eaten. In the bread dialogue of John 6, {ἐσθίει} and its derivatives continue the imperfective aspect.\n\nThe distinction between {ἦλθον} and {ἐλήλυθα} says the same as \"I came\" and \"I have been coming\": one marks the event, the other the present state that comes from it. The reader who only uses the infinitive to look up the lexicon loses exactly that note.\n\n## In the Bible\n\nJohn 1:1 makes two verbs in five words: {Ἐν ἀρχῇ ἦν ὁ λόγος}. {ἦν} is the imperfect of {εἰμί} — the scene already given before the point of observation. And John 1:3 closes with {ἐγένετο}, {γίνομαι} again in the aorist, to mark the creation that was made. The Greek that begins with {ἦν} ends with {ἐγένετο}: the Word already was, and everything else happened.\n\nMark 4:39 has {πεφίμωσο}, \"be muzzled\": it is the passive form of the aorist of {φιμόω}, \"to muzzle\". The whole verse shows the method: Greek places Jesus' command in the passive to say that the sea does not answer the command, but to Christ.",
+        "es": "## Seis verbos que ninguna gramática discute\n\nEl Nuevo Testamento se apoya en media docena de verbos. {ἔρχομαι} «ir, venir», {εἰμί} «ser», {γίνομαι} «llegar a ser, acontecer», {λέγω} «decir», {ἀκούω} «oír» y {ἐσθίω} «comer» aparecen en casi todo versículo, y ninguno de ellos tiene conjugación regular.\n\nLa dificultad de cada uno es diferente. {εἰμί} no sigue el paradigma de {-ω}: en presente hace {εἰμί}, {εἶ}, {ἐστίν}, {ἐσμέν}, {ἐστέ}, {εἰσίν}, y en imperfecto {ἤμην}, {ἦς}, {ἦν}. Es el verbo que cierra la identidad de las cosas.\n\n{ἔρχομαι} es deponente — solo tiene medio — y cambia de raíz según el tiempo: presente {ἔρχομαι}, imperfecto {ἠρχόμην}, futuro {ἐλεύσομαι}, aoristo {ἦλθον}. Tres raíces en un solo verbo, y el aoristo no comparte ninguna letra con el presente.\n\n{γίνομαι} es el más traicionero: parece {γίνομαι}, es deponente, es raíz de {γένους} y sin embargo el aoristo sale con {ἐγενόμην}. El sentido de «acontecer» emerge del mismo verbo que hace «llegar a ser»: {ἐγένετο} responde tanto a «él llegó a ser» como a «aconteció».\n\n## εἰμί y ἔχω: ser y tener\n\nEl griego del NT sigue teniendo {εἰμί} donde el hebreo usa {הָיָה}, y el paralelo es exacto: {ἦν} «era», como en Juan 1:1. Pero donde el hebreo sigue sin verbo «tener», el griego ganó uno: {ἔχω}. El traductor que lee {ἔχω} como «tener» pierde el verbo que dice «estar con», «poseer» y «llevar».\n\n{λέγω} y {ἐσθίω} son la misma historia en grados distintos. Ambos cambian de raíz en los tiempos compuestos: {εἶπον}, {ἐφάγον}, {φάγω}. Lo que el portugués guarda en el mismo infinitivo ({dizer}, {comer}), el griego expresa con tres pedazos que se memorizan separados.\n\n## Aoristo, perfecto y lo que la traducción pierde\n\n{ἐσθίω} en aoristo es {ἐφάγον} — el «comí» acabado. Pero el perfecto lo cambia todo: {ἐδήδοκα} trae el estado de lo que se ha comido. En el diálogo del pan en Juan 6, {ἐσθίει} y los derivados continúan el aspecto imperfectivo.\n\nLa distinción entre {ἦλθον} y {ἐλήλυθα} dice lo mismo que «vine» y «he venido»: uno marca el evento, otro el estado actual que de él viene. El lector que solo usa el infinitivo para buscar en el léxico pierde exactamente esa nota.\n\n## En la Biblia\n\nJuan 1:1 hace dos verbos en cinco palabras: {Ἐν ἀρχῇ ἦν ὁ λόγος}. {ἦν} es imperfecto de {εἰμί} — la escena ya dada antes del punto de observación. Y Juan 1:3 cierra con {ἐγένετο}, {γίνομαι} de nuevo en aoristo, para marcar la creación que se hizo. El griego que comienza con {ἦν} termina con {ἐγένετο}: el Verbo ya era, y todo lo demás aconteció.\n\nMarcos 4:39 trae {πεφίμωσ0}, «callate»: es la forma pasiva del aoristo de {φιμόω}, «amordazar». El versículo entero muestra el método: el griego coloca la orden de Jesús en pasivo para decir que el mar no responde a la orden, sino a Cristo."
+      },
+      "vocab": [
+        {
+          "form": "ἔρχομαι",
+          "lemma": "ἔρχομαι",
+          "lang": "grc",
+          "pt": "ir / vir (pres. depoente)",
+          "en": "to come, go (pres. deponent)",
+          "es": "ir / venir (pres. deponente)"
+        },
+        {
+          "form": "ἦλθον",
+          "lemma": "ἔρχομαι",
+          "lang": "grc",
+          "pt": "veio (aoristo)",
+          "en": "came (aorist)",
+          "es": "vino (aoristo)"
+        },
+        {
+          "form": "εἰμί",
+          "lemma": "εἰμί",
+          "lang": "grc",
+          "pt": "ser",
+          "en": "to be",
+          "es": "ser"
+        },
+        {
+          "form": "ἦν",
+          "lemma": "εἰμί",
+          "lang": "grc",
+          "pt": "era",
+          "en": "was",
+          "es": "era"
+        },
+        {
+          "form": "γίνομαι",
+          "lemma": "γίνομαι",
+          "lang": "grc",
+          "pt": "tornar-se",
+          "en": "to become",
+          "es": "llegar a ser"
+        },
+        {
+          "form": "ἐγένετο",
+          "lemma": "γίνομαι",
+          "lang": "grc",
+          "pt": "aconteceu",
+          "en": "happened",
+          "es": "aconteció"
+        },
+        {
+          "form": "λέγω",
+          "lemma": "λέγω",
+          "lang": "grc",
+          "pt": "dizer",
+          "en": "to say",
+          "es": "decir"
+        },
+        {
+          "form": "εἶπον",
+          "lemma": "λέγω",
+          "lang": "grc",
+          "pt": "disse (aoristo)",
+          "en": "said (aorist)",
+          "es": "dijo (aoristo)"
+        },
+        {
+          "form": "ἐσθίω",
+          "lemma": "ἐσθίω",
+          "lang": "grc",
+          "pt": "comer",
+          "en": "to eat",
+          "es": "comer"
+        },
+        {
+          "form": "ἐφάγον",
+          "lemma": "ἐσθίω",
+          "lang": "grc",
+          "pt": "comi (aoristo)",
+          "en": "ate (aorist)",
+          "es": "comí (aoristo)"
+        },
+        {
+          "form": "ἔχω",
+          "lemma": "ἔχω",
+          "lang": "grc",
+          "pt": "ter",
+          "en": "to have",
+          "es": "tener"
+        },
+        {
+          "form": "ἀκούω",
+          "lemma": "ἀκούω",
+          "lang": "grc",
+          "pt": "ouvir",
+          "en": "to hear",
+          "es": "oír"
+        },
+        {
+          "form": "ἤκουσα",
+          "lemma": "ἀκούω",
+          "lang": "grc",
+          "pt": "ouvi (aoristo)",
+          "en": "heard (aorist)",
+          "es": "oí (aoristo)"
+        },
+        {
+          "form": "βλέπω",
+          "lemma": "βλέπω",
+          "lang": "grc",
+          "pt": "ver",
+          "en": "to see",
+          "es": "ver"
+        },
+        {
+          "form": "εἶδον",
+          "lemma": "βλέπω",
+          "lang": "grc",
+          "pt": "vi (aoristo)",
+          "en": "saw (aorist)",
+          "es": "vi (aoristo)"
+        },
+        {
+          "form": "δίδωμι",
+          "lemma": "δίδωμι",
+          "lang": "grc",
+          "pt": "dar",
+          "en": "to give",
+          "es": "dar"
+        },
+        {
+          "form": "ἔδωκα",
+          "lemma": "δίδωμι",
+          "lang": "grc",
+          "pt": "dei (aoristo)",
+          "en": "gave (aorist)",
+          "es": "di (aoristo)"
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "{εἰμί} não conjuga em {-ω}: presente {εἰμί} — {εἶ} — {ἐστίν}; imperfeito {ἤμην} — {ἦς} — {ἦν}. É memorizar, não deduzir.",
+            "en": "{εἰμί} does not conjugate in {-ω}: present {εἰμί} — {εἶ} — {ἐστίν}; imperfect {ἤμην} — {ἦς} — {ἦν}. It is memorizing, not deducing.",
+            "es": "{εἰμί} no conjuga en {-ω}: presente {εἰμί} — {εἶ} — {ἐστίν}; imperfecto {ἤμην} — {ἦς} — {ἦν}. Es memorizar, no deducir."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "Verbos deponentes não têm voz ativa, mas recebem formas médias: {γίνομαι}, {ἔρχομαι}, {ἀποκρίνομαι}. O aoristo de {ἔρχομαι} é {ἦλθον}, e não deriva do presente.",
+            "en": "Deponent verbs have no active voice, but receive middle forms: {γίνομαι}, {ἔρχομαι}, {ἀποκρίνομαι}. The aorist of {ἔρχομαι} is {ἦλθον}, and does not derive from the present.",
+            "es": "Los verbos deponentes no tienen voz activa, pero reciben formas medias: {γίνομαι}, {ἔρχομαι}, {ἀποκρίνομαι}. El aoristo de {ἔρχομαι} es {ἦλθον}, y no deriva del presente."
+          }
+        },
+        {
+          "n": "§3",
+          "text": {
+            "pt": "O aoristo de {ἐσθίω} é {ἐφάγον}, de {λέγω} é {εἶπον}, de {βλέπω} é {εἶδον}: três temas separados, três notas, um verbo só.",
+            "en": "The aorist of {ἐσθίω} is {ἐφάγον}, of {λέγω} is {εἶπον}, of {βλέπω} is {εἶδον}: three separate stems, three notes, one verb.",
+            "es": "El aoristo de {ἐσθίω} es {ἐφάγον}, de {λέγω} es {εἶπον}, de {βλέπω} es {εἶδον}: tres raíces separadas, tres notas, un verbo."
+          }
+        },
+        {
+          "n": "§4",
+          "text": {
+            "pt": "{ἦν} e {ἐγένετο} não se trocam: {ἦν} é cenário (João 1:1), {ἐγένετο} é o que aconteceu no ponto X (João 1:3).",
+            "en": "{ἦν} and {ἐγένετο} are not interchangeable: {ἦν} is scene (John 1:1), {ἐγένετο} is what happened at point X (John 1:3).",
+            "es": "{ἦν} y {ἐγένετο} no se intercambian: {ἦν} es escena (Juan 1:1), {ἐγένετο} es lo que aconteció en el punto X (Juan 1:3)."
+          }
+        },
+        {
+          "n": "§5",
+          "text": {
+            "pt": "O grego do NT não tem verbo «ter» comum; {ἔχω} cobre «ter», «possuir» e «estar com». Em João 15:4 {ἔχω} diz ao ramo que não dá fruto.",
+            "en": "The Greek of the NT has no common verb \"to have\"; {ἔχω} covers \"have\", \"possess\" and \"be with\". In John 15:4 {ἔχω} tells the branch that it bears no fruit.",
+            "es": "El griego del NT no tiene verbo «tener» común; {ἔχω} cubre «tener», «poseer» y «estar con». En Juan 15:4 {ἔχω} dice al pámpano que no da fruto."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "O aoristo que parece futuro",
+            "en": "The aorist that looks like a future",
+            "es": "El aoristo que parece futuro"
+          },
+          "text": {
+            "pt": "{ἐλεύσομαι} é futuro de {ἔρχομαι}, mas o presente {ἔρχομαι} e o aoristo {ἦλθον} não compartilham tema. Quem decora só o infinitivo não reconhece o verbo no texto.",
+            "en": "{ἐλεύσομαι} is the future of {ἔρχομαι}, but the present {ἔρχομαι} and the aorist {ἦλθον} share no stem. Whoever memorizes only the infinitive does not recognize the verb in the text.",
+            "es": "{ἐλεύσομαι} es futuro de {ἔρχομαι}, pero el presente {ἔρχομαι} y el aoristo {ἦλθον} no comparten raíz. Quien memoriza solo el infinitivo no reconoce el verbo en el texto."
+          }
+        },
+        {
+          "label": {
+            "pt": "O ser que não vai como o latim",
+            "en": "The being that does not go like Latin",
+            "es": "El ser que no va como el latín"
+          },
+          "text": {
+            "pt": "O grego diz {ἦν οὖν ψυχή} «era a alma», onde o latim/português dói com {fuit anima}: {ἦν} descreve o estado que se agrega ao histórico. Quando {ἐγένετο} substitui {ἦν} no mesmo verso, a frase passa a narrar criação.",
+            "en": "Greek says {ἦν οὖν ψυχή} \"the soul was\", where Latin/Portuguese struggles with {fuit anima}: {ἦν} describes the state that aggregates to the historical. When {ἐγένετο} replaces {ἦν} in the same verse, the clause starts narrating creation.",
+            "es": "El griego dice {ἦν οὖν ψυχή} «era el alma», donde el latín/portugués sufre con {fuit anima}: {ἦν} describe el estado que se agrega a lo histórico. Cuando {ἐγένετο} reemplaza a {ἦν} en el mismo versículo, la cláusula pasa a narrar creación."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ἐν ἀρχῇ ἦν ὁ λόγος",
+          "gloss": {
+            "pt": "Jo 1:1 — {ἦν} é imperfeito de {εἰμί}: o Verbo já era antes do discurso.",
+            "en": "Jn 1:1 — {ἦν} is the imperfect of {εἰμί}: the Word already was before the discourse.",
+            "es": "Jn 1:1 — {ἦν} es imperfecto de {εἰμί}: el Verbo ya era antes del discurso."
+          }
+        },
+        {
+          "text": "καὶ θεὸς ἦν ὁ λόγος",
+          "gloss": {
+            "pt": "Jo 1:1 — {ἦν} sem artigo defende predicado nominal: Verbo era Deus.",
+            "en": "Jn 1:1 — {ἦν} without article defends a nominal predicate: the Word was God.",
+            "es": "Jn 1:1 — {ἦν} sin artículo defiende un predicado nominal: el Verbo era Dios."
+          }
+        },
+        {
+          "text": "πάντα δι᾽ αὐτοῦ ἐγένετο",
+          "gloss": {
+            "pt": "Jo 1:3 — {ἐγένετο} de {γίνομαι}: tudo veio a ser.",
+            "en": "Jn 1:3 — {ἐγένετο} of {γίνομαι}: all things came to be.",
+            "es": "Jn 1:3 — {ἐγένετο} de {γίνομαι}: todas las cosas llegaron a ser."
+          }
+        },
+        {
+          "text": "ἔφαγεν ὁ λαός",
+          "gloss": {
+            "pt": "Ex 16:35 LXX — {ἔφαγεν} é aoristo de {ἐσθίω}: o maná foi comido.",
+            "en": "Ex 16:35 LXX — {ἔφαγεν} is the aorist of {ἐσθίω}: the manna was eaten.",
+            "es": "Ex 16:35 LXX — {ἔφαγεν} es aoristo de {ἐσθίω}: el maná fue comido."
+          }
+        },
+        {
+          "text": "ἦλθον οὖν μαθηταὶ αὐτοῦ",
+          "gloss": {
+            "pt": "Jo 4:8 — {ἦλθον} é aoristo de {ἔρχομαι}: eles vieram.",
+            "en": "Jn 4:8 — {ἦλθον} is the aorist of {ἔρχομαι}: they came.",
+            "es": "Jn 4:8 — {ἦλθον} es aoristo de {ἔρχομαι}: vinieron."
+          }
+        },
+        {
+          "text": "οὕτως αἰεὶ λεγόμενα",
+          "gloss": {
+            "pt": "particípio médio de {λέγω}: as coisas sempre ditas.",
+            "en": "middle participle of {λέγω}: the things always said.",
+            "es": "participio medio de {λέγω}: las cosas siempre dichas."
+          }
+        },
+        {
+          "text": "ἀκούσῃ ὃν ἐγὼ ἀκούω",
+          "gloss": {
+            "pt": "futuro ativo de {ἀκούω}: ouvirás o que eu ouço.",
+            "en": "active future of {ἀκούω}: you will hear what I hear.",
+            "es": "futuro activo de {ἀκούω}: oirás lo que yo oigo."
+          }
+        },
+        {
+          "text": "ἐδήδοκες φάγεσαι",
+          "gloss": {
+            "pt": "perfeito + futuro de {ἐσθίω}: o que se comeu torna-se a comida futura.",
+            "en": "perfect + future of {ἐσθίω}: what has been eaten becomes the future food.",
+            "es": "perfecto + futuro de {ἐσθίω}: lo que se comió se vuelve la comida futura."
+          }
+        },
+        {
+          "text": "ἔδωκεν αὐτοῖς",
+          "gloss": {
+            "pt": "aoristo de {δίδωμι}: deu-lhes.",
+            "en": "aorist of {δίδωμι}: he gave to them.",
+            "es": "aoristo de {δίδωμι}: les dio."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "O imperfeito de εἰμί — o verbo que não tem -ω",
+            "en": "The imperfect of εἰμί — the verb with no -ω",
+            "es": "El imperfecto de εἰμί — el verbo que no tiene -ω"
+          },
+          "head": [
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Presente",
+              "en": "Present",
+              "es": "Presente"
+            },
+            {
+              "pt": "Imperfeito",
+              "en": "Imperfect",
+              "es": "Imperfecto"
+            },
+            {
+              "pt": "Futuro",
+              "en": "Future",
+              "es": "Futuro"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "1s",
+                "en": "1s",
+                "es": "1s"
+              },
+              {
+                "pt": "{εἰμί}",
+                "en": "{εἰμί}",
+                "es": "{εἰμί}"
+              },
+              {
+                "pt": "{ἤμην}",
+                "en": "{ἤμην}",
+                "es": "{ἤμην}"
+              },
+              {
+                "pt": "{ἔσομαι}",
+                "en": "{ἔσομαι}",
+                "es": "{ἔσομαι}"
+              }
+            ],
+            [
+              {
+                "pt": "2s",
+                "en": "2s",
+                "es": "2s"
+              },
+              {
+                "pt": "{εἶ}",
+                "en": "{εἶ}",
+                "es": "{εἶ}"
+              },
+              {
+                "pt": "{ἦς}",
+                "en": "{ἦς}",
+                "es": "{ἦς}"
+              },
+              {
+                "pt": "{ἔσῃ}",
+                "en": "{ἔσῃ}",
+                "es": "{ἔσῃ}"
+              }
+            ],
+            [
+              {
+                "pt": "3s",
+                "en": "3s",
+                "es": "3s"
+              },
+              {
+                "pt": "{ἐστί(ν)}",
+                "en": "{ἐστί(ν)}",
+                "es": "{ἐστί(ν)}"
+              },
+              {
+                "pt": "{ἦν}",
+                "en": "{ἦν}",
+                "es": "{ἦν}"
+              },
+              {
+                "pt": "{ἔσται}",
+                "en": "{ἔσται}",
+                "es": "{ἔσται}"
+              }
+            ],
+            [
+              {
+                "pt": "1p",
+                "en": "1p",
+                "es": "1p"
+              },
+              {
+                "pt": "{ἐσμέν}",
+                "en": "{ἐσμέν}",
+                "es": "{ἐσμέν}"
+              },
+              {
+                "pt": "{ἦμεν}",
+                "en": "{ἦμεν}",
+                "es": "{ἦμεν}"
+              },
+              {
+                "pt": "{ἐσόμεθα}",
+                "en": "{ἐσόμεθα}",
+                "es": "{ἐσόμεθα}"
+              }
+            ],
+            [
+              {
+                "pt": "2p",
+                "en": "2p",
+                "es": "2p"
+              },
+              {
+                "pt": "{ἐστέ}",
+                "en": "{ἐστέ}",
+                "es": "{ἐστέ}"
+              },
+              {
+                "pt": "{ἦτε}",
+                "en": "{ἦτε}",
+                "es": "{ἦτε}"
+              },
+              {
+                "pt": "{ἔσεσθε}",
+                "en": "{ἔσεσθε}",
+                "es": "{ἔσεσθε}"
+              }
+            ],
+            [
+              {
+                "pt": "3p",
+                "en": "3p",
+                "es": "3p"
+              },
+              {
+                "pt": "{εἰσί(ν)}",
+                "en": "{εἰσί(ν)}",
+                "es": "{εἰσί(ν)}"
+              },
+              {
+                "pt": "{ἦσαν}",
+                "en": "{ἦσαν}",
+                "es": "{ἦσαν}"
+              },
+              {
+                "pt": "{ἔσονται}",
+                "en": "{ἔσονται}",
+                "es": "{ἔσονται}"
+              }
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "Os aoristos fortes dos deponentes do NT",
+            "en": "The strong aorists of NT deponents",
+            "es": "Los aoristos fuertes de los deponentes del NT"
+          },
+          "head": [
+            {
+              "pt": "Verbo",
+              "en": "Verb",
+              "es": "Verbo"
+            },
+            {
+              "pt": "Aoristo",
+              "en": "Aorist",
+              "es": "Aoristo"
+            },
+            {
+              "pt": "Futuro",
+              "en": "Future",
+              "es": "Futuro"
+            },
+            {
+              "pt": "Observação",
+              "en": "Note",
+              "es": "Observación"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "{ἔρχομαι}",
+                "en": "{ἔρχομαι}",
+                "es": "{ἔρχομαι}"
+              },
+              {
+                "pt": "{ἦλθον}",
+                "en": "{ἦλθον}",
+                "es": "{ἦλθον}"
+              },
+              {
+                "pt": "{ἐλεύσομαι}",
+                "en": "{ἐλεύσομαι}",
+                "es": "{ἐλεύσομαι}"
+              },
+              {
+                "pt": "tema novo",
+                "en": "new stem",
+                "es": "raíz nueva"
+              }
+            ],
+            [
+              {
+                "pt": "{γίνομαι}",
+                "en": "{γίνομαι}",
+                "es": "{γίνομαι}"
+              },
+              {
+                "pt": "{ἐγενόμην}",
+                "en": "{ἐγενόμην}",
+                "es": "{ἐγενόμην}"
+              },
+              {
+                "pt": "{γενήσομαι}",
+                "en": "{γενήσομαι}",
+                "es": "{γενήσομαι}"
+              },
+              {
+                "pt": "perde o presente",
+                "en": "loses the present",
+                "es": "pierde el presente"
+              }
+            ],
+            [
+              {
+                "pt": "{ἀποκρίνομαι}",
+                "en": "{ἀποκρίνομαι}",
+                "es": "{ἀποκρίνομαι}"
+              },
+              {
+                "pt": "{ἀπεκρινάμην}",
+                "en": "{ἀπεκρινάμην}",
+                "es": "{ἀπεκρινάμην}"
+              },
+              {
+                "pt": "{ἀποκριθήσομαι}",
+                "en": "{ἀποκριθήσομαι}",
+                "es": "{ἀποκριθήσομαι}"
+              },
+              {
+                "pt": "resposta à pergunta",
+                "en": "answer to a question",
+                "es": "respuesta a la pregunta"
+              }
+            ],
+            [
+              {
+                "pt": "{φοβέομαι}",
+                "en": "{φοβέομαι}",
+                "es": "{φοβέομαι}"
+              },
+              {
+                "pt": "{ἐφοβήθην}",
+                "en": "{ἐφοβήθην}",
+                "es": "{ἐφοβήθην}"
+              },
+              {
+                "pt": "{φοβηθήσομαι}",
+                "en": "{φοβηθήσομαι}",
+                "es": "{φοβηθήσομαι}"
+              },
+              {
+                "pt": "aoristo passivo comum",
+                "en": "common passive aorist",
+                "es": "aoristo pasivo común"
+              }
+            ]
+          ]
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em {Ἐν ἀρχῇ ἦν ὁ λόγος}, qual o tempo e número de {ἦν}?",
+          "en": "In {Ἐν ἀρχῇ ἦν ὁ λόγος}, what is the tense and number of {ἦν}?",
+          "es": "En {Ἐν ἀρχῇ ἦν ὁ λόγος}, ¿cuál es el tiempo y número de {ἦν}?"
+        },
+        "options": [
+          {
+            "pt": "Aoristo, 1ª singular",
+            "en": "Aorist, 1st singular",
+            "es": "Aoristo, 1.ª singular"
+          },
+          {
+            "pt": "Imperfeito, 3ª singular",
+            "en": "Imperfect, 3rd singular",
+            "es": "Imperfecto, 3.ª singular"
+          },
+          {
+            "pt": "Perfeito, 3ª plural",
+            "en": "Perfect, 3rd plural",
+            "es": "Perfecto, 3.ª plural"
+          },
+          {
+            "pt": "Presente, 3ª singular",
+            "en": "Present, 3rd singular",
+            "es": "Presente, 3.ª singular"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete \"πάντα δι᾽ αὐτοῦ ___\" com a forma de aoristo de {γίνομαι} para \"aconteceu\".",
+            "en": "Complete \"πάντα δι᾽ αὐτοῦ ___\" with the aorist of {γίνομαι} for \"happened\".",
+            "es": "Completa \"πάντα δι᾽ αὐτοῦ ___\" con el aoristo de {γίνομαι} para \"aconteció\"."
+          },
+          "answer": "ἐγένετο"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue o verbo ao seu aoristo.",
+            "en": "Match the verb to its aorist.",
+            "es": "Relaciona el verbo con su aoristo."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "{ἔρχομαι}",
+                "en": "{ἔρχομαι}",
+                "es": "{ἔρχομαι}"
+              },
+              "b": {
+                "pt": "{ἦλθον}",
+                "en": "{ἦλθον}",
+                "es": "{ἦλθον}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{ἐσθίω}",
+                "en": "{ἐσθίω}",
+                "es": "{ἐσθίω}"
+              },
+              "b": {
+                "pt": "{ἐφάγον}",
+                "en": "{ἐφάγον}",
+                "es": "{ἐφάγον}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{εἰμί}",
+                "en": "{εἰμί}",
+                "es": "{εἰμί}"
+              },
+              "b": {
+                "pt": "{ἤμην}",
+                "en": "{ἤμην}",
+                "es": "{ἤμην}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{γίνομαι}",
+                "en": "{γίνομαι}",
+                "es": "{γίνομαι}"
+              },
+              "b": {
+                "pt": "{ἐγενόμην}",
+                "en": "{ἐγενόμην}",
+                "es": "{ἐγενόμην}"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual a forma aoristo de {λέγω}?",
+            "en": "What is the aorist of {λέγω}?",
+            "es": "¿Cuál es el aoristo de {λέγω}?"
+          },
+          "options": [
+            {
+              "pt": "{ἐλέγομεν}",
+              "en": "{ἐλέγομεν}",
+              "es": "{ἐλέγομεν}"
+            },
+            {
+              "pt": "{εἶπον}",
+              "en": "{εἶπον}",
+              "es": "{εἶπον}"
+            },
+            {
+              "pt": "{ἐλογήθην}",
+              "en": "{ἐλογήθην}",
+              "es": "{ἐλογήθην}"
+            },
+            {
+              "pt": "{λέξω}",
+              "en": "{λέξω}",
+              "es": "{λέξω}"
+            }
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
       "title": {
         "pt": "Presente do indicativo ativo",
         "en": "Present active indicative",
@@ -3032,7 +3756,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "title": {
         "pt": "Verbos contratos",
         "en": "Contract verbs",
@@ -3625,7 +4349,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "title": {
         "pt": "Imperfeito e Aoristo (1º)",
         "en": "Imperfect and (1st) Aorist",
@@ -4219,7 +4943,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "title": {
         "pt": "Subjuntivo e Optativo",
         "en": "Subjunctive and Optative",
@@ -4812,7 +5536,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "title": {
         "pt": "Imperativo",
         "en": "Imperative",
@@ -5370,7 +6094,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "title": {
         "pt": "Infinitivo e Particípio",
         "en": "Infinitive and Participle",
@@ -5900,7 +6624,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "title": {
         "pt": "Verbos irregulares",
         "en": "Irregular verbs",
@@ -6532,7 +7256,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "title": {
         "pt": "Verbos em -μι",
         "en": "-μι verbs",
@@ -7121,7 +7845,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "title": {
         "pt": "3ª declinação",
         "en": "3rd declension",
@@ -7760,7 +8484,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "title": {
         "pt": "Pronomes pessoais",
         "en": "Personal pronouns",
@@ -8432,7 +9156,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "title": {
         "pt": "O perfeito",
         "en": "The perfect",
@@ -9010,7 +9734,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 17,
       "title": {
         "pt": "Comparativos e leitura: Mc 1",
         "en": "Comparatives and reading: Mark 1",
@@ -9519,7 +10243,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "title": {
         "pt": "Futuro ativo e médio",
         "en": "Future active and middle",
@@ -10102,7 +10826,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 19,
       "title": {
         "pt": "Aoristo segundo",
         "en": "Second aorist",
@@ -10679,7 +11403,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 20,
       "title": {
         "pt": "Líquidos e aoristo passivo",
         "en": "Liquids and aorist passive",
@@ -11270,7 +11994,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "title": {
         "pt": "Perfeito médio e futuro passivo",
         "en": "Perfect middle and future passive",
@@ -11863,7 +12587,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
       "title": {
         "pt": "Particípio presente",
         "en": "Present participle",
@@ -12420,7 +13144,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "title": {
         "pt": "Particípios aoristo e perfeito",
         "en": "Aorist and perfect participles",
@@ -12976,7 +13700,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 24,
       "title": {
         "pt": "Genitivo absoluto e infinitivo",
         "en": "Genitive absolute and infinitive",
@@ -13485,7 +14209,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "title": {
         "pt": "Condicionais",
         "en": "Conditionals",
@@ -13973,7 +14697,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "title": {
         "pt": "Discurso indireto e perguntas",
         "en": "Indirect discourse and questions",
@@ -14471,7 +15195,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "title": {
         "pt": "Relativo e demonstrativos",
         "en": "Relative and demonstratives",
@@ -15057,7 +15781,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "title": {
         "pt": "Numerais e tempo",
         "en": "Numerals and time",
@@ -15635,7 +16359,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 29,
       "title": {
         "pt": "Leitura: 1 João 1:1-4",
         "en": "Reading: 1 John 1:1-4",
@@ -16149,7 +16873,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 30,
       "title": {
         "pt": "Leitura: bem-aventuranças (Mt 5:3-10)",
         "en": "Reading: Beatitudes (Matt 5:3-10)",
@@ -16640,7 +17364,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 31,
       "title": {
         "pt": "Capstone: Pai-Nosso (Mt 6:9-13)",
         "en": "Capstone: Lord's Prayer (Matt 6:9-13)",
@@ -17139,5 +17863,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gd620be9a"
+  "contentVersion": "1.0.0+gde01e4f4"
 }

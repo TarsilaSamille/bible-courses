@@ -656,6 +656,666 @@
     },
     {
       "id": 3,
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "title": {
+        "pt": "Os verbos essenciais",
+        "en": "The essential verbs",
+        "es": "Los verbos esenciales"
+      },
+      "subtitle": {
+        "pt": "είμαι, έχω, κάνω, πάω: os verbos que sustentam quase toda frase",
+        "en": "είμαι, έχω, κάνω, πάω: the verbs that hold up almost every clause",
+        "es": "είμαι, έχω, κάνω, πάω: los verbos que sostienen casi toda oración"
+      },
+      "body": {
+        "pt": "## Dez verbos, e dois que não têm regra\n\nUm verbo grego moderno regular tira a terminação e devolve uma nova: em {κάνω}, {κάνεις}, {κάνει}, o tema {κάν-} não se mexe. Os essenciais não têm tema fixo: {είμαι}, {έχω}, {πάω}, {έρχομαι}, {τρώω}, {πίνω}, {κοιμάμαι}, {βλέπω}, {ακούω}, {μιλάω} são formas que nenhuma regra produz, e são o que se lê em toda página.\n\nSão poucos e pesam muito. {είμαι} ser, {έχω} ter, {κάνω} fazer, {λέω} dizer, {πάω} ir, {έρχομαι} vir, {τρώω} comer, {πίνω} beber, {κοιμάμαι} dormir, {βλέπω} ver, {ακούω} ouvir, {μιλάω} falar, {δίνω} dar, {παίρνω} tomar, {ξέρω} saber, {θέλω} querer, {μπορώ} poder cobrem quase tudo o que se diz num capítulo de Evangelho.\n\n## είμαι e έχω: ser e ter\n\n{είμαι} é o verbo mais irregular do grego moderno: {είμαι}, {είσαι}, {είναι}, {είμαστε}, {είστε}, {είναι}. Não tem passado nem futuro próprios — usa {ήμουν} no passado e {θα είμαι} no futuro. É o verbo que fecha a identidade das coisas, e o português o traduz por «ser» ou «estar» conforme o contexto.\n\n{έχω} é o verbo «ter», e é quase tão irregular: {έχω}, {έχεις}, {έχει}, {έχουμε}, {έχετε}, {έχουν}. O passado é {είχα} e o futuro {θα έχω}. Onde o português diz «tenho», o grego moderno usa {έχω} com o mesmo sentido de posse e de estado.\n\n## πάω e έρχομαι: ir e vir\n\n{πάω} «ir» e {έρχομαι} «vir» são o par mais fácil de confundir. {πάω} é irregular no presente ({πάω}, {πάς}, {πάει}, {πάμε}, {πάτε}, {πάνε}) e regular no passado ({πήγα}). {έρχομαι} é regular no presente ({έρχομαι}, {έρχεσαι}, {...}) mas o passado é {ήρθα}.\n\nA diferença de sentido é a do português: {πάω} indica movimento para fora, {έρχομαι} movimento para dentro. Quem traduz os dois por «ir» perde a direção.\n\n## Na Bíblia\n\nJoão 1:1 começa com {ήτον}: {Εν αρχή ήτον ο Λόγος}, no começo era o Verbo. {ήτον} é o passado de {είμαι}, 3ª pessoa do singular. E João 1:3 fecha with {έγινε}, o passado de {γίνομαι}: tudo veio a ser. O grego que começa com {ήτον} termina com {έγινε}: o Verbo já era, e tudo o resto aconteceu.\n\nMarcos 4:39 traz {σίγασε}, «cala-te»: é o imperativo aoristo de {σιγάω}, «calar». O versículo inteiro mostra o método: o grego coloca a ordem de Jesus no imperativo para dizer que o mar não responde à ordem, mas a Cristo.",
+        "en": "## Ten verbs, and two with no rule\n\nA regular modern Greek verb drops its ending and returns a new one: in {κάνω}, {κάνεις}, {κάνει}, the stem {κάν-} does not move. The essentials have no fixed stem: {είμαι}, {έχω}, {πάω}, {έρχομαι}, {τρώω}, {πίνω}, {κοιμάμαι}, {βλέπω}, {ακούω}, {μιλάω} are forms that no rule produces, and they are what is read on every page.\n\nThey are few and they weigh a lot. {είμαι} to be, {έχω} to have, {κάνω} to do, {λέω} to say, {πάω} to go, {έρχομαι} to come, {τρώω} to eat, {πίνω} to drink, {κοιμάμαι} to sleep, {βλέπω} to see, {ακούω} to hear, {μιλάω} to speak, {δίνω} to give, {παίρνω} to take, {ξέρω} to know, {θέλω} to want, {μπορώ} can cover almost everything said in a chapter of a Gospel.\n\n## είμαι and έχω: to be and to have\n\n{είμαι} is the most irregular verb in modern Greek: {είμαι}, {είσαι}, {είναι}, {είμαστε}, {είστε}, {είναι}. It has no own past or future — it uses {ήμουν} in the past and {θα είμαι} in the future. It is the verb that closes the identity of things, and Portuguese translates it as \"ser\" or \"estar\" according to context.\n\n{έχω} is the verb \"to have\", and is almost as irregular: {έχω}, {έχεις}, {έχει}, {έχουμε}, {έχετε}, {έχουν}. The past is {είχα} and the future {θα έχω}. Where Portuguese says \"tenho\", modern Greek uses {έχω} with the same sense of possession and state.\n\n## πάω and έρχομαι: to go and to come\n\n{πάω} \"to go\" and {έρχομαι} \"to come\" are the easiest pair to confuse. {πάω} is irregular in the present ({πάω}, {πάς}, {πάει}, {πάμε}, {πάτε}, {πάνε}) and regular in the past ({πήγα}). {έρχομαι} is regular in the present ({έρχομαι}, {έρχεσαι}, {...}) but the past is {ήρθα}.\n\nThe difference in meaning is that of Portuguese: {πάω} indicates movement outward, {έρχομαι} movement inward. Whoever translates both as \"ir\" loses the direction.\n\n## In the Bible\n\nJohn 1:1 begins with {ήτον}: {Εν αρχή ήτον ο Λόγος}, in the beginning was the Word. {ήτον} is the past of {είμαι}, 3rd person singular. And John 1:3 closes with {έγινε}, the past of {γίνομαι}: all things came to be. The Greek that begins with {ήτον} ends with {έγινε}: the Word already was, and everything else happened.\n\nMark 4:39 has {σίγασε}, \"be silent\": it is the aorist imperative of {σιγάω}, \"to be silent\". The whole verse shows the method: Greek places Jesus' command in the imperative to say that the sea does not answer the command, but to Christ.",
+        "es": "## Diez verbos, y dos sin regla\n\nUn verbo griego moderno regular quita la terminación y devuelve una nueva: en {κάνω}, {κάνεις}, {κάνει}, el tema {κάν-} no se mueve. Los esenciales no tienen tema fijo: {είμαι}, {έχω}, {πάω}, {έρχομαι}, {τρώω}, {πίνω}, {κοιμάμαι}, {βλέπω}, {ακούω}, {μιλάω} son formas que ninguna regla produce, y son lo que se lee en cada página.\n\nSon pocos y pesan mucho. {είμαι} ser, {έχω} tener, {κάνω} hacer, {λέω} decir, {πάω} ir, {έρχομαι} venir, {τρώω} comer, {πίνω} beber, {κοιμάμαι} dormir, {βλέπω} ver, {ακούω} oír, {μιλάω} hablar, {δίνω} dar, {παίρνω} tomar, {ξέρω} saber, {θέλω} querer, {μπορώ} poder cubren casi todo lo que se dice en un capítulo de Evangelio.\n\n## είμαι y έχω: ser y tener\n\n{είμαι} es el verbo más irregular del griego moderno: {είμαι}, {είσαι}, {είναι}, {είμαστε}, {είστε}, {είναι}. No tiene pasado ni futuro propios — usa {ήμουν} en el pasado y {θα είμαι} en el futuro. Es el verbo que cierra la identidad de las cosas, y el portugués lo traduce por «ser» o «estar» según el contexto.\n\n{έχω} es el verbo «tener», y es casi tan irregular: {έχω}, {έχεις}, {έχει}, {έχουμε}, {έχετε}, {έχουν}. El pasado es {είχα} y el futuro {θα έχω}. Donde el portugués dice «tenho», el griego moderno usa {έχω} con el mismo sentido de posesión y estado.\n\n## πάω y έρχομαι: ir y venir\n\n{πάω} «ir» y {έρχομαι} «venir» son la pareja más fácil de confundir. {πάω} es irregular en presente ({πάω}, {πάς}, {πάει}, {πάμε}, {πάτε}, {πάνε}) y regular en pasado ({πήγα}). {έρχομαι} es regular en presente ({έρχομαι}, {έρχεσαι}, {...}) pero el pasado es {ήρθα}.\n\nLa diferencia de sentido es la del portugués: {πάω} indica movimiento hacia fuera, {έρχομαι} hacia dentro. Quien traduce los dos por «ir» pierde la dirección.\n\n## En la Biblia\n\nJuan 1:1 comienza con {ήτον}: {Εν αρχή ήτον ο Λόγος}, en el principio era el Verbo. {ήτον} es el pasado de {είμαι}, 3.ª persona del singular. Y Juan 1:3 cierra con {έγινε}, el pasado de {γίνομαι}: todas las cosas llegaron a ser. El griego que comienza con {ήτον} termina con {έγινε}: el Verbo ya era, y todo lo demás aconteció.\n\nMarcos 4:39 trae {σίγασε}, «callate»: es el imperativo aoristo de {σιγάω}, «callar». El versículo entero muestra el método: el griego coloca la orden de Jesús en imperativo para decir que el mar no responde a la orden, sino a Cristo."
+      },
+      "vocab": [
+        {
+          "form": "είμαι",
+          "lemma": "είμαι",
+          "lang": "grc",
+          "pt": "ser",
+          "en": "to be",
+          "es": "ser"
+        },
+        {
+          "form": "ήμουν",
+          "lemma": "είμαι",
+          "lang": "grc",
+          "pt": "era",
+          "en": "was",
+          "es": "era"
+        },
+        {
+          "form": "έχω",
+          "lemma": "έχω",
+          "lang": "grc",
+          "pt": "ter",
+          "en": "to have",
+          "es": "tener"
+        },
+        {
+          "form": "είχα",
+          "lemma": "έχω",
+          "lang": "grc",
+          "pt": "tinha",
+          "en": "had",
+          "es": "tenía"
+        },
+        {
+          "form": "κάνω",
+          "lemma": "κάνω",
+          "lang": "grc",
+          "pt": "fazer",
+          "en": "to do",
+          "es": "hacer"
+        },
+        {
+          "form": "έκανα",
+          "lemma": "κάνω",
+          "lang": "grc",
+          "pt": "fiz",
+          "en": "did",
+          "es": "hice"
+        },
+        {
+          "form": "πάω",
+          "lemma": "πάω",
+          "lang": "grc",
+          "pt": "ir",
+          "en": "to go",
+          "es": "ir"
+        },
+        {
+          "form": "πήγα",
+          "lemma": "πάω",
+          "lang": "grc",
+          "pt": "fui",
+          "en": "went",
+          "es": "fui"
+        },
+        {
+          "form": "έρχομαι",
+          "lemma": "έρχομαι",
+          "lang": "grc",
+          "pt": "vir",
+          "en": "to come",
+          "es": "venir"
+        },
+        {
+          "form": "ήρθα",
+          "lemma": "έρχομαι",
+          "lang": "grc",
+          "pt": "vim",
+          "en": "came",
+          "es": "vine"
+        },
+        {
+          "form": "τρώω",
+          "lemma": "τρώω",
+          "lang": "grc",
+          "pt": "comer",
+          "en": "to eat",
+          "es": "comer"
+        },
+        {
+          "form": "έφαγα",
+          "lemma": "τρώω",
+          "lang": "grc",
+          "pt": "comi",
+          "en": "ate",
+          "es": "comí"
+        },
+        {
+          "form": "πίνω",
+          "lemma": "πίνω",
+          "lang": "grc",
+          "pt": "beber",
+          "en": "to drink",
+          "es": "beber"
+        },
+        {
+          "form": "ήπια",
+          "lemma": "πίνω",
+          "lang": "grc",
+          "pt": "bebi",
+          "en": "drank",
+          "es": "bebí"
+        },
+        {
+          "form": "κοιμάμαι",
+          "lemma": "κοιμάμαι",
+          "lang": "grc",
+          "pt": "dormir",
+          "en": "to sleep",
+          "es": "dormir"
+        },
+        {
+          "form": "βλέπω",
+          "lemma": "βλέπω",
+          "lang": "grc",
+          "pt": "ver",
+          "en": "to see",
+          "es": "ver"
+        },
+        {
+          "form": "είδα",
+          "lemma": "βλέπω",
+          "lang": "grc",
+          "pt": "vi",
+          "en": "saw",
+          "es": "vi"
+        },
+        {
+          "form": "ακούω",
+          "lemma": "ακούω",
+          "lang": "grc",
+          "pt": "ouvir",
+          "en": "to hear",
+          "es": "oír"
+        },
+        {
+          "form": "άκουσα",
+          "lemma": "ακούω",
+          "lang": "grc",
+          "pt": "ouvi",
+          "en": "heard",
+          "es": "oí"
+        },
+        {
+          "form": "μιλάω",
+          "lemma": "μιλάω",
+          "lang": "grc",
+          "pt": "falar",
+          "en": "to speak",
+          "es": "hablar"
+        },
+        {
+          "form": "μίλησα",
+          "lemma": "μιλάω",
+          "lang": "grc",
+          "pt": "falei",
+          "en": "spoke",
+          "es": "hablé"
+        },
+        {
+          "form": "δίνω",
+          "lemma": "δίνω",
+          "lang": "grc",
+          "pt": "dar",
+          "en": "to give",
+          "es": "dar"
+        },
+        {
+          "form": "παίρνω",
+          "lemma": "παίρνω",
+          "lang": "grc",
+          "pt": "tomar",
+          "en": "to take",
+          "es": "tomar"
+        },
+        {
+          "form": "ξέρω",
+          "lemma": "ξέρω",
+          "lang": "grc",
+          "pt": "saber",
+          "en": "to know",
+          "es": "saber"
+        },
+        {
+          "form": "θέλω",
+          "lemma": "θέλω",
+          "lang": "grc",
+          "pt": "querer",
+          "en": "to want",
+          "es": "querer"
+        },
+        {
+          "form": "μπορώ",
+          "lemma": "μπορώ",
+          "lang": "grc",
+          "pt": "poder",
+          "en": "can",
+          "es": "poder"
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "{είμαι} é o verbo mais irregular: {είμαι}, {είσαι}, {είναι}, {είμαστε}, {είστε}, {είναι}. Não tem passado nem futuro próprios.",
+            "en": "{είμαι} is the most irregular verb: {είμαι}, {είσαι}, {είναι}, {είμαστε}, {είστε}, {είναι}. It has no own past or future.",
+            "es": "{είμαι} es el verbo más irregular: {είμαι}, {είσαι}, {είναι}, {είμαστε}, {είστε}, {είναι}. No tiene pasado ni futuro propios."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "{έχω} é quase tão irregular: {έχω}, {έχεις}, {έχει}, {έχουμε}, {έχετε}, {έχουν}. Passado {είχα}, futuro {θα έχω}.",
+            "en": "{έχω} is almost as irregular: {έχω}, {έχεις}, {έχει}, {έχουμε}, {έχετε}, {έχουν}. Past {είχα}, future {θα έχω}.",
+            "es": "{έχω} es casi tan irregular: {έχω}, {έχεις}, {έχει}, {έχουμε}, {έχετε}, {έχουν}. Pasado {είχα}, futuro {θα έχω}."
+          }
+        },
+        {
+          "n": "§3",
+          "text": {
+            "pt": "{πάω} indica movimento para fora, {έρχομαι} para dentro. Quem traduz os dois por «ir» perde a direção.",
+            "en": "{πάω} indicates movement outward, {έρχομαι} inward. Whoever translates both as \"ir\" loses the direction.",
+            "es": "{πάω} indica movimiento hacia fuera, {έρχομαι} hacia dentro. Quien traduce los dos por «ir» pierde la dirección."
+          }
+        },
+        {
+          "n": "§4",
+          "text": {
+            "pt": "O passado de {πάω} é {πήγα}, o de {έρχομαι} é {ήρθα}: dois verbos, dois passados, nenhuma letra comum.",
+            "en": "The past of {πάω} is {πήγα}, of {έρχομαι} is {ήρθα}: two verbs, two pasts, no common letter.",
+            "es": "El pasado de {πάω} es {πήγα}, el de {έρχομαι} es {ήρθα}: dos verbos, dos pasados, ninguna letra común."
+          }
+        },
+        {
+          "n": "§5",
+          "text": {
+            "pt": "João 1:1 usa {ήτον} (passado de {είμαι}) e João 1:3 usa {έγινε} (passado de {γίνομαι}): o Verbo já era, e tudo o resto aconteceu.",
+            "en": "John 1:1 uses {ήτον} (past of {είμαι}) and John 1:3 uses {έγινε} (past of {γίνομαι}): the Word already was, and everything else happened.",
+            "es": "Juan 1:1 usa {ήτον} (pasado de {είμαι}) y Juan 1:3 usa {έγινε} (pasado de {γίνομαι}): el Verbo ya era, y todo lo demás aconteció."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "O έχω que não é «ter»",
+            "en": "The έχω that is not \"to have\"",
+            "es": "El έχω que no es «tener»"
+          },
+          "text": {
+            "pt": "O grego moderno usa {έχω} para «ter», «possuir» e «estar com». Em João 15:4 {έχω} diz ao pámpano que não dá fruto, e não uma propriedade.",
+            "en": "Modern Greek uses {έχω} for \"have\", \"possess\" and \"be with\". In John 15:4 {έχω} tells the branch that it bears no fruit, not a property.",
+            "es": "El griego moderno usa {έχω} para «tener», «poseer» y «estar con». En Juan 15:4 {έχω} dice al pámpano que no da fruto, no una propiedad."
+          }
+        },
+        {
+          "label": {
+            "pt": "O ήτον que não é «era»",
+            "en": "The ήτον that is not \"was\"",
+            "es": "El ήτον que no es «era»"
+          },
+          "text": {
+            "pt": "{ήτον} é o passado de {είμαι}, mas o português traduz por «era» ou «estava» conforme o contexto. A forma é a mesma nos dois casos.",
+            "en": "{ήτον} is the past of {είμαι}, but Portuguese translates it as \"era\" or \"estava\" according to context. The form is the same in both cases.",
+            "es": "{ήτον} es el pasado de {είμαι}, pero el portugués lo traduce por «era» o «estaba» según el contexto. La forma es la misma en ambos casos."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Εν αρχή ήτον ο Λόγος",
+          "gloss": {
+            "pt": "Jo 1:1 — {ήτον} é passado de {είμαι}: o Verbo já era.",
+            "en": "Jn 1:1 — {ήτον} is the past of {είμαι}: the Word already was.",
+            "es": "Jn 1:1 — {ήτον} es pasado de {είμαι}: el Verbo ya era."
+          }
+        },
+        {
+          "text": "και Θεός ήτον ο Λόγος",
+          "gloss": {
+            "pt": "Jo 1:1 — {ήτον} sem artigo defende predicado nominal: o Verbo era Deus.",
+            "en": "Jn 1:1 — {ήτον} without article defends a nominal predicate: the Word was God.",
+            "es": "Jn 1:1 — {ήτον} sin artículo defiende predicado nominal: el Verbo era Dios."
+          }
+        },
+        {
+          "text": "πάντα δι᾽ αὐτοῦ έγινε",
+          "gloss": {
+            "pt": "Jo 1:3 — {έγινε} de {γίνομαι}: tudo veio a ser.",
+            "en": "Jn 1:3 — {έγινε} of {γίνομαι}: all things came to be.",
+            "es": "Jn 1:3 — {έγινε} de {γίνοomαι}: todas las cosas llegaron a ser."
+          }
+        },
+        {
+          "text": "έφαγεν ο λαός",
+          "gloss": {
+            "pt": "Ex 16:35 — {έφαγεν} é passado de {τρώω}: o maná foi comido.",
+            "en": "Ex 16:35 — {έφαγεν} is the past of {τρώω}: the manna was eaten.",
+            "es": "Ex 16:35 — {έφαγεν} es pasado de {τρώω}: el maná fue comido."
+          }
+        },
+        {
+          "text": "ήρθαν οι μαθηταί",
+          "gloss": {
+            "pt": "Jo 4:8 — {ήρθαν} é passado de {έρχομαι}: vieram.",
+            "en": "Jn 4:8 — {ήρθαν} is the past of {έρχομαι}: they came.",
+            "es": "Jn 4:8 — {ήρθαν} es pasado de {έρχομαι}: vinieron."
+          }
+        },
+        {
+          "text": "έχω ένα βιβλίο",
+          "gloss": {
+            "pt": "{έχω} com objeto direto: tenho um livro.",
+            "en": "{έχω} with a direct object: I have a book.",
+            "es": "{έχω} con objeto directo: tengo un libro."
+          }
+        },
+        {
+          "text": "ήμουν στο σπίτι",
+          "gloss": {
+            "pt": "{ήμουν} é passado de {είμαι}: estava em casa.",
+            "en": "{ήμουν} is the past of {είμαι}: I was at home.",
+            "es": "{ήμουν} es pasado de {είμαι}: estaba en casa."
+          }
+        },
+        {
+          "text": "θα πάω στην πόλη",
+          "gloss": {
+            "pt": "futuro com {θα} + presente: irei à cidade.",
+            "en": "future with {θα} + present: I will go to the city.",
+            "es": "futuro con {θα} + presente: iré a la ciudad."
+          }
+        },
+        {
+          "text": "σίγασε",
+          "gloss": {
+            "pt": "Mc 4:39 — imperativo aoristo de {σιγάω}: cala-te.",
+            "en": "Mk 4:39 — aorist imperative of {σιγάω}: be silent.",
+            "es": "Mc 4:39 — imperativo aoristo de {σιγάω}: callate."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": "O presente dos essenciais",
+          "head": [
+            "Pessoa",
+            "είμαι",
+            "έχω",
+            "πάω",
+            "έρχομαι",
+            "τρώω"
+          ],
+          "rows": [
+            [
+              "εγώ",
+              "είμαι",
+              "έχω",
+              "πάω",
+              "έρχομαι",
+              "τρώω"
+            ],
+            [
+              "εσύ",
+              "είσαι",
+              "έχεις",
+              "πάς",
+              "έρχεσαι",
+              "τρως"
+            ],
+            [
+              "αυτός/αυτή/αυτό",
+              "είναι",
+              "έχει",
+              "πάει",
+              "έρχεται",
+              "τρώει"
+            ],
+            [
+              "εμείς",
+              "είμαστε",
+              "έχουμε",
+              "πάμε",
+              "έρχομαστε",
+              "τρώμε"
+            ],
+            [
+              "εσείς",
+              "είστε",
+              "έχετε",
+              "πάτε",
+              "έρχεστε",
+              "τρώτε"
+            ],
+            [
+              "αυτοί/αυτές/αυτά",
+              "είναι",
+              "έχουν",
+              "πάνε",
+              "έρχονται",
+              "τρώνε"
+            ]
+          ]
+        },
+        {
+          "caption": "O passado dos essenciais",
+          "head": [
+            "Verbo",
+            "Passado",
+            "Futuro"
+          ],
+          "rows": [
+            [
+              "είμαι",
+              "ήμουν",
+              "θα είμαι"
+            ],
+            [
+              "έχω",
+              "είχα",
+              "θα έχω"
+            ],
+            [
+              "πάω",
+              "πήγα",
+              "θα πάω"
+            ],
+            [
+              "έρχομαι",
+              "ήρθα",
+              "θα έρχομαι"
+            ],
+            [
+              "τρώω",
+              "έφαγα",
+              "θα τρώω"
+            ],
+            [
+              "πίνω",
+              "ήπια",
+              "θα πίνω"
+            ],
+            [
+              "κοιμάμαι",
+              "κοιμήθηκα",
+              "θα κοιμάμαι"
+            ],
+            [
+              "βλέπω",
+              "είδα",
+              "θα βλέπω"
+            ],
+            [
+              "ακούω",
+              "άκουσα",
+              "θα ακούω"
+            ],
+            [
+              "μιλάω",
+              "μίλησα",
+              "θα μιλάω"
+            ],
+            [
+              "δίνω",
+              "έδωσα",
+              "θα δίνω"
+            ],
+            [
+              "παίρνω",
+              "πήρα",
+              "θα παίρνω"
+            ],
+            [
+              "ξέρω",
+              "ήξερα",
+              "θα ξέρω"
+            ],
+            [
+              "θέλω",
+              "ήθελα",
+              "θα θέλω"
+            ],
+            [
+              "μπορώ",
+              "μπορούσα",
+              "θα μπορώ"
+            ]
+          ]
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em {Εν αρχή ήτον ο Λόγος}, qual o tempo de {ήτον}?",
+          "en": "In {Εν αρχή ήτον ο Λόγος}, what is the tense of {ήτον}?",
+          "es": "En {Εν αρχή ήτον ο Λόγος}, ¿cuál es el tiempo de {ήτον}?"
+        },
+        "options": [
+          {
+            "pt": "Presente",
+            "en": "Present",
+            "es": "Presente"
+          },
+          {
+            "pt": "Passado",
+            "en": "Past",
+            "es": "Pasado"
+          },
+          {
+            "pt": "Futuro",
+            "en": "Future",
+            "es": "Futuro"
+          },
+          {
+            "pt": "Aoristo",
+            "en": "Aorist",
+            "es": "Aoristo"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete \"πάντα δι᾽ αὐτοῦ ___\" com o passado de {γίνομαι} para \"aconteceu\".",
+            "en": "Complete \"πάντα δι᾽ αὐτοῦ ___\" with the past of {γίνομαι} for \"happened\".",
+            "es": "Completa \"πάντα δι᾽ αὐτοῦ ___\" con el pasado de {γίνοomαι} para \"aconteció\"."
+          },
+          "answer": "έγινε"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue o verbo ao seu passado.",
+            "en": "Match the verb to its past.",
+            "es": "Relaciona el verbo con su pasado."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "{πάω}",
+                "en": "{πάω}",
+                "es": "{πάω}"
+              },
+              "b": {
+                "pt": "{πήγα}",
+                "en": "{πήγα}",
+                "es": "{πήγα}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{έρχομαι}",
+                "en": "{έρχομαι}",
+                "es": "{έρχομαι}"
+              },
+              "b": {
+                "pt": "{ήρθα}",
+                "en": "{ήρθα}",
+                "es": "{ήρθα}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{τρώω}",
+                "en": "{τρώω}",
+                "es": "{τρώω}"
+              },
+              "b": {
+                "pt": "{έφαγα}",
+                "en": "{έφαγα}",
+                "es": "{έφαγα}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{είμαι}",
+                "en": "{είμαι}",
+                "es": "{είμαι}"
+              },
+              "b": {
+                "pt": "{ήμουν}",
+                "en": "{ήμουν}",
+                "es": "{ήμουν}"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual o passado de {λέγω}?",
+            "en": "What is the past of {λέγω}?",
+            "es": "¿Cuál es el pasado de {λέγω}?"
+          },
+          "options": [
+            {
+              "pt": "{είπα}",
+              "en": "{είπα}",
+              "es": "{είπα}"
+            },
+            {
+              "pt": "{λέγω}",
+              "en": "{λέγω}",
+              "es": "{λέγω}"
+            },
+            {
+              "pt": "{λέξω}",
+              "en": "{λέξω}",
+              "es": "{λέξω}"
+            },
+            {
+              "pt": "{λέγομαι}",
+              "en": "{λέγομαι}",
+              "es": "{λέγομαι}"
+            }
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
       "title": {
         "pt": "είμαι e έχω",
         "en": "είμαι and έχω",
@@ -976,7 +1636,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": {
         "pt": "Presente dos verbos em -ω",
         "en": "Present of -ω verbs",
@@ -1321,7 +1981,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "title": {
         "pt": "Passado: aoristo",
         "en": "Past: aorist",
@@ -1627,7 +2287,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "title": {
         "pt": "Leitura: João 1:1",
         "en": "Reading: John 1:1",
@@ -1946,7 +2606,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "title": {
         "pt": "Pronomes e possessivos",
         "en": "Pronouns and possessives",
@@ -2253,7 +2913,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "title": {
         "pt": "Subjuntivo να",
         "en": "The να subjunctive",
@@ -2551,7 +3211,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "title": {
         "pt": "Passado contínuo",
         "en": "Continuous past",
@@ -2862,7 +3522,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "title": {
         "pt": "Futuro e perfect",
         "en": "Future and perfect",
@@ -3152,7 +3812,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "title": {
         "pt": "Voz passiva",
         "en": "Passive voice",
@@ -3463,7 +4123,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "title": {
         "pt": "Imperativo",
         "en": "Imperative",
@@ -3777,7 +4437,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "title": {
         "pt": "Comparativos e superlativos",
         "en": "Comparatives and superlatives",
@@ -4075,7 +4735,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "section": {
         "pt": "O nome",
         "en": "The noun",
@@ -4589,7 +5249,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "section": {
         "pt": "O nome",
         "en": "The noun",
@@ -5110,7 +5770,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 17,
       "section": {
         "pt": "Artigo",
         "en": "Article",
@@ -5579,7 +6239,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "section": {
         "pt": "Artigo",
         "en": "Article",
@@ -6063,7 +6723,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 19,
       "section": {
         "pt": "Caso",
         "en": "Case",
@@ -6556,7 +7216,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 20,
       "section": {
         "pt": "Pronome",
         "en": "Pronoun",
@@ -7071,7 +7731,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "section": {
         "pt": "Advérbio",
         "en": "Adverb",
@@ -7583,7 +8243,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
       "section": {
         "pt": "Advérbio",
         "en": "Adverb",
@@ -8078,7 +8738,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "section": {
         "pt": "Numeral",
         "en": "Numeral",
@@ -8573,7 +9233,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 24,
       "section": {
         "pt": "Numeral",
         "en": "Numeral",
@@ -9092,7 +9752,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "section": {
         "pt": "O verbo",
         "en": "The verb",
@@ -9588,7 +10248,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "section": {
         "pt": "O verbo",
         "en": "The verb",
@@ -10088,7 +10748,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "section": {
         "pt": "O verbo",
         "en": "The verb",
@@ -10543,7 +11203,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "section": {
         "pt": "Sintaxe",
         "en": "Syntax",
@@ -10993,7 +11653,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 29,
       "section": {
         "pt": "Conectivo",
         "en": "Connector",
@@ -11490,7 +12150,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 30,
       "section": {
         "pt": "Preposições",
         "en": "Preposition",
@@ -12005,7 +12665,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 31,
       "section": {
         "pt": "Leitura",
         "en": "Reading",
@@ -12531,5 +13191,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g4ec3062d"
+  "contentVersion": "1.0.0+gd46860fc"
 }

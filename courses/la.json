@@ -2397,6 +2397,825 @@
     },
     {
       "id": 5,
+      "section": {
+        "pt": "Declinações e o verbo sum",
+        "en": "Declensions and the verb sum",
+        "es": "Declinaciones y el verbo sum"
+      },
+      "title": {
+        "pt": "Os verbos essenciais",
+        "en": "The essential verbs",
+        "es": "Los verbos esenciales"
+      },
+      "subtitle": {
+        "pt": "eo, venio, sum, habeo, facio, dico: os verbos que sustentam quase toda frase",
+        "en": "eo, venio, sum, habeo, facio, dico: the verbs that hold up almost every clause",
+        "es": "eo, venio, sum, habeo, facio, dico: los verbos que sostienen casi toda oración"
+      },
+      "body": {
+        "pt": "## Doze verbos, e dois que não têm regra\n\nUm verbo latino regular tira a terminação e devolve uma nova: em {amo}, {amas}, {amat}, o tema {ama-} não se mexe. Os essenciais não têm tema fixo: {eo}, {venio}, {sum}, {habeo}, {facio}, {dico}, {video}, {audio}, {edo}, {bibo}, {dormio}, {morior}, {nascor}, {lego}, {scribo}, {loquor}, {vestio}, {possum}, {volo}, {scio}, {fero}, {pono} são formas que nenhuma regra produz, e são o que se lê em toda página.\n\nSão poucos e pesam muito. {eo} ir, {venio} vir, {sum} ser, {habeo} ter, {facio} fazer, {dico} dizer, {video} ver, {audio} ouvir, {edo} comer, {bibo} beber, {dormio} dormir, {morior} morrer, {nascor} nascer, {lego} ler, {scribo} escrever, {loquor} falar, {vestio} vestir, {possum} poder, {volo} querer, {scio} saber, {fero} levar, {pono} pôr cobrem quase tudo o que se diz num capítulo de Evangelho.\n\n## sum: o verbo que não tem presente regular\n\n{sum} é o verbo mais irregular do latim: {sum}, {es}, {est}, {sumus}, {estis}, {sunt}. O imperfeito é {eram}, {eras}, {erat}, {eramus}, {eratis}, {erant}, e o futuro {ero}, {eris}, {erit}, {erimus}, {eritis}, {erunt}. Não há tema comum entre o presente e o imperfeito — é memorizar, não deduzir.\n\n{sum} também é o auxiliar do perfeito passivo: {amatus sum}, {amatus es}, {amatus est}. O particípio concorda com o sujeito, e {sum} fecha a frase. O português traduz por «foi amado», mas o latim diz «amado é» — o verbo ser carrega o tempo.\n\n## eo e venio: ir e vir\n\n{eo} «ir» é irregular no presente: {eo}, {is}, {it}, {imus}, {itis}, {eunt}. O imperfeito é {ibam}, {ibas}, {ibat}, {ibamus}, {ibatis}, {ibant}, e o futuro {ibo}, {ibis}, {ibit}, {ibimus}, {ibitis}, {ibunt}. O tema muda de {i-} para {ib-} — é a marca do verbo.\n\n{venio} «vir» é regular na 4ª conjugação: {venio}, {venis}, {venit}, {venimus}, {venitis}, {veniunt}. O imperfeito é {veniebam}, {veniebas}, {veniebat}, {veniebamus}, {veniebatis}, {veniebant}, e o futuro {veniam}, {venies}, {veniet}, {veniemus}, {venietis}, {venient}. A diferença de sentido é a do português: {eo} indica movimento para fora, {venio} para dentro.\n\n## Na Bíblia\n\nJoão 1:1 começa com {erat}: {In principio erat Verbum}, no começo era o Verbo. {erat} é o imperfeito de {sum}, 3ª pessoa do singular. E João 1:3 fecha com {factum est}, o perfeito passivo de {facio}: tudo foi feito. O latim que começa com {erat} termina com {factum est}: o Verbo já era, e tudo o resto foi feito.\n\nMarcos 4:39 traz {tacere}, «calar»: é o infinitivo de {taceo}, «estar calado». O versículo inteiro mostra o método: o latim coloca a ordem de Jesus no infinitivo para dizer que o mar não responde à ordem, mas a Cristo.",
+        "en": "## Twelve verbs, and two with no rule\n\nA regular Latin verb drops its ending and returns a new one: in {amo}, {amas}, {amat}, the stem {ama-} does not move. The essentials have no fixed stem: {eo}, {venio}, {sum}, {habeo}, {facio}, {dico}, {video}, {audio}, {edo}, {bibo}, {dormio}, {morior}, {nascor}, {lego}, {scribo}, {loquor}, {vestio}, {possum}, {volo}, {scio}, {fero}, {pono} are forms that no rule produces, and they are what is read on every page.\n\nThey are few and they weigh a lot. {eo} to go, {venio} to come, {sum} to be, {habeo} to have, {facio} to do, {dico} to say, {video} to see, {audio} to hear, {edo} to eat, {bibo} to drink, {dormio} to sleep, {morior} to die, {nascor} to be born, {lego} to read, {scribo} to write, {loquor} to speak, {vestio} to wear, {possum} can, {volo} to want, {scio} to know, {fero} to carry, {pono} to put cover almost everything said in a chapter of a Gospel.\n\n## sum: the verb with no regular present\n\n{sum} is the most irregular verb in Latin: {sum}, {es}, {est}, {sumus}, {estis}, {sunt}. The imperfect is {eram}, {eras}, {erat}, {eramus}, {eratis}, {erant}, and the future {ero}, {eris}, {erit}, {erimus}, {eritis}, {erunt}. There is no common stem between the present and the imperfect — it is memorizing, not deducing.\n\n{sum} is also the auxiliary of the perfect passive: {amatus sum}, {amatus es}, {amatus est}. The participle agrees with the subject, and {sum} closes the clause. Portuguese translates as \"foi amado\", but Latin says \"amado é\" — the verb to be carries the tense.\n\n## eo and venio: to go and to come\n\n{eo} \"to go\" is irregular in the present: {eo}, {is}, {it}, {imus}, {itis}, {eunt}. The imperfect is {ibam}, {ibas}, {ibat}, {ibamus}, {ibatis}, {ibant}, and the future {ibo}, {ibis}, {ibit}, {ibimus}, {ibitis}, {ibunt}. The stem changes from {i-} to {ib-} — it is the mark of the verb.\n\n{venio} \"to come\" is regular in the 4th conjugation: {venio}, {venis}, {venit}, {venimus}, {venitis}, {veniunt}. The imperfect is {veniebam}, {veniebas}, {veniebat}, {veniebamus}, {veniebatis}, {veniebant}, and the future {veniam}, {venies}, {veniet}, {veniemus}, {venietis}, {venient}. The difference in meaning is that of Portuguese: {eo} indicates movement outward, {venio} inward.\n\n## In the Bible\n\nJohn 1:1 begins with {erat}: {In principio erat Verbum}, in the beginning was the Word. {erat} is the imperfect of {sum}, 3rd person singular. And John 1:3 closes with {factum est}, the perfect passive of {facio}: all things were made. The Latin that begins with {erat} ends with {factum est}: the Word already was, and everything else was made.\n\nMark 4:39 has {tacere}, \"to be silent\": it is the infinitive of {taceo}, \"to be silent\". The whole verse shows the method: Latin places Jesus' command in the infinitive to say that the sea does not answer the command, but to Christ.",
+        "es": "## Doce verbos, y dos sin regla\n\nUn verbo latino regular quita la terminación y devuelve una nueva: en {amo}, {amas}, {amat}, el tema {ama-} no se mueve. Los esenciales no tienen tema fijo: {eo}, {venio}, {sum}, {habeo}, {facio}, {dico}, {video}, {audio}, {edo}, {bibo}, {dormio}, {morior}, {nascor}, {lego}, {scribo}, {loquor}, {vestio}, {possum}, {volo}, {scio}, {fero}, {pono} son formas que ninguna regla produce, y son lo que se lee en cada página.\n\nSon pocos y pesan mucho. {eo} ir, {venio} venir, {sum} ser, {habeo} tener, {facio} hacer, {dico} decir, {video} ver, {audio} oír, {edo} comer, {bibo} beber, {dormio} dormir, {morior} morir, {nascor} nacer, {lego} leer, {scribo} escribir, {loquor} hablar, {vestio} vestir, {possum} poder, {volo} querer, {scio} saber, {fero} llevar, {pono} poner cubren casi todo lo que se dice en un capítulo de Evangelio.\n\n## sum: el verbo sin presente regular\n\n{sum} es el verbo más irregular del latín: {sum}, {es}, {est}, {sumus}, {estis}, {sunt}. El imperfecto es {eram}, {eras}, {erat}, {eramus}, {eratis}, {erant}, y el futuro {ero}, {eris}, {erit}, {erimus}, {eritis}, {erunt}. No hay tema común entre el presente y el imperfecto: es memorizar, no deducir.\n\n{sum} también es el auxiliar del perfecto pasivo: {amatus sum}, {amatus es}, {amatus est}. El participio concuerda con el sujeto, y {sum} cierra la cláusula. El portugués traduce por «fue amado», pero el latín dice «amado es»: el verbo ser carga el tiempo.\n\n## eo y venio: ir y venir\n\n{eo} «ir» es irregular en presente: {eo}, {is}, {it}, {imus}, {itis}, {eunt}. El imperfecto es {ibam}, {ibas}, {ibat}, {ibamus}, {ibatis}, {ibant}, y el futuro {ibo}, {ibis}, {ibit}, {ibimus}, {ibitis}, {ibunt}. El tema cambia de {i-} a {ib-}: es la marca del verbo.\n\n{venio} «venir» es regular en la 4.ª conjugación: {venio}, {venis}, {venit}, {venimus}, {venitis}, {veniunt}. El imperfecto es {veniebam}, {veniebas}, {veniebat}, {veniebamus}, {veniebatis}, {veniebant}, y el futuro {veniam}, {venies}, {veniet}, {veniemus}, {venietis}, {venient}. La diferencia de sentido es la del portugués: {eo} indica movimiento hacia fuera, {venio} hacia dentro.\n\n## En la Biblia\n\nJuan 1:1 comienza con {erat}: {In principio erat Verbum}, en el principio era el Verbo. {erat} es el imperfecto de {sum}, 3.ª persona del singular. Y Juan 1:3 cierra con {factum est}, el perfecto pasivo de {facio}: todas las cosas fueron hechas. El latín que comienza con {erat} termina con {factum est}: el Verbo ya era, y todo lo demás fue hecho.\n\nMarcos 4:39 trae {tacere}, «callar»: es el infinitivo de {taceo}, «estar callado». El versículo entero muestra el método: el latín coloca la orden de Jesús en infinitivo para decir que el mar no responde a la orden, sino a Cristo."
+      },
+      "vocab": [
+        {
+          "form": "eo",
+          "lemma": "eo",
+          "lang": "la",
+          "pt": "eu vou",
+          "en": "I go",
+          "es": "yo voy"
+        },
+        {
+          "form": "venio",
+          "lemma": "venio",
+          "lang": "la",
+          "pt": "vir",
+          "en": "to come",
+          "es": "venir"
+        },
+        {
+          "form": "veni",
+          "lemma": "venio",
+          "lang": "la",
+          "pt": "vem",
+          "en": "come",
+          "es": "ven"
+        },
+        {
+          "form": "sum",
+          "lemma": "sum",
+          "lang": "la",
+          "pt": "ser",
+          "en": "to be",
+          "es": "ser"
+        },
+        {
+          "form": "eram",
+          "lemma": "sum",
+          "lang": "la",
+          "pt": "era",
+          "en": "was",
+          "es": "era"
+        },
+        {
+          "form": "habeo",
+          "lemma": "habeo",
+          "lang": "la",
+          "pt": "ter",
+          "en": "to have",
+          "es": "tener"
+        },
+        {
+          "form": "habebam",
+          "lemma": "habeo",
+          "lang": "la",
+          "pt": "tinha",
+          "en": "had",
+          "es": "tenía"
+        },
+        {
+          "form": "facio",
+          "lemma": "facio",
+          "lang": "la",
+          "pt": "fazer",
+          "en": "to do",
+          "es": "hacer"
+        },
+        {
+          "form": "feci",
+          "lemma": "facio",
+          "lang": "la",
+          "pt": "fiz",
+          "en": "did",
+          "es": "hice"
+        },
+        {
+          "form": "dico",
+          "lemma": "dico",
+          "lang": "la",
+          "pt": "dizer",
+          "en": "to say",
+          "es": "decir"
+        },
+        {
+          "form": "dixi",
+          "lemma": "dico",
+          "lang": "la",
+          "pt": "disse",
+          "en": "said",
+          "es": "dije"
+        },
+        {
+          "form": "video",
+          "lemma": "video",
+          "lang": "la",
+          "pt": "ver",
+          "en": "to see",
+          "es": "ver"
+        },
+        {
+          "form": "vidi",
+          "lemma": "video",
+          "lang": "la",
+          "pt": "vi",
+          "en": "saw",
+          "es": "vi"
+        },
+        {
+          "form": "audio",
+          "lemma": "audio",
+          "lang": "la",
+          "pt": "ouvir",
+          "en": "to hear",
+          "es": "oír"
+        },
+        {
+          "form": "audivi",
+          "lemma": "audio",
+          "lang": "la",
+          "pt": "ouvi",
+          "en": "heard",
+          "es": "oí"
+        },
+        {
+          "form": "edo",
+          "lemma": "edo",
+          "lang": "la",
+          "pt": "comer",
+          "en": "to eat",
+          "es": "comer"
+        },
+        {
+          "form": "bibo",
+          "lemma": "bibo",
+          "lang": "la",
+          "pt": "beber",
+          "en": "to drink",
+          "es": "beber"
+        },
+        {
+          "form": "dormio",
+          "lemma": "dormio",
+          "lang": "la",
+          "pt": "dormir",
+          "en": "to sleep",
+          "es": "dormir"
+        },
+        {
+          "form": "morior",
+          "lemma": "morior",
+          "lang": "la",
+          "pt": "morrer",
+          "en": "to die",
+          "es": "morir"
+        },
+        {
+          "form": "nascor",
+          "lemma": "nascor",
+          "lang": "la",
+          "pt": "nascer",
+          "en": "to be born",
+          "es": "nacer"
+        },
+        {
+          "form": "lego",
+          "lemma": "lego",
+          "lang": "la",
+          "pt": "ler",
+          "en": "to read",
+          "es": "leer"
+        },
+        {
+          "form": "scribo",
+          "lemma": "scribo",
+          "lang": "la",
+          "pt": "escrever",
+          "en": "to write",
+          "es": "escribir"
+        },
+        {
+          "form": "loquor",
+          "lemma": "loquor",
+          "lang": "la",
+          "pt": "falar",
+          "en": "to speak",
+          "es": "hablar"
+        },
+        {
+          "form": "vestio",
+          "lemma": "vestio",
+          "lang": "la",
+          "pt": "vestir",
+          "en": "to wear",
+          "es": "vestir"
+        },
+        {
+          "form": "possum",
+          "lemma": "possum",
+          "lang": "la",
+          "pt": "poder",
+          "en": "can",
+          "es": "poder"
+        },
+        {
+          "form": "volo",
+          "lemma": "volo",
+          "lang": "la",
+          "pt": "querer",
+          "en": "to want",
+          "es": "querer"
+        },
+        {
+          "form": "scio",
+          "lemma": "scio",
+          "lang": "la",
+          "pt": "saber",
+          "en": "to know",
+          "es": "saber"
+        },
+        {
+          "form": "fero",
+          "lemma": "fero",
+          "lang": "la",
+          "pt": "levar",
+          "en": "to carry",
+          "es": "llevar"
+        },
+        {
+          "form": "pono",
+          "lemma": "pono",
+          "lang": "la",
+          "pt": "pôr",
+          "en": "to put",
+          "es": "poner"
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "{sum} é o verbo mais irregular: {sum}, {es}, {est}, {sumus}, {estis}, {sunt}. Imperfeito {eram}, {eras}, {erat}. Futuro {ero}, {eris}, {erit}.",
+            "en": "{sum} is the most irregular verb: {sum}, {es}, {est}, {sumus}, {estis}, {sunt}. Imperfect {eram}, {eras}, {erat}. Future {ero}, {eris}, {erit}.",
+            "es": "{sum} es el verbo más irregular: {sum}, {es}, {est}, {sumus}, {estis}, {sunt}. Imperfecto {eram}, {eras}, {erat}. Futuro {ero}, {eris}, {erit}."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "{sum} é o auxiliar do perfeito passivo: {amatus sum}, {amatus es}, {amatus est}. O particípio concorda com o sujeito.",
+            "en": "{sum} is the auxiliary of the perfect passive: {amatus sum}, {amatus es}, {amatus est}. The participle agrees with the subject.",
+            "es": "{sum} es el auxiliar del perfecto pasivo: {amatus sum}, {amatus es}, {amatus est}. El participio concuerda con el sujeto."
+          }
+        },
+        {
+          "n": "§3",
+          "text": {
+            "pt": "{eo} é irregular no presente: {eo}, {is}, {it}, {imus}, {itis}, {eunt}. Imperfeito {ibam}, {ibas}, {ibat}. Futuro {ibo}, {ibis}, {ibit}.",
+            "en": "{eo} is irregular in the present: {eo}, {is}, {it}, {imus}, {itis}, {eunt}. Imperfect {ibam}, {ibas}, {ibat}. Future {ibo}, {ibis}, {ibit}.",
+            "es": "{eo} es irregular en presente: {eo}, {is}, {it}, {imus}, {itis}, {eunt}. Imperfecto {ibam}, {ibas}, {ibat}. Futuro {ibo}, {ibis}, {ibit}."
+          }
+        },
+        {
+          "n": "§4",
+          "text": {
+            "pt": "{venio} é regular na 4ª conjugação: {venio}, {venis}, {venit}, {venimus}, {venitis}, {veniunt}. Imperfeito {veniebam}, {veniebas}, {veniebat}.",
+            "en": "{venio} is regular in the 4th conjugation: {venio}, {venis}, {venit}, {venimus}, {venitis}, {veniunt}. Imperfect {veniebam}, {veniebas}, {veniebat}.",
+            "es": "{venio} es regular en la 4.ª conjugación: {venio}, {venis}, {venit}, {venimus}, {venitis}, {veniunt}. Imperfecto {veniebam}, {veniebas}, {veniebat}."
+          }
+        },
+        {
+          "n": "§5",
+          "text": {
+            "pt": "João 1:1 usa {erat} (imperfeito de {sum}) e João 1:3 usa {factum est} (perfeito passivo de {facio}): o Verbo já era, e tudo o resto foi feito.",
+            "en": "John 1:1 uses {erat} (imperfect of {sum}) and John 1:3 uses {factum est} (perfect passive of {facio}): the Word already was, and everything else was made.",
+            "es": "Juan 1:1 usa {erat} (imperfecto de {sum}) y Juan 1:3 usa {factum est} (perfecto pasivo de {facio}): el Verbo ya era, y todo lo demás fue hecho."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "O eo que não é «ir»",
+            "en": "The eo that is not \"to go\"",
+            "es": "El eo que no es «ir»"
+          },
+          "text": {
+            "pt": "{eo} indica movimento para fora, {venio} para dentro. Quem traduz os dois por «ir» perde a direção. O imperfeito de {eo} é {ibam}, não {eobam} — o tema muda.",
+            "en": "{eo} indicates movement outward, {venio} inward. Whoever translates both as \"ir\" loses the direction. The imperfect of {eo} is {ibam}, not {eobam} — the stem changes.",
+            "es": "{eo} indica movimiento hacia fuera, {venio} hacia dentro. Quien traduce los dos por «ir» pierde la dirección. El imperfecto de {eo} es {ibam}, no {eobam}: el tema cambia."
+          }
+        },
+        {
+          "label": {
+            "pt": "O sum que não é «ser»",
+            "en": "The sum that is not \"to be\"",
+            "es": "El sum que no es «ser»"
+          },
+          "text": {
+            "pt": "{sum} é o verbo «ser», mas também o auxiliar do perfeito passivo. Em {amatus sum}, {sum} carrega o tempo e o particípio carrega o estado.",
+            "en": "{sum} is the verb \"to be\", but also the auxiliary of the perfect passive. In {amatus sum}, {sum} carries the tense and the participle carries the state.",
+            "es": "{sum} es el verbo «ser», pero también el auxiliar del perfecto pasivo. En {amatus sum}, {sum} carga el tiempo y el participio carga el estado."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "In principio erat Verbum",
+          "gloss": {
+            "pt": "Jo 1:1 — {erat} é imperfeito de {sum}: o Verbo já era.",
+            "en": "Jn 1:1 — {erat} is the imperfect of {sum}: the Word already was.",
+            "es": "Jn 1:1 — {erat} es imperfecto de {sum}: el Verbo ya era."
+          }
+        },
+        {
+          "text": "et Verbum erat apud Deum",
+          "gloss": {
+            "pt": "Jo 1:1 — {erat} com {apud}: o Verbo estava junto de Deus.",
+            "en": "Jn 1:1 — {erat} with {apud}: the Word was with God.",
+            "es": "Jn 1:1 — {erat} con {apud}: el Verbo estaba junto de Dios."
+          }
+        },
+        {
+          "text": "omnia per ipsum facta sunt",
+          "gloss": {
+            "pt": "Jo 1:3 — {facta sunt} é perfeito passivo de {facio}: tudo foi feito.",
+            "en": "Jn 1:3 — {facta sunt} is the perfect passive of {facio}: all things were made.",
+            "es": "Jn 1:3 — {facta sunt} es perfecto pasivo de {facio}: todas las cosas fueron hechas."
+          }
+        },
+        {
+          "text": "eo ad te",
+          "gloss": {
+            "pt": "{eo} com {ad}: vou a ti.",
+            "en": "{eo} with {ad}: I go to you.",
+            "es": "{eo} con {ad}: voy a ti."
+          }
+        },
+        {
+          "text": "venio ad te",
+          "gloss": {
+            "pt": "{venio} com {ad}: venho a ti.",
+            "en": "{venio} with {ad}: I come to you.",
+            "es": "{venio} con {ad}: vengo a ti."
+          }
+        },
+        {
+          "text": "habeo unum filium",
+          "gloss": {
+            "pt": "{habeo} com objeto direto: tenho um filho.",
+            "en": "{habeo} with a direct object: I have one son.",
+            "es": "{habeo} con objeto directo: tengo un hijo."
+          }
+        },
+        {
+          "text": "dico vobis",
+          "gloss": {
+            "pt": "{dico} com dativo: digo-vos.",
+            "en": "{dico} with dative: I say to you.",
+            "es": "{dico} con dativo: os digo."
+          }
+        },
+        {
+          "text": "video caelum",
+          "gloss": {
+            "pt": "{video} com objeto direto: vejo o céu.",
+            "en": "{video} with a direct object: I see the heaven.",
+            "es": "{video} con objeto directo: veo el cielo."
+          }
+        },
+        {
+          "text": "audio vocem",
+          "gloss": {
+            "pt": "{audio} com objeto direto: ouço a voz.",
+            "en": "{audio} with a direct object: I hear the voice.",
+            "es": "{audio} con objeto directo: oigo la voz."
+          }
+        },
+        {
+          "text": "tacere",
+          "gloss": {
+            "pt": "Mc 4:39 — infinitivo de {taceo}: calar.",
+            "en": "Mk 4:39 — infinitive of {taceo}: to be silent.",
+            "es": "Mc 4:39 — infinitivo de {taceo}: callar."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "O presente e o imperfeito de sum",
+            "en": "Present and imperfect of sum",
+            "es": "Presente e imperfecto de sum"
+          },
+          "head": [
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Presente",
+              "en": "Present",
+              "es": "Presente"
+            },
+            {
+              "pt": "Imperfeito",
+              "en": "Imperfect",
+              "es": "Imperfecto"
+            },
+            {
+              "pt": "Futuro",
+              "en": "Future",
+              "es": "Futuro"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "1.ª sing.",
+                "en": "1st sing.",
+                "es": "1.ª sing."
+              },
+              "sum",
+              "eram",
+              "ero"
+            ],
+            [
+              {
+                "pt": "2.ª sing.",
+                "en": "2nd sing.",
+                "es": "2.ª sing."
+              },
+              "es",
+              "eras",
+              "eris"
+            ],
+            [
+              {
+                "pt": "3.ª sing.",
+                "en": "3rd sing.",
+                "es": "3.ª sing."
+              },
+              "est",
+              "erat",
+              "erit"
+            ],
+            [
+              {
+                "pt": "1.ª pl.",
+                "en": "1st pl.",
+                "es": "1.ª pl."
+              },
+              "sumus",
+              "eramus",
+              "erimus"
+            ],
+            [
+              {
+                "pt": "2.ª pl.",
+                "en": "2nd pl.",
+                "es": "2.ª pl."
+              },
+              "estis",
+              "eratis",
+              "eritis"
+            ],
+            [
+              {
+                "pt": "3.ª pl.",
+                "en": "3rd pl.",
+                "es": "3.ª pl."
+              },
+              "sunt",
+              "erant",
+              "erunt"
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "O presente e o imperfeito de eo",
+            "en": "Present and imperfect of eo",
+            "es": "Presente e imperfecto de eo"
+          },
+          "head": [
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Presente",
+              "en": "Present",
+              "es": "Presente"
+            },
+            {
+              "pt": "Imperfeito",
+              "en": "Imperfect",
+              "es": "Imperfecto"
+            },
+            {
+              "pt": "Futuro",
+              "en": "Future",
+              "es": "Futuro"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "1.ª sing.",
+                "en": "1st sing.",
+                "es": "1.ª sing."
+              },
+              "eo",
+              "ibam",
+              "ibo"
+            ],
+            [
+              {
+                "pt": "2.ª sing.",
+                "en": "2nd sing.",
+                "es": "2.ª sing."
+              },
+              "is",
+              "ibas",
+              "ibis"
+            ],
+            [
+              {
+                "pt": "3.ª sing.",
+                "en": "3rd sing.",
+                "es": "3.ª sing."
+              },
+              "it",
+              "ibat",
+              "ibit"
+            ],
+            [
+              {
+                "pt": "1.ª pl.",
+                "en": "1st pl.",
+                "es": "1.ª pl."
+              },
+              "imus",
+              "ibamus",
+              "ibimus"
+            ],
+            [
+              {
+                "pt": "2.ª pl.",
+                "en": "2nd pl.",
+                "es": "2.ª pl."
+              },
+              "itis",
+              "ibatis",
+              "ibitis"
+            ],
+            [
+              {
+                "pt": "3.ª pl.",
+                "en": "3rd pl.",
+                "es": "3.ª pl."
+              },
+              "eunt",
+              "ibant",
+              "ibunt"
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "O presente e o imperfeito de venio",
+            "en": "Present and imperfect of venio",
+            "es": "Presente e imperfecto de venio"
+          },
+          "head": [
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Presente",
+              "en": "Present",
+              "es": "Presente"
+            },
+            {
+              "pt": "Imperfeito",
+              "en": "Imperfect",
+              "es": "Imperfecto"
+            },
+            {
+              "pt": "Futuro",
+              "en": "Future",
+              "es": "Futuro"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "1.ª sing.",
+                "en": "1st sing.",
+                "es": "1.ª sing."
+              },
+              "venio",
+              "veniebam",
+              "veniam"
+            ],
+            [
+              {
+                "pt": "2.ª sing.",
+                "en": "2nd sing.",
+                "es": "2.ª sing."
+              },
+              "venis",
+              "veniebas",
+              "venies"
+            ],
+            [
+              {
+                "pt": "3.ª sing.",
+                "en": "3rd sing.",
+                "es": "3.ª sing."
+              },
+              "venit",
+              "veniebat",
+              "veniet"
+            ],
+            [
+              {
+                "pt": "1.ª pl.",
+                "en": "1st pl.",
+                "es": "1.ª pl."
+              },
+              "venimus",
+              "veniebamus",
+              "veniemus"
+            ],
+            [
+              {
+                "pt": "2.ª pl.",
+                "en": "2nd pl.",
+                "es": "2.ª pl."
+              },
+              "venitis",
+              "veniebatis",
+              "venietis"
+            ],
+            [
+              {
+                "pt": "3.ª pl.",
+                "en": "3rd pl.",
+                "es": "3.ª pl."
+              },
+              "veniunt",
+              "veniebant",
+              "venient"
+            ]
+          ]
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em {In principio erat Verbum}, qual o tempo de {erat}?",
+          "en": "In {In principio erat Verbum}, what is the tense of {erat}?",
+          "es": "En {In principio erat Verbum}, ¿cuál es el tiempo de {erat}?"
+        },
+        "options": [
+          {
+            "pt": "Presente",
+            "en": "Present",
+            "es": "Presente"
+          },
+          {
+            "pt": "Imperfeito",
+            "en": "Imperfect",
+            "es": "Imperfecto"
+          },
+          {
+            "pt": "Futuro",
+            "en": "Future",
+            "es": "Futuro"
+          },
+          {
+            "pt": "Perfeito",
+            "en": "Perfect",
+            "es": "Perfecto"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete \"omnia per ipsum ___\" com o perfeito passivo de {facio} para \"foi feito\".",
+            "en": "Complete \"omnia per ipsum ___\" with the perfect passive of {facio} for \"was made\".",
+            "es": "Completa \"omnia per ipsum ___\" con el perfecto pasivo de {facio} para \"fue hecho\"."
+          },
+          "answer": "facta sunt"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue o verbo ao seu imperfeito.",
+            "en": "Match the verb to its imperfect.",
+            "es": "Relaciona el verbo con su imperfecto."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "{eo}",
+                "en": "{eo}",
+                "es": "{eo}"
+              },
+              "b": {
+                "pt": "{ibam}",
+                "en": "{ibam}",
+                "es": "{ibam}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{venio}",
+                "en": "{venio}",
+                "es": "{venio}"
+              },
+              "b": {
+                "pt": "{veniebam}",
+                "en": "{veniebam}",
+                "es": "{veniebam}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{sum}",
+                "en": "{sum}",
+                "es": "{sum}"
+              },
+              "b": {
+                "pt": "{eram}",
+                "en": "{eram}",
+                "es": "{eram}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{habeo}",
+                "en": "{habeo}",
+                "es": "{habeo}"
+              },
+              "b": {
+                "pt": "{habebam}",
+                "en": "{habebam}",
+                "es": "{habebam}"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual o futuro de {sum} na 1ª pessoa?",
+            "en": "What is the future of {sum} in the 1st person?",
+            "es": "¿Cuál es el futuro de {sum} en 1.ª persona?"
+          },
+          "options": [
+            {
+              "pt": "{ero}",
+              "en": "{ero}",
+              "es": "{ero}"
+            },
+            {
+              "pt": "{sum}",
+              "en": "{sum}",
+              "es": "{sum}"
+            },
+            {
+              "pt": "{eram}",
+              "en": "{eram}",
+              "es": "{eram}"
+            },
+            {
+              "pt": "{erit}",
+              "en": "{erit}",
+              "es": "{erit}"
+            }
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
       "title": {
         "pt": "Verbos de 1.ª conjugação e os perifrásticos",
         "en": "First conjugation verbs and the periphrastics",
@@ -3037,7 +3856,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "title": {
         "pt": "Primeiro texto: João 1:1-5 na Vulgata",
         "en": "First text: John 1:1-5 in the Vulgate",
@@ -3667,7 +4486,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "title": {
         "pt": "A terceira declinação",
         "en": "The third declension",
@@ -4276,7 +5095,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "title": {
         "pt": "Pronomes pessoais e reflexivos",
         "en": "Personal and reflexive pronouns",
@@ -4846,7 +5665,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "title": {
         "pt": "O perfeito e os seus irregulares",
         "en": "The perfect and its irregularities",
@@ -5468,7 +6287,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "title": {
         "pt": "Verbos depoentes e o subjuntivo",
         "en": "Deponent verbs and the subjunctive",
@@ -6066,7 +6885,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "title": {
         "pt": "O Pai-Nosso em latim (Mt 6:9-13)",
         "en": "The Lord's Prayer in Latin (Mt 6:9-13)",
@@ -6680,7 +7499,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "title": {
         "pt": "A quarta e a quinta declinações",
         "en": "The fourth and fifth declensions",
@@ -7239,7 +8058,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "title": {
         "pt": "Adjetivos de terceira e numerais",
         "en": "Third-declension adjectives and numerals",
@@ -7861,7 +8680,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "title": {
         "pt": "Demonstrativos e o pronome relativo",
         "en": "Demonstratives and the relative pronoun",
@@ -8495,7 +9314,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "title": {
         "pt": "O sistema passivo",
         "en": "The passive system",
@@ -9111,7 +9930,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 17,
       "title": {
         "pt": "Infinitivos e a proposição indireta",
         "en": "Infinitives and the indirect statement",
@@ -9710,7 +10529,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "title": {
         "pt": "O ablativo absoluto",
         "en": "The ablative absolute",
@@ -10415,7 +11234,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 19,
       "title": {
         "pt": "Gerúndio e gerundivo",
         "en": "Gerund and gerundive",
@@ -11067,7 +11886,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 20,
       "title": {
         "pt": "As condicionais",
         "en": "The conditionals",
@@ -11752,7 +12571,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "title": {
         "pt": "Usos do subjuntivo",
         "en": "Uses of the subjunctive",
@@ -12459,7 +13278,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
       "title": {
         "pt": "Leitura: o Credo de Niceia",
         "en": "Reading: the Nicene Creed",
@@ -13107,7 +13926,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "title": {
         "pt": "Leitura: Ave Maria e Magnificat",
         "en": "Reading: the Hail Mary and the Magnificat",
@@ -13661,7 +14480,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 24,
       "title": {
         "pt": "Leitura: Salmo 21 na Vulgata",
         "en": "Reading: Psalm 21 in the Vulgate",
@@ -14215,7 +15034,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "title": {
         "pt": "Capstone: 1 Coríntios 13 na Vulgata",
         "en": "Capstone: 1 Corinthians 13 in the Vulgate",
@@ -14774,7 +15593,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "title": {
         "pt": "O advérbio: não flexiona",
         "en": "The adverb: it does not inflect",
@@ -15532,7 +16351,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "title": {
         "pt": "Advérbio, numeral e partícula",
         "en": "Adverb, numeral and particle",
@@ -16247,7 +17066,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "title": {
         "pt": "O sistema do verbo, parte 2: o subjuntivo",
         "en": "The verb system, part 2: the subjunctive",
@@ -17067,7 +17886,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 29,
       "title": {
         "pt": "Oratio obliqua: a sequência oblíqua",
         "en": "Oratio obliqua: the oblique sequence",
@@ -17793,7 +18612,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 30,
       "title": {
         "pt": "Período: as três formas",
         "en": "The period: its three shapes",
@@ -18581,7 +19400,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 31,
       "title": {
         "pt": "Capstone: Romanos 8 na Vulgata",
         "en": "Capstone: Romans 8 in the Vulgate",
@@ -19357,5 +20176,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+ge336b896"
+  "contentVersion": "1.0.0+gc8cc3ea2"
 }
