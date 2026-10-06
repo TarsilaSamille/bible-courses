@@ -5939,6 +5939,827 @@
     {
       "id": 9,
       "title": {
+        "pt": "Os verbos essenciais",
+        "en": "The essential verbs",
+        "es": "Los verbos esenciales"
+      },
+      "subtitle": {
+        "pt": "הָלַךְ, בּוֹא, הָיָה, אָכַל: as raízes que sustentam quase todo verso",
+        "en": "הָלַךְ, בּוֹא, הָיָה, אָכַל: the roots that hold nearly every verse",
+        "es": "הָלַךְ, בּוֹא, הָיָה, אָכַל: las raíces que sostienen casi todo versículo"
+      },
+      "section": {
+        "pt": "Verbo e numeral",
+        "en": "Verb and numeral",
+        "es": "Verbo y numeral"
+      },
+      "body": {
+        "pt": "## Seis raízes que o texto bíblico não larga\n\nUma raiz hebraica não é pronta. {הלכ} sozinho é só um esquema de consoantes; vira verbo no molde {קָטַל} (qal), com as vogais {cacac} que o qal impõe. Os verbos essenciais do curso são seis raízes velhas, e nenhuma delas se forma nem se flexiona por regra simples:\n\n{הָלַךְ} walk / ir\n{בּוֹא} come / vir\n{הָיָה} be / ser, estar, acontecer\n{אָכַל} eat / comer\n{רָאָה} see / ver\n{שָׁמַע} hear / ouvir, obedecer\n\nO resto do verbo aparece por derivação. {שָׁמַר} \"guardar\" em hebraico do Pentateuco vive mais como nomeção do que o verbo do Evangelho, mas a mesma raiz rende {שָׁמַרְתָּ}, \"tu guardaste\", e {יְהוָה שֹׁמֵר}, \"o SENHOR guarda\".\n\n## O pretérito (qatal) marca o fato concluído\n\nQuando o texto quer dizer que algo aconteceu, usa o qatal: a vogal da segunda cônica cai e mudam o sufixo de pessoa:\n\n{הָלַךְ} ele foi / andou\n{אָכַל} ele comeu\n{רָאָה} ele viu\n{הָיָה} ele foi / era / aconteceu\n\n{הָיָה} é o verbo mais usado do hebraico bíblico. Quase todo versículo carrega um {הָיָה} ou um {וַיְהִי} oculto, e a tradução abre um dilema: {הָיָה} no começo de frase, sozinho, com nome próprio depois, costuma ser \"e vivia\" ou \"e aconteceu\", e não \"era\" simples.\n\n{וַיְהִי} é o pretérito contínuo de {הָיָה}, e é a assinatura da narrativa hebraica: {וַיְהִי בַּיָּמִים הָהֵם} diz \"e aconteceu naqueles dias\" (Lc 2:1). Quando o versículo começa com {וַיְהִי}, a história está no passado contínuo, no que vinha acontecendo.\n\n## As formas que invertem o olhar\n\nO qatal também sabe marcar advérbio e posse, e os dois usos mais importantes de to byno:\n\n- **{לִי הַהִוא}, \"foi-me dado\"**. O português pede o sujeito em {הָיָה}: \"houve\". O hebraico deixa o {הָיָה} sozinho e pendura o dono com {לִי}. A tradução errada mais comum é fraca: \"ele tinha\".\n- **{מִצְוָה} e {נֹתֵן}**. Os verbos de dar e tomar no imperfeito podem dar uma marca de repetição ou de lei: {וַיִּתֵּן}, \"e deu\"; {נוֹתֵן}, \"o que dá\". O imperfeito de {נָתַן} é o que aparece na Torah como particípio.\n\n## Na Bíblia\n\nGênesis 1:3 abre com {וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר}, e o verbo que continua a frase é {וַיְהִי־אוֹר}: o grego lê por {ἐγένετο φῶς}, \"e houve luz\". Em Hebreus 11:3 os mesmos dois verbos em hebraico viram uma frase só. Quando o texto ecoa {וַיְהִי} em aramaico, o momento muda: a frase deixa de ser relato e vira tempo marcado.\n\nMateus 5:45 traz {בְּנֵי־אָבִיכֶם}, e o verbo de fazer é {מַמְטִיר} — a forma imperfeita de {הִמְטִיר}, \"ele faz chover\". O imperfeito localiza a ação num momento vago, que pode ser já ou ainda. É essa forma que o grego de Mateus traduz por {βρέχων} — particípio, \"o que faz chover\".",
+        "en": "## Six roots the biblical text never lets go\n\nA Hebrew root is not ready. {הלכ} alone is only a pattern of consonants; it becomes a verb in the {קָטַל} (qal) binyan, with the {cacac} vowels that qal imposes. The essential verbs of the course are six old roots, and none of them forms or inflects by a simple rule:\n\n{הָלַךְ} walk / go\n{בּוֹא} come / come\n{הָיָה} be / be, be, happen\n{אָכַל} eat / eat\n{רָאָה} see / see\n{שָׁמַע} hear / hear, obey\n\nThe rest of the verb arrives by derivation. {שָׁמַר} \"to guard\" in Pentateuchal Hebrew lives more as a guarantee than as a Gospel verb, but the same root yields {שָׁמַרְתָּ}, \"you guarded\", and {יְהוָה שֹׁמֵר}, \"the LORD guards\".\n\n## Qatal (preterite) marks the concluded fact\n\nWhen the text wants to say that something happened, it uses the qatal: the second consonant drops its vowel and the person suffix changes:\n\n{הָלַךְ} he went / walked\n{אָכַל} he ate\n{רָאָה} he saw\n{הָיָה} he was / happened\n\n{הָיָה} is the most used verb in Biblical Hebrew. Almost every verse carries a {הָיָה} or shows a hidden {וַיְהִי}, and the translation opens a dilemma: {הָיָה} at the head of a clause, alone, with a proper noun after it, usually is \"and he lived\" or \"and it happened\", and not plain \"was\".\n\n{וַיְהִי} is the continuous preterite of {הָיָה}, and it is the signature of Hebrew narrative: {וַיְהִי בַּיָּמִים הָהֵם} says \"and it came to pass in those days\" (Lk 2:1). When the verse opens with {וַיְהִי}, the story sits in the continuous past, in what was unfolding.\n\n## The forms that reverse the gaze\n\nThe qatal also marks adverbs and possession, and the two most important uses are these:\n\n- **{לִי הַהִוא}, \"it was given to me\"**. Portuguese demands the subject in {הָיָה}: \"there was\". Hebrew leaves {הָיָה} alone and hangs the owner with {לִי}. The most common bad translation is weak: \"he had\".\n- **{מִצְוָה} and {נֹתֵן}**. The imperfect of give and take can mark repetition or law: {וַיִּתֵּן}, \"and he gave\"; {נוֹתֵן}, \"the one who gives\". The imperfect of {נָתַן} is what appears in the Torah as a participle.\n\n## In the Bible\n\nGenesis 1:3 opens with {וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר}, and the verb that continues is {וַיְהִי־אוֹר}: Greek reads it as {ἐγένετο φῶς}, \"and there was light\". In Hebrews 11:3 the same two verbs in Hebrew become one clause. When {וַיְהִי} echoes in Aramaic, the moment shifts: the clause stops being a report and becomes marked time.\n\nMatthew 5:45 has {בְּנֵי־אָבִיכֶם}, and the verb of making is {מַמְטִיר} — the imperfect of {הִמְטִיר}, \"he makes it rain\". The imperfect locates the act in a vague moment, which can be already or still. That is the form Matthew's Greek renders by {βρέχων} — participle, \"the one who makes it rain\".",
+        "es": "## Seis raíces que el texto bíblico nunca suelta\n\nUna raíz hebraica no está lista. {הלכ} solo es un esquema de consonantes; se vuelve verbo en el patrón {קָטַל} (qal), con las vocales {cacac} que el qal impone. Los verbos esenciales del curso son seis raíces viejas, y ninguna se forma ni se flexiona por una regla simple:\n\n{הָלַךְ} walk / ir\n{בּוֹא} come / venir\n{הָיָה} be / ser, estar, suceder\n{אָכַל} eat / comer\n{רָאָה} see / ver\n{שָׁמַע} hear / oír, obedecer\n\nEl resto del verbo llega por derivación. {שָׁמַר} \"guardar\" en el hebreo del Pentateuco vive más como promesa que como verbo del Evangelio, pero la misma raíz da {שָׁמַרְתָּ}, \"tú guardaste\", y {יְהוָה שֹׁמֵר}, \"el SEÑOR guarda\".\n\n## El pretérito (qatal) marca el hecho concluido\n\nCuando el texto quiere decir que algo pasó, usa el qatal: la segunda consonante pierde su vocal y cambia el sufijo de persona:\n\n{הָלַךְ} él fue / anduvo\n{אָכַל} él comió\n{רָאָה} él vio\n{הָיָה} él fue / era / sucedió\n\n{הָיָה} es el verbo más usado del hebreo bíblico. Casi todo versículo lleva un {הָיָה} o un {וַיְהִי} oculto, y la traducción abre un dilema: {הָיָה} al comienzo de la frase, solo, con un nombre propio después, suele ser \"y vivió\" o \"y aconteció\", y no simplemente \"era\".\n\n{וַיְהִי} es el pretérito continuo de {הָיָה}, y es la firma de la narrativa hebrea: {וַיְהִי בַּיָּמִים הָהֵם} dice \"y aconteció en aquellos días\" (Lc 2:1). Cuando el versículo abre con {וַיְהִי}, la historia está en el pasado continuo, en lo que iba sucediendo.\n\n## Las formas que invierten la mirada\n\nEl qatal también sabe marcar adverbio y posesión, y los dos usos más importantes son:\n\n- **{לִי הַהִוא}, \"me fue dado\"**. El portugués pide el sujeto en {הָיָה}: \"hubo\". El hebreo deja solo {הָיָה} y cuelga al dueño con {לִי}. La traducción errónea más común es floja: \"él tenía\".\n- **{מִצְוָה} y {נֹתֵן}**. Los verbos de dar y tomar en imperfecto pueden marcar repetición o ley: {וַיִּתֵּן}, \"y dio\"; {נוֹתֵן}, \"el que da\". El imperfecto de {נָתַן} es el que aparece en la Torá como participio.\n\n## En la Biblia\n\nGénesis 1:3 abre con {וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר}, y el verbo que sigue a la frase es {וַיְהִי־אוֹר}: el griego lo lee como {ἐγένετο φῶς}, \"y hubo luz\". En Hebreos 11:3 los mismos dos verbos en hebreo se vuelven una sola cláusula. Cuando el texto repercute {וַיְהִי} en arameo, el momento cambia: la frase deja de ser un reporte y se convierte en tiempo marcado.\n\nMateo 5:45 trae {בְּנֵי־אָבִיכֶם}, y el verbo de hacer es {מַמְטִיר} — la forma imperfecta de {הִמְטִיר}, \"él hace llover\". El imperfecto sitúa la acción en un momento vago, que puede ser ya o todavía. Es esa la forma que el griego de Mateo traduce por {βρέχων} — participio, \"el que hace llover\"."
+      },
+      "vocab": [
+        {
+          "form": "הָלַךְ",
+          "lemma": "הָלַךְ",
+          "lang": "heb",
+          "pt": "ele foi / andou",
+          "en": "he went / he walked",
+          "es": "él fue / anduvo"
+        },
+        {
+          "form": "בָּא",
+          "lemma": "בּוֹא",
+          "lang": "heb",
+          "pt": "ele veio",
+          "en": "he came",
+          "es": "él vino"
+        },
+        {
+          "form": "הָיָה",
+          "lemma": "הָיָה",
+          "lang": "heb",
+          "pt": "ele foi / era / aconteceu",
+          "en": "he was / happened",
+          "es": "él fue / sucedió"
+        },
+        {
+          "form": "אָכַל",
+          "lemma": "אָכַל",
+          "lang": "heb",
+          "pt": "ele comeu",
+          "en": "he ate",
+          "es": "él comió"
+        },
+        {
+          "form": "רָאָה",
+          "lemma": "רָאָה",
+          "lang": "heb",
+          "pt": "ele viu",
+          "en": "he saw",
+          "es": "él vio"
+        },
+        {
+          "form": "שָׁמַע",
+          "lemma": "שָׁמַע",
+          "lang": "heb",
+          "pt": "ele ouviu / obedeceu",
+          "en": "he heard / obeyed",
+          "es": "él oyó / obedeció"
+        },
+        {
+          "form": "נָתַן",
+          "lemma": "נָתַן",
+          "lang": "heb",
+          "pt": "ele deu",
+          "en": "he gave",
+          "es": "él dio"
+        },
+        {
+          "form": "לָקַח",
+          "lemma": "לָקַח",
+          "lang": "heb",
+          "pt": "ele tomou",
+          "en": "he took",
+          "es": "él tomó"
+        },
+        {
+          "form": "עָשָׂה",
+          "lemma": "עָשָׂה",
+          "lang": "heb",
+          "pt": "ele fez",
+          "en": "he did",
+          "es": "él hizo"
+        },
+        {
+          "form": "יָדַע",
+          "lemma": "יָדַע",
+          "lang": "heb",
+          "pt": "ele conheceu / soube",
+          "en": "he knew",
+          "es": "él supo"
+        },
+        {
+          "form": "צִוָּה",
+          "lemma": "צִוָּה",
+          "lang": "heb",
+          "pt": "ele ordenou",
+          "en": "he commanded",
+          "es": "él ordenó"
+        },
+        {
+          "form": "שָׁתָה",
+          "lemma": "שָׁתָה",
+          "lang": "heb",
+          "pt": "ele bebeu",
+          "en": "he drank",
+          "es": "él bebió"
+        },
+        {
+          "form": "לָבַשׁ",
+          "lemma": "לָבַשׁ",
+          "lang": "heb",
+          "pt": "ele vestiu",
+          "en": "he wore",
+          "es": "él se vistió"
+        },
+        {
+          "form": "קָרָא",
+          "lemma": "קָרָא",
+          "lang": "heb",
+          "pt": "ele chamou / leu",
+          "en": "he called / read",
+          "es": "él llamó / leyó"
+        },
+        {
+          "form": "אֹהֵל",
+          "lemma": "אֹהֵל",
+          "lang": "heb",
+          "pt": "tenda",
+          "en": "tent",
+          "es": "tienda"
+        },
+        {
+          "form": "קִרְיַת",
+          "lemma": "קִרְיַת",
+          "lang": "heb",
+          "pt": "cidade",
+          "en": "city",
+          "es": "ciudad"
+        },
+        {
+          "form": "לֵאמֹר",
+          "lemma": "לֵאמֹר",
+          "lang": "heb",
+          "pt": "dizendo, falando",
+          "en": "saying",
+          "es": "diciendo"
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "O qatal marca fato concluído: {אָכַל} \"ele comeu\", {הָלַךְ} \"ele foi\". O tempo do português não se confunde com ele.",
+            "en": "Qatal marks a concluded fact: {אָכַל} \"he ate\", {הָלַךְ} \"he went\". The Portuguese tense does not confuse with it.",
+            "es": "El qatal marca un hecho concluido: {אָכַל} \"él comió\", {הָלַךְ} \"él fue\". El tiempo en portugués no confunde con él."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "{הָיָה} na abertura de versículo costuma ser \"e aconteceu\", \"e vivia\", \"e houve\". Sozinho, nunca \"era\" simples.",
+            "en": "{הָיָה} opening a verse often renders \"and it happened\", \"and he lived\", \"and there was\". Alone, never plain \"was\".",
+            "es": "{הָיָה} al comienzo de un versículo suele traducir \"y aconteció\", \"y vivió\", \"y hubo\". Solo, nunca simplemente \"era\"."
+          }
+        },
+        {
+          "n": "§3",
+          "text": {
+            "pt": "{וַיְהִי} marca narrativa: quando começa o versículo, o texto empurra para o que vinha acontecendo.",
+            "en": "{וַיְהִי} marks narrative: when it opens the verse, the text pushes toward what was unfolding.",
+            "es": "{וַיְהִי} marca narrativa: cuando abre el versículo, el texto empuja hacia lo que iba sucediendo."
+          }
+        },
+        {
+          "n": "§4",
+          "text": {
+            "pt": "Verbos de posse no qatal levam {לִי}, nunca \"ter\": {היה לי}, \"foi para mim\" → \"eu tive\". {היה לי בית}, \"eu tinha uma casa\" (Jo 14:2 não é hebraico, é Lc 2:49: {בְּבֵית אָבִי}).",
+            "en": "Possession verbs in qatal take {לִי}, never \"to have\": {היה לי}, \"it was to me\" → \"I had\". {היה לי בית}, \"I had a house\" (not Jn 14:2, but cf. Lk 2:49: {בְּבֵית אָבִי}).",
+            "es": "Los verbos de posesión en qatal toman {לִי}, nunca \"tener\": {היה לי}, \"me fue\" → \"yo tenía\". {היה לי בית}, \"yo tenía una casa\" (no Jn 14:2, pero cf. Lc 2:49: {בְּבֵית אָבִי})."
+          }
+        },
+        {
+          "n": "§5",
+          "text": {
+            "pt": "{וַיִּתֵּן} com o objeto direto e o sujeito no dativo escreve a ordem de {וַיְצַו}: {וַיְצַו יְהוָה אֱלֹהִים עַל־הָאָדָם} (Gn 2:16).",
+            "en": "{וַיִּתֵּן} with the direct object and the subject in dative writes the order of {וַיְצַו}: {וַיְצַו יְהוָה אֱלֹהִים עַל־הָאָדָם} (Gn 2:16).",
+            "es": "{וַיִּתֵּן} con el objeto directo y el sujeto en dativo escribe la orden de {וַיְצַו}: {וַיְצַו יְהוָה אֱלֹהִים עַל־הָאָדָם} (Gn 2:16)."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "{הָיָה} não é o verbo \"ter\"",
+            "en": "{הָיָה} is not the verb \"to have\"",
+            "es": "{הָיָה} no es el verbo \"tener\""
+          },
+          "text": {
+            "pt": "O hebraico não tem verbo \"ter\". Onde o português diz \"ele tem\", o hebraico usa {הָיָה לוֹ} no passado ou no presente contínuo. Onde diz \"ele tinha\", usa {הָיָה לוֹ} no qatal. A tradução que escreve \"ele tinha\" apaga a estrutura que diz que o possuidor passa por um evento — ter é coisa que aconteceu.",
+            "en": "Hebrew has no verb \"to have\". Where Portuguese says \"he has\", Hebrew uses {הָיָה לוֹ} in the past or the present continuous. Where it says \"he had\", it uses {הָיָה לוֹ} in qatal. The translation that writes \"he had\" erases the structure that says the possessor went through an event — having is something that happened.",
+            "es": "El hebreo no tiene verbo \"tener\". Donde el portugués dice \"él tiene\", el hebreo usa {הָיָה לוֹ} en pasado o en presente continuo. Donde dice \"él tenía\", usa {הָיָה לוֹ} en qatal. La traducción que escribe \"él tenía\" borra la estructura que dice que el poseedor pasó por un evento: tener es algo que sucedió."
+          }
+        },
+        {
+          "label": {
+            "pt": "{וַיְהִי} leva o tradutor de gosto",
+            "en": "{וַיְהִי} leads the translator astray",
+            "es": "{וַיְהִי} confunde al traductor"
+          },
+          "text": {
+            "pt": "Em português toda abertura de versículo com {וַיְהִי} precisa rodar o esforço entre \"aconteceu\", \"e era\", \"e aconteceu\" e \"certa vez\". O erro comum é traduzir como \"era uma vez\": é um tempo marcado no passado do discurso, não um começo sublime.",
+            "en": "In Portuguese every opening with {וַיְהִי} forces a choice between \"happened\", \"and it was\", \"and so it was\" and \"once upon a time\". The common error is to read it as \"once upon a time\": it is a marked past of discourse, not a sublime beginning.",
+            "es": "En portugués toda apertura con {וַיְהִי} obliga a elegir entre \"aconteció\", \"y era\", \"y fue así\" y \"érase una vez\". El error común es leerlo como \"érase una vez\": es un pasado marcado del discurso, no un comienzo sublime."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "בְּרֵאשִׁית בָּרָא אֱלֹהִים",
+          "gloss": {
+            "pt": "Gn 1:1 — {בָּרָא} está no qatal: fato que aconteceu.",
+            "en": "Gn 1:1 — {בָּרָא} is qatal: a fact that happened.",
+            "es": "Gn 1:1 — {בָּרָא} es qatal: un hecho que sucedió."
+          }
+        },
+        {
+          "text": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר",
+          "gloss": {
+            "pt": "Gn 1:3 — {יְהִי} é o jussivo de {הָיָה}, \"que seja\".",
+            "en": "Gn 1:3 — {יְהִי} is the jussive of {הָיָה}, \"let there be\".",
+            "es": "Gn 1:3 — {יְהִי} es el yusivo de {הָיָה}, \"que haya\"."
+          }
+        },
+        {
+          "text": "וַיְהִי־אוֹר",
+          "gloss": {
+            "pt": "Gn 1:3 — {וַיְהִי} + {אוֹר}: \"e houve luz\", narrativa seguida.",
+            "en": "Gn 1:3 — {וַיְהִי} + {אוֹר}: \"and there was light\", narrative.",
+            "es": "Gn 1:3 — {וַיְהִי} + {אוֹר}: \"y hubo luz\", narrativa."
+          }
+        },
+        {
+          "text": "וַיְהִי בַּיָּמִים הָהֵם",
+          "gloss": {
+            "pt": "Lc 2:1 (hebr.) — {וַיְהִי} marca dias em curso, não um instante.",
+            "en": "Lk 2:1 — {וַיְהִי} marks days in progress, not an instant.",
+            "es": "Lc 2:1 — {וַיְהִי} marca días en curso, no un instante."
+          }
+        },
+        {
+          "text": "הָיָה כֵּן",
+          "gloss": {
+            "pt": "forma qatal de {הָיָה} com afirmação: \"foi assim\".",
+            "en": "qatal form of {הָיָה} with an affirmation: \"it was so\".",
+            "es": "forma qatal de {הָיָה} con afirmación: \"fue así\"."
+          }
+        },
+        {
+          "text": "אֹתִי נָקָם",
+          "gloss": {
+            "pt": "qatal de {נָקַם}: algo aconteceu com ele; o grego lê {ἐγένετο}.",
+            "en": "qatal of {נָקַם}: something happened to him; Greek reads {ἐγένετο}.",
+            "es": "qatal de {נָקַם}: algo le sucedió; el griego lee {ἐγένετο}."
+          }
+        },
+        {
+          "text": "וַיְצַו יְהוָה",
+          "gloss": {
+            "pt": "Gn 2:16 — {וַיְצַו} é o wayyiqtol de {צִוָּה}: narrativa, passado imediato.",
+            "en": "Gn 2:16 — {וַיְצַו} is the wayyiqtol of {צִוָּה}: narrative, immediate past.",
+            "es": "Gn 2:16 — {וַיְצַו} es el wayyiqtol de {צִוָּה}: narrativa, pasado inmediato."
+          }
+        },
+        {
+          "text": "וַיַּרְא אֱלֹהִים אֶת־הָאוֹר",
+          "gloss": {
+            "pt": "Gn 1:4 — {וַיַּרְא} é o wayyiqtol de {רָאָה}: ação seguida.",
+            "en": "Gn 1:4 — {וַיַּרְא} is the wayyiqtol of {רָאָה}: following action.",
+            "es": "Gn 1:4 — {וַיַּרְא} es el wayyiqtol de {רָאָה}: acción seguida."
+          }
+        },
+        {
+          "text": "וַיִּתֵּן לָהֶם",
+          "gloss": {
+            "pt": "forma de imperativo de {נָתַן} com dativo: \"e deu a eles\".",
+            "en": "imperfect of {נָתַן} with dative: \"and he gave to them\".",
+            "es": "imperfecto de {נָתַן} con dativo: \"y les dio\"."
+          }
+        },
+        {
+          "text": "אֹכֵל מַלְאָךְ",
+          "gloss": {
+            "pt": "Gn 18 — o particípio ativo descreve o anjo vindo; {אֹכֵל} é muito antes de {אָכַל}.",
+            "en": "Gn 18 — the active participle describes the angel coming; {אֹכֵל} precedes {אָכַל}.",
+            "es": "Gn 18 — el participio activo describe al ángel que viene; {אֹכֵל} precede a {אָכַל}."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "O qatal dos essenciais, pessoa por pessoa",
+            "en": "Qatal of the essentials, person by person",
+            "es": "El qatal de los esenciales, persona por persona"
+          },
+          "head": [
+            {
+              "pt": "Verbo",
+              "en": "Verb",
+              "es": "Verbo"
+            },
+            {
+              "pt": "ele",
+              "en": "he",
+              "es": "él"
+            },
+            {
+              "pt": "ela",
+              "en": "she",
+              "es": "ella"
+            },
+            {
+              "pt": "eles",
+              "en": "they",
+              "es": "ellos"
+            },
+            {
+              "pt": "nós",
+              "en": "we",
+              "es": "nosotros"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "{הָלַךְ}",
+                "en": "{הָלַךְ}",
+                "es": "{הָלַךְ}"
+              },
+              {
+                "pt": "{הָלַךְ}",
+                "en": "{הָלַךְ}",
+                "es": "{הָלַךְ}"
+              },
+              {
+                "pt": "{הָלְכָה}",
+                "en": "{הָלְכָה}",
+                "es": "{הָלְכָה}"
+              },
+              {
+                "pt": "{הָלְכוּ}",
+                "en": "{הָלְכוּ}",
+                "es": "{הָלְכוּ}"
+              },
+              {
+                "pt": "{הָלַכְנוּ}",
+                "en": "{הָלַכְנוּ}",
+                "es": "{הָלַכְנוּ}"
+              }
+            ],
+            [
+              {
+                "pt": "{בּוֹא}",
+                "en": "{בּוֹא}",
+                "es": "{בּוֹא}"
+              },
+              {
+                "pt": "{בָּא}",
+                "en": "{בָּא}",
+                "es": "{בָּא}"
+              },
+              {
+                "pt": "{בָּאָה}",
+                "en": "{בָּאָה}",
+                "es": "{בָּאָה}"
+              },
+              {
+                "pt": "{בָּאוּ}",
+                "en": "{בָּאוּ}",
+                "es": "{בָּאוּ}"
+              },
+              {
+                "pt": "{בָּאנוּ}",
+                "en": "{בָּאנוּ}",
+                "es": "{בָּאנוּ}"
+              }
+            ],
+            [
+              {
+                "pt": "{הָיָה}",
+                "en": "{הָיָה}",
+                "es": "{הָיָה}"
+              },
+              {
+                "pt": "{הָיָה}",
+                "en": "{הָיָה}",
+                "es": "{הָיָה}"
+              },
+              {
+                "pt": "{הָיְתָה}",
+                "en": "{הָיְתָה}",
+                "es": "{הָיְתָה}"
+              },
+              {
+                "pt": "{הָיוּ}",
+                "en": "{הָיוּ}",
+                "es": "{הָיוּ}"
+              },
+              {
+                "pt": "{הָיִינוּ}",
+                "en": "{הָיִינוּ}",
+                "es": "{הָיִינוּ}"
+              }
+            ],
+            [
+              {
+                "pt": "{אָכַל}",
+                "en": "{אָכַל}",
+                "es": "{אָכַל}"
+              },
+              {
+                "pt": "{אָכַל}",
+                "en": "{אָכַל}",
+                "es": "{אָכַל}"
+              },
+              {
+                "pt": "{אָכְלָה}",
+                "en": "{אָכְלָה}",
+                "es": "{אָכְלָה}"
+              },
+              {
+                "pt": "{אָכְלוּ}",
+                "en": "{אָכְלוּ}",
+                "es": "{אָכְלוּ}"
+              },
+              {
+                "pt": "{אָכַלְנוּ}",
+                "en": "{אָכַלְנוּ}",
+                "es": "{אָכַלְנוּ}"
+              }
+            ],
+            [
+              {
+                "pt": "{רָאָה}",
+                "en": "{רָאָה}",
+                "es": "{רָאָה}"
+              },
+              {
+                "pt": "{רָאָה}",
+                "en": "{רָאָה}",
+                "es": "{רָאָה}"
+              },
+              {
+                "pt": "{רָאֲתָה}",
+                "en": "{רָאֲתָה}",
+                "es": "{רָאֲתָה}"
+              },
+              {
+                "pt": "{רָאוּ}",
+                "en": "{רָאוּ}",
+                "es": "{רָאוּ}"
+              },
+              {
+                "pt": "{רָאִינוּ}",
+                "en": "{רָאִינוּ}",
+                "es": "{רָאִינוּ}"
+              }
+            ],
+            [
+              {
+                "pt": "{שָׁמַע}",
+                "en": "{שָׁמַע}",
+                "es": "{שָׁמַע}"
+              },
+              {
+                "pt": "{שָׁמַע}",
+                "en": "{שָׁמַע}",
+                "es": "{שָׁמַע}"
+              },
+              {
+                "pt": "{שָׁמְעָה}",
+                "en": "{שָׁמְעָה}",
+                "es": "{שָׁמְעָה}"
+              },
+              {
+                "pt": "{שָׁמְעוּ}",
+                "en": "{שָׁמְעוּ}",
+                "es": "{שָׁמְעוּ}"
+              },
+              {
+                "pt": "{שָׁמַעְנוּ}",
+                "en": "{שָׁמַעְנוּ}",
+                "es": "{שָׁמַעְנוּ}"
+              }
+            ],
+            [
+              {
+                "pt": "{נָתַן}",
+                "en": "{נָתַן}",
+                "es": "{נָתַן}"
+              },
+              {
+                "pt": "{נָתַן}",
+                "en": "{נָתַן}",
+                "es": "{נָתַן}"
+              },
+              {
+                "pt": "{נָתְנָה}",
+                "en": "{נָתְנָה}",
+                "es": "{נָתְנָה}"
+              },
+              {
+                "pt": "{נָתְנוּ}",
+                "en": "{נָתְנוּ}",
+                "es": "{נָתְנוּ}"
+              },
+              {
+                "pt": "{נָתַנּוּ}",
+                "en": "{נָתַנּוּ}",
+                "es": "{נָתַנּוּ}"
+              }
+            ],
+            [
+              {
+                "pt": "{לָקַח}",
+                "en": "{לָקַח}",
+                "es": "{לָקַח}"
+              },
+              {
+                "pt": "{לָקַח}",
+                "en": "{לָקַח}",
+                "es": "{לָקַח}"
+              },
+              {
+                "pt": "{לָקְחָה}",
+                "en": "{לָקְחָה}",
+                "es": "{לָקְחָה}"
+              },
+              {
+                "pt": "{לָקְחוּ}",
+                "en": "{לָקְחוּ}",
+                "es": "{לָקְחוּ}"
+              },
+              {
+                "pt": "{לָקַחְנוּ}",
+                "en": "{לָקַחְנוּ}",
+                "es": "{לָקַחְנוּ}"
+              }
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "{וַיְהִי} frente a {הָיָה}: dois verbos para dois tempos",
+            "en": "{וַיְהִי} against {הָיָה}: two verbs for two tenses",
+            "es": "{וַיְהִי} frente a {הָיָה}: dos verbos para dos tiempos"
+          },
+          "head": [
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Tempo",
+              "en": "Tense",
+              "es": "Tiempo"
+            },
+            {
+              "pt": "Uso",
+              "en": "Use",
+              "es": "Uso"
+            },
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "{הָיָה}",
+                "en": "{הָיָה}",
+                "es": "{הָיָה}"
+              },
+              {
+                "pt": "qatal",
+                "en": "qatal",
+                "es": "qatal"
+              },
+              {
+                "pt": "fato pontuado",
+                "en": "punctual fact",
+                "es": "hecho puntual"
+              },
+              {
+                "pt": "{הָיָה כֵן}",
+                "en": "{הָיָה כֵן}",
+                "es": "{הָיָה כֵן}"
+              }
+            ],
+            [
+              {
+                "pt": "{וַיְהִי}",
+                "en": "{וַיְהִי}",
+                "es": "{וַיְהִי}"
+              },
+              {
+                "pt": "wayyiqtol",
+                "en": "wayyiqtol",
+                "es": "wayyiqtol"
+              },
+              {
+                "pt": "narrativa em curso",
+                "en": "narrative in progress",
+                "es": "narrativa en curso"
+              },
+              {
+                "pt": "{וַיְהִי בַּיָּמִים}",
+                "en": "{וַיְהִי בַּיָּמִים}",
+                "es": "{וַיְהִי בַּיָּמִים}"
+              }
+            ],
+            [
+              {
+                "pt": "{יְהִי}",
+                "en": "{יְהִי}",
+                "es": "{יְהִי}"
+              },
+              {
+                "pt": "jussivo",
+                "en": "jussive",
+                "es": "yusivo"
+              },
+              {
+                "pt": "vontade, ordem",
+                "en": "will, order",
+                "es": "voluntad, orden"
+              },
+              {
+                "pt": "{יְהִי אוֹר}",
+                "en": "{יְהִי אוֹר}",
+                "es": "{יְהִי אוֹר}"
+              }
+            ],
+            [
+              {
+                "pt": "{הָיוּ}",
+                "en": "{הָיוּ}",
+                "es": "{הָיוּ}"
+              },
+              {
+                "pt": "qatal plural",
+                "en": "qatal plural",
+                "es": "qatal plural"
+              },
+              {
+                "pt": "fato passado de muitos",
+                "en": "past fact of many",
+                "es": "hecho pasado de muchos"
+              },
+              {
+                "pt": "{הָיוּ יָמִים}",
+                "en": "{הָיוּ יָמִים}",
+                "es": "{הָיוּ יָמִים}"
+              }
+            ]
+          ]
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em {וַיְהִי בַּיָּמִים הָהֵם}, o que {וַיְהִי} marca?",
+          "en": "In {וַיְהִי בַּיָּמִים הָהֵם}, what does {וַיְהִי} mark?",
+          "es": "En {וַיְהִי בַּיָּמִים הָהֵם}, ¿qué marca {וַיְהִי}?"
+        },
+        "options": [
+          {
+            "pt": "Um fato único e fechado",
+            "en": "A single closed fact",
+            "es": "Un hecho único y cerrado"
+          },
+          {
+            "pt": "Narrativa em curso no passado",
+            "en": "Narrative in progress in the past",
+            "es": "Narrativa en curso en el pasado"
+          },
+          {
+            "pt": "Uma ordem ou desejo",
+            "en": "An order or wish",
+            "es": "An order or wish"
+          },
+          {
+            "pt": "Um tempo futuro",
+            "en": "A future tense",
+            "es": "A future tense"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete \"וַיְהִי ___ אוֹר\" (Gn 1:3) com o verbo \"haver\".",
+            "en": "Complete \"וַיְהִי ___ אוֹר\" (Gn 1:3) with the verb \"to be\".",
+            "es": "Completa \"וַיְהִי ___ אוֹר\" (Gn 1:3) con el verbo \"ser\"."
+          },
+          "answer": "אוֹר"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue o verbo à forma do qatal 3.ª pessoa.",
+            "en": "Match the verb to the qatal 3rd person.",
+            "es": "Relaciona el verbo con la forma del qatal 3.ª persona."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "{הָלַךְ}",
+                "en": "{הָלַךְ}",
+                "es": "{הָלַךְ}"
+              },
+              "b": {
+                "pt": "{ele foi}",
+                "en": "{he went}",
+                "es": "{he went}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{רָאָה}",
+                "en": "{רָאָה}",
+                "es": "{רָאָה}"
+              },
+              "b": {
+                "pt": "{ele viu}",
+                "en": "{he saw}",
+                "es": "{él vio}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{אָכַל}",
+                "en": "{אָכַל}",
+                "es": "{אָכַל}"
+              },
+              "b": {
+                "pt": "{ele comeu}",
+                "en": "{he ate}",
+                "es": "{él comió}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{בּוֹא}",
+                "en": "{בּוֹא}",
+                "es": "{בּוֹא}"
+              },
+              "b": {
+                "pt": "{ele veio}",
+                "en": "{he came}",
+                "es": "{él vino}"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em {וַיְהִי כְּדְבַר יְהוָה}, {וַיְהִי} indica:",
+            "en": "In {וַיְהִי כְּדְבַר יְהוָה}, {וַיְהִי} indicates:",
+            "es": "In {וַיְהִי כְּדְבַר יְהוָה}, {וַיְהִי} indicates:"
+          },
+          "options": [
+            {
+              "pt": "Um comando no presente",
+              "en": "A present command",
+              "es": "Una orden en presente"
+            },
+            {
+              "pt": "Narrativa já em curso",
+              "en": "Narrative already in progress",
+              "es": "Narrativa ya en curso"
+            },
+            {
+              "pt": "Um verbo no infinitivo",
+              "en": "An infinitive verb",
+              "es": "Un verbo infinitivo"
+            },
+            {
+              "pt": "Um pronome possessivo",
+              "en": "A possessive pronoun",
+              "es": "Un pronombre posesivo"
+            }
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": {
         "pt": "Os binyanim",
         "en": "The binyanim",
         "es": "Los binyanim"
@@ -6668,7 +7489,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "title": {
         "pt": "Verbos fracos e o wayyiqtol",
         "en": "Weak verbs and the wayyiqtol",
@@ -7359,7 +8180,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "title": {
         "pt": "Numerais",
         "en": "Numerals",
@@ -8120,7 +8941,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "title": {
         "pt": "Leitura: Salmo 23:1-3",
         "en": "Reading: Psalm 23:1-3",
@@ -8859,7 +9680,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "title": {
         "pt": "Guturais",
         "en": "Gutturals",
@@ -9562,7 +10383,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "title": {
         "pt": "Particípios",
         "en": "Participles",
@@ -10215,7 +11036,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "title": {
         "pt": "Infinitivos",
         "en": "Infinitives",
@@ -10853,7 +11674,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 17,
       "title": {
         "pt": "Volitivos e negação",
         "en": "Volitives and negation",
@@ -11590,7 +12411,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "title": {
         "pt": "Preposições e partículas",
         "en": "Prepositions and particles",
@@ -12275,7 +13096,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 19,
       "title": {
         "pt": "Cores e comparação",
         "en": "Colours and comparison",
@@ -13010,7 +13831,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 20,
       "title": {
         "pt": "Perguntas e relativas",
         "en": "Questions and relatives",
@@ -13709,7 +14530,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "title": {
         "pt": "Calendário e tempo",
         "en": "Calendar and time",
@@ -14542,7 +15363,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
       "title": {
         "pt": "Leitura: Rute 1:16-17",
         "en": "Reading: Ruth 1:16-17",
@@ -15301,7 +16122,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "title": {
         "pt": "Leitura: Salmo 1",
         "en": "Reading: Psalm 1",
@@ -16079,7 +16900,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 24,
       "title": {
         "pt": "Leitura: Isaías 40:28-31",
         "en": "Reading: Isaiah 40:28-31",
@@ -16815,7 +17636,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "title": {
         "pt": "Capstone: Salmo 110:1",
         "en": "Capstone: Psalm 110:1",
@@ -17589,7 +18410,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "title": {
         "pt": "O advérbio: o que ele faz",
         "en": "The adverb: what it does",
@@ -18357,7 +19178,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "title": {
         "pt": "A negação: {לֹא}, {אֵין} e o verbo que falta",
         "en": "Negation: {לֹא}, {אֵין} and the verb that is missing",
@@ -19099,7 +19920,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "title": {
         "pt": "O numeral: cardinal e ordinal",
         "en": "The numeral: cardinal and ordinal",
@@ -19824,7 +20645,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 29,
       "title": {
         "pt": "A partícula como sistema",
         "en": "The particle as a system",
@@ -20641,7 +21462,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 30,
       "title": {
         "pt": "O verbo e a cláusula",
         "en": "The verb and the clause",
@@ -21330,7 +22151,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 31,
       "title": {
         "pt": "Capstone de leitura: Salmo 121",
         "en": "Reading capstone: Psalm 121",
@@ -22161,5 +22982,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g5a22b384"
+  "contentVersion": "1.0.0+g2d75afce"
 }

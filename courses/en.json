@@ -380,6 +380,1119 @@
     },
     {
       "id": 2,
+      "section": {
+        "pt": "O verbo",
+        "en": "The verb",
+        "es": "El verbo"
+      },
+      "title": {
+        "pt": "Os verbos essenciais",
+        "en": "The essential verbs",
+        "es": "Los verbos esenciales"
+      },
+      "subtitle": {
+        "pt": "{go}, {come}, {be}, {have}, {do}, {say} e os catorze que resolvem quase tudo",
+        "en": "{go}, {come}, {be}, {have}, {do}, {say} and the fourteen that resolve almost everything",
+        "es": "{go}, {come}, {be}, {have}, {do}, {say} y los catorce que resuelven casi todo"
+      },
+      "body": {
+        "pt": "## Vinte verbos, três colunas cada\n\nUm verbo regular tem uma regra só: no passado recebe {-ed}, e é isso. {work}, {worked}, {worked}; {love}, {loved}, {loved}; {open}, {opened}, {opened}. O irregular quebra a regra nas duas colunas ao mesmo tempo, e é por isso que {eat}, {ate}, {eaten} não se deduz de nada.\n\nO número é pequeno e o peso é grande. {be}, {have}, {do}, {go}, {come}, {say}, {get}, {make}, {know}, {think}, {take}, {see}, {give}, {find}, {tell}, {become}, {leave}, {feel}, {put} e {bring} cobrem mais da metade dos verbos que aparecem num capítulo de Evangelho em inglês. Quem conhece os vinte reconhece o resto por contexto, mesmo sem saber a forma.\n\nO que muda de uma língua para outra é o que se guarda. O português guarda o infinitivo, o pretérito e o particípio, e quase todos os irregulares fazem os três com a mesma raiz: {falei}, {falado}, {parti}, {partido}, {vi}, {visto}. O inglês guarda o presente, o passado e o particípio, e nos irregulares o passado e o particípio costumam ser **duas palavras diferentes**: {go}, {went}, {gone}; {eat}, {ate}, {eaten}; {see}, {saw}, {seen}.\n\n## {Be}: o verbo que não tem forma fixa\n\n{Be} é o único verbo do inglês que muda de forma no presente conforme a pessoa: {I am}, {you are}, {he is}, {we are}, {they are}. O português resolve a mesma coisa com {sou}, {és}, {é}, {somos}, {são}, e o grego com {εἰμί}, que é uma forma só para todas as pessoas. São três soluções para o mesmo problema, e o inglês é o único que repete a palavra.\n\nNo passado são duas: {I was}, {he was}, {they were}. No particípio, uma: {been}, mais o gerúndio {being}. São cinco formas para um verbo, e nenhuma delas se parece com a do presente: {am}, {is}, {are}, {was}, {were}, {been}, {being}.\n\nO erro que o texto bíblico provoca está em {be} contra {become}. João 1:14 diz {the Word became flesh}, e o grego é {ὁ λόγος σὰρξ ἐγένετο}, *aoristo* de {γίνομαι}, que é {become}. Traduzir por {was} conserva a forma simples e apaga o verbo que diz que algo passou a existir. {Was} e {became} não são sinônimos em inglês, ainda que a regra do português faça parecer que são.\n\n## Duas colunas, e não uma\n\nO passado e o particípio dos irregulares são **duas colunas separadas**, e nem sempre coincidem. Quando coincidem, a mesma palavra serve nos dois tempos: {come}, {came}, {come}; {do}, {did}, {done}; {say}, {said}, {said}. Quando não coincidem, são duas palavras: {write}, {wrote}, {written}; {break}, {broke}, {broken}; {choose}, {chose}, {chosen}; {sing}, {sang}, {sung}.\n\nÉ a coluna do particípio que o leitor quase nunca tem à mão. Em {has eaten}, {gone}, {written}, {seen} e {taken}, o passado {ate}, {went}, {wrote}, {saw} e {took} são mais conhecidos, e quem troca uma pela outra escreve {has ate}, {has went}, {has saw}. O participio governa os tempos compostos e é o que mais aparece no texto.\n\n## {Say}, {tell}, {speak}, {talk}: quatro verbos que o português junta em dois\n\n{say} é o que se diz com palavras, {tell} é o que se diz a alguém: {he said} e {he told Mary}. {speak} é o ato de falar, e {talk} é a conversa, que pode ser entre duas pessoas ou com a própria língua: {he spoke to the crowd}, {he talked with her}.\n\n{say} e {tell} formam o mesmo par que {falar} e {dizer} forma em português, mas invertido: em português {dizer} serve para os dois ({disse} e {contou}), e em inglês são dois verbos. No texto bíblico isso aparece em Marcos 1:30, onde {told} e {said} traduzem o mesmo verbo grego, {ἀπήγγειλαν}, e a tradução brasileira precisa escolher.\n\n## Na Bíblia\n\nKJV é a tradução que mais sofre com essa escolha, porque usa uma palavra inglesa para cada verbo grego. Marcos 4:39 traz {Peace, be still}, e o grego é {Σιωπήσον καὶ γαλάσσου}; em João 1:1, {In the beginning was the Word} traz {was} por {ἦν}; em João 1:14, {the Word became flesh} traz {became} por {ἐγένετο}. Três verbos gregos diferentes, três palavras inglesas diferentes, e é essa correspondência que o leitor precisa enxergar.",
+        "en": "## Twenty verbs, three columns each\n\nA regular verb has a single rule: in the past it takes {-ed}, and that is all of it. {work}, {worked}, {worked}; {love}, {loved}, {loved}; {open}, {opened}, {opened}. The irregular breaks the rule in both columns at once, which is why {eat}, {ate}, {eaten} is deduced from nothing.\n\nThe number is small and the weight is large. {be}, {have}, {do}, {go}, {come}, {say}, {get}, {make}, {know}, {think}, {take}, {see}, {give}, {find}, {tell}, {become}, {leave}, {feel}, {put} and {bring} cover more than half the verbs that show up in a chapter of a Gospel in English. Anyone who knows the twenty recognizes the rest from context, even without knowing the form.\n\nWhat differs from language to language is what gets kept. Portuguese keeps the infinitive, the preterite and the participle, and almost every irregular uses the same root in all three: {falei}, {falado}, {parti}, {partido}, {vi}, {visto}. English keeps the present, the past and the participle, and with the irregulars the past and the participle are usually **two different words**: {go}, {went}, {gone}; {eat}, {ate}, {eaten}; {see}, {saw}, {seen}.\n\n## {Be}: the verb with no steady shape\n\n{Be} is the only English verb that changes shape in the present according to person: {I am}, {you are}, {he is}, {we are}, {they are}. Portuguese handles the same thing with {sou}, {és}, {é}, {somos}, {são}, and Greek with {εἰμί}, which is one form for every person. Three solutions to the same problem, and English is the only one that repeats the word.\n\nIn the past there are two: {I was}, {he was}, {they were}. In the participle, one: {been}, plus the gerund {being}. Five forms for one verb, and none of them looks like the present ones: {am}, {is}, {are}, {was}, {were}, {been}, {being}.\n\nThe mistake that biblical text provokes is {be} against {become}. John 1:14 says {the Word became flesh}, and the Greek is {ὁ λόγος σὰρξ ἐγένετο}, the aorist of {γίνομαι}, which is {become}. To render it as {was} keeps the simple shape and erases the verb that says something came to exist. {Was} and {became} are not synonyms in English, even though the Portuguese rule makes them look like it.\n\n## Two columns, not one\n\nThe past and the participle of the irregulars are **two separate columns**, and they do not always match. When they do, the same word serves both: {come}, {came}, {come}; {do}, {did}, {done}; {say}, {said}, {said}. When they do not, there are two words: {write}, {wrote}, {written}; {break}, {broke}, {broken}; {choose}, {chose}, {chosen}; {sing}, {sang}, {sung}.\n\nIt is the participle column that a reader almost never has at hand. In {has eaten}, {gone}, {written}, {seen} and {taken}, the pasts {ate}, {went}, {wrote}, {saw} and {took} are better known, and anyone who swaps them writes {has ate}, {has went}, {has saw}. The participle governs the compound tenses, and it is what shows up most in the text.\n\n## {Say}, {tell}, {speak}, {talk}: four verbs that Portuguese joins into two\n\n{say} is what is put into words, {tell} is what is put to somebody: {he said} and {he told Mary}. {speak} is the act of speaking, and {talk} is the conversation, which can be between two people or with one's own language: {he spoke to the crowd}, {he talked with her}.\n\n{say} and {tell} are the pair that {falar} and {dizer} make in Portuguese, but inverted: in Portuguese {dizer} serves both ({disse} and {contou}), and in English they are two verbs. In the biblical text this shows up in Mark 1:30, where {told} and {said} render the same Greek verb, {ἀπήγγειλαν}, and the translation has to choose.\n\n## In the Bible\n\nKJV is the translation that suffers most from that choice, because it uses one English word for each Greek verb. Mark 4:39 has {Peace, be still}, and the Greek is {Σιωπήσον καὶ γαλάσσου}; in John 1:1, {In the beginning was the Word} has {was} for {ἦν}; in John 1:14, {the Word became flesh} has {became} for {ἐγένετο}. Three different Greek verbs, three different English words, and that correspondence is what the reader has to see.",
+        "es": "## Veinte verbos, tres columnas cada uno\n\nUn verbo regular tiene una sola regla: en pasado recibe {-ed}, y eso es todo. {work}, {worked}, {worked}; {love}, {loved}, {loved}; {open}, {opened}, {opened}. El irregular rompe la regla en las dos columnas a la vez, y por eso {eat}, {ate}, {eaten} no se deduce de nada.\n\nEl número es pequeño y el peso es grande. {be}, {have}, {do}, {go}, {come}, {say}, {get}, {make}, {know}, {think}, {take}, {see}, {give}, {find}, {tell}, {become}, {leave}, {feel}, {put} y {bring} cubren más de la mitad de los verbos que aparecen en un capítulo de Evangelio en inglés. Quien conoce los veinte reconoce el resto por contexto, aunque no sepa la forma.\n\nLo que cambia de una lengua a otra es lo que se guarda. El portugués guarda el infinitivo, el pretérito y el participio, y casi todos los irregulares usan la misma raíz en los tres: {falei}, {falado}, {parti}, {partido}, {vi}, {visto}. El inglés guarda el presente, el pasado y el participio, y en los irregulares el pasado y el participio suelen ser **dos palabras distintas**: {go}, {went}, {gone}; {eat}, {ate}, {eaten}; {see}, {saw}, {seen}.\n\n## {Be}: el verbo que no tiene forma fija\n\n{Be} es el único verbo inglés que cambia de forma en el presente según la persona: {I am}, {you are}, {he is}, {we are}, {they are}. El portugués resuelve lo mismo con {sou}, {és}, {é}, {somos}, {são}, y el griego con {εἰμί}, que es una forma sola para todas las personas. Tres soluciones al mismo problema, y el inglés es el único que repite la palabra.\n\nEn pasado son dos: {I was}, {he was}, {they were}. En participio, una: {been}, más el gerundio {being}. Cinco formas para un verbo, y ninguna se parece a las del presente: {am}, {is}, {are}, {was}, {were}, {been}, {being}.\n\nEl error que provoca el texto bíblico es {be} contra {become}. Juan 1:14 dice {the Word became flesh}, y el griego es {ὁ λόγος σὰρξ ἐγένετο}, aoristo de {γίνομαι}, que es {become}. Traducir por {was} conserva la forma simple y borra el verbo que dice que algo pasó a existir. {Was} y {became} no son sinónimos en inglés, aunque la regla del portugués los haga parecerlo.\n\n## Dos columnas, y no una\n\nEl pasado y el participio de los irregulares son **dos columnas separadas**, y no siempre coinciden. Cuando coinciden, la misma palabra sirve en los dos tiempos: {come}, {came}, {come}; {do}, {did}, {done}; {say}, {said}, {said}. Cuando no coinciden, son dos palabras: {write}, {wrote}, {written}; {break}, {broke}, {broken}; {choose}, {chose}, {chosen}; {sing}, {sang}, {sung}.\n\nEs la columna del participio la que el lector casi nunca tiene a mano. En {has eaten}, {gone}, {written}, {seen} y {taken}, los pasados {ate}, {went}, {wrote}, {saw} y {took} son más conocidos, y quien los cambia de sitio escribe {has ate}, {has went}, {has saw}. El participio gobierna los tiempos compuestos y es lo que más aparece en el texto.\n\n## {Say}, {tell}, {speak}, {talk}: cuatro verbos que el portugués junta en dos\n\n{say} es lo que se dice con palabras, {tell} es lo que se dice a alguien: {he said} y {he told Mary}. {speak} es el acto de hablar, y {talk} es la conversación, que puede ser entre dos personas o con la propia lengua: {he spoke to the crowd}, {he talked with her}.\n\n{say} y {tell} son la pareja que {falar} y {dizer} forman en portugués, pero invertida: en portugués {dizer} sirve para los dos ({disse} y {contou}), y en inglés son dos verbos. En el texto bíblico esto aparece en Marcos 1:30, donde {told} y {said} traducen el mismo verbo griego, {ἀπήγγειλαν}, y la traducción tiene que elegir.\n\n## En la Biblia\n\nKJV es la traducción que más sufre de esa elección, porque usa una palabra inglesa para cada verbo griego. Marcos 4:39 trae {Peace, be still}, y el griego es {Σιωπήσον καὶ γαλάσσου}; en Juan 1:1, {In the beginning was the Word} trae {was} por {ἦν}; en Juan 1:14, {the Word became flesh} trae {became} por {ἐγένετο}. Tres verbos griegos distintos, tres palabras inglesas distintas, y esa correspondencia es lo que el lector tiene que ver."
+      },
+      "vocab": [
+        {
+          "form": "be",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "ser / estar",
+          "en": "to be",
+          "es": "ser / estar"
+        },
+        {
+          "form": "am",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "eu sou",
+          "en": "I am",
+          "es": "yo soy"
+        },
+        {
+          "form": "is",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "ele é",
+          "en": "he is",
+          "es": "él es"
+        },
+        {
+          "form": "were",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "nós éramos",
+          "en": "we were",
+          "es": "nosotros éramos"
+        },
+        {
+          "form": "been",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "sido",
+          "en": "been",
+          "es": "sido"
+        },
+        {
+          "form": "being",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "estando",
+          "en": "being",
+          "es": "estando"
+        },
+        {
+          "form": "go",
+          "lemma": "go",
+          "lang": "en",
+          "pt": "ir",
+          "en": "to go",
+          "es": "ir"
+        },
+        {
+          "form": "went",
+          "lemma": "go",
+          "lang": "en",
+          "pt": "foi",
+          "en": "went",
+          "es": "fue"
+        },
+        {
+          "form": "gone",
+          "lemma": "go",
+          "lang": "en",
+          "pt": "ido",
+          "en": "gone",
+          "es": "ido"
+        },
+        {
+          "form": "come",
+          "lemma": "come",
+          "lang": "en",
+          "pt": "vir",
+          "en": "to come",
+          "es": "venir"
+        },
+        {
+          "form": "came",
+          "lemma": "come",
+          "lang": "en",
+          "pt": "veio",
+          "en": "came",
+          "es": "vino"
+        },
+        {
+          "form": "have",
+          "lemma": "have",
+          "lang": "en",
+          "pt": "ter",
+          "en": "to have",
+          "es": "tener"
+        },
+        {
+          "form": "has",
+          "lemma": "have",
+          "lang": "en",
+          "pt": "ele tem",
+          "en": "he has",
+          "es": "él tiene"
+        },
+        {
+          "form": "had",
+          "lemma": "have",
+          "lang": "en",
+          "pt": "ele tinha",
+          "en": "he had",
+          "es": "él tenía"
+        },
+        {
+          "form": "do",
+          "lemma": "do",
+          "lang": "en",
+          "pt": "fazer",
+          "en": "to do",
+          "es": "hacer"
+        },
+        {
+          "form": "did",
+          "lemma": "do",
+          "lang": "en",
+          "pt": "fez",
+          "en": "did",
+          "es": "hizo"
+        },
+        {
+          "form": "done",
+          "lemma": "do",
+          "lang": "en",
+          "pt": "feito",
+          "en": "done",
+          "es": "hecho"
+        },
+        {
+          "form": "say",
+          "lemma": "say",
+          "lang": "en",
+          "pt": "dizer",
+          "en": "to say",
+          "es": "decir"
+        },
+        {
+          "form": "eat",
+          "lemma": "eat",
+          "lang": "en",
+          "pt": "comer",
+          "en": "to eat",
+          "es": "comer"
+        },
+        {
+          "form": "ate",
+          "lemma": "eat",
+          "lang": "en",
+          "pt": "comeu",
+          "en": "ate",
+          "es": "comió"
+        },
+        {
+          "form": "eaten",
+          "lemma": "eat",
+          "lang": "en",
+          "pt": "comido",
+          "en": "eaten",
+          "es": "comido"
+        },
+        {
+          "form": "was",
+          "lemma": "be",
+          "lang": "en",
+          "pt": "ele era",
+          "en": "he was",
+          "es": "él era"
+        },
+        {
+          "form": "became",
+          "lemma": "become",
+          "lang": "en",
+          "pt": "tornou-se",
+          "en": "became",
+          "es": "se volvió"
+        },
+        {
+          "form": "tell",
+          "lemma": "tell",
+          "lang": "en",
+          "pt": "contar a alguém",
+          "en": "to tell somebody",
+          "es": "contar a alguien"
+        },
+        {
+          "form": "told",
+          "lemma": "tell",
+          "lang": "en",
+          "pt": "contou",
+          "en": "told",
+          "es": "contó"
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Nos irregulares o passado e o particípio são duas colunas e nem sempre a mesma palavra: {go}, {went}, {gone}; {eat}, {ate}, {eaten}; {write}, {wrote}, {written}.",
+            "en": "With the irregulars the past and the participle are two columns, and they are not always the same word: {go}, {went}, {gone}; {eat}, {ate}, {eaten}; {write}, {wrote}, {written}.",
+            "es": "En los irregulares el pasado y el participio son dos columnas y no siempre la misma palabra: {go}, {went}, {gone}; {eat}, {ate}, {eaten}; {write}, {wrote}, {written}."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "{be} tem sete formas: {am}, {is}, {are}, {was}, {were}, {been}, {being}. Nenhum outro verbo do inglês muda de forma no presente conforme a pessoa.",
+            "en": "{be} has seven forms: {am}, {is}, {are}, {was}, {were}, {been}, {being}. No other English verb changes shape in the present according to person.",
+            "es": "{be} tiene siete formas: {am}, {is}, {are}, {was}, {were}, {been}, {being}. Ningún otro verbo inglés cambia de forma en el presente según la persona."
+          }
+        },
+        {
+          "n": "§3",
+          "text": {
+            "pt": "Depois de {does} e {did} volta o verbo na forma base: {he does go}, nunca {he does goes}.",
+            "en": "After {does} and {did} the verb returns to its base form: {he does go}, never {he does goes}.",
+            "es": "Después de {does} y {did} el verbo vuelve a la forma base: {he does go}, nunca {he does goes}."
+          }
+        },
+        {
+          "n": "§4",
+          "text": {
+            "pt": "Depois de um modal o verbo não flexiona: {can go}, {must go}, {will go}, {should go}. {goes} é impossível aí.",
+            "en": "After a modal the verb does not inflect: {can go}, {must go}, {will go}, {should go}. {goes} is impossible there.",
+            "es": "Después de un modal el verbo no flexiona: {can go}, {must go}, {will go}, {should go}. {goes} es imposible ahí."
+          }
+        },
+        {
+          "n": "§5",
+          "text": {
+            "pt": "João 1:1 tem {was} por {ἦν} e João 1:14 tem {became} por {ἐγένετο}. São verbos gregos diferentes e palavras inglesas diferentes; {was} e {became} não são sinônimos.",
+            "en": "John 1:1 has {was} for {ἦν} and John 1:14 has {became} for {ἐγένετο}. They are different Greek verbs and different English words; {was} and {became} are not synonyms.",
+            "es": "Juan 1:1 trae {was} por {ἦν} y Juan 1:14 trae {became} por {ἐγένετο}. Son verbos griegos distintos y palabras inglesas distintas; {was} y {became} no son sinónimos."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "O particípio que quase ninguém tem à mão",
+            "en": "The participle nobody has at hand",
+            "es": "El participio que casi nadie tiene a mano"
+          },
+          "text": {
+            "pt": "O passado irregular {ate}, {went}, {wrote}, {saw} e {took} é o mais conhecido, e o particípio {eaten}, {gone}, {written}, {seen} e {taken} é o que aparece nos tempos compostos. Trocá-los produz {has ate} e {has went}, que o leitor reconhece como errado mesmo sem saber a regra.",
+            "en": "The irregular pasts {ate}, {went}, {wrote}, {saw} and {took} are the better known, and the participles {eaten}, {gone}, {written}, {seen} and {taken} are what show up in the compound tenses. Swapping them produces {has ate} and {has went}, which a reader spots as wrong even without knowing the rule.",
+            "es": "Los pasados irregulares {ate}, {went}, {wrote}, {saw} y {took} son los más conocidos, y los participios {eaten}, {gone}, {written}, {seen} y {taken} son los que aparecen en los tiempos compuestos. Cambiarlos produce {has ate} y {has went}, que el lector detecta como error aunque no sepa la regla."
+          }
+        },
+        {
+          "label": {
+            "pt": "O que a KJV perde",
+            "en": "What the KJV loses",
+            "es": "Lo que la KJV pierde"
+          },
+          "text": {
+            "pt": "Marcos 4:39 traz {Peace, be still}, e o grego é {Σιωπήσον καὶ γαλάσσου}, com {σιωπήσον} no imperativo aoristo. A KJV perdeu o aoristo e o português antigo também; quem lê o grego sabe que o verbo pede obediência imediata e não uma atmosfera de calma.",
+            "en": "Mark 4:39 has {Peace, be still}, and the Greek is {Σιωπήσον καὶ γαλάσσου}, with {σιωπήσον} in the aorist imperative. The KJV lost the aorist and so did Old Portuguese; anyone reading the Greek knows the verb asks for immediate obedience and not for an atmosphere of calm.",
+            "es": "Marcos 4:39 trae {Peace, be still}, y el griego es {Σιωπήσον καὶ γαλάσσου}, con {σιωπήσον} en imperativo aoristo. La KJV perdió el aoristo y el portugués antiguo también; quien lee el griego sabe que el verbo pide obediencia inmediata y no una atmósfera de calma."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "In the beginning was the Word.",
+          "gloss": {
+            "pt": "{was}: {be} no passado, traduzindo {ἦν} do grego.",
+            "en": "{was}: {be} in the past, rendering {ἦν} from the Greek.",
+            "es": "{was}: {be} en pasado, traduciendo {ἦν} del griego."
+          }
+        },
+        {
+          "text": "And the Word became flesh.",
+          "gloss": {
+            "pt": "{became}: {become}, traduzindo {ἐγένετο}, que é outro verbo grego.",
+            "en": "{became}: {become}, rendering {ἐγένετο}, a different Greek verb.",
+            "es": "{became}: {become}, traduciendo {ἐγένετο}, que es otro verbo griego."
+          }
+        },
+        {
+          "text": "He has eaten the bread.",
+          "gloss": {
+            "pt": "{has eaten}: presente composto com {has} e o particípio.",
+            "en": "{has eaten}: present perfect with {has} and the participle.",
+            "es": "{has eaten}: presente compuesto con {has} y el participio."
+          }
+        },
+        {
+          "text": "They have gone to the mountain.",
+          "gloss": {
+            "pt": "{gone} é o particípio; o passado correspondente seria {went}.",
+            "en": "{gone} is the participle; the matching past would be {went}.",
+            "es": "{gone} es el participio; el pasado correspondiente sería {went}."
+          }
+        },
+        {
+          "text": "Peace, be still!",
+          "gloss": {
+            "pt": "Imperativo de {be}, Mc 4:39.",
+            "en": "Imperative of {be}, Mark 4:39.",
+            "es": "Imperativo de {be}, Mc 4:39."
+          }
+        },
+        {
+          "text": "He told Mary everything.",
+          "gloss": {
+            "pt": "{told} de {tell}: o que se diz a alguém.",
+            "en": "{told} of {tell}: what is said to somebody.",
+            "es": "{told} de {tell}: lo que se dice a alguien."
+          }
+        },
+        {
+          "text": "He said nothing.",
+          "gloss": {
+            "pt": "{said} de {say}: o que se diz com palavras.",
+            "en": "{said} of {say}: what is put into words.",
+            "es": "{said} de {say}: lo que se dice con palabras."
+          }
+        },
+        {
+          "text": "She does not go there.",
+          "gloss": {
+            "pt": "Depois de {does}, o verbo volta à forma base {go}.",
+            "en": "After {does}, the verb goes back to the base form {go}.",
+            "es": "Después de {does}, el verbo vuelve a la forma base {go}."
+          }
+        },
+        {
+          "text": "They must go.",
+          "gloss": {
+            "pt": "Depois de um modal o verbo não flexiona: {go}, nunca {goes}.",
+            "en": "After a modal the verb does not inflect: {go}, never {goes}.",
+            "es": "Después de un modal el verbo no flexiona: {go}, nunca {goes}."
+          }
+        },
+        {
+          "text": "I have written the letter.",
+          "gloss": {
+            "pt": "{written}: o particípio de {write}, e não {wrote}.",
+            "en": "{written}: the participle of {write}, and not {wrote}.",
+            "es": "{written}: el participio de {write}, y no {wrote}."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Os verbos essenciais em três colunas",
+            "en": "The essential verbs in three columns",
+            "es": "Los verbos esenciales en tres columnas"
+          },
+          "head": [
+            {
+              "pt": "Base",
+              "en": "Base",
+              "es": "Base"
+            },
+            {
+              "pt": "Passado",
+              "en": "Past",
+              "es": "Pasado"
+            },
+            {
+              "pt": "Particípio",
+              "en": "Participle",
+              "es": "Participio"
+            },
+            {
+              "pt": "Português",
+              "en": "Portuguese",
+              "es": "Portugués"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "{be}",
+                "en": "{be}",
+                "es": "{be}"
+              },
+              {
+                "pt": "{was}",
+                "en": "{was}",
+                "es": "{was}"
+              },
+              {
+                "pt": "{been}",
+                "en": "{been}",
+                "es": "{been}"
+              },
+              {
+                "pt": "{ser / estar}",
+                "en": "{ser / estar}",
+                "es": "{ser / estar}"
+              }
+            ],
+            [
+              {
+                "pt": "{go}",
+                "en": "{go}",
+                "es": "{go}"
+              },
+              {
+                "pt": "{went}",
+                "en": "{went}",
+                "es": "{went}"
+              },
+              {
+                "pt": "{gone}",
+                "en": "{gone}",
+                "es": "{gone}"
+              },
+              {
+                "pt": "{ir}",
+                "en": "{ir}",
+                "es": "{ir}"
+              }
+            ],
+            [
+              {
+                "pt": "{come}",
+                "en": "{come}",
+                "es": "{come}"
+              },
+              {
+                "pt": "{came}",
+                "en": "{came}",
+                "es": "{came}"
+              },
+              {
+                "pt": "{come}",
+                "en": "{come}",
+                "es": "{come}"
+              },
+              {
+                "pt": "{vir}",
+                "en": "{vir}",
+                "es": "{vir}"
+              }
+            ],
+            [
+              {
+                "pt": "{have}",
+                "en": "{have}",
+                "es": "{have}"
+              },
+              {
+                "pt": "{had}",
+                "en": "{had}",
+                "es": "{had}"
+              },
+              {
+                "pt": "{had}",
+                "en": "{had}",
+                "es": "{had}"
+              },
+              {
+                "pt": "{ter}",
+                "en": "{ter}",
+                "es": "{ter}"
+              }
+            ],
+            [
+              {
+                "pt": "{do}",
+                "en": "{do}",
+                "es": "{do}"
+              },
+              {
+                "pt": "{did}",
+                "en": "{did}",
+                "es": "{did}"
+              },
+              {
+                "pt": "{done}",
+                "en": "{done}",
+                "es": "{done}"
+              },
+              {
+                "pt": "{fazer}",
+                "en": "{fazer}",
+                "es": "{fazer}"
+              }
+            ],
+            [
+              {
+                "pt": "{say}",
+                "en": "{say}",
+                "es": "{say}"
+              },
+              {
+                "pt": "{said}",
+                "en": "{said}",
+                "es": "{said}"
+              },
+              {
+                "pt": "{said}",
+                "en": "{said}",
+                "es": "{said}"
+              },
+              {
+                "pt": "{dizer}",
+                "en": "{dizer}",
+                "es": "{dizer}"
+              }
+            ],
+            [
+              {
+                "pt": "{see}",
+                "en": "{see}",
+                "es": "{see}"
+              },
+              {
+                "pt": "{saw}",
+                "en": "{saw}",
+                "es": "{saw}"
+              },
+              {
+                "pt": "{seen}",
+                "en": "{seen}",
+                "es": "{seen}"
+              },
+              {
+                "pt": "{ver}",
+                "en": "{ver}",
+                "es": "{ver}"
+              }
+            ],
+            [
+              {
+                "pt": "{take}",
+                "en": "{take}",
+                "es": "{take}"
+              },
+              {
+                "pt": "{took}",
+                "en": "{took}",
+                "es": "{took}"
+              },
+              {
+                "pt": "{taken}",
+                "en": "{taken}",
+                "es": "{taken}"
+              },
+              {
+                "pt": "{tomar}",
+                "en": "{tomar}",
+                "es": "{tomar}"
+              }
+            ],
+            [
+              {
+                "pt": "{give}",
+                "en": "{give}",
+                "es": "{give}"
+              },
+              {
+                "pt": "{gave}",
+                "en": "{gave}",
+                "es": "{gave}"
+              },
+              {
+                "pt": "{given}",
+                "en": "{given}",
+                "es": "{given}"
+              },
+              {
+                "pt": "{dar}",
+                "en": "{dar}",
+                "es": "{dar}"
+              }
+            ],
+            [
+              {
+                "pt": "{eat}",
+                "en": "{eat}",
+                "es": "{eat}"
+              },
+              {
+                "pt": "{ate}",
+                "en": "{ate}",
+                "es": "{ate}"
+              },
+              {
+                "pt": "{eaten}",
+                "en": "{eaten}",
+                "es": "{eaten}"
+              },
+              {
+                "pt": "{comer}",
+                "en": "{comer}",
+                "es": "{comer}"
+              }
+            ],
+            [
+              {
+                "pt": "{write}",
+                "en": "{write}",
+                "es": "{write}"
+              },
+              {
+                "pt": "{wrote}",
+                "en": "{wrote}",
+                "es": "{wrote}"
+              },
+              {
+                "pt": "{written}",
+                "en": "{written}",
+                "es": "{written}"
+              },
+              {
+                "pt": "{escrever}",
+                "en": "{escrever}",
+                "es": "{escrever}"
+              }
+            ],
+            [
+              {
+                "pt": "{break}",
+                "en": "{break}",
+                "es": "{break}"
+              },
+              {
+                "pt": "{broke}",
+                "en": "{broke}",
+                "es": "{broke}"
+              },
+              {
+                "pt": "{broken}",
+                "en": "{broken}",
+                "es": "{broken}"
+              },
+              {
+                "pt": "{quebrar}",
+                "en": "{quebrar}",
+                "es": "{quebrar}"
+              }
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "{Be} em todas as suas formas",
+            "en": "{Be} in all of its forms",
+            "es": "{Be} en todas sus formas"
+          },
+          "head": [
+            {
+              "pt": "Tempo",
+              "en": "Tense",
+              "es": "Tiempo"
+            },
+            {
+              "pt": "Forma",
+              "en": "Form",
+              "es": "Forma"
+            },
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "Exemplo",
+              "en": "Example",
+              "es": "Ejemplo"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "presente",
+                "en": "present",
+                "es": "presente"
+              },
+              {
+                "pt": "{am}",
+                "en": "{am}",
+                "es": "{am}"
+              },
+              {
+                "pt": "{I}",
+                "en": "{I}",
+                "es": "{I}"
+              },
+              {
+                "pt": "{I am}",
+                "en": "{I am}",
+                "es": "{I am}"
+              }
+            ],
+            [
+              {
+                "pt": "presente",
+                "en": "present",
+                "es": "presente"
+              },
+              {
+                "pt": "{are}",
+                "en": "{are}",
+                "es": "{are}"
+              },
+              {
+                "pt": "{you / we / they}",
+                "en": "{you / we / they}",
+                "es": "{you / we / they}"
+              },
+              {
+                "pt": "{they are}",
+                "en": "{they are}",
+                "es": "{they are}"
+              }
+            ],
+            [
+              {
+                "pt": "presente",
+                "en": "present",
+                "es": "presente"
+              },
+              {
+                "pt": "{is}",
+                "en": "{is}",
+                "es": "{is}"
+              },
+              {
+                "pt": "{he / she}",
+                "en": "{he / she}",
+                "es": "{he / she}"
+              },
+              {
+                "pt": "{he is}",
+                "en": "{he is}",
+                "es": "{he is}"
+              }
+            ],
+            [
+              {
+                "pt": "passado",
+                "en": "past",
+                "es": "pasado"
+              },
+              {
+                "pt": "{was}",
+                "en": "{was}",
+                "es": "{was}"
+              },
+              {
+                "pt": "{I / he / she / it}",
+                "en": "{I / he / she / it}",
+                "es": "{I / he / she / it}"
+              },
+              {
+                "pt": "{he was}",
+                "en": "{he was}",
+                "es": "{he was}"
+              }
+            ],
+            [
+              {
+                "pt": "passado",
+                "en": "past",
+                "es": "pasado"
+              },
+              {
+                "pt": "{were}",
+                "en": "{were}",
+                "es": "{were}"
+              },
+              {
+                "pt": "{you / we / they}",
+                "en": "{you / we / they}",
+                "es": "{you / we / they}"
+              },
+              {
+                "pt": "{they were}",
+                "en": "{they were}",
+                "es": "{they were}"
+              }
+            ],
+            [
+              {
+                "pt": "particípio",
+                "en": "participle",
+                "es": "participio"
+              },
+              {
+                "pt": "{been}",
+                "en": "{been}",
+                "es": "{been}"
+              },
+              {
+                "pt": "—",
+                "en": "—",
+                "es": "—"
+              },
+              {
+                "pt": "{has been}",
+                "en": "{has been}",
+                "es": "{has been}"
+              }
+            ],
+            [
+              {
+                "pt": "gerúndio",
+                "en": "gerund",
+                "es": "gerundio"
+              },
+              {
+                "pt": "{being}",
+                "en": "{being}",
+                "es": "{being}"
+              },
+              {
+                "pt": "—",
+                "en": "—",
+                "es": "—"
+              },
+              {
+                "pt": "{is being made}",
+                "en": "{is being made}",
+                "es": "{is being made}"
+              }
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "Quatro verbos que o português junta em dois",
+            "en": "Four verbs that Portuguese joins into two",
+            "es": "Cuatro verbos que el portugués junta en dos"
+          },
+          "head": [
+            {
+              "pt": "Verbo",
+              "en": "Verb",
+              "es": "Verbo"
+            },
+            {
+              "pt": "O que significa",
+              "en": "What it means",
+              "es": "Lo que significa"
+            },
+            {
+              "pt": "Frase",
+              "en": "Sentence",
+              "es": "Oración"
+            },
+            {
+              "pt": "Português",
+              "en": "Portuguese",
+              "es": "Portugués"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "pt": "{say}",
+                "en": "{say}",
+                "es": "{say}"
+              },
+              {
+                "pt": "dizer com palavras",
+                "en": "to put into words",
+                "es": "decir con palabras"
+              },
+              {
+                "pt": "{he said}",
+                "en": "{he said}",
+                "es": "{he said}"
+              },
+              {
+                "pt": "{disse}",
+                "en": "{disse}",
+                "es": "{disse}"
+              }
+            ],
+            [
+              {
+                "pt": "{tell}",
+                "en": "{tell}",
+                "es": "{tell}"
+              },
+              {
+                "pt": "contar a alguém",
+                "en": "to tell somebody",
+                "es": "contar a alguien"
+              },
+              {
+                "pt": "{he told her}",
+                "en": "{he told her}",
+                "es": "{he told her}"
+              },
+              {
+                "pt": "{contou a ela}",
+                "en": "{contou a ela}",
+                "es": "{contou a ela}"
+              }
+            ],
+            [
+              {
+                "pt": "{speak}",
+                "en": "{speak}",
+                "es": "{speak}"
+              },
+              {
+                "pt": "falar, com tom oficial",
+                "en": "to speak, with an official tone",
+                "es": "hablar, con tono oficial"
+              },
+              {
+                "pt": "{he spoke}",
+                "en": "{he spoke}",
+                "es": "{he spoke}"
+              },
+              {
+                "pt": "{falou}",
+                "en": "{falou}",
+                "es": "{falou}"
+              }
+            ],
+            [
+              {
+                "pt": "{talk}",
+                "en": "{talk}",
+                "es": "{talk}"
+              },
+              {
+                "pt": "conversar",
+                "en": "to converse",
+                "es": "conversar"
+              },
+              {
+                "pt": "{he talked}",
+                "en": "{he talked}",
+                "es": "{he talked}"
+              },
+              {
+                "pt": "{conversou}",
+                "en": "{conversou}",
+                "es": "{conversou}"
+              }
+            ]
+          ]
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Em \"they have __ the bread\", qual forma de {eat}?",
+          "en": "In \"they have __ the bread\", which form of {eat}?",
+          "es": "En \"they have __ the bread\", ¿qué forma de {eat}?"
+        },
+        "options": [
+          {
+            "pt": "eat",
+            "en": "eat",
+            "es": "eat"
+          },
+          {
+            "pt": "ate",
+            "en": "ate",
+            "es": "ate"
+          },
+          {
+            "pt": "eaten",
+            "en": "eaten",
+            "es": "eaten"
+          },
+          {
+            "pt": "eats",
+            "en": "eats",
+            "es": "eats"
+          }
+        ],
+        "answer": 2
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "O particípio de {write} é ______, e o passado é {wrote}.",
+            "en": "The participle of {write} is ______, and the past is {wrote}.",
+            "es": "El participio de {write} es ______, y el pasado es {wrote}."
+          },
+          "answer": "written"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue o verbo à sua forma na terceira coluna.",
+            "en": "Match the verb to its form in the third column.",
+            "es": "Relaciona el verbo con su forma en la tercera columna."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "{see}",
+                "en": "{see}",
+                "es": "{see}"
+              },
+              "b": {
+                "pt": "{seen}",
+                "en": "{seen}",
+                "es": "{seen}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{take}",
+                "en": "{take}",
+                "es": "{take}"
+              },
+              "b": {
+                "pt": "{taken}",
+                "en": "{taken}",
+                "es": "{taken}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{go}",
+                "en": "{go}",
+                "es": "{go}"
+              },
+              "b": {
+                "pt": "{gone}",
+                "en": "{gone}",
+                "es": "{gone}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{give}",
+                "en": "{give}",
+                "es": "{give}"
+              },
+              "b": {
+                "pt": "{given}",
+                "en": "{given}",
+                "es": "{given}"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Em \"he ___ go every day\", qual verbo completa corretamente?",
+            "en": "In \"he ___ go every day\", which verb completes it correctly?",
+            "es": "En \"he ___ go every day\", ¿qué verbo lo completa correctamente?"
+          },
+          "options": [
+            {
+              "pt": "do",
+              "en": "do",
+              "es": "do"
+            },
+            {
+              "pt": "does",
+              "en": "does",
+              "es": "does"
+            },
+            {
+              "pt": "did",
+              "en": "did",
+              "es": "did"
+            },
+            {
+              "pt": "doing",
+              "en": "doing",
+              "es": "doing"
+            }
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
       "title": {
         "pt": "Presente simples",
         "en": "Simple present",
@@ -682,7 +1795,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": {
         "pt": "Passado simples",
         "en": "Simple past",
@@ -990,7 +2103,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": {
         "pt": "Leitura: João 1:1 (KJV)",
         "en": "Reading: John 1:1 (KJV)",
@@ -1345,7 +2458,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "title": {
         "pt": "Modais e voz passiva",
         "en": "Modals and passive voice",
@@ -1676,7 +2789,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "title": {
         "pt": "Leitura: Pai-Nosso e Salmo 23",
         "en": "Reading: Lord’s Prayer and Psalm 23",
@@ -2015,7 +3128,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "title": {
         "pt": "Tempos perfeito",
         "en": "Perfect tenses",
@@ -2337,7 +3450,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "title": {
         "pt": "Futuro e progressivas",
         "en": "Future and progressive forms",
@@ -2659,7 +3772,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "title": {
         "pt": "Condicionais 0–3",
         "en": "Conditionals 0–3",
@@ -2973,7 +4086,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "title": {
         "pt": "Orações relativas e vírgulas",
         "en": "Relative clauses and commas",
@@ -3301,7 +4414,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "title": {
         "pt": "Phrasal verbs e preposições bíblicas",
         "en": "Phrasal verbs and Biblical prepositions",
@@ -3643,7 +4756,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "title": {
         "pt": "Capstone: discurso indireto, relativos e tag questions",
         "en": "Capstone: reported speech, relatives and tag questions",
@@ -3994,7 +5107,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "title": {
         "pt": "O substantivo: contável e não contável",
         "en": "The noun: countable and uncountable",
@@ -4594,7 +5707,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "title": {
         "pt": "O substantivo: plural e contagem",
         "en": "The noun: plural and counting",
@@ -5276,7 +6389,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "title": {
         "pt": "O artigo: onde ele é obrigatório",
         "en": "The article: where it is obligatory",
@@ -5879,7 +6992,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 17,
       "title": {
         "pt": "O artigo: a zero nos específicos",
         "en": "The article: the zero article",
@@ -6460,7 +7573,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "title": {
         "pt": "Pronomes: o sistema inteiro",
         "en": "Pronouns: the whole system",
@@ -7227,7 +8340,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 19,
       "title": {
         "pt": "O advérbio: como se forma",
         "en": "The adverb: how it is formed",
@@ -7814,7 +8927,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 20,
       "title": {
         "pt": "O advérbio: posição e os auxiliares",
         "en": "The adverb: position and auxiliaries",
@@ -8423,7 +9536,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "title": {
         "pt": "O advérbio: comparação e a posição do not",
         "en": "The adverb: comparison and the position of not",
@@ -8986,7 +10099,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
       "title": {
         "pt": "Preposições: de, em e as relações de tempo e lugar",
         "en": "Prepositions: of, in, and relations of time and place",
@@ -9624,7 +10737,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "title": {
         "pt": "Preposições: a lista que o aluno vai errar",
         "en": "Prepositions: the list a learner will get wrong",
@@ -10304,7 +11417,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 24,
       "title": {
         "pt": "O verbo: o que muda de forma",
         "en": "The verb: what changes shape",
@@ -10940,7 +12053,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "title": {
         "pt": "O verbo: as doze combinações com have e do",
         "en": "The verb: the twelve combinations with have and do",
@@ -11540,7 +12653,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "title": {
         "pt": "O verbo: phrasal verbs e a partícula separável",
         "en": "The verb: phrasal verbs and the separable particle",
@@ -12213,7 +13326,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "title": {
         "pt": "O verbo: aspecto e a negação que se divide",
         "en": "The verb: aspect and the split negation",
@@ -12825,7 +13938,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "title": {
         "pt": "Conjunções: porque, embora, enquanto",
         "en": "Conjunctions: because, although, while",
@@ -13516,7 +14629,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 29,
       "title": {
         "pt": "Numeral e contabilidade",
         "en": "Numeral and countability",
@@ -14193,7 +15306,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 30,
       "title": {
         "pt": "A frase inteira, em ordem",
         "en": "The whole sentence, in order",
@@ -14885,7 +15998,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 31,
       "title": {
         "pt": "Capstone de leitura: Marcos 4,35-41 (KJV)",
         "en": "Reading capstone: Mark 4,35-41 (KJV)",
@@ -15603,5 +16716,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g3ab58d0f"
+  "contentVersion": "1.0.0+ge2cef3ea"
 }

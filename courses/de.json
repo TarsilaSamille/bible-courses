@@ -9542,6 +9542,761 @@
     },
     {
       "id": 19,
+      "section": {
+        "pt": "Os verbos",
+        "en": "The verbs",
+        "es": "Los verbos"
+      },
+      "title": {
+        "pt": "Os verbos essenciais",
+        "en": "The essential verbs",
+        "es": "Los verbos esenciales"
+      },
+      "subtitle": {
+        "pt": "{gehen}, {kommen}, {sein}, {haben}, {machen}, {sagen} e os verbos que decidem cada frase",
+        "en": "{gehen}, {kommen}, {sein}, {haben}, {machen}, {sagen} and the verbs that decide every clause",
+        "es": "{gehen}, {kommen}, {sein}, {haben}, {machen}, {sagen} y los verbos que deciden cada oración"
+      },
+      "body": {
+        "pt": "## Vinte verbos, e três que não têm forma fixa\n\nUm verbo alemão regular tira a terminação e devolve uma nova: em {mache}, {machst}, {macht}, o tema {mach-} não se mexe. Os essenciais não têm tema fixo: {bin}, {bist}, {ist}, {war}, {werde}, {wird}, {habe}, {hast}, {hat}, {will}, {wollte} são formas que nenhuma regra produz, e é preciso aprendê-las soltas.\n\nSão poucos e pesam muito. {gehen}, {kommen}, {sein}, {haben}, {machen}, {sagen}, {geben}, {sehen}, {essen}, {trinken}, {schlafen}, {sterben}, {lesen}, {schreiben}, {sprechen}, {hören}, {nehmen}, {bringen}, {wissen}, {können}, {wollen}, {müssen}, {dürfen}, {sollen} cobrem quase tudo o que se diz num capítulo de Evangelho.\n\n## O Präsens que troca de vogal no du e no er\n\nNo Präsens, os verbos fortes trocadores de vogal mudam a vogal só na 2.ª e na 3.ª pessoa do singular. É aí que {sehen} vira {siehst}/{sieht}, {lesen} vira {liest}/{liest}, {geben} vira {gibst}/{gibt}, {essen} vira {isst}/{isst}, {sprechen} vira {sprichst}/{spricht}.\n\nAs três famílias: {e} vira {ie} ou {i}, {a} vira {ä}, {au} vira {äu}. Não é uma anotação de estilo: é a regra que decide a pronúncia. Quem escreve {sehen} sem notar que o {e} virou {ie} fala {si-en} onde o alemão fala {zihst}.\n\nO {wir} e o {sie/Sie} ficam no radical do infinitivo: {sehen} faz {sehen}, {fahren} faz {fahren}. E o Präsens de {können}, {wollen}, {müssen} e os outros modais não muda vogal nenhuma no singular; só na 1.ª e 3.ª do singular fica sem desinência: {ich kann}, {er kann}, e {du kannst}.\n\n## Perfekt: quem leva {haben} e quem leva {sein}\n\nO Perfekt é {haben} ou {sein} no presente mais um particípio: {ich habe gemacht}, {ich bin gegangen}. A escolha do auxiliar não é livre. Os verbos de movimento e de mudança de estado levam {sein}: {ich bin gegangen}, {sie ist gekommen}, {er ist gestorben}, {wir sind gefahren}. O resto leva {haben}: {ich habe gegessen}, {du hast gelesen}, {sie haben geschlafen}.\n\nSe o verbo não se move e não muda de estado, é {haben}. Se há movimento físico ou o sujeito nasce, morre, permanece ou vira outra coisa, é {sein}. É tão simples quanto isso, e quase nenhum verbo escapa.\n\nO pretérito do verbo {sein} não tem particípio; usa a forma {war}: {ich war}, {du warst}, {er war}, {wir waren}, {ihr wart}, {sie waren}. E o Präteritum de {haben} é {hatte}, {hattest}, {hatte}, {hatten}, {hattet}, {hatten}.\n\n## Os seis modais\n\n{können}, {wollen}, {müssen}, {dürfen}, {sollen} e {mögen} são os modais, e o que os marca é o original: na 1.ª e 3.ª pessoa do singular o presente não tem desinência. {ich kann}, {er kann}; {ich will}, {er will}; {ich muss}, {er muss}; {ich darf}, {er darf}; {ich soll}, {er soll}; {ich mag}, {er mag}. Só na 2.ª pessoa aparece o {st}: {du kannst}, {du willst}.\n\nO modal governa o infinitivo, que não leva {zu}: {ich kann gehen}, {er will lesen}, {wir müssen essen}. E o {zu} entra no resto: {ich entscheide mich, zu gehen} tem {zu gehen}, {kanst du gehen} não tem {zu}.\n\n## Na Bíblia\n\nJoão 1:1 abre com {war}: {Im Anfang war das Wort}, no começo era o Verbo. {War} é o pretérito de {sein}, e é o que o alemão usa onde o grego usava {ἦν}. João 3:16 traz {hat Gott die Welt geliebt} na versão de Lutero: {geliebt} é o particípio de {lieben} e {hat} é o auxiliar.\n\nMarcos 4:39 é um verbo imperativo inteiro: {Schweige und verstumme!}, cala e emudece. {Schweige} é o imperativo de {schweigen} e {verstumme} é o de {verstummen}, os dois sem desinência à vista. O grego é {Σιωπήσον καὶ γαλάσσου}, e a tradução de Lutero preserva o que a inglesa da KJV apaga: era um comando.",
+        "en": "## Twenty verbs, and three with no fixed shape\n\nA regular German verb drops its ending and returns a new one: in {mache}, {machst}, {macht}, the stem {mach-} does not move. The essentials have no fixed stem: {bin}, {bist}, {ist}, {war}, {werde}, {wird}, {habe}, {hast}, {hat}, {will}, {wollte} are forms that no rule produces, and they have to be learned one by one.\n\nThey are few and they weigh a lot. {gehen}, {kommen}, {sein}, {haben}, {machen}, {sagen}, {geben}, {sehen}, {essen}, {trinken}, {schlafen}, {sterben}, {lesen}, {schreiben}, {sprechen}, {hören}, {nehmen}, {bringen}, {wissen}, {können}, {wollen}, {müssen}, {dürfen}, {sollen} cover almost everything said in a chapter of a Gospel.\n\n## The Präsens that changes vowel in du and er\n\nIn the Präsens, the ablaut verbs change their vowel only in the 2nd and 3rd person singular. That is where {sehen} becomes {siehst}/{sieht}, {lesen} becomes {liest}/{liest}, {geben} becomes {gibst}/{gibt}, {essen} becomes {isst}/{isst}, {sprechen} becomes {sprichst}/{spricht}.\n\nThree families: {e} becomes {ie} or {i}, {a} becomes {ä}, {au} becomes {äu}. It is not a stylistic note; it is the rule that decides the pronunciation. Whoever writes {sehen} without noticing the {e} turned into {ie} says {si-en} where German says {sihst}.\n\n{Wir} and {sie/Sie} keep the infinitive stem: {sehen} makes {sehen}, {fahren} makes {fahren}. And the Präsens of {können}, {wollen}, {müssen} and the other modals changes no vowel in the singular; only the 1st and 3rd person singular lose their ending: {ich kann}, {er kann}, and {du kannst}.\n\n## Perfect: who takes {haben} and who takes {sein}\n\nThe Perfekt is {haben} or {sein} in the present plus a participle: {ich habe gemacht}, {ich bin gegangen}. The choice of auxiliary is not free. Verbs of movement and of change of state take {sein}: {ich bin gegangen}, {sie ist gekommen}, {er ist gestorben}, {wir sind gefahren}. The rest take {haben}: {ich habe gegessen}, {du hast gelesen}, {sie haben geschlafen}.\n\nIf the verb does not move and does not change state, it is {haben}. If there is physical movement, or the subject is born, dies, remains or becomes something else, it is {sein}. It is that simple, and almost no verb escapes the rule.\n\nThe preterite of {sein} has no participle; it is the form {war}: {ich war}, {du warst}, {er war}, {wir waren}, {ihr wart}, {sie waren}. And the preterite of {haben} is {hatte}, {hattest}, {hatte}, {hatten}, {hattet}, {hatten}.\n\n## The six modals\n\n{können}, {wollen}, {müssen}, {dürfen}, {sollen} and {mögen} are the modals, and what sets them apart is the stem: in the 1st and 3rd person singular the present takes no ending. {ich kann}, {er kann}; {ich will}, {er will}; {ich muss}, {er muss}; {ich darf}, {er darf}; {ich soll}, {er soll}; {ich mag}, {er mag}. Only in the 2nd person does the {st} appear: {du kannst}, {du willst}.\n\nThe modal governs an infinitive that takes no {zu}: {ich kann gehen}, {er will lesen}, {wir müssen essen}. {Zu} comes in everywhere else: {ich entscheide mich, zu gehen} has {zu gehen}, {kannst du gehen} does not.\n\n## In the Bible\n\nJohn 1:1 opens with {war}: {Im Anfang war das Wort}, in the beginning was the Word. {War} is the preterite of {sein}, and it is what German uses where Greek used {ἦν}. John 3:16 has {hat Gott die Welt geliebt} in Luther's translation: {geliebt} is the participle of {lieben} and {hat} is the auxiliary.\n\nMark 4:39 is one full imperative verb: {Schweige und verstumme!}, be silent and die away. {Schweige} is the imperative of {schweigen} and {verstumme} is the imperative of {verstummen}, both with no visible ending. The Greek is {Σιωπήσον καὶ γαλάσσου}, and Luther preserves what the KJV turns into a command into a single word: {schweigte} would be a statement, this is a command.",
+        "es": "## Veinte verbos, y tres sin forma fija\n\nUn verbo alemán regular quita la terminación y devuelve una nueva: en {mache}, {machst}, {macht}, el tema {mach-} no se mueve. Los esenciales no tienen tema fijo: {bin}, {bist}, {ist}, {war}, {werde}, {wird}, {habe}, {hast}, {hat}, {will}, {wollte} son formas que ninguna regla produce, y hay que aprenderlas sueltas.\n\nSon pocos y pesan mucho. {gehen}, {kommen}, {sein}, {haben}, {machen}, {sagen}, {geben}, {sehen}, {essen}, {trinken}, {schlafen}, {sterben}, {lesen}, {schreiben}, {sprechen}, {hören}, {nehmen}, {bringen}, {wissen}, {können}, {wollen}, {müssen}, {dürfen}, {sollen} cubren casi todo lo que se dice en un capítulo de Evangelio.\n\n## El Präsens que cambia de vocal en du y er\n\nEn el Präsens, los verbos de cambio de vocal cambian solo en la 2.ª y 3.ª persona del singular. Es donde {sehen} se vuelve {siehst}/{sieht}, {lesen} se vuelve {liest}/{liest}, {geben} se vuelve {gibst}/{gibt}, {essen} se vuelve {isst}/{isst}, {sprechen} se vuelve {sprichst}/{spricht}.\n\nTres familias: {e} pasa a {ie} o {i}, {a} pasa a {ä}, {au} pasa a {äu}. No es una anotación de estilo: es la regla que decide la pronunciación. Quien escribe {sehen} sin notar que la {e} se volvió {ie} dice {si-en} donde el alemán dice {sihst}.\n\n{Wir} y {sie/Sie} conservan el tema del infinitivo: {sehen} hace {sehen}, {fahren} hace {fahren}. Y el Präsens de {können}, {wollen}, {müssen} y los demás modales no cambia vocal ninguna en singular; solo la 1.ª y 3.ª del singular quedan sin terminación: {ich kann}, {er kann}, y {du kannst}.\n\n## Perfekt: quién lleva {haben} y quién lleva {sein}\n\nEl Perfekt es {haben} o {sein} en presente más un participio: {ich habe gemacht}, {ich bin gegangen}. La elección del auxiliar no es libre. Los verbos de movimiento y de cambio de estado llevan {sein}: {ich bin gegangen}, {sie ist gekommen}, {er ist gestorben}, {wir sind gefahren}. El resto lleva {haben}: {ich habe gegessen}, {du hast gelesen}, {sie haben geschlafen}.\n\nSi el verbo no se mueve y no cambia de estado, es {haben}. Si hay movimiento físico o el sujeto nace, muere, permanece o se vuelve otra cosa, es {sein}. Así de simple, y casi ningún verbo escapa.\n\nEl pretérito de {sein} no tiene participio; es la forma {war}: {ich war}, {du warst}, {er war}, {wir waren}, {ihr wart}, {sie waren}. Y el Präteritum de {haben} es {hatte}, {hattest}, {hatte}, {hatten}, {hattet}, {hatten}.\n\n## Los seis modales\n\n{können}, {wollen}, {müssen}, {dürfen}, {sollen} y {mögen} son los modales, y lo que los marca es el tema: en la 1.ª y 3.ª persona del singular el presente no tiene terminación. {ich kann}, {er kann}; {ich will}, {er will}; {ich muss}, {er muss}; {ich darf}, {er darf}; {ich soll}, {er soll}; {ich mag}, {er mag}. Solo en la 2.ª persona aparece el {st}: {du kannst}, {du willst}.\n\nEl modal rige el infinitivo, que no lleva {zu}: {ich kann gehen}, {er will lesen}, {wir müssen essen}. El {zu} entra en el resto: {ich entscheide mich, zu gehen} lleva {zu gehen}, {kannst du gehen} no.\n\n## En la Biblia\n\nJuan 1:1 abre con {war}: {Im Anfang war das Wort}, en el principio era el Verbo. {War} es el pretérito de {sein}, y es lo que el alemán usa donde el griego usaba {ἦν}. Juan 3:16 trae {hat Gott die Welt geliebt} en la traducción de Lutero: {geliebt} es el participio de {lieben} y {hat} es el auxiliar.\n\nMarcos 4:39 es un verbo imperativo entero: {Schweige und verstumme!}, cállate y enmudece. {Schweige} es el imperativo de {schweigen} y {verstumme} es el de {verstummen}, los dos sin terminación visible. El griego es {Σιωπήσον καὶ γαλάσσου}, y Lutero preserva lo que KJV convierte en mandato seco: esto es un mandamiento, no una afirmación."
+      },
+      "vocab": [
+        {
+          "form": "bin",
+          "lemma": "sein",
+          "lang": "de",
+          "pt": "eu sou",
+          "en": "I am",
+          "es": "yo soy"
+        },
+        {
+          "form": "bist",
+          "lemma": "sein",
+          "lang": "de",
+          "pt": "tu és",
+          "en": "you are",
+          "es": "tú eres"
+        },
+        {
+          "form": "war",
+          "lemma": "sein",
+          "lang": "de",
+          "pt": "ele era / eu era",
+          "en": "he was / I was",
+          "es": "él era / yo era"
+        },
+        {
+          "form": "werde",
+          "lemma": "werden",
+          "lang": "de",
+          "pt": "eu vou / fico",
+          "en": "I become",
+          "es": "yo me vuelvo"
+        },
+        {
+          "form": "habe",
+          "lemma": "haben",
+          "lang": "de",
+          "pt": "eu tenho",
+          "en": "I have",
+          "es": "yo tengo"
+        },
+        {
+          "form": "hatte",
+          "lemma": "haben",
+          "lang": "de",
+          "pt": "eu tinha",
+          "en": "I had",
+          "es": "yo tenía"
+        },
+        {
+          "form": "gehe",
+          "lemma": "gehen",
+          "lang": "de",
+          "pt": "eu vou",
+          "en": "I go",
+          "es": "yo voy"
+        },
+        {
+          "form": "komme",
+          "lemma": "kommen",
+          "lang": "de",
+          "pt": "eu venho",
+          "en": "I come",
+          "es": "yo vengo"
+        },
+        {
+          "form": "esse",
+          "lemma": "essen",
+          "lang": "de",
+          "pt": "eu como",
+          "en": "I eat",
+          "es": "yo como"
+        },
+        {
+          "form": "isst",
+          "lemma": "essen",
+          "lang": "de",
+          "pt": "tu comes / ele come",
+          "en": "you eat / he eats",
+          "es": "tú comes / él come"
+        },
+        {
+          "form": "sehe",
+          "lemma": "sehen",
+          "lang": "de",
+          "pt": "eu vejo",
+          "en": "I see",
+          "es": "yo veo"
+        },
+        {
+          "form": "siehst",
+          "lemma": "sehen",
+          "lang": "de",
+          "pt": "tu vês",
+          "en": "you see",
+          "es": "tú ves"
+        },
+        {
+          "form": "lese",
+          "lemma": "lesen",
+          "lang": "de",
+          "pt": "eu leio",
+          "en": "I read",
+          "es": "yo leo"
+        },
+        {
+          "form": "liest",
+          "lemma": "lesen",
+          "lang": "de",
+          "pt": "tu lês / ele lê",
+          "en": "you read / he reads",
+          "es": "tú lees / él lee"
+        },
+        {
+          "form": "gebe",
+          "lemma": "geben",
+          "lang": "de",
+          "pt": "eu dou",
+          "en": "I give",
+          "es": "yo doy"
+        },
+        {
+          "form": "gibt",
+          "lemma": "geben",
+          "lang": "de",
+          "pt": "ele dá",
+          "en": "he gives",
+          "es": "él da"
+        },
+        {
+          "form": "kann",
+          "lemma": "können",
+          "lang": "de",
+          "pt": "eu posso / ele pode",
+          "en": "I can / he can",
+          "es": "yo puedo / él puede"
+        },
+        {
+          "form": "will",
+          "lemma": "wollen",
+          "lang": "de",
+          "pt": "eu quero / ele quer",
+          "en": "I want / he wants",
+          "es": "yo quiero / él quiere"
+        },
+        {
+          "form": "muss",
+          "lemma": "müssen",
+          "lang": "de",
+          "pt": "eu devo / ele deve",
+          "en": "I must / he must",
+          "es": "yo debo / él debe"
+        },
+        {
+          "form": "darf",
+          "lemma": "dürfen",
+          "lang": "de",
+          "pt": "eu posso / ele pode (autorizado)",
+          "en": "I may / he may",
+          "es": "yo puedo (autorizado)"
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "{sein} e {haben} flexionam à mão: {ich bin}, {du bist}, {er ist}, {wir sind}, {ihr seid}, {sie sind}; {ich habe}, {du hast}, {er hat}, {wir haben}, {ihr habt}, {sie haben}.",
+            "en": "{sein} and {haben} are inflected by hand: {ich bin}, {du bist}, {er ist}, {wir sind}, {ihr seid}, {sie sind}; {ich habe}, {du hast}, {er hat}, {wir haben}, {ihr habt}, {sie haben}.",
+            "es": "{sein} y {haben} se flexionan a mano: {ich bin}, {du bist}, {er ist}, {wir sind}, {ihr seid}, {sie sind}; {ich habe}, {du hast}, {er hat}, {wir haben}, {ihr habt}, {sie haben}."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "No Präsens a vogal dos verbos fortes muda na 2.ª e 3.ª do singular: {e}→{ie/i} ({siehst}, {liest}, {gibst}, {isst}), {a}→{ä} ({fährst}, {trägst}, {schläfst}), {au}→{äu} ({läufst}).",
+            "en": "In the Präsens the vowel of ablaut verbs changes in the 2nd and 3rd person singular: {e}→{ie/i} ({siehst}, {liest}, {gibst}, {isst}), {a}→{ä} ({fährst}, {trägst}, {schläfst}), {au}→{äu} ({läufst}).",
+            "es": "En el Präsens la vocal de los verbos fuertes cambia en la 2.ª y 3.ª del singular: {e}→{ie/i} ({siehst}, {liest}, {gibst}, {isst}), {a}→{ä} ({fährst}, {trägst}, {schläfst}), {au}→{äu} ({läufst})."
+          }
+        },
+        {
+          "n": "§3",
+          "text": {
+            "pt": "O Perfekt usa {sein} com verbos de movimento ou mudança de estado ({ich bin gegangen}, {er ist gestorben}), e {haben} com o restante ({ich habe gegessen}).",
+            "en": "The Perfekt takes {sein} with verbs of movement or change of state ({ich bin gegangen}, {er ist gestorben}), and {haben} with the rest ({ich habe gegessen}).",
+            "es": "El Perfekt usa {sein} con verbos de movimiento o cambio de estado ({ich bin gegangen}, {er ist gestorben}), y {haben} con el resto ({ich habe gegessen})."
+          }
+        },
+        {
+          "n": "§4",
+          "text": {
+            "pt": "Os modais não têm desinência na 1.ª e 3.ª do singular: {ich kann}, {er will}, {sie muss}, {es darf}. O infinitivo que governam não leva {zu}: {ich kann gehen}.",
+            "en": "Modals have no ending in the 1st and 3rd person singular: {ich kann}, {er will}, {sie muss}, {es darf}. The infinitive they govern takes no {zu}: {ich kann gehen}.",
+            "es": "Los modales no tienen terminación en la 1.ª y 3.ª del singular: {ich kann}, {er will}, {sie muss}, {es darf}. El infinitivo que rigen no lleva {zu}: {ich kann gehen}."
+          }
+        },
+        {
+          "n": "§5",
+          "text": {
+            "pt": "O imperativo de {du} sai da 2.ª pessoa sem a desinência: {geh!}, {komm!}, {sieh!}, {lies!}, {iss!}.",
+            "en": "The {du} imperative drops the ending of the 2nd person: {geh!}, {komm!}, {sieh!}, {lies!}, {iss!}.",
+            "es": "El imperativo de {du} sale de la 2.ª persona sin la terminación: {geh!}, {komm!}, {sieh!}, {lies!}, {iss!}."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "O Präteritum de {sein} e {haben}",
+            "en": "The preterite of {sein} and {haben}",
+            "es": "El Präteritum de {sein} y {haben}"
+          },
+          "text": {
+            "pt": "{War} e {hatte} são os únicos passados que o alemão usa onde o Präsens do Perfekt não funciona. {Ich habe gewesen} e {ich hatte gehabt} são corretos e raríssimos; no texto comum é {ich war} e {ich hatte}.",
+            "en": "{War} and {hatte} are the only past forms German uses where the Perfekt present does not work. {Ich habe gewesen} and {ich hatte gehabt} are correct and rare; ordinary text has {ich war} and {ich hatte}.",
+            "es": "{War} y {hatte} son los únicos pasados que el alemán usa cuando el presente del Perfekt no funciona. {Ich habe gewesen} e {ich hatte gehabt} son correctos y rarísimos; en el texto común es {ich war} e {ich hatte}."
+          }
+        },
+        {
+          "label": {
+            "pt": "O {ward} que João 3:16 não tem",
+            "en": "The {ward} that John 3:16 no longer has",
+            "es": "El {ward} que Juan 3:16 ya no tiene"
+          },
+          "text": {
+            "pt": "A tradução de Lutero traz {ward} em vez de {wurde} na passagem do verbo {werden}: {ward Fleisch} é {wurde Fleisch}. A forma {ward} é a Präteritum antiga de {werden}, e desapareceu do alemão moderno, mas está na edição de 1545 e é o que o leitor encontra.",
+            "en": "Luther’s translation has {ward} instead of {wurde} for the preterite of {werden}: {ward Fleisch} is {wurde Fleisch}. {Ward} is the old preterite of {werden}, and it disappeared from modern German, but it is in the 1545 edition and that is what the reader meets.",
+            "es": "La traducción de Lutero trae {ward} en lugar de {wurde} en el pretérito de {werden}: {ward Fleisch} es {wurde Fleisch}. {Ward} es el Präteritum antiguo de {werden}, desapareció del alemán moderno, pero está en la edición de 1545 y es lo que el lector encuentra."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "Im Anfang war das Wort.",
+          "gloss": {
+            "pt": "{war}: pretérito de {sein}, Jo 1:1.",
+            "en": "{war}: preterite of {sein}, Jn 1:1.",
+            "es": "{war}: pretérito de {sein}, Jn 1:1."
+          }
+        },
+        {
+          "text": "Das Wort ist Gott.",
+          "gloss": {
+            "pt": "{ist}: presente de {sein}.",
+            "en": "{ist}: present of {sein}.",
+            "es": "{ist}: presente de {sein}."
+          }
+        },
+        {
+          "text": "Ich habe gegessen.",
+          "gloss": {
+            "pt": "Perfekt com {haben}: participes de {essen}.",
+            "en": "Perfekt with {haben}: participle of {essen}.",
+            "es": "Perfekt con {haben}: participio de {essen}."
+          }
+        },
+        {
+          "text": "Er ist gekommen.",
+          "gloss": {
+            "pt": "Perfekt com {sein}: movimento.",
+            "en": "Perfekt with {sein}: movement.",
+            "es": "Perfekt con {sein}: movimiento."
+          }
+        },
+        {
+          "text": "Sie ist gestorben.",
+          "gloss": {
+            "pt": "Perfekt com {sein}: mudança de estado.",
+            "en": "Perfekt with {sein}: change of state.",
+            "es": "Perfekt con {sein}: cambio de estado."
+          }
+        },
+        {
+          "text": "Ich kann nicht kommen.",
+          "gloss": {
+            "pt": "Modal {können} sem desinência de pessoa.",
+            "en": "Modal {können} with no person ending.",
+            "es": "Modal {können} sin terminación de persona."
+          }
+        },
+        {
+          "text": "Wir müssen essen.",
+          "gloss": {
+            "pt": "{müssen} governa o infinitivo sem {zu}.",
+            "en": "{müssen} governs an infinitive without {zu}.",
+            "es": "{müssen} rige el infinitivo sin {zu}."
+          }
+        },
+        {
+          "text": "Geh!",
+          "gloss": {
+            "pt": "Imperativo de {gehen} sem a desinência.",
+            "en": "Imperative of {gehen} with the ending dropped.",
+            "es": "Imperativo de {gehen} sin la terminación."
+          }
+        },
+        {
+          "text": "Iss!",
+          "gloss": {
+            "pt": "Imperativo de {essen} sem a vogal {e}.",
+            "en": "Imperative of {essen} with the {e} dropped.",
+            "es": "Imperativo de {essen} sin la {e}."
+          }
+        },
+        {
+          "text": "Ich sehe den Mann.",
+          "gloss": {
+            "pt": "Presente de {sehen}, radical sem mudança.",
+            "en": "Present of {sehen}, stem unchanged.",
+            "es": "Presente de {sehen}, tema sin cambio."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Präsens dos essenciais",
+            "en": "Präsens of the essentials",
+            "es": "Präsens de los esenciales"
+          },
+          "head": [
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "sein",
+              "en": "sein",
+              "es": "sein"
+            },
+            {
+              "pt": "haben",
+              "en": "haben",
+              "es": "haben"
+            },
+            {
+              "pt": "gehen",
+              "en": "gehen",
+              "es": "gehen"
+            },
+            {
+              "pt": "essen",
+              "en": "essen",
+              "es": "essen"
+            },
+            {
+              "pt": "sehen",
+              "en": "sehen",
+              "es": "sehen"
+            }
+          ],
+          "rows": [
+            [
+              "ich",
+              "bin",
+              "habe",
+              "gehe",
+              "esse",
+              "sehe"
+            ],
+            [
+              "du",
+              "bist",
+              "hast",
+              "gehst",
+              "isst",
+              "siehst"
+            ],
+            [
+              "er/sie/es",
+              "ist",
+              "hat",
+              "geht",
+              "isst",
+              "sieht"
+            ],
+            [
+              "wir",
+              "sind",
+              "haben",
+              "gehen",
+              "essen",
+              "sehen"
+            ],
+            [
+              "ihr",
+              "seid",
+              "habt",
+              "geht",
+              "esst",
+              "seht"
+            ],
+            [
+              "sie/Sie",
+              "sind",
+              "haben",
+              "gehen",
+              "essen",
+              "sehen"
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "Perfekt e o auxiliar de cada verbo",
+            "en": "Perfekt and each verb’s auxiliary",
+            "es": "Perfekt y el auxiliar de cada verbo"
+          },
+          "head": [
+            {
+              "pt": "Verbo",
+              "en": "Verb",
+              "es": "Verbo"
+            },
+            {
+              "pt": "Ausiliar",
+              "en": "Auxiliary",
+              "es": "Auxiliar"
+            },
+            {
+              "pt": "Perfekt",
+              "en": "Perfekt",
+              "es": "Perfekt"
+            },
+            {
+              "pt": "Particípio",
+              "en": "Participle",
+              "es": "Participio"
+            }
+          ],
+          "rows": [
+            [
+              "gehen",
+              "sein",
+              "ist gegangen",
+              "gegangen"
+            ],
+            [
+              "kommen",
+              "sein",
+              "ist gekommen",
+              "gekommen"
+            ],
+            [
+              "sterben",
+              "sein",
+              "ist gestorben",
+              "gestorben"
+            ],
+            [
+              "bleiben",
+              "sein",
+              "ist geblieben",
+              "geblieben"
+            ],
+            [
+              "fahren",
+              "sein",
+              "ist gefahren",
+              "gefahren"
+            ],
+            [
+              "werden",
+              "sein",
+              "ist geworden",
+              "geworden"
+            ],
+            [
+              "essen",
+              "haben",
+              "hat gegessen",
+              "gegessen"
+            ],
+            [
+              "sehen",
+              "haben",
+              "hat gesehen",
+              "gesehen"
+            ],
+            [
+              "lesen",
+              "haben",
+              "hat gelesen",
+              "gelesen"
+            ],
+            [
+              "schreiben",
+              "haben",
+              "hat geschrieben",
+              "geschrieben"
+            ],
+            [
+              "geben",
+              "haben",
+              "hat gegeben",
+              "gegeben"
+            ],
+            [
+              "nehmen",
+              "haben",
+              "hat genommen",
+              "genommen"
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "Os seis modais no presente",
+            "en": "The six modals in the present",
+            "es": "Los seis modales en presente"
+          },
+          "head": [
+            {
+              "pt": "Modal",
+              "en": "Modal",
+              "es": "Modal"
+            },
+            {
+              "pt": "ich",
+              "en": "ich",
+              "es": "ich"
+            },
+            {
+              "pt": "du",
+              "en": "du",
+              "es": "du"
+            },
+            {
+              "pt": "er",
+              "en": "er",
+              "es": "er"
+            },
+            {
+              "pt": "wir",
+              "en": "wir",
+              "es": "wir"
+            },
+            {
+              "pt": "Perfekt",
+              "en": "Perfekt",
+              "es": "Perfekt"
+            }
+          ],
+          "rows": [
+            [
+              "können",
+              "kann",
+              "kannst",
+              "kann",
+              "können",
+              "hat gekonnt / konnte"
+            ],
+            [
+              "wollen",
+              "will",
+              "willst",
+              "will",
+              "wollen",
+              "hat gewollt / wollte"
+            ],
+            [
+              "müssen",
+              "muss",
+              "musst",
+              "muss",
+              "müssen",
+              "hat gemusst / musste"
+            ],
+            [
+              "dürfen",
+              "darf",
+              "darfst",
+              "darf",
+              "dürfen",
+              "hat gedurft / durfte"
+            ],
+            [
+              "sollen",
+              "soll",
+              "sollst",
+              "soll",
+              "sollen",
+              "hat gesollt / sollte"
+            ],
+            [
+              "mögen",
+              "mag",
+              "magst",
+              "mag",
+              "mögen",
+              "hat gemocht / mochte"
+            ]
+          ]
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual auxiliar leva {sterben} no Perfekt?",
+          "en": "Which auxiliary does {sterben} take in the Perfekt?",
+          "es": "¿Qué auxiliar lleva {sterben} en el Perfekt?"
+        },
+        "options": [
+          {
+            "pt": "{haben}",
+            "en": "{haben}",
+            "es": "{haben}"
+          },
+          {
+            "pt": "{sein}",
+            "en": "{sein}",
+            "es": "{sein}"
+          },
+          {
+            "pt": "{werden}",
+            "en": "{werden}",
+            "es": "{werden}"
+          },
+          {
+            "pt": "{gehen}",
+            "en": "{gehen}",
+            "es": "{gehen}"
+          }
+        ],
+        "answer": 1
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete o Präsens de {essen}: \"Du ___\" (3.ª do singular).",
+            "en": "Complete the Präsens of {essen}: \"Du ___\" (3rd singular).",
+            "es": "Completa el Präsens de {essen}: \"Du ___\" (3.ª del singular)."
+          },
+          "answer": "isst"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue o verbo ao auxiliar do Perfekt.",
+            "en": "Match the verb to the auxiliary of its Perfekt.",
+            "es": "Relaciona el verbo con el auxiliar de su Perfekt."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "{gehen}",
+                "en": "{gehen}",
+                "es": "{gehen}"
+              },
+              "b": {
+                "pt": "{sein}",
+                "en": "{sein}",
+                "es": "{sein}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{essen}",
+                "en": "{essen}",
+                "es": "{essen}"
+              },
+              "b": {
+                "pt": "{haben}",
+                "en": "{haben}",
+                "es": "{haben}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{kommen}",
+                "en": "{kommen}",
+                "es": "{kommen}"
+              },
+              "b": {
+                "pt": "{sein}",
+                "en": "{sein}",
+                "es": "{sein}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{lesen}",
+                "en": "{lesen}",
+                "es": "{lesen}"
+              },
+              "b": {
+                "pt": "{haben}",
+                "en": "{haben}",
+                "es": "{haben}"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual é a forma correta do modal {können} na 1.ª pessoa?",
+            "en": "What is the correct form of the modal {können} in the 1st person?",
+            "es": "¿Cuál es la forma correcta del modal {können} en 1.ª persona?"
+          },
+          "options": [
+            {
+              "pt": "{ich kanne}",
+              "en": "{ich kanne}",
+              "es": "{ich kanne}"
+            },
+            {
+              "pt": "{ich kannst}",
+              "en": "{ich kannst}",
+              "es": "{ich kannst}"
+            },
+            {
+              "pt": "{ich kann}",
+              "en": "{ich kann}",
+              "es": "{ich kann}"
+            },
+            {
+              "pt": "{ich können}",
+              "en": "{ich können}",
+              "es": "{ich können}"
+            }
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": 20,
       "title": {
         "pt": "Os verbos separáveis",
         "en": "Separable verbs",
@@ -10145,7 +10900,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "title": {
         "pt": "Os verbos inseparáveis",
         "en": "Inseparable verbs",
@@ -10701,7 +11456,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
       "title": {
         "pt": "Os verbos modais",
         "en": "The modal verbs",
@@ -11312,7 +12067,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "title": {
         "pt": "Os verbos irregulares",
         "en": "The irregular verbs",
@@ -11914,7 +12669,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 24,
       "title": {
         "pt": "O passado Perfekt",
         "en": "The Perfekt",
@@ -12475,7 +13230,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "title": {
         "pt": "O Präteritum",
         "en": "The Präteritum",
@@ -13026,7 +13781,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "title": {
         "pt": "O futuro",
         "en": "The future",
@@ -13577,7 +14332,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "title": {
         "pt": "A voz passiva",
         "en": "The passive voice",
@@ -14128,7 +14883,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "title": {
         "pt": "dass e zu + infinitivo",
         "en": "dass and zu + infinitive",
@@ -14669,7 +15424,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 29,
       "title": {
         "pt": "O imperativo",
         "en": "The imperative",
@@ -15199,7 +15954,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 30,
       "title": {
         "pt": "O Konjunktiv II",
         "en": "The Konjunktiv II",
@@ -15744,7 +16499,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 31,
       "title": {
         "pt": "As preposições",
         "en": "Prepositions",
@@ -16293,7 +17048,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 32,
       "title": {
         "pt": "Os pronomes pessoais",
         "en": "Personal pronouns",
@@ -16848,7 +17603,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 33,
       "title": {
         "pt": "Os possessivos",
         "en": "Possessives",
@@ -17385,7 +18140,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 34,
       "title": {
         "pt": "A sintaxe avançada",
         "en": "Advanced syntax",
@@ -17925,7 +18680,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": 35,
       "title": {
         "pt": "Leitura comentada: o Salmo 23 na tradução de Lutero",
         "en": "Commented reading: Psalm 23 in Luther's translation",
@@ -18498,7 +19253,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 36,
       "title": {
         "pt": "Leitura comentada: João 1:1-5 na tradução de Lutero",
         "en": "Commented reading: John 1:1-5 in Luther's translation",
@@ -19071,7 +19826,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 37,
       "title": {
         "pt": "Leitura comentada: o Pai-Nosso na tradução de Lutero",
         "en": "Commented reading: the Lord's Prayer in Luther's translation",
@@ -19639,7 +20394,7 @@
       ]
     },
     {
-      "id": 37,
+      "id": 38,
       "title": {
         "pt": "Capstone de leitura: Marcos 4,35-41 na tradução de Lutero",
         "en": "Reading capstone: Mark 4:35-41 in Luther's translation",
@@ -20222,5 +20977,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gf8d26923"
+  "contentVersion": "1.0.0+g80b4a350"
 }

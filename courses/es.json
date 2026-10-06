@@ -4262,6 +4262,698 @@
     },
     {
       "id": 11,
+      "section": {
+        "pt": "Os verbos",
+        "en": "The verbs",
+        "es": "Os verbos"
+      },
+      "title": {
+        "pt": "Os verbos essenciais",
+        "en": "The essential verbs",
+        "es": "Los verbos esenciales"
+      },
+      "subtitle": {
+        "pt": "{ir}, {venir}, {ser}, {tener}, {hacer}, {decir} e os catorze que sustentam quase toda oração",
+        "en": "{ir}, {venir}, {ser}, {tener}, {hacer}, {decir} and the fourteen that hold up almost every clause",
+        "es": "{ir}, {venir}, {ser}, {tener}, {hacer}, {decir} y los catorce que sostienen casi toda oración"
+      },
+      "body": {
+        "pt": "## Vinte verbos e uma regra que decide meia língua\n\nUm verbo regular se conjuga por sufixo: em {hablo}, {hablas}, {habla}, o tema {habl-} não se mexe e só muda a terminação. Os essenciais não têm tema fixo. {voy}, {vengo}, {soy}, {tengo}, {hago}, {digo}, {puedo}, {quiero}, {sé} e {do} são dez formas que nenhuma regra produz, e é preciso aprendê-las soltas.\n\nSão poucos e pesam muito. {ir}, {venir}, {ser}, {estar}, {tener}, {hacer}, {decir}, {poder}, {querer}, {saber}, {ver}, {dar}, {comer}, {beber}, {dormir}, {morir}, {nacer}, {leer}, {escribir}, {hablar}, {escuchar}, {tomar}, {poner} e {salir} cobrem quase tudo o que se diz num capítulo de Evangelho. O resto da língua se constrói em cima deles.\n\nSobre esses regulares há uma regra que decide sozinha a metade das frases, e é a **vocal da bota**: no presente de muitos verbos terminados em {-ar} e {-er} as formas tônicas mudam de vogal. {pienso}, {quiero}, {siento}, {entiendo}, {tiendo}, {pierdo}, {miento}, {prefiero}. Mas {nosotros} e {vosotros} mantêm a vogal original: {pensamos}, {queremos}, {sentimos}, {entendemos}, {tienden}, {perdemos}, {mienten}, {preferimos}. Se a forma não termina em {-amos} nem em {-éis}, é a bota.\n\n## {Ir} + {a} + infinitivo: o futuro que não flexiona\n\nO espanhol anuncia o futuro sem flexionar nenhum verbo: é {ir} no presente mais {a} mais infinitivo. {Voy a comer}, {va a venir}, {vamos a salir}. A forma de {ir} guarda a pessoa ({voy}, {vas}, {va}, {vamos}, {vais}, {van}), mas o infinitivo não muda nunca, e esse é o preço de um verbo que serve em todos os tempos compostos.\n\nA {a} não tem papel próprio fora dessa construção, e é por isso que a frase se desfaz quando se troca o verbo: {voy al mercado} é {ir} com lugar, e {voy a ver} é {ir} mais {ver} sem {a} no meio. Quem traduz do português {vou ver} por {voy a ver} acerta, e quem escreve {voy ver} erra sem querer dizer outra coisa.\n\nO mesmo truque funciona no passado: {iba a comer} era {ir} no imperfeito mais infinitivo. E o pretérito composto {he ido}, {has ido}, {hemos ido}, {había ido} é {ir} com o particípio {ido}, que não muda de gênero nem de número.\n\n## As três mudanças de raiz\n\nOs verbos que mudam de vogal formam três grupos, e o que separa os grupos é a que vogal cada uma vira.\n\n- **{e} vira {ie}**: {piensa}, {quiere}, {siente}, {entiende}, {tiende}, {pierde}, {miente}, {prefiere}.\n- **{o} vira {ue}**: {vuelve}, {duerme}, {muere}, {muestra}, {encuentra}, {vuela}, {juega}, {huele}.\n- **{e} vira {i}** só no passado e só na 1.ª e 3.ª pessoa: {pidió}, {siguió}, {sirvió}, {vistió}, {eligió}, {eligieron}.\n\nO primeiro grupo mantém a vogal nas outras formas: {piensa}, {piensan}, {piensa}, {pensamos}, {pensáis}. O segundo também: {vuelve}, {vuelan}, {volvemos}. O terceiro só muda no passado, e é o que o texto bíblico mais usa, porque o passado é o tempo da narrativa.\n\n## {Tener que}, {deber} e {hay que}: a obrigação com três verbos\n\nEm espanhol a obrigação tem três verbos, e a escolha diz de que obrigação é. **{tener que}** é pessoal: *{Tengo que irme}*, tenho de me ir. **{deber}** é dever ou necessidade: *{Debo irme}*, devo ir-me. **{Hay que}** é impessoal e não tem sujeito: *{Hay que irse}*, é preciso ir-se, tanto faz quem vá.\n\nOs três regem o infinitivo e nunca uma forma conjugada: *{tengo que ir}*, nunca *{tengo que voy}*. É esse detalhe que denuncia quem traduz do português, onde *{tenho que ir}* e *{tenho de ir}* são a mesma coisa.\n\n## Na Bíblia\n\nJoão 1:1 traz {era}, o pretérito de {ser}, e João 1:5 traz {resplandece}, o presente de um verbo em {-er}. São dois tempos para o mesmo assunto: o que já era antes de tudo e o que está acontecendo em cena. E 1 João 4:8 traz {Dios es amor}, presente de {ser}, ao lado de João 3:16, {Dios amó al mundo}, pretérito de {amar}.\n\nA escolha entre {ama} e {amó} é escolha do tradutor. {Amar} no presente afirma o que Deus é; no pretérito afirma o que ele fez. {Es amor} e {amó al mundo} dizem coisas diferentes, e uma tradução que põe os dois no mesmo tempo apaga a diferença.",
+        "en": "## Twenty verbs and one rule that decides half the language\n\nA regular verb conjugates by suffix: in {hablo}, {hablas}, {habla}, the stem {habl-} does not move and only the ending changes. The essentials have no fixed stem. {voy}, {vengo}, {soy}, {tengo}, {hago}, {digo}, {puedo}, {quiero}, {sé} and {do} are ten forms that no rule produces, and they have to be learned one by one.\n\nThey are few and they weigh a lot. {ir}, {venir}, {ser}, {estar}, {tener}, {hacer}, {decir}, {poder}, {querer}, {saber}, {ver}, {dar}, {comer}, {beber}, {dormir}, {morir}, {nacer}, {leer}, {escribir}, {hablar}, {escuchar}, {tomar}, {poner} and {salir} cover almost everything said in a chapter of a Gospel. The rest of the language is built on top of them.\n\nOver those regulars there is a rule that decides half the sentences on its own, and it is the **boot vowel**: in the present of many verbs ending in {-ar} and {-er} the stressed forms change vowel. {pienso}, {quiero}, {siento}, {entiendo}, {tiendo}, {pierdo}, {miento}, {prefiero}. But {nosotros} and {vosotros} keep the original vowel: {pensamos}, {queremos}, {sentimos}, {entendemos}, {tienden}, {perdemos}, {mienten}, {preferimos}. If the form does not end in {-amos} or in {-éis}, it is the boot.\n\n## {Ir} + {a} + infinitive: the future that does not conjugate\n\nSpanish announces the future without conjugating any verb: it is {ir} in the present plus {a} plus an infinitive. {Voy a comer}, {va a venir}, {vamos a salir}. The form of {ir} keeps the person ({voy}, {vas}, {va}, {vamos}, {vais}, {van}), but the infinitive never changes, and that is the price of a verb that works in every compound tense.\n\nThe {a} has no role of its own outside this construction, which is why the sentence falls apart when the verb changes: {voy al mercado} is {ir} with a place, and {voy a ver} is {ir} plus {ver} with no {a} in between. Anyone who translates Portuguese {vou ver} as {voy a ver} gets it right, and whoever writes {voy ver} gets it wrong without meaning anything else.\n\nThe same trick works in the past: {iba a comer} was {ir} in the imperfect plus an infinitive. And the perfect {he ido}, {has ido}, {hemos ido}, {había ido} is {ir} with the participle {ido}, which changes neither gender nor number.\n\n## The three stem changes\n\nThe verbs that change vowel form three groups, and what separates the groups is which vowel each one becomes.\n\n- **{e} becomes {ie}**: {piensa}, {quiere}, {siente}, {entiende}, {tiende}, {pierde}, {miente}, {prefiere}.\n- **{o} becomes {ue}**: {vuelve}, {duerme}, {muere}, {muestra}, {encuentra}, {vuela}, {juega}, {huele}.\n- **{e} becomes {i}** only in the past and only in the 1st and 3rd person: {pidió}, {siguió}, {sirvió}, {vistió}, {eligió}, {eligieron}.\n\nThe first group keeps the vowel in the other forms: {piensa}, {piensan}, {piensa}, {pensamos}, {pensáis}. The second does too: {vuelve}, {vuelan}, {volvemos}. The third changes only in the past, and that is the one biblical text uses most, because the past is the tense of narrative.\n\n## {Tener que}, {deber} and {hay que}: obligation with three verbs\n\nIn Spanish obligation has three verbs, and the choice says what kind of obligation it is. **{tener que}** is personal: *{Tengo que irme}*, I have to go. **{deber}** is duty or necessity: *{Debo irme}*, I ought to go. **{Hay que}** is impersonal and has no subject: *{Hay que irse}*, it is necessary to go, no matter who does it.\n\nAll three govern the infinitive and never a conjugated form: *{tengo que ir}*, never *{tengo que voy}*. That detail is what gives away whoever translates from Portuguese, where *{tenho que ir}* and *{tenho de ir}* are the same thing.\n\n## In the Bible\n\nJohn 1:1 brings {era}, the preterite of {ser}, and John 1:5 brings {resplandece}, the present of an {-er} verb. Two tenses for the same subject: what already was before everything began and what is happening in the scene. And 1 John 4:8 brings {Dios es amor}, present of {ser}, next to John 3:16, {Dios amó al mundo}, preterite of {amar}.\n\nThe choice between {ama} and {amó} is the translator's choice. {Amar} in the present asserts what God is; in the preterite it asserts what he did. {Es amor} and {amó al mundo} say different things, and a translation that puts both in the same tense erases the difference.",
+        "es": "## Veinte verbos y una regla que decide media lengua\n\nUn verbo regular se conjuga por sufijo: en {hablo}, {hablas}, {habla}, el tema {habl-} no se mueve y solo cambia la terminación. Los esenciales no tienen tema fijo. {voy}, {vengo}, {soy}, {tengo}, {hago}, {digo}, {puedo}, {quiero}, {sé} y {do} son diez formas que no produce ninguna regla, y hay que aprenderlas sueltas.\n\nSon pocos y pesan mucho. {ir}, {venir}, {ser}, {estar}, {tener}, {hacer}, {decir}, {poder}, {querer}, {saber}, {ver}, {dar}, {comer}, {beber}, {dormir}, {morir}, {nacer}, {leer}, {escribir}, {hablar}, {escuchar}, {tomar}, {poner} y {salir} cubren casi todo lo que se dice en un capítulo de Evangelio. El resto de la lengua se construye encima de ellos.\n\nSobre esos regulares hay una regla que decide sola la mitad de las frases, y es la **vocal de la bota**: en el presente de muchos verbos terminados en {-ar} y {-er} las formas tónicas cambian la vocal. {pienso}, {quiero}, {siento}, {entiendo}, {tiendo}, {pierdo}, {miento}, {prefiero}. Pero {nosotros} y {vosotros} mantienen la vocal original: {pensamos}, {queremos}, {sentimos}, {entendemos}, {tienden}, {perdemos}, {mienten}, {preferimos}. Si la forma no termina en {-amos} ni en {-éis}, es la bota.\n\n## {Ir} + {a} + infinitivo: el futuro que no flexiona\n\nEl español anuncia el futuro sin flexionar ningún verbo: es {ir} en presente más {a} más infinitivo. {Voy a comer}, {va a venir}, {vamos a salir}. La forma de {ir} conserva la persona ({voy}, {vas}, {va}, {vamos}, {vais}, {van}), pero el infinitivo no cambia nunca, y ese es el precio de un verbo que sirve en todos los tiempos compuestos.\n\nLa {a} no tiene papel propio fuera de esta construcción, y por eso la frase se deshace cuando se cambia el verbo: {voy al mercado} es {ir} con lugar, y {voy a ver} es {ir} más {ver} sin {a} en medio. Quien traduce del portugués {vou ver} por {voy a ver} acierta, y quien escribe {voy ver} escribe mal sin querer decir otra cosa.\n\nEl mismo truco funciona en el pasado: {iba a comer} era {ir} en imperfecto más infinitivo. Y el pretérito compuesto {he ido}, {has ido}, {hemos ido}, {había ido} es {ir} con el participio {ido}, que no cambia de género ni de número.\n\n## Los tres cambios de raíz\n\nLos verbos que cambian de vocal forman tres grupos, y lo que los separa es a qué vocal pasa cada una.\n\n- **{e} pasa a {ie}**: {piensa}, {quiere}, {siente}, {entiende}, {tiende}, {pierde}, {miente}, {prefiere}.\n- **{o} pasa a {ue}**: {vuelve}, {duerme}, {muere}, {muestra}, {encuentra}, {vuela}, {juega}, {huele}.\n- **{e} pasa a {i}** solo en el pasado y solo en la 1.ª y 3.ª persona: {pidió}, {siguió}, {sirvió}, {vistió}, {eligió}, {eligieron}.\n\nEl primer grupo mantiene la vocal en las demás formas: {piensa}, {piensan}, {piensa}, {pensamos}, {pensáis}. El segundo también: {vuelve}, {vuelan}, {volvemos}. El tercero cambia solo en el pasado, y es el que el texto bíblico usa más, porque el pasado es el tiempo de la narración.\n\n## {Tener que}, {deber} y {hay que}: la obligación con tres verbos\n\nEn español la obligación tiene tres verbos, y la elección dice de qué tipo es. **{tener que}** es personal: *{Tengo que irme}*, yo tengo que irme. **{deber}** es deber o necesidad: *{Debo irme}*, yo debo irme. **{Hay que}** es impersonal y no tiene sujeto: *{Hay que irse}*, hay que irse, da igual quién vaya.\n\nLos tres governan el infinitivo y nunca una forma conjugada: *{tengo que ir}*, nunca *{tengo que voy}*. Es ese detalle el que denuncia a quien traduce del portugués, donde *{tenho que ir}* y *{tenho de ir}* son lo mismo.\n\n## En la Biblia\n\nJuan 1:1 trae {era}, el pretérito de {ser}, y Juan 1:5 trae {resplandece}, el presente de un verbo en {-er}. Son dos tiempos para el mismo asunto: lo que ya era antes de todo y lo que está pasando en escena. Y 1 Juan 4:8 trae {Dios es amor}, presente de {ser}, junto a Juan 3:16, {Dios amó al mundo}, pretérito de {amar}.\n\nLa elección entre {ama} y {amó} es elección del traductor. {Amar} en presente afirma lo que Dios es; en pretérito afirma lo que hizo. {Es amor} y {amó al mundo} dicen cosas distintas, y una traducción que pone los dos en el mismo tiempo borra la diferencia."
+      },
+      "vocab": [
+        {
+          "form": "voy",
+          "lemma": "ir",
+          "lang": "es",
+          "pt": "eu vou",
+          "en": "I go",
+          "es": "yo voy"
+        },
+        {
+          "form": "va",
+          "lemma": "ir",
+          "lang": "es",
+          "pt": "ele vai; vá!",
+          "en": "he goes; go!",
+          "es": "él va; ¡vaya!"
+        },
+        {
+          "form": "vengo",
+          "lemma": "venir",
+          "lang": "es",
+          "pt": "eu venho",
+          "en": "I come",
+          "es": "yo vengo"
+        },
+        {
+          "form": "viene",
+          "lemma": "venir",
+          "lang": "es",
+          "pt": "ele vem; venha!",
+          "en": "he comes",
+          "es": "él viene; ¡venga!"
+        },
+        {
+          "form": "soy",
+          "lemma": "ser",
+          "lang": "es",
+          "pt": "eu sou",
+          "en": "I am",
+          "es": "yo soy"
+        },
+        {
+          "form": "es",
+          "lemma": "ser",
+          "lang": "es",
+          "pt": "ele é",
+          "en": "he is",
+          "es": "él es"
+        },
+        {
+          "form": "tengo",
+          "lemma": "tener",
+          "lang": "es",
+          "pt": "eu tenho",
+          "en": "I have",
+          "es": "yo tengo"
+        },
+        {
+          "form": "hago",
+          "lemma": "hacer",
+          "lang": "es",
+          "pt": "eu faço",
+          "en": "I do",
+          "es": "yo hago"
+        },
+        {
+          "form": "digo",
+          "lemma": "decir",
+          "lang": "es",
+          "pt": "eu digo",
+          "en": "I say",
+          "es": "yo digo"
+        },
+        {
+          "form": "puedo",
+          "lemma": "poder",
+          "lang": "es",
+          "pt": "eu posso",
+          "en": "I can",
+          "es": "yo puedo"
+        },
+        {
+          "form": "quiero",
+          "lemma": "querer",
+          "lang": "es",
+          "pt": "eu quero",
+          "en": "I want",
+          "es": "yo quiero"
+        },
+        {
+          "form": "pienso",
+          "lemma": "pensar",
+          "lang": "es",
+          "pt": "eu penso",
+          "en": "I think",
+          "es": "yo pienso"
+        },
+        {
+          "form": "duermo",
+          "lemma": "dormir",
+          "lang": "es",
+          "pt": "eu durmo",
+          "en": "I sleep",
+          "es": "yo duermo"
+        },
+        {
+          "form": "sigo",
+          "lemma": "seguir",
+          "lang": "es",
+          "pt": "eu sigo",
+          "en": "I follow",
+          "es": "yo sigo"
+        },
+        {
+          "form": "vuelvo",
+          "lemma": "volver",
+          "lang": "es",
+          "pt": "eu volto",
+          "en": "I return",
+          "es": "yo vuelvo"
+        },
+        {
+          "form": "era",
+          "lemma": "ser",
+          "lang": "es",
+          "pt": "ele era",
+          "en": "he was",
+          "es": "él era"
+        },
+        {
+          "form": "amó",
+          "lemma": "amar",
+          "lang": "es",
+          "pt": "ele amou",
+          "en": "he loved",
+          "es": "él amó"
+        },
+        {
+          "form": "resplandece",
+          "lemma": "resplandecer",
+          "lang": "es",
+          "pt": "ele brilha",
+          "en": "he shines",
+          "es": "él brilla"
+        }
+      ],
+      "rules": [
+        {
+          "n": "§1",
+          "text": {
+            "pt": "Dez presentes irregulares não têm regra: {voy}, {vengo}, {soy}, {tengo}, {hago}, {digo}, {puedo}, {quiero}, {sé} e {do}.",
+            "en": "Ten irregular presents have no rule: {voy}, {vengo}, {soy}, {tengo}, {hago}, {digo}, {puedo}, {quiero}, {sé} and {do}.",
+            "es": "Diez presentes irregulares no tienen regla: {voy}, {vengo}, {soy}, {tengo}, {hago}, {digo}, {puedo}, {quiero}, {sé} y {do}."
+          }
+        },
+        {
+          "n": "§2",
+          "text": {
+            "pt": "A vogal da bota vale para as formas tônicas e nunca para {nosotros} nem {vosotros}: {pienso} contra {pensamos}, {vuelvo} contra {volvemos}.",
+            "en": "The boot vowel holds for the stressed forms and never for {nosotros} or {vosotros}: {pienso} against {pensamos}, {vuelvo} against {volvemos}.",
+            "es": "La vocal de la bota vale para las formas tónicas y nunca para {nosotros} ni {vosotros}: {pienso} contra {pensamos}, {vuelvo} contra {volvemos}."
+          }
+        },
+        {
+          "n": "§3",
+          "text": {
+            "pt": "O futuro é {ir} no presente mais {a} mais o infinitivo, e o infinitivo não flexiona: {voy a comer}, {va a venir}, {vamos a salir}.",
+            "en": "The future is {ir} in the present plus {a} plus the infinitive, and the infinitive does not conjugate: {voy a comer}, {va a venir}, {vamos a salir}.",
+            "es": "El futuro es {ir} en presente más {a} más el infinitivo, y el infinitivo no flexiona: {voy a comer}, {va a venir}, {vamos a salir}."
+          }
+        },
+        {
+          "n": "§4",
+          "text": {
+            "pt": "Depois de {a} não pode haver outro verbo conjugado: {voy a ver}, nunca {voy a veo}.",
+            "en": "After {a} no other conjugated verb is allowed: {voy a ver}, never {voy a veo}.",
+            "es": "Después de {a} no puede haber otro verbo conjugado: {voy a ver}, nunca {voy a veo}."
+          }
+        },
+        {
+          "n": "§5",
+          "text": {
+            "pt": "{tener que}, {deber} e {hay que} regem o infinitivo: {tengo que ir}, {debo ir}, {hay que ir}, e nunca uma forma conjugada.",
+            "en": "{tener que}, {deber} and {hay que} govern the infinitive: {tengo que ir}, {debo ir}, {hay que ir}, and never a conjugated form.",
+            "es": "{tener que}, {deber} y {hay que} rigen el infinitivo: {tengo que ir}, {debo ir}, {hay que ir}, y nunca una forma conjugada."
+          }
+        }
+      ],
+      "notes": [
+        {
+          "label": {
+            "pt": "O verbo {ir} e {ser} têm o mesmo passado",
+            "en": "{ir} and {ser} share their past",
+            "es": "El verbo {ir} y {ser} tienen el mismo pasado"
+          },
+          "text": {
+            "pt": "{fui} é de {ser} e de {ir}: {fui bueno} é {ser}, {fui a Roma} é {ir}. E o plural fecha os dois igual: {fuimos}, {fueron}. O contexto é o que diz qual, e o verbo espanhol não dá nenhuma pista.",
+            "en": "{fui} belongs to {ser} and to {ir}: {fui bueno} is {ser}, {fui a Roma} is {ir}. And the plural closes both the same way: {fuimos}, {fueron}. The context is what says which, and the Spanish verb gives no clue at all.",
+            "es": "{fui} es de {ser} y de {ir}: {fui bueno} es {ser}, {fui a Roma} es {ir}. Y el plural cierra los dos igual: {fuimos}, {fueron}. El contexto es lo que dice cuál, y el verbo español no da ninguna pista."
+          }
+        },
+        {
+          "label": {
+            "pt": "O futuro que o português já tinha",
+            "en": "The future Portuguese already had",
+            "es": "El futuro que el portugués ya tenía"
+          },
+          "text": {
+            "pt": "O português diz {vou comer} e {irei comer}, duas formas para a mesma ideia. O espanhol guardou só a primeira: {voy a comer}. Traduzir {irei} por {voy a} não perde o sentido, e traduzir {vou} por {voy a} também não; o que se perde é quem escreve {voy comer}.",
+            "en": "Portuguese says {vou comer} and {irei comer}, two forms for the same idea. Spanish kept only the first: {voy a comer}. Translating {irei} as {voy a} loses no sense, and translating {vou} as {voy a} does not either; what loses is whoever writes {voy comer}.",
+            "es": "El portugués dice {vou comer} y {irei comer}, dos formas para la misma idea. El español conservó solo la primera: {voy a comer}. Traducir {irei} por {voy a} no pierde el sentido, y traducir {vou} por {voy a} tampoco; lo que se pierde es quien escribe {voy comer}."
+          }
+        }
+      ],
+      "examples": [
+        {
+          "text": "En el principio era el Verbo.",
+          "gloss": {
+            "pt": "{era}: pretérito de {ser}, 3.ª do singular.",
+            "en": "{era}: preterite of {ser}, 3rd singular.",
+            "es": "{era}: pretérito de {ser}, 3.ª del singular."
+          }
+        },
+        {
+          "text": "La luz resplandece en las tinieblas.",
+          "gloss": {
+            "pt": "{resplandece}: presente, o que está acontecendo em cena (Jo 1:5).",
+            "en": "{resplandece}: present, what is happening in the scene (Jn 1:5).",
+            "es": "{resplandece}: presente, lo que está pasando en escena (Jn 1:5)."
+          }
+        },
+        {
+          "text": "Dios es amor.",
+          "gloss": {
+            "pt": "Presente de {ser}: o que Deus é (1 Jo 4:8).",
+            "en": "Present of {ser}: what God is (1 Jn 4:8).",
+            "es": "Presente de {ser}: lo que Dios es (1 Jn 4:8)."
+          }
+        },
+        {
+          "text": "Dios amó al mundo.",
+          "gloss": {
+            "pt": "Pretérito de {amar}: o que Deus fez (Jo 3:16).",
+            "en": "Preterite of {amar}: what God did (Jn 3:16).",
+            "es": "Pretérito de {amar}: lo que Dios hizo (Jn 3:16)."
+          }
+        },
+        {
+          "text": "Voy a comer.",
+          "gloss": {
+            "pt": "{ir} no presente mais {a} mais o infinitivo {comer}.",
+            "en": "{ir} in the present plus {a} plus the infinitive {comer}.",
+            "es": "{ir} en presente más {a} más el infinitivo {comer}."
+          }
+        },
+        {
+          "text": "Voy al mercado.",
+          "gloss": {
+            "pt": "{ir} com lugar: aqui não há {a} nem infinitivo.",
+            "en": "{ir} with a place: here there is no {a} and no infinitive.",
+            "es": "{ir} con lugar: aquí no hay {a} ni infinitivo."
+          }
+        },
+        {
+          "text": "Tengo que irme.",
+          "gloss": {
+            "pt": "Obrigação pessoal com {tener que} e infinitivo.",
+            "en": "Personal obligation with {tener que} plus infinitive.",
+            "es": "Obligación personal con {tener que} e infinitivo."
+          }
+        },
+        {
+          "text": "Hay que irse.",
+          "gloss": {
+            "pt": "Obrigação impessoal, sem sujeito.",
+            "en": "Impersonal obligation, no subject.",
+            "es": "Obligación impersonal, sin sujeto."
+          }
+        },
+        {
+          "text": "No pensé y luego se lo pedí.",
+          "gloss": {
+            "pt": "A vogal da bota: {pienso} e {pensamos}.",
+            "en": "The boot vowel: {pienso} and {pensamos}.",
+            "es": "La vocal de la bota: {pienso} y {pensamos}."
+          }
+        },
+        {
+          "text": "Volvió a su casa.",
+          "gloss": {
+            "pt": "No passado {volvió} volta ao {o}: só o presente troca.",
+            "en": "In the past {volvió} returns to the {o}: only the present changes.",
+            "es": "En el pasado {volvió} vuelve a la {o}: solo el presente cambia."
+          }
+        }
+      ],
+      "tables": [
+        {
+          "caption": {
+            "pt": "Presente dos essenciais irregulares",
+            "en": "Present of the irregular essentials",
+            "es": "Presente de los esenciales irregulares"
+          },
+          "head": [
+            {
+              "pt": "Pessoa",
+              "en": "Person",
+              "es": "Persona"
+            },
+            {
+              "pt": "ir",
+              "en": "ir",
+              "es": "ir"
+            },
+            {
+              "pt": "venir",
+              "en": "venir",
+              "es": "venir"
+            },
+            {
+              "pt": "tener",
+              "en": "tener",
+              "es": "tener"
+            },
+            {
+              "pt": "hacer",
+              "en": "hacer",
+              "es": "hacer"
+            },
+            {
+              "pt": "decir",
+              "en": "decir",
+              "es": "decir"
+            }
+          ],
+          "rows": [
+            [
+              "yo",
+              "{voy}",
+              "{vengo}",
+              "{tengo}",
+              "{hago}",
+              "{digo}"
+            ],
+            [
+              "tú",
+              "{vas}",
+              "{vienes}",
+              "{tienes}",
+              "{haces}",
+              "{dices}"
+            ],
+            [
+              "él",
+              "{va}",
+              "{viene}",
+              "{tiene}",
+              "{hace}",
+              "{dice}"
+            ],
+            [
+              "nosotros",
+              "{vamos}",
+              "{venimos}",
+              "{tenemos}",
+              "{hacemos}",
+              "{decimos}"
+            ],
+            [
+              "vosotros",
+              "{vais}",
+              "{venís}",
+              "{tenéis}",
+              "{hacéis}",
+              "{decís}"
+            ],
+            [
+              "ellos",
+              "{van}",
+              "{vienen}",
+              "{tienen}",
+              "{hacen}",
+              "{dicen}"
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "Pretérito dos irregulares",
+            "en": "Preterite of the irregulars",
+            "es": "Pretérito de los irregulares"
+          },
+          "head": [
+            {
+              "pt": "Verbo",
+              "en": "Verb",
+              "es": "Verbo"
+            },
+            {
+              "pt": "Singular",
+              "en": "Singular",
+              "es": "Singular"
+            },
+            {
+              "pt": "Plural",
+              "en": "Plural",
+              "es": "Plural"
+            }
+          ],
+          "rows": [
+            [
+              "{ir}",
+              "{fui, fuiste, fue}",
+              "{fuimos, fuisteis, fueron}"
+            ],
+            [
+              "{ser}",
+              "{fui, fuiste, fue}",
+              "{fuimos, fuisteis, fueron}"
+            ],
+            [
+              "{estar}",
+              "{estuve, estuviste, estuvo}",
+              "{estuvimos, estuvisteis, estuvieron}"
+            ],
+            [
+              "{tener}",
+              "{tuve, tuviste, tuvo}",
+              "{tuvimos, tuvisteis, tuvieron}"
+            ],
+            [
+              "{hacer}",
+              "{hice, hiciste, hizo}",
+              "{hicimos, hicisteis, hicieron}"
+            ],
+            [
+              "{decir}",
+              "{dije, dijiste, dijo}",
+              "{dijimos, dijisteis, dijeron}"
+            ],
+            [
+              "{poder}",
+              "{pude, pudiste, pudo}",
+              "{pudimos, pudisteis, pudieron}"
+            ],
+            [
+              "{saber}",
+              "{supe, supiste, supo}",
+              "{supimos, supisteis, supieron}"
+            ]
+          ]
+        },
+        {
+          "caption": {
+            "pt": "Mudanças de raiz no presente",
+            "en": "Stem changes in the present",
+            "es": "Cambios de raíz en el presente"
+          },
+          "head": [
+            {
+              "pt": "Verbo",
+              "en": "Verb",
+              "es": "Verbo"
+            },
+            {
+              "pt": "{nosotros}",
+              "en": "{nosotros}",
+              "es": "{nosotros}"
+            },
+            {
+              "pt": "Forma tônica",
+              "en": "Stressed form",
+              "es": "Forma tónica"
+            },
+            {
+              "pt": "Mudança",
+              "en": "Change",
+              "es": "Cambio"
+            }
+          ],
+          "rows": [
+            [
+              "pensar",
+              "{pensamos}",
+              "{pienso}",
+              "{e} → {ie}"
+            ],
+            [
+              "querer",
+              "{queremos}",
+              "{quiero}",
+              "{e} → {ie}"
+            ],
+            [
+              "seguir",
+              "{seguimos}",
+              "{sigo}",
+              "{e} → {i}"
+            ],
+            [
+              "dormir",
+              "{dormimos}",
+              "{duermo}",
+              "{o} → {ue}"
+            ],
+            [
+              "volver",
+              "{volvemos}",
+              "{vuelvo}",
+              "{o} → {ue}"
+            ],
+            [
+              "morir",
+              "{morimos}",
+              "{muero}",
+              "{o} → {ue}"
+            ],
+            [
+              "jugar",
+              "{jugamos}",
+              "{juego}",
+              "{u} → {ue}"
+            ],
+            [
+              "sentir",
+              "{sentimos}",
+              "{siento}",
+              "{e} → {ie}"
+            ]
+          ]
+        }
+      ],
+      "exercise": {
+        "kind": "choose",
+        "prompt": {
+          "pt": "Qual é o presente de {volver} na 3.ª pessoa do singular?",
+          "en": "What is the present of {volver} in the 3rd person singular?",
+          "es": "¿Cuál es el presente de {volver} en 3.ª persona del singular?"
+        },
+        "options": [
+          {
+            "pt": "vuelve",
+            "en": "vuelve",
+            "es": "vuelve"
+          },
+          {
+            "pt": "vuelvo",
+            "en": "vuelvo",
+            "es": "vuelvo"
+          },
+          {
+            "pt": "volve",
+            "en": "volve",
+            "es": "volve"
+          },
+          {
+            "pt": "volvido",
+            "en": "volvido",
+            "es": "volvido"
+          }
+        ],
+        "answer": 0
+      },
+      "exercises": [
+        {
+          "kind": "fill",
+          "prompt": {
+            "pt": "Complete o futuro: \"Nosotros ___ a salir\" (ir + a + salir).",
+            "en": "Complete the future: \"Nosotros ___ a salir\" (ir + a + salir).",
+            "es": "Completa el futuro: \"Nosotros ___ a salir\" (ir + a + salir)."
+          },
+          "answer": "vamos"
+        },
+        {
+          "kind": "match",
+          "prompt": {
+            "pt": "Ligue o verbo à mudança de raiz.",
+            "en": "Match the verb to its stem change.",
+            "es": "Relaciona el verbo con el cambio de raíz."
+          },
+          "pairs": [
+            {
+              "a": {
+                "pt": "{pienso}",
+                "en": "{pienso}",
+                "es": "{pienso}"
+              },
+              "b": {
+                "pt": "{e} → {ie}",
+                "en": "{e} → {ie}",
+                "es": "{e} → {ie}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{duermo}",
+                "en": "{duermo}",
+                "es": "{duermo}"
+              },
+              "b": {
+                "pt": "{o} → {ue}",
+                "en": "{o} → {ue}",
+                "es": "{o} → {ue}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{sigo}",
+                "en": "{sigo}",
+                "es": "{sigo}"
+              },
+              "b": {
+                "pt": "{e} → {i}",
+                "en": "{e} → {i}",
+                "es": "{e} → {i}"
+              }
+            },
+            {
+              "a": {
+                "pt": "{juego}",
+                "en": "{juego}",
+                "es": "{juego}"
+              },
+              "b": {
+                "pt": "{u} → {ue}",
+                "en": "{u} → {ue}",
+                "es": "{u} → {ue}"
+              }
+            }
+          ],
+          "answer": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "kind": "choose",
+          "prompt": {
+            "pt": "Qual frase expressa obrigação impessoal?",
+            "en": "Which sentence expresses impersonal obligation?",
+            "es": "¿Qué oración expresa obligación impersonal?"
+          },
+          "options": [
+            {
+              "pt": "Tengo que irme.",
+              "en": "Tengo que irme.",
+              "es": "Tengo que irme."
+            },
+            {
+              "pt": "Debo irme.",
+              "en": "Debo irme.",
+              "es": "Debo irme."
+            },
+            {
+              "pt": "Hay que irse.",
+              "en": "Hay que irse.",
+              "es": "Hay que irse."
+            },
+            {
+              "pt": "Voy a irme.",
+              "en": "Voy a irme.",
+              "es": "Voy a irme."
+            }
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": 12,
       "title": {
         "pt": "Os advérbios de tempo",
         "en": "Adverbs of time",
@@ -4725,7 +5417,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "title": {
         "pt": "Os verbos: presente",
         "en": "Verbs: present tense",
@@ -5146,7 +5838,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "title": {
         "pt": "{ser} e {estar}",
         "en": "{ser} and {estar}",
@@ -5586,7 +6278,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "title": {
         "pt": "Os verbos irregulares",
         "en": "Irregular verbs",
@@ -6014,7 +6706,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "title": {
         "pt": "O pretérito",
         "en": "The preterite",
@@ -6455,7 +7147,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 17,
       "title": {
         "pt": "O imperfeito",
         "en": "The imperfect",
@@ -6872,7 +7564,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "title": {
         "pt": "O futuro e o condicional",
         "en": "Future and conditional",
@@ -7302,7 +7994,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 19,
       "title": {
         "pt": "O imperativo",
         "en": "The imperative",
@@ -7742,7 +8434,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 20,
       "title": {
         "pt": "O subjuntivo",
         "en": "The subjunctive",
@@ -8109,7 +8801,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "title": {
         "pt": "A voz passiva",
         "en": "The passive voice",
@@ -8560,7 +9252,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
       "title": {
         "pt": "{por} × {para}",
         "en": "{por} × {para}",
@@ -9054,7 +9746,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "title": {
         "pt": "As preposições e o \"a\" pessoal",
         "en": "Prepositions and the personal \"a\"",
@@ -9554,7 +10246,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 24,
       "title": {
         "pt": "Os pronomes pessoais",
         "en": "Personal pronouns",
@@ -10004,7 +10696,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "title": {
         "pt": "Formas de tratamento ({usted}, {vosotros})",
         "en": "Forms of address ({usted}, {vosotros})",
@@ -10450,7 +11142,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "title": {
         "pt": "Os pronomes possessivos",
         "en": "Possessive pronouns",
@@ -10883,7 +11575,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "title": {
         "pt": "Os pronomes demonstrativos",
         "en": "Demonstrative pronouns",
@@ -11314,7 +12006,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "title": {
         "pt": "Os pronomes reflexivos",
         "en": "Reflexive pronouns",
@@ -11769,7 +12461,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 29,
       "title": {
         "pt": "Os pronomes relativos",
         "en": "Relative pronouns",
@@ -12211,7 +12903,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 30,
       "title": {
         "pt": "Os pronomes indefinidos",
         "en": "Indefinite pronouns",
@@ -12638,7 +13330,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 31,
       "title": {
         "pt": "Os pronomes interrogativos",
         "en": "Interrogative pronouns",
@@ -13171,7 +13863,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 32,
       "title": {
         "pt": "Os numerais cardinais",
         "en": "Cardinal numerals",
@@ -13713,7 +14405,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 33,
       "title": {
         "pt": "Os numerais ordinais",
         "en": "Ordinal numerals",
@@ -14200,7 +14892,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 34,
       "title": {
         "pt": "A oração principal",
         "en": "The main clause",
@@ -14682,7 +15374,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": 35,
       "title": {
         "pt": "A oração subordinada e o discurso indireto",
         "en": "Subordinate clauses and indirect speech",
@@ -15245,5 +15937,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g5a441334"
+  "contentVersion": "1.0.0+gac5859ab"
 }
