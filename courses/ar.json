@@ -384,7 +384,7 @@
         {
           "n": "1",
           "text": {
-            "pt": "A direção de lectura é de derecha a izquierda.",
+            "pt": "A direção de leitura é da direita para a esquerda.",
             "en": "Reading runs from right to left.",
             "es": "La lectura va de derecha a izquierda."
           }
@@ -392,7 +392,7 @@
         {
           "n": "2",
           "text": {
-            "pt": "Seis letras — ا د ذ ر ز و — solo enlazan con la letra precedente.",
+            "pt": "Seis letras — ا د ذ ر ز و — só se ligam à letra precedente.",
             "en": "Six letters — ا د ذ ر ز و — join only to the preceding letter.",
             "es": "Seis letras — ا د ذ ر ز و — solo se enlazan con la letra anterior."
           }
@@ -400,7 +400,7 @@
         {
           "n": "3",
           "text": {
-            "pt": "Las vocales breves se escriben con fatha َ, kasra ِ y ḍamma ُ.",
+            "pt": "As vogais breves se escrevem com fatha َ, kasra ِ e ḍamma ُ.",
             "en": "Short vowels are written with fatha َ, kasra ِ, and ḍamma ُ.",
             "es": "Las vocales breves se escriben con fatha َ, kasra ِ y ḍamma ُ."
           }
@@ -409,12 +409,12 @@
       "notes": [
         {
           "label": {
-            "pt": "Pronunciación",
+            "pt": "Pronúncia",
             "en": "Pronunciation",
             "es": "Pronunciación"
           },
           "text": {
-            "pt": "Las vocales son claras; la articulación de las consonantes es implícita.",
+            "pt": "As vogais são claras; a articulação das consoantes é implícita.",
             "en": "Vowels are clear; consonant articulation is implied.",
             "es": "Las vocales son claras; la articulación de las consonantes es implícita."
           }
@@ -440,7 +440,7 @@
         {
           "text": "بَيْت",
           "gloss": {
-            "pt": "bayt — casa; la_connection facilita la lectura",
+            "pt": "bayt — casa; a ligação facilita a leitura",
             "en": "bayt — house; joining makes it readable",
             "es": "bayt — casa; la unión facilita la lectura"
           }
@@ -451,7 +451,7 @@
           "caption": {
             "pt": "Letras e sons",
             "en": "Letters and sounds",
-            "es": "Letras y sonidos"
+            "es": "Letras e sons"
           },
           "head": [
             {
@@ -474,17 +474,17 @@
             [
               "alif, wāw, yāʾ",
               "ا و ي",
-              "No forman por sí solas sílaba abierta"
+              "Não formam por si só sílaba aberta"
             ],
             [
-              "consonantes aspuras",
+              "consonantes aspiradas",
               "ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه",
-              "Permiten sílabas cerradas"
+              "Permitem sílabas fechadas"
             ],
             [
               "hamza",
               "ء أ إ ؤ ئ",
-              "Indica sonido de vocal o consonante glotal"
+              "Indica som de vogal ou consoante glotal"
             ]
           ]
         }
@@ -18176,5 +18176,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gcfa5e7f1"
+  "contentVersion": "1.0.0+gd910f26c"
 }

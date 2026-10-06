@@ -16,11 +16,11 @@
       "id": "grc-mod",
       "lang": "grc",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+gd46860fc",
+      "contentVersion": "1.0.0+ge3a11859",
       "lessons": 31,
       "file": "courses/grc-mod.json",
-      "bytes": 633956,
-      "sha256": "32e250996aeba4b5"
+      "bytes": 633953,
+      "sha256": "2136f5a1cef845d4"
     },
     {
       "id": "heb",
@@ -46,11 +46,11 @@
       "id": "es",
       "lang": "es",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+gac5859ab",
+      "contentVersion": "1.0.0+gd65626a3",
       "lessons": 35,
       "file": "courses/es.json",
-      "bytes": 653574,
-      "sha256": "f29d36372742b8b5"
+      "bytes": 653571,
+      "sha256": "bae63a69b5dcc8e5"
     },
     {
       "id": "fr",
@@ -66,21 +66,21 @@
       "id": "de",
       "lang": "de",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g80b4a350",
+      "contentVersion": "1.0.0+g6fc3eb5f",
       "lessons": 38,
       "file": "courses/de.json",
-      "bytes": 1088118,
-      "sha256": "a57975133850eb63"
+      "bytes": 1088107,
+      "sha256": "9e4682d1559d86ad"
     },
     {
       "id": "it",
       "lang": "it",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g865de26b",
+      "contentVersion": "1.0.0+gef03cb68",
       "lessons": 31,
       "file": "courses/it.json",
-      "bytes": 716878,
-      "sha256": "0c4c26371f8ddb5b"
+      "bytes": 716880,
+      "sha256": "67f762f3a928fb23"
     },
     {
       "id": "pt",
@@ -106,31 +106,31 @@
       "id": "ru",
       "lang": "ru",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g4be68a68",
+      "contentVersion": "1.0.0+g2f97dab6",
       "lessons": 31,
       "file": "courses/ru.json",
-      "bytes": 899441,
-      "sha256": "1ba506f751655261"
+      "bytes": 899432,
+      "sha256": "f83ce1c3254fbff6"
     },
     {
       "id": "ar",
       "lang": "ar",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+gcfa5e7f1",
+      "contentVersion": "1.0.0+gd910f26c",
       "lessons": 31,
       "file": "courses/ar.json",
-      "bytes": 798938,
-      "sha256": "091b213ca4aff01c"
+      "bytes": 798917,
+      "sha256": "6b18c06267e00e69"
     },
     {
       "id": "en",
       "lang": "en",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+ge2cef3ea",
+      "contentVersion": "1.0.0+gf95ec8c7",
       "lessons": 31,
       "file": "courses/en.json",
-      "bytes": 706491,
-      "sha256": "f684198ee11785e2"
+      "bytes": 706499,
+      "sha256": "4692146c4046b6fd"
     },
     {
       "id": "zh",

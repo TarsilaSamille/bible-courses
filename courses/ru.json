@@ -8251,7 +8251,7 @@
         "es": "Даня y Маша en lugar de él y ella, y el relativo que concuerda con lo que sustituye"
       },
       "body": {
-        "pt": "\n## O pronome de terceira pessoa raramente aparece\n\nEm português a frase \" ele foi ao cidade\" obriga a repetir o pronome quando o sujeito volta. Em russo não há essa obrigação, e a regra prática é: **pronome de terceira pessoa só aparece quando é preciso**.\n\nQuando o sujeito já foi mencionado, o verbo basta. Даня пришёл. Он был устал. traz o pronome porque se refere a uma frase inteira. Mas Даня пришёл и ушёл não traz, porque o verbo já diz de quem se trata. Quem traduz do português costuma colocar um ele onde o russo não põe, e a frase fica mais longa e mais emphática do que era.\n\nO pronome de terceira pessoa também é o único que se declina com n inicial depois de uma preposição. у него, с ним, о нём; e o feminine é у неё, с ней, о ней. Sem preposição, é его e её, e essas duas formas são ao mesmo tempo genitivo e acusativo. Todo o resto do sistema é mais claro do que isso.\n\n## Даня e Маша ocupam o lugar de ele e dela\n\nA segunda regra é a que mais aparece na fala: em vez do pronome, usa-se o nome. Маша пришла no lugar de Она пришла. E como o nome também declina, a frase inteira funciona: Я вижу Даню, Я говорю с Машей, Я думаю о Дане.\n\nIsso tem uma consequência para a leitura que ninguém espera: o nome funciona como pronome sem nenhuma marca. Uma frase com Иоанн pode ter Иоанн como sujeito ou como objeto, e o que decide é o verbo. Em вижу Иоанна o nome está em acusativo; em Иоанн видит está em nominativo. A mesma palavra, dois casos, e a diferença está no verbo, como sempre.\n\nOs demonstrativos seguem a mesma lógica e rarely são usados em prosa. Это é o mais comum, e тот aparece o tempo todo em narração antiga. Этот concorda com o substantivo: этот человек, эта книга, это слово, эти люди. E такой faz o mesmo, com sentido de qualidade: такой большой.\n\n## O relativo concorda com o que substitui, e o caso vem da oração\n\nO pronome relativo russo tem duas séries. Который substitui qualquer substantivo, e concorda em gênero e número: который человек, которая книга, которое слово, которые люди. Кто substitui pessoas e что substitui coisas, e não há o que flexionar.\n\nA parte que trava é o caso. **O relativo concorda com o substantivo em gênero e número, mas o caso dele vem da função que ele cumpre dentro da sua própria oração, não da posição do substantivo que ele substitui.**\n\nEm Который берёт на Себя грех мира, o substantivo substituído é o Cordeiro, masculino singular. O relativo está no masculino singular, sim, e o caso é nominativo, porque берёт é o verbo e Который é o sujeito dele. Se o relativo fosse o objeto de берёт, seria Которого, porque masculino animado em acusativo é genitivo.\n\nO mesmo vale com quem e o quê: которые приняли Его traz которые no nominativo plural, porque приняли é o verbo e os que aceitaram são o sujeito. Se fossem o objeto, seria которых, e a forma seria visivelmente diferente.\n\n## O gancho: três pronomes, três casos, uma oração\n\n**А тем, которые приняли Его, дал власть стать чадами Божиими.** Uma oração com três pronomes e três casos, e nenhum deles repetido.\n\nТем é dativo plural, porque é a quem se dá o poder: дал власть pede dativo. Которые é nominativo plural, porque é o sujeito de приняли, e um masculino animado em acusativo teria sido которых. Его é genitivo singular, porque é o objeto de приняли, e a forma é a mesma do genitivo de animate e da possessive.\n\nOs três estão no mesmo caso gramatical do que o pronome do sujeito e o pronome do objeto numa frase portuguesa, e nenhum deles tem marca visível. Um leitor que não conhece o relativo vai ler которые como objeto de приняли, porque está mais perto, e chega ao sentido invertido sem perceber o quão longe estava da gramática.\n",
+        "pt": "\n## O pronome de terceira pessoa raramente aparece\n\nEm português a frase \"ele foi à cidade\" obriga a repetir o pronome quando o sujeito volta. Em russo não há essa obrigação, e a regra prática é: **pronome de terceira pessoa só aparece quando é preciso**.\n\nQuando o sujeito já foi mencionado, o verbo basta. Даня пришёл. Он был устал. traz o pronome porque se refere a uma frase inteira. Mas Даня пришёл и ушёл não traz, porque o verbo já diz de quem se trata. Quem traduz do português costuma colocar um ele onde o russo não põe, e a frase fica mais longa e mais emphática do que era.\n\nO pronome de terceira pessoa também é o único que se declina com n inicial depois de uma preposição. у него, с ним, о нём; e o feminino é у неё, с ней, о ней. Sem preposição, é его e её, e essas duas formas são ao mesmo tempo genitivo e acusativo. Todo o resto do sistema é mais claro do que isso.\n\n## Даня e Маша ocupam o lugar de ele e dela\n\nA segunda regra é a que mais aparece na fala: em vez do pronome, usa-se o nome. Маша пришла no lugar de Она пришла. E como o nome também declina, a frase inteira funciona: Я вижу Даню, Я говорю с Машей, Я думаю о Дане.\n\nIsso tem uma consequência para a leitura que ninguém espera: o nome funciona como pronome sem nenhuma marca. Uma frase com Иоанн pode ter Иоанн como sujeito ou como objeto, e o que decide é o verbo. Em вижу Иоанна o nome está em acusativo; em Иоанн видит está em nominativo. A mesma palavra, dois casos, e a diferença está no verbo, como sempre.\n\nOs demonstrativos seguem a mesma lógica e raramente são usados em prosa. Это é o mais comum, e тот aparece o tempo todo em narração antiga. Этот concorda com o substantivo: этот человек, эта книга, это слово, эти люди. E такой faz o mesmo, com sentido de qualidade: такой большой.\n\n## O relativo concorda com o que substitui, e o caso vem da oração\n\nO pronome relativo russo tem duas séries. Который substitui qualquer substantivo, e concorda em gênero e número: который человек, которая книга, которое слово, которые люди. Кто substitui pessoas e что substitui coisas, e não há o que flexionar.\n\nA parte que trava é o caso. **O relativo concorda com o substantivo em gênero e número, mas o caso dele vem da função que ele cumpre dentro da sua própria oração, não da posição do substantivo que ele substitui.**\n\nEm Который берёт на Себя грех мира, o substantivo substituído é o Cordeiro, masculino singular. O relativo está no masculino singular, sim, e o caso é nominativo, porque берёт é o verbo e Который é o sujeito dele. Se o relativo fosse o objeto de берёт, seria Которого, porque masculino animado em acusativo é genitivo.\n\nO mesmo vale com quem e o quê: которые приняли Его traz которые no nominativo plural, porque приняли é o verbo e os que aceitaram são o sujeito. Se fossem o objeto, seria которых, e a forma seria visivelmente diferente.\n\n## O gancho: três pronomes, três casos, uma oração\n\n**А тем, которые приняли Его, дал власть стать чадами Божиими.** Uma oração com três pronomes e três casos, e nenhum deles repetido.\n\nТем é dativo plural, porque é a quem se dá o poder: дал власть pede dativo. Которые é nominativo plural, porque é o sujeito de приняли, e um masculino animado em acusativo teria sido которых. Его é genitivo singular, porque é o objeto de приняли, e a forma é a mesma do genitivo de animate e da possessive.\n\nOs três estão no mesmo caso gramatical do que o pronome do sujeito e o pronome do objeto numa frase portuguesa, e nenhum deles tem marca visível. Um leitor que não conhece o relativo vai ler которые como objeto de приняли, porque está mais perto, e chega ao sentido invertido sem perceber o quão longe estava da gramática.\n",
         "en": "\n## The third person pronoun rarely appears\n\nIn English the sentence \"he went to town\" forces the pronoun back in when the subject returns. In Russian there is no such obligation, and the practical rule is: **a third person pronoun appears only when it is needed**.\n\nWhen the subject has already been mentioned, the verb is enough. Даня пришёл. Он был устал. carries the pronoun because it refers back to a whole clause. But Даня пришёл и ушёл does not, because the verb already says who is meant. A translator coming from Portuguese habitually puts a he where Russian has none, and the sentence ends up longer and more emphatic than it was.\n\nThe third person is also the only pronoun that takes an initial n after a preposition: у него, с ним, о нём, and the feminine у неё, с ней, о ней. Without a preposition it is его and её, and those two shapes are both genitive and accusative at once. Nothing else in the system is less clear than this.\n\n## Даня and Маша take the place of he and she\n\nThe second rule is the one that shows up most in speech: instead of the pronoun, use the name. Маша пришла instead of Она пришла. And since the name declines too, the whole sentence works: Я вижу Даню, Я говорю с Машей, Я думаю о Дане.\n\nThat has a consequence for reading that nobody expects: the name works as a pronoun with no marking at all. A sentence with Иоанн can have Иоанн as subject or as object, and what decides is the verb. In вижу Иоанна the name is accusative; in Иоанн видит it is nominative. The same word, two cases, and the difference is in the verb, as always.\n\nThe demonstratives follow the same logic and are rarely used in prose. Это is the commonest, and тот appears all the time in older narrative. Этот agrees with the noun: этот человек, эта книга, это слово, эти люди. And такой does the same, with a quality sense: such a big one.\n\n## The relative agrees with what it replaces, and the case comes from the clause\n\nThe Russian relative pronoun has two series. Который replaces any noun and agrees in gender and number: который человек, которая книга, которое слово, которые люди. Кто replaces people and что replaces things, and there is nothing to inflect.\n\nThe part that jams is the case. **The relative agrees with the noun in gender and number, but its case comes from the function it fills inside its own clause, not from the position of the noun it replaces.**\n\nIn Который берёт на Себя грех мира, the noun replaced is the Lamb, masculine singular. The relative is masculine singular, yes, and the case is nominative, because берёт is the verb and Который is its subject. If the relative were the object of берёт it would be Которого, because a masculine animate accusative is the genitive.\n\nThe same holds with who and what: которые приняли Его has которые in the nominative plural, because приняли is the verb and those who received are the subject. If they were the object it would be которых, and the shape would be visibly different.\n\n## The hook: three pronouns, three cases, one clause\n\n**А тем, которые приняли Его, дал власть стать чадами Божиими.** One clause with three pronouns and three cases, and none of them repeated.\n\nТем is dative plural, because it is to whom the authority is given: дал власть asks for a dative. Которые is nominative plural, because it is the subject of приняли, and a masculine animate in the accusative would have been которых. Его is genitive singular, because it is the object of приняли, and the shape is the same as that of an animate genitive and of a possessive.\n\nAll three are in the same grammatical cases as the subject pronoun and the object pronoun of an English sentence, and none of them is visibly marked. A reader who does not know the relative will read которые as the object of приняли, because it stands closer, and will arrive at the reverse meaning without noticing how far off the grammar he was.\n",
         "es": "\n## El pronombre de tercera persona casi nunca aparece\n\nEn português la frase \"él fue a la ciudad\" obliga a repetir el pronombre cuando el sujeto vuelve. En ruso no hay esa obligación, y la regla práctica es: **el pronombre de tercera persona aparece sólo cuando hace falta**.\n\nCuando el sujeto ya ha sido mencionado, el verbo basta. Даня пришёл. Он был устал. lleva el pronombre porque se refiere a una oración entera. Pero Даня пришёл и ушёл no lo lleva, porque el verbo ya dice de quién se trata. Quien traduce del português suele poner un él donde el ruso no lo pone, y la frase queda más larga y más enfática de lo que era.\n\nEl pronombre de tercera es además el único que.initial n después de una preposición: у него, с ним, о нём, y el femenino у неё, с ней, о ней. Sin preposición es его y её, y esas dos formas son a la vez genitivo y acusativo. Nada más en el sistema es menos claro que esto.\n\n## Даня y Маша ocupan el lugar de él y ella\n\nLa segunda regla es la que más aparece en el habla: en lugar del pronombre, se usa el nombre. Маша пришла en lugar de Она пришла. Y como el nombre también se declina, la frase entera funciona: Я вижу Даню, Я говорю с Машей, Я думаю о Дане.\n\nEso tiene una consecuencia para la lectura que nadie espera: el nombre funciona como pronombre sin ninguna marca. Una frase con Иоанн puede tener Иоанн como sujeto o como objeto, y lo que decide es el verbo. En вижу Иоанна el nombre está en acusativo; en Иоанн видит está en nominativo. La misma palabra, dos casos, y la diferencia está en el verbo, como siempre.\n\nLos demostrativos siguen la misma lógica y rara vez se usan en prosa. Это es el más común, y тот aparece todo el tiempo en la narración antigua. Этот concuerda con el sustantivo: этот человек, эта книга, это слово, эти люди. Y такой hace lo mismo, con sentido de calidad: tal grande.\n\n## El relativo concuerda con lo que sustituye, y el caso viene de la oración\n\nEl pronombre relativo ruso tiene dos series. Который sustituye cualquier sustantivo y concuerda en género y número: который человек, которая книга, которое слово, которые люди. Кто sustituye personas y что sustituye cosas, y no hay nada que flexionar.\n\nLa parte que traba es el caso. **El relativo concuerda con el sustantivo en género y número, pero su caso viene de la función que cumple dentro de su propia oración, no de la posición del sustantivo que sustituye.**\n\nEn Который берёт на Себя грех мира, el sustantivo sustituido es el Cordero, masculino singular. El relativo está en masculino singular, sí, y el caso es nominativo, porque берёт es el verbo y Который es su sujeto. Si el relativo fuera el objeto de берёт sería Которого, porque un masculino animado en acusativo es genitivo.\n\nLo mismo vale con quién y qué: которые приняли Его trae которые en nominativo plural, porque приняли es el verbo y los que recibieron son el sujeto. Si fueran el objeto sería которых, y la forma se vería distinta.\n\n## El gancho: tres pronombres, tres casos, una cláusula\n\n**А тем, которые приняли Его, дал власть стать чадами Божиими.** Una cláusula con tres pronombres y tres casos, y ninguno repetido.\n\nТем es dativo plural, porque es a quien se da la autoridad: дал власть pide dativo. Которые es nominativo plural, porque es el sujeto de приняли, y un masculino animado en acusativo habría sido которых. Его es genitivo singular, porque es el objeto de приняли, y la forma es la misma que la del genitivo de un animado y la de un posesivo.\n\nLos tres están en los mismos casos gramaticales que el pronombre del sujeto y el del objeto en una frase portuguesa, y ninguno tiene marca visible. Quien no conozca el relativo va a leer которые como objeto de приняли, porque está más cerca, y llegará al sentido invertido sin notar cuán lejos estaba de la gramática.\n"
       },
@@ -8504,7 +8504,7 @@
             "es": "Который o кто"
           },
           "text": {
-            "pt": "Который substitui qualquer substantivo e flexiona em gênero e número. Кто e что não flexionam: quem é sempre quem e o que é sempre o que. Em português o relativo é único, e é essa variety que faz um texto russo parecer mais repetition do que é. Traduzir com um só relativo é correto; traduzir com o relativo no caso errado é erro de leitura.",
+            "pt": "Который substitui qualquer substantivo e flexiona em gênero e número. Кто e что não flexionam: quem é sempre quem e o que é sempre o que. Em português o relativo é único, e é essa variedade que faz um texto russo parecer mais repetição do que é. Traduzir com um só relativo é correto; traduzir com o relativo no caso errado é erro de leitura.",
             "en": "Который replaces any noun and inflects for gender and number. Кто and что do not inflect: who is always who and what is always what. English has one relative, and that variety is what makes a Russian text look more repetitive than it is. Translating with a single relative is correct; putting the relative in the wrong case is a reading error.",
             "es": "Который sustituye cualquier sustantivo y flexiona en género y número. Кто y что no flexionan: quién es siempre quién y qué es siempre qué. El portugués tiene un solo relativo, y esa variedad es lo que hace que un texto ruso parezca más repetido de lo que es. Traducir con un solo relativo es correcto; poner el relativo en el caso equivocado es error de lectura."
           }
@@ -8516,7 +8516,7 @@
             "es": "La forma que no dice el caso"
           },
           "text": {
-            "pt": "Его é genitivo e acusativo ao mesmo tempo, e isso acontece porque o masculino animado tem as duas formas iguais. Em или vier pessoas, или Accepted Его, a segunda leitura, com Ele como sujeito, é impossible: o sujeito seria Ele e não o genitive. É a regra da lição anterior operando dentro de um pronome.",
+            "pt": "Его é genitivo e acusativo ao mesmo tempo, e isso acontece porque o masculino animado tem as duas formas iguais. Em или vier pessoas, или aceito Его, a segunda leitura, com Ele como sujeito, é impossível: o sujeito seria Ele e não o genitivo. É a regra da lição anterior operando dentro de um pronome.",
             "en": "Его is genitive and accusative at once, and that happens because the masculine animate has the two shapes alike. In или Accepted Его a second reading, with him as the subject, is impossible: the subject would be Он and not the genitive. It is the rule of the previous lesson operating inside a pronoun.",
             "es": "Его es genitivo y acusativo a la vez, y eso ocurre porque el masculino animado tiene las dos formas iguales. En una segunda lectura de la cláusula, con él como sujeto, es imposible: el sujeto sería Он y no el genitivo. Es la regla de la lección anterior operando dentro de un pronombre."
           }
@@ -8526,7 +8526,7 @@
         {
           "text": "Даня пришёл",
           "gloss": {
-            "pt": "Danya came; the name does the work of a pronoun",
+            "pt": "Danya chegou; o nome faz o trabalho de um pronome",
             "en": "Danya came; the name does the work of a pronoun",
             "es": "Danya llegó; el nombre hace el trabajo de un pronombre"
           }
@@ -8534,7 +8534,7 @@
         {
           "text": "Маша пришла",
           "gloss": {
-            "pt": "Masha came; same, feminine",
+            "pt": "Masha chegou; mesmo, feminino",
             "en": "Masha came; the same, feminine",
             "es": "Masha llegó; lo mismo, femenino"
           }
@@ -8542,7 +8542,7 @@
         {
           "text": "Я вижу Даню",
           "gloss": {
-            "pt": "I see Danya; the name is accusative",
+            "pt": "Eu vejo Danya; o nome está em acusativo",
             "en": "I see Danya; the name is accusative",
             "es": "veo a Danya; el nombre está en acusativo"
           }
@@ -8550,7 +8550,7 @@
         {
           "text": "Я говорю с Машей",
           "gloss": {
-            "pt": "I am speaking with Masha; instrumental",
+            "pt": "Eu falo com Masha; instrumental",
             "en": "I am speaking with Masha; instrumental",
             "es": "hablo con Masha; instrumental"
           }
@@ -8558,7 +8558,7 @@
         {
           "text": "у него",
           "gloss": {
-            "pt": "with him; n initial after the preposition",
+            "pt": "com ele; n inicial depois da preposição",
             "en": "with him; initial n after the preposition",
             "es": "junto a él; n inicial después de la preposición"
           }
@@ -8566,7 +8566,7 @@
         {
           "text": "о ней",
           "gloss": {
-            "pt": "about her; n initial after the preposition",
+            "pt": "sobre ela; n inicial depois da preposição",
             "en": "about her; initial n after the preposition",
             "es": "sobre ella; n inicial después de la preposición"
           }
@@ -8574,7 +8574,7 @@
         {
           "text": "Его книга",
           "gloss": {
-            "pt": "his book; the same shape as the genitive and the accusative",
+            "pt": "o livro dele; a mesma forma do genitivo e do acusativo",
             "en": "his book; the same shape as the genitive and the accusative",
             "es": "su libro; la misma forma que el genitivo y el acusativo"
           }
@@ -8582,7 +8582,7 @@
         {
           "text": "Этот человек",
           "gloss": {
-            "pt": "this man; the demonstrative agrees",
+            "pt": "este homem; o demonstrativo concorda",
             "en": "this man; the demonstrative agrees",
             "es": "este hombre; el demostrativo concuerda"
           }
@@ -8590,7 +8590,7 @@
         {
           "text": "Который берёт на Себя грех мира",
           "gloss": {
-            "pt": "who takes away the sin of the world; the relative is nominative, so it is the subject",
+            "pt": "que tira o pecado do mundo; o relativo está no nominativo, então é o sujeito",
             "en": "who takes away the sin of the world; the relative is nominative, so it is the subject",
             "es": "que quita el pecado del mundo; el relativo es nominativo, así que es el sujeto"
           }
@@ -8598,7 +8598,7 @@
         {
           "text": "тем, которые приняли Его",
           "gloss": {
-            "pt": "to those who received him; dative, nominative plural and genitive in one clause",
+            "pt": "aos que o receberam; dativo, nominativo plural e genitivo numa oração",
             "en": "to those who received him; dative, nominative plural and genitive in one clause",
             "es": "a los que le recibieron; dativo, nominativo plural y genitivo en una cláusula"
           }
@@ -18867,5 +18867,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g4be68a68"
+  "contentVersion": "1.0.0+g2f97dab6"
 }

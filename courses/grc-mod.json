@@ -1503,7 +1503,7 @@
             "en": "Translate: έχουμε χρόνο",
             "es": "Traduce: έχουμε χρόνο"
           },
-          "answer": "tenemos tiempo",
+          "answer": "temos tempo",
           "hint": {
             "pt": "έχουμε = tenemos",
             "en": "έχουμε = we have",
@@ -13191,5 +13191,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gd46860fc"
+  "contentVersion": "1.0.0+ge3a11859"
 }
