@@ -3162,75 +3162,75 @@
       ],
       "examples": [
         {
-          "text": "tàichū yǒu dào",
+          "text": "起初有道",
           "gloss": {
-            "pt": "Jo 1:1 — {yǒu} é existência: no princípio havia o Verbo.",
-            "en": "John 1:1 — {yǒu} is existence: in the beginning there was the Word.",
-            "es": "Jn 1:1 — {yǒu} es existencia: en el principio había el Verbo."
+            "pt": "Jo 1:1 — {有} é existência: no início havia o Verbo.",
+            "en": "Jo 1:1 — {有} é existência: no início havia o Verbo.",
+            "es": "Jo 1:1 — {有} é existência: no início havia o Verbo."
           }
         },
         {
-          "text": "shén ài shìrén",
+          "text": "神愛世人",
           "gloss": {
-            "pt": "Jo 3:16 — {ài} sem marca de tempo: «Deus amou o mundo».",
-            "en": "John 3:16 — {ài} with no tense marker: \"God loved the world\".",
-            "es": "Jn 3:16 — {ài} sin marca de tiempo: «Dios amó el mundo»."
+            "pt": "Jo 3:16 — {愛} sem marca de tempo: «Deus amou o mundo».",
+            "en": "Jo 3:16 — {愛} sem marca de tempo: «Deus amou o mundo».",
+            "es": "Jo 3:16 — {愛} sem marca de tempo: «Deus amou o mundo»."
           }
         },
         {
-          "text": "zhù le ba! jìng le ba!",
+          "text": "住口吧! 靜了吧!",
           "gloss": {
-            "pt": "Mc 4:39 — {le} na ordem: que esteja terminado.",
-            "en": "Mark 4:39 — {le} in the command: let it be finished.",
-            "es": "Mc 4:39 — {le} en la orden: que esté terminado."
+            "pt": "Mc 4:39 — {了} na ordem: que esteja terminado.",
+            "en": "Mc 4:39 — {了} na ordem: que esteja terminado.",
+            "es": "Mc 4:39 — {了} na ordem: que esteja terminado."
           }
         },
         {
-          "text": "wǒ chī le",
+          "text": "我吃了",
           "gloss": {
-            "pt": "{le} fecha a situação: comi.",
-            "en": "{le} closes the situation: I ate.",
-            "es": "{le} cierra la situación: comí."
+            "pt": "{了} fecha a situação: comi.",
+            "en": "{了} fecha a situação: comi.",
+            "es": "{了} fecha a situação: comi."
           }
         },
         {
-          "text": "wǒ chī guo",
+          "text": "我吃過",
           "gloss": {
-            "pt": "{guo} marca a experiência: já comi alguma vez.",
-            "en": "{guo} marks experience: I have eaten before.",
-            "es": "{guo} marca la experiencia: ya comí alguna vez."
+            "pt": "{過} marca a experiência: já comi alguma vez.",
+            "en": "{過} marca a experiência: já comi alguma vez.",
+            "es": "{過} marca a experiência: já comi alguma vez."
           }
         },
         {
-          "text": "tā kàn zhe shū",
+          "text": "他看著這本書",
           "gloss": {
-            "pt": "{zhe} marca o que continua: ele está lendo.",
-            "en": "{zhe} marks what continues: he is reading.",
-            "es": "{zhe} marca lo que continúa: él está leyendo."
+            "pt": "{著} marca o que continua: ele está lendo.",
+            "en": "{著} marca o que continua: ele está lendo.",
+            "es": "{著} marca o que continua: ele está lendo."
           }
         },
         {
-          "text": "wǒ shì xuésheng",
+          "text": "我是學生",
           "gloss": {
-            "pt": "{shì} liga dois nomes.",
-            "en": "{shì} links two nouns.",
-            "es": "{shì} une dos nombres."
+            "pt": "{是} liga dois nomes.",
+            "en": "{是} liga dois nomes.",
+            "es": "{是} liga dois nomes."
           }
         },
         {
-          "text": "yǒu yī běn shū",
+          "text": "有一本書",
           "gloss": {
-            "pt": "{yǒu} diz existência: há um livro.",
-            "en": "{yǒu} states existence: there is a book.",
-            "es": "{yǒu} dice existencia: hay un libro."
+            "pt": "{有} diz existência: há um livro.",
+            "en": "{有} diz existência: há um livro.",
+            "es": "{有} diz existência: há um livro."
           }
         },
         {
-          "text": "méi yǒu",
+          "text": "沒有",
           "gloss": {
-            "pt": "{yǒu} nega com {méi}, não com {bù}.",
-            "en": "{yǒu} negates with {méi}, not with {bù}.",
-            "es": "{yǒu} niega con {méi}, no con {bù}."
+            "pt": "{有} nega com {沒有}, não com {不}.",
+            "en": "{有} nega com {沒有}, não com {不}.",
+            "es": "{有} nega com {沒有}, não com {不}."
           }
         }
       ],
@@ -16906,5 +16906,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g7faa075f"
+  "contentVersion": "1.0.0+g58d8fe32"
 }
