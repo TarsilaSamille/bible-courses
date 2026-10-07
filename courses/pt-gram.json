@@ -3947,7 +3947,7 @@
             "es": "La pregunta que separa sujeto de objeto"
           },
           "text": {
-            "pt": "Em {Jesus amou os seus amigos}, {Jesus} responde a {quem amou?} e {os seus amigos} responde a {o que amou?}. Em {Jesus foi期待的}, não há o que, e o sujeito vai para a pergunta do agente. Os dois casos usam a mesma pessoa do verbo; o que muda é a pergunta que faz sentido.",
+            "pt": "Em {Jesus amou os seus amigos}, {Jesus} responde a {quem amou?} e {os seus amigos} responde a {o que amou?}. Em {Jesus foi amado}, não há o que, e o sujeito vai para a pergunta do agente. Os dois casos usam a mesma pessoa do verbo; o que muda é a pergunta que faz sentido.",
             "en": "In {Jesus amou os seus amigos}, {Jesus} answers {whom did he love?} and {os seus amigos} answers {what did he love?}. When there is no what, the subject goes to the question of the agent. Both cases use the same person of the verb; what changes is which question makes sense.",
             "es": "En {Jesus amou os seus amigos}, {Jesus} responde a {¿a quién amó?} y {os seus amigos} responde a {¿qué amó?}. Cuando no hay qué, el sujeto pasa a la pregunta del agente. Los dos casos usan la misma persona del verbo; lo que cambia es qué pregunta tiene sentido."
           }
@@ -3987,7 +3987,7 @@
           }
         },
         {
-          "text": "Vinde a mim, todos os que和歌is.",
+          "text": "Vinde a mim, todos os que credem.",
           "gloss": {
             "pt": "O sujeito {todos os que suffer} vem expresso, e o verbo {Vinde} é o da principal.",
             "en": "The subject {todos os que suffer} is expressed, and the verb {Vinde} is that of the main clause.",
@@ -4013,7 +4013,7 @@
         {
           "text": "O Verbo ficou carne.",
           "gloss": {
-            "pt": "Verbo de ligação {ficou} com predicativo {carne}表示 do que o Verbo passou a ser.",
+            "pt": "Verbo de ligação {ficou} com predicativo {carne}, que é o que o Verbo passou a ser.",
             "en": "Copula {ficou} with predicative {carne} naming what the Word became.",
             "es": "Verbo de enlace {ficou} con predicativo {carne} que dice en qué se convirtió el Verbo."
           }
@@ -7439,9 +7439,9 @@
                 "es": "{quem}, {que}"
               },
               {
-                "pt": "{Quem me ouvir,是我的}",
-                "en": "{Quem me ouvir,是我的}",
-                "es": "{Quem me ouvir,是我的}"
+                "pt": "{Quem me ouvir, seu é}",
+                "en": "{Quem me ouvir, seu é}",
+                "es": "{Quem me ouvir, seu é}"
               }
             ]
           ]
@@ -8014,7 +8014,7 @@
             "es": "La oración que el griego reduce más"
           },
           "text": {
-            "pt": "O grego antigo tem orações participiais hoje pouco usadas no português: {προσευχόμενος} e {ἐλθών} valem por {estando a orar} e {tendo ido}. Quem traduz do grego encontra essas formas a toda hora, e a escolha entre manter o participial ou当时的 expandi-lo em oração é a decisão mais difícil da tradução.",
+            "pt": "O grego antigo tem orações participiais hoje pouco usadas no português: {προσευχόμενος} e {ἐλθών} valem por {estando a orar} e {tendo ido}. Quem traduz do grego encontra essas formas a toda hora, e a escolha entre manter o participial ou expandi-lo em oração é a decisão mais difícil da tradução.",
             "en": "Ancient Greek has participial clauses now little used in Portuguese: {προσευχόμενος} and {ἐλθών} stand for {estando a orar} and {tendo ido}. Translating from Greek meets these forms constantly, and choosing between keeping the participle or expanding it into a clause is the hardest decision in translation.",
             "es": "El griego antiguo tiene oraciones participiales hoy poco usadas en portugués: {προσευχόμενος} y {ἐλθών} valen por {estando orando} y {habiendo ido}. Quien traduce del griego encuentra esas formas a cada paso, y la elección entre mantener el participio o expandarlo en oración es la decisión más difícil de la traducción."
           }
@@ -10614,7 +10614,7 @@
         {
           "text": "o mais alto",
           "gloss": {
-            "pt": "Superlativo analítico: {mais} mais o adjetivo, e aqui não há terminação特别.",
+            "pt": "Superlativo analítico: {mais} mais o adjetivo, e aqui não há terminação.",
             "en": "Analytic superlative: {mais} plus the adjective, and here no special ending.",
             "es": "Superlativo analítico: {más} más el adjetivo, y aquí no hay terminación especial."
           }
@@ -16835,7 +16835,7 @@
         "es": "Relaciones entre oraciones independientes"
       },
       "body": {
-        "pt": "**Visão geral.** A coordenação {sindética} usa conectivo: em {Vinde e segui-me}, o {e} é conectivo, e as duas orações ficam marcadas pela sua presença.\n\n**Regra 1.** A coordenação {assindética} dispensa conectivo: em {Saiu, tomou o manto, saiu}, as vírgulas separam as orações, e nenhuma palabra as liga.\n\n**Regra 2.** A relação semântica da coordenação é uma de cinco: {adição}, {oposição}, {alternativa}, {conclusão} ou {explicação}, e é ela que escolhe o conectivo.\n\n**Regra 3.** A {alternativa} exige {ou} e nega o que se统筹 nega em {não ... ou}; a {explicativa} usa {que} e {pois}, que significa {por isso} e não {porque}.\n\n**Regra 4.** O {polissíndeto} é a repetição do conectivo: em {O amor é paciente, o amor é bondoso}, o {é} se repete e a vírgula aparece a cada vez.\n\n**Aplicação.** Em {Não mates, e não cometas adultério}, as duas orações são coordenadas por {e} com valor **aditivo negativo**. Em {O amor é paciente, o amor é bondoso} (1Cor 13, 4), são quatro orações coordenadas, e o verbo {é} se repete por **polissíndeto**. E a frase grega ({Ἡ ἀγάπη μακροθυμεῖ}) traz verbo apenas na primeira, e as demais o omitem: é o que o português compensa repetindo.\n\n**Verificação.** Para duas orações coordenadas, pergunte: a segunda **soma**, **escolhe**, **opõe**, **conclui** ou **explica** a primeira? A resposta dá a relação e a conjunção. Depois: há **vírgula** antes da conjunção? E há **sujeito** nas duas orações, ou o segundo é elícito? Três perguntas fecham a análise.",
+        "pt": "**Visão geral.** A coordenação {sindética} usa conectivo: em {Vinde e segui-me}, o {e} é conectivo, e as duas orações ficam marcadas pela sua presença.\n\n**Regra 1.** A coordenação {assindética} dispensa conectivo: em {Saiu, tomou o manto, saiu}, as vírgulas separam as orações, e nenhuma palabra as liga.\n\n**Regra 2.** A relação semântica da coordenação é uma de cinco: {adição}, {oposição}, {alternativa}, {conclusão} ou {explicação}, e é ela que escolhe o conectivo.\n\n**Regra 3.** A {alternativa} exige {ou} e nega o que se nega em {não ... ou}; a {explicativa} usa {que} e {pois}, que significa {por isso} e não {porque}.\n\n**Regra 4.** O {polissíndeto} é a repetição do conectivo: em {O amor é paciente, o amor é bondoso}, o {é} se repete e a vírgula aparece a cada vez.\n\n**Aplicação.** Em {Não mates, e não cometas adultério}, as duas orações são coordenadas por {e} com valor **aditivo negativo**. Em {O amor é paciente, o amor é bondoso} (1Cor 13, 4), são quatro orações coordenadas, e o verbo {é} se repete por **polissíndeto**. E a frase grega ({Ἡ ἀγάπη μακροθυμεῖ}) traz verbo apenas na primeira, e as demais o omitem: é o que o português compensa repetindo.\n\n**Verificação.** Para duas orações coordenadas, pergunte: a segunda **soma**, **escolhe**, **opõe**, **conclui** ou **explica** a primeira? A resposta dá a relação e a conjunção. Depois: há **vírgula** antes da conjunção? E há **sujeito** nas duas orações, ou o segundo é elícito? Três perguntas fecham a análise.",
         "en": "**Overview.** {Syndetic} coordination uses a connector: in {Vinde e segui-me}, the {e} is the connector, and both clauses are marked by its presence.\n\n**Rule 1.** {Asyndetic} coordination does without a connector: in {Saiu, tomou o manto, saiu}, the commas separate the clauses, and no word joins them.\n\n**Rule 2.** The semantic relation in coordination is one of five: {addition}, {opposition}, {alternative}, {conclusion} or {explanation}, and it is that relation which picks the connector.\n\n**Rule 3.** The {alternative} requires {ou} and denies what {não ... ou} denies; the {explanatory} uses {que} and {pois}, where {pois} means {therefore} and not {because}.\n\n**Rule 4.** {Polysyndeton} is the repetition of the connector: in {O amor é paciente, o amor é bondoso}, the {é} repeats and the comma appears each time.\n\n**Application.** In {Não mates, e não cometas adultério}, the two clauses are coordinated by {e} with a **negative additive** value. In {O amor é paciente, o amor é bondoso} (1 Cor 13:4), there are four coordinated clauses, and the verb {é} repeats by **polysyndeton**. And the Greek sentence ({Ἡ ἀγάπη μακροθυμεῖ}) carries a verb only in the first, and the rest omit it, which is what Portuguese makes up for by repeating.\n\n**Check.** For two coordinated clauses, ask: does the second **add**, **choose**, **oppose**, **conclude** or **explain** the first? The answer gives the relation and the conjunction. Then: is there a **comma** before the conjunction? And is there a **subject** in both clauses, or is the second elided? Three questions close the analysis.",
         "es": "**Visión general.** La coordinación {sintética} usa conectivo: en {Venid y seguidme}, la {y} es conectivo, y las dos oraciones quedan marcadas por su presencia.\n\n**Regla 1.** La coordinación {asindética} prescinde de conectivo: en {Salió, tomó el manto, salió}, las comas separan las oraciones, y ninguna palabra las une.\n\n**Regla 2.** La relación semántica de la coordinación es una de cinco: {adición}, {oposición}, {alternativa}, {conclusión} o {explicación}, y es ella la que elige el conectivo.\n\n**Regla 3.** La {alternativa} exige {o} y niega lo que niega {no ... o}; la {explicativa} usa {que} y {pois}, donde {pois} significa {por eso} y no {porque}.\n\n**Regla 4.** El {polisíndeton} es la repetición del conectivo: en {El amor es paciente, el amor es bondadoso}, el {es} se repite y la coma aparece cada vez.\n\n**Aplicación.** En {No mates, y no cometas adulterio}, las dos oraciones están coordinadas por {y} con valor **aditivo negativo**. En {El amor es paciente, el amor es bondadoso} (1 Cor 13, 4), hay cuatro oraciones coordinadas, y el verbo {es} se repite por **polisíndeton**. Y la frase griega ({Ἡ ἀγάπη μακροθυμεῖ}) trae verbo solo en la primera, y las demás lo omiten: es lo que el portugués compensa repitiendo.\n\n**Verificación.** Para dos oraciones coordinadas, pregunta: ¿la segunda **suma**, **elige**, **se opone**, **concluye** o **explica** la primera? La respuesta da la relación y la conjunción. Luego: ¿hay **coma** antes de la conjunción? Y ¿hay **sujeto** en las dos oraciones, o el segundo es elíptico? Tres preguntas cierran el análisis."
       },
@@ -16949,7 +16949,7 @@
         {
           "n": "§4",
           "text": {
-            "pt": "A {alternativa} exige {ou} e nega o que se统筹 nega em {não ... ou}; a {explicativa} usa {que} e {pois}, que significa {por isso} e não {porque}.",
+            "pt": "A {alternativa} exige {ou} e nega o que se nega em {não ... ou}; a {explicativa} usa {que} e {pois}, que significa {por isso} e não {porque}.",
             "en": "The {alternative} requires {ou} and denies what {não ... ou} denies; the {explanatory} uses {que} and {pois}, where {pois} means {therefore} and not {because}.",
             "es": "La {alternativa} exige {o} y niega lo que niega {no ... o}; la {explicativa} usa {que} y {pois}, donde {pois} significa {por eso} y no {porque}."
           }
@@ -26435,5 +26435,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gb686bc1d"
+  "contentVersion": "1.0.0+ga8745c99"
 }
