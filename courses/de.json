@@ -9769,14 +9769,14 @@
       "notes": [
         {
           "label": {
-            "pt": "O Präteritum de {sein} e {haben}",
-            "en": "The preterite of {sein} and {haben}",
-            "es": "El Präteritum de {sein} y {haben}"
+            "pt": "O Präteritum que o Perfekt substituiu",
+            "en": "The Präteritum the Perfekt replaced",
+            "es": "El Pretérito que el Perfekt sustituyó"
           },
           "text": {
-            "pt": "{War} e {hatte} são os únicos passados que o alemão usa onde o Präsens do Perfekt não funciona. {Ich habe gewesen} e {ich hatte gehabt} são corretos e raríssimos; no texto comum é {ich war} e {ich hatte}.",
-            "en": "{War} and {hatte} are the only past forms German uses where the Perfekt present does not work. {Ich habe gewesen} and {ich hatte gehabt} are correct and rare; ordinary text has {ich war} and {ich hatte}.",
-            "es": "{War} y {hatte} son los únicos pasados que el alemán usa cuando el presente del Perfekt no funciona. {Ich habe gewesen} e {ich hatte gehabt} son correctos y rarísimos; en el texto común es {ich war} e {ich hatte}."
+            "pt": "{War} e {hatte} são os únicos passados que o alemão usa onde o presente do Perfekt não funciona. Nos modais é o contrário: o Perfekt ({hätte gekonnt}) é raro e o Präteritum ({konnte}, {wollte}, {musste}, {durfte}, {sollte}, {mochte}) é o passado normal. {Ich konnte gehen} é comum; {ich habe gekonnt gehen} quase não aparece fora do colloquial.",
+            "en": "{War} and {hatte} are the only past forms German uses where the Perfekt present does not work. With the modals it is the other way round: the Perfekt ({hätte gekonnt}) is rare and the Präteritum ({konnte}, {wollte}, {musste}, {durfte}, {sollte}, {mochte}) is the normal past. {Ich konnte gehen} is common; {ich habe gekonnt gehen} barely shows up outside colloquial speech.",
+            "es": "{War} y {hatte} son los únicos pasados que el alemán usa cuando el presente del Perfekt no funciona. Con los modales es al revés: el Perfekt ({hätte gekonnt}) es raro y el Pretérito ({konnte}, {wollte}, {musste}, {durfte}, {sollte}, {mochte}) es el pasado normal. {Ich konnte gehen} es común; {ich habe gekonnt gehen} apenas aparece fuera del uso coloquial."
           }
         },
         {
@@ -9786,9 +9786,9 @@
             "es": "El {ward} que Juan 3:16 ya no tiene"
           },
           "text": {
-            "pt": "A tradução de Lutero traz {ward} em vez de {wurde} na passagem do verbo {werden}: {ward Fleisch} é {wurde Fleisch}. A forma {ward} é a Präteritum antiga de {werden}, e desapareceu do alemão moderno, mas está na edição de 1545 e é o que o leitor encontra.",
-            "en": "Luther’s translation has {ward} instead of {wurde} for the preterite of {werden}: {ward Fleisch} is {wurde Fleisch}. {Ward} is the old preterite of {werden}, and it disappeared from modern German, but it is in the 1545 edition and that is what the reader meets.",
-            "es": "La traducción de Lutero trae {ward} en lugar de {wurde} en el pretérito de {werden}: {ward Fleisch} es {wurde Fleisch}. {Ward} es el Präteritum antiguo de {werden}, desapareció del alemán moderno, pero está en la edición de 1545 y es lo que el lector encuentra."
+            "pt": "A tradução de Lutero traz {ward} em vez de {wurde} na passagem do verbo {werden}: {ward Fleisch} é {wurde Fleisch}. A forma {ward} é o Präteritum antigo de {werden}, e desapareceu do alemão moderno, mas está na edição de 1545 e é o que o leitor encontra.",
+            "en": "Luther's translation has {ward} instead of {wurde} for the preterite of {werden}: {ward Fleisch} is {wurde Fleisch}. {Ward} is the old preterite of {werden}, and it disappeared from modern German, but it is in the 1545 edition and that is what the reader meets.",
+            "es": "La traducción de Lutero trae {ward} en lugar de {wurde} en el pretérito de {werden}: {ward Fleisch} es {wurde Fleisch}. {Ward} es el Pretérito antiguo de {werden}, desapareció del alemán moderno, pero está en la edición de 1545 y es lo que el lector encuentra."
           }
         }
       ],
@@ -10112,7 +10112,7 @@
               "kannst",
               "kann",
               "können",
-              "hat gekonnt / konnte"
+              "hat gekonnt"
             ],
             [
               "wollen",
@@ -10120,7 +10120,7 @@
               "willst",
               "will",
               "wollen",
-              "hat gewollt / wollte"
+              "hat gewollt"
             ],
             [
               "müssen",
@@ -10128,7 +10128,7 @@
               "musst",
               "muss",
               "müssen",
-              "hat gemusst / musste"
+              "hat gemusst"
             ],
             [
               "dürfen",
@@ -10136,7 +10136,7 @@
               "darfst",
               "darf",
               "dürfen",
-              "hat gedurft / durfte"
+              "hat gedurft"
             ],
             [
               "sollen",
@@ -10144,7 +10144,7 @@
               "sollst",
               "soll",
               "sollen",
-              "hat gesollt / sollte"
+              "hat gesollt"
             ],
             [
               "mögen",
@@ -10152,7 +10152,7 @@
               "magst",
               "mag",
               "mögen",
-              "hat gemocht / mochte"
+              "hat gemocht"
             ]
           ]
         }
@@ -20977,5 +20977,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g6fc3eb5f"
+  "contentVersion": "1.0.0+g08819aa9"
 }

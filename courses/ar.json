@@ -1162,9 +1162,9 @@
         {
           "text": "لبسنَ ثوبًا أبيض.",
           "gloss": {
-            "pt": "{لَبِسَتْنَا}: elas vestiram, com sufixo feminino plural.",
-            "en": "{لَبِسَتْ}: she wore, with a feminine subject.",
-            "es": "{لَبِسَتْ}: ella se vistió, con sujeto femenino."
+            "pt": "{لَبِسْنَ}: elas vestiram, com sufixo feminino plural.",
+            "en": "{لَبِسْنَ}: they wore, with a feminine plural suffix.",
+            "es": "{لَبِسْنَ}: ellas se vistieron, con sufijo femenino plural."
           }
         },
         {
@@ -1194,9 +1194,9 @@
         {
           "text": "أعطانا خُبْزَنا.",
           "gloss": {
-            "pt": "{أَعْطَى} no imperativo: dá-nos.",
-            "en": "{أَعْطَى} with 1st plural suffix: give us our bread.",
-            "es": "{أَعْطَى} con sufijo 1.ª plural: danos nuestro pan."
+            "pt": "{أَعْطَانَا}: deram-nos, {أَعْطَى} mais o sufixo enclítico {ـنَا}.",
+            "en": "{أَعْطَانَا}: they gave us, {أَعْطَى} plus the enclitic suffix {ـنَا}.",
+            "es": "{أَعْطَانَا}: nos dieron, {أَعْطَى} más el sufijo enclítico {ـنَا}."
           }
         }
       ],
@@ -18176,5 +18176,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gd910f26c"
+  "contentVersion": "1.0.0+g2389ffae"
 }
