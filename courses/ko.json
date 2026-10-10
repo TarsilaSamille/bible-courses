@@ -4395,72 +4395,72 @@
           "text": "처음에 말씀이 계셨다",
           "gloss": {
             "pt": "Jo 1:1 — {계시다} é o honorífico de {있다}: no princípio havia a Palavra.",
-            "en": "Jo 1:1 — {계시다} é o honorífico de {있다}: no princípio havia a Palavra.",
-            "es": "Jo 1:1 — {계시다} é o honorífico de {있다}: no princípio havia a Palavra."
+            "en": "Jo 1:1 — {계시다} is the honorific of {있다}: in the beginning was the Word.",
+            "es": "Jn 1:1 — {계시다} es el honorífico de {있다}: en el principio era el Verbo."
           }
         },
         {
           "text": "하나님이 세상을 사랑하사",
           "gloss": {
             "pt": "Jo 3:16 — {사랑하사}, de {사랑하다}: Deus amou o mundo.",
-            "en": "Jo 3:16 — {사랑하사}, de {사랑하다}: Deus amou o mundo.",
-            "es": "Jo 3:16 — {사랑하사}, de {사랑하다}: Deus amou o mundo."
+            "en": "Jo 3:16 — {사랑하사}, from {사랑하다}: God loved the world.",
+            "es": "Jn 3:16 — {사랑하사}, de {사랑하다}: Dios amó el mundo."
           }
         },
         {
           "text": "독생자를 주셨다",
           "gloss": {
             "pt": "Jo 3:16 — {주셨다}, passado honorífico de {주다}: deu o Filho.",
-            "en": "Jo 3:16 — {주셨다}, passado honorífico de {주다}: deu o Filho.",
-            "es": "Jo 3:16 — {주셨다}, passado honorífico de {주다}: deu o Filho."
+            "en": "Jo 3:16 — {주셨다}, honorific past of {주다}: gave the Son.",
+            "es": "Jn 3:16 — {주셨다}, pasado honorífico de {주다}: dio al Hijo."
           }
         },
         {
           "text": "잠잠하라! 고요하라!",
           "gloss": {
             "pt": "Mc 4:39 — imperativo de {-하라}: cala-te, aquieta-te.",
-            "en": "Mc 4:39 — imperativo de {-하라}: cala-te, aquieta-te.",
-            "es": "Mc 4:39 — imperativo de {-하라}: cala-te, aquieta-te."
+            "en": "Mc 4:39 — imperative of {-하라}: be silent, be still.",
+            "es": "Mc 4:39 — imperativo de {-하라}: calla, cállate."
           }
         },
         {
           "text": "책이 있다",
           "gloss": {
             "pt": "{있다} com partícula de sujeito: há livro.",
-            "en": "{있다} com partícula de sujeito: há livro.",
-            "es": "{있다} com partícula de sujeito: há livro."
+            "en": "{있다} with the subject particle: there is a book.",
+            "es": "{있다} con la partícula de sujeto: hay un libro."
           }
         },
         {
           "text": "책이 없다",
           "gloss": {
             "pt": "{없다} nega sem {안}: não há livro.",
-            "en": "{없다} nega sem {안}: não há livro.",
-            "es": "{없다} nega sem {안}: não há livro."
+            "en": "{없다} negates without {안}: there is no book.",
+            "es": "{없다} niega sin {안}: no hay libro."
           }
         },
         {
           "text": "먹었다",
           "gloss": {
             "pt": "passado de {먹다}: comi.",
-            "en": "passado de {먹다}: comi.",
-            "es": "passado de {먹다}: comi."
+            "en": "past of {먹다}: I ate.",
+            "es": "pasado de {먹다}: comí."
           }
         },
         {
           "text": "안 먹다",
           "gloss": {
             "pt": "{안} antes do verbo: não como.",
-            "en": "{안} antes do verbo: não como.",
-            "es": "{안} antes do verbo: não como."
+            "en": "{안} before the verb: I do not eat.",
+            "es": "{안} antes del verbo: no como."
           }
         },
         {
           "text": "먹지 않다",
           "gloss": {
             "pt": "{-지 않다} depois do verbo: não como.",
-            "en": "{-지 않다} depois do verbo: não como.",
-            "es": "{-지 않다} depois do verbo: não como."
+            "en": "{-지 않다} after the verb: I do not eat.",
+            "es": "{-지 않다} después del verbo: no como."
           }
         }
       ],
@@ -25244,5 +25244,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+gac4d0d6c"
+  "contentVersion": "1.0.0+gb1527072"
 }

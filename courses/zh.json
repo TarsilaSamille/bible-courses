@@ -3165,72 +3165,72 @@
           "text": "起初有道",
           "gloss": {
             "pt": "Jo 1:1 — {有} é existência: no início havia o Verbo.",
-            "en": "Jo 1:1 — {有} é existência: no início havia o Verbo.",
-            "es": "Jo 1:1 — {有} é existência: no início havia o Verbo."
+            "en": "Jo 1:1 — {有} is existence: in the beginning there was the Word.",
+            "es": "Jn 1:1 — {有} es existencia: en el principio había el Verbo."
           }
         },
         {
           "text": "神愛世人",
           "gloss": {
             "pt": "Jo 3:16 — {愛} sem marca de tempo: «Deus amou o mundo».",
-            "en": "Jo 3:16 — {愛} sem marca de tempo: «Deus amou o mundo».",
-            "es": "Jo 3:16 — {愛} sem marca de tempo: «Deus amou o mundo»."
+            "en": "Jo 3:16 — {愛} with no time marker: \"God loved the world\".",
+            "es": "Jn 3:16 — {愛} sin marca de tiempo: «Dios amó al mundo»."
           }
         },
         {
           "text": "住口吧! 靜了吧!",
           "gloss": {
             "pt": "Mc 4:39 — {了} na ordem: que esteja terminado.",
-            "en": "Mc 4:39 — {了} na ordem: que esteja terminado.",
-            "es": "Mc 4:39 — {了} na ordem: que esteja terminado."
+            "en": "Mc 4:39 — {了} in the order: let it be finished.",
+            "es": "Mc 4:39 — {了} en la orden: que esté terminado."
           }
         },
         {
           "text": "我吃了",
           "gloss": {
             "pt": "{了} fecha a situação: comi.",
-            "en": "{了} fecha a situação: comi.",
-            "es": "{了} fecha a situação: comi."
+            "en": "{了} closes the situation: I ate.",
+            "es": "{了} cierra la situación: comí."
           }
         },
         {
           "text": "我吃過",
           "gloss": {
             "pt": "{過} marca a experiência: já comi alguma vez.",
-            "en": "{過} marca a experiência: já comi alguma vez.",
-            "es": "{過} marca a experiência: já comi alguma vez."
+            "en": "{過} marks experience: I have eaten before.",
+            "es": "{過} marca la experiencia: ya comí alguna vez."
           }
         },
         {
           "text": "他看著這本書",
           "gloss": {
             "pt": "{著} marca o que continua: ele está lendo.",
-            "en": "{著} marca o que continua: ele está lendo.",
-            "es": "{著} marca o que continua: ele está lendo."
+            "en": "{著} marks what continues: he is reading.",
+            "es": "{著} marca lo que continúa: está leyendo."
           }
         },
         {
           "text": "我是學生",
           "gloss": {
             "pt": "{是} liga dois nomes.",
-            "en": "{是} liga dois nomes.",
-            "es": "{是} liga dois nomes."
+            "en": "{是} links two names.",
+            "es": "{是} liga dos nombres."
           }
         },
         {
           "text": "有一本書",
           "gloss": {
             "pt": "{有} diz existência: há um livro.",
-            "en": "{有} diz existência: há um livro.",
-            "es": "{有} diz existência: há um livro."
+            "en": "{有} says existence: there is a book.",
+            "es": "{有} dice existencia: hay un libro."
           }
         },
         {
           "text": "沒有",
           "gloss": {
             "pt": "{有} nega com {沒有}, não com {不}.",
-            "en": "{有} nega com {沒有}, não com {不}.",
-            "es": "{有} nega com {沒有}, não com {不}."
+            "en": "{有} negates with {沒有}, not with {不}.",
+            "es": "{有} niega con {沒有}, no con {不}."
           }
         }
       ],
@@ -16906,5 +16906,5 @@
       ]
     }
   ],
-  "contentVersion": "1.0.0+g58d8fe32"
+  "contentVersion": "1.0.0+gca89e906"
 }
