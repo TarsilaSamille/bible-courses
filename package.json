@@ -1,0 +1,14 @@
+{
+  "name": "bible-courses",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:course": "bun run scripts/build-course.mts",
+    "build:zh": "bun run scripts/build-zh.mts",
+    "check:integrity": "bun run scripts/check-integrity.mts",
+    "check:script": "bun run scripts/check-script-misturado.mts",
+    "check:simbolos": "bun run scripts/check-simbolos-nativos.mts",
+    "check:sources": "for dir in courses-src/*; do [ -d \"$dir\" ] || continue; bun run scripts/build-course.mts \"$(basename \"$dir\")\" --check || exit 1; done",
+    "check:content": "bun run check:integrity && bun run check:script && bun run check:simbolos"
+  }
+}

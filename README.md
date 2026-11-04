@@ -1,12 +1,15 @@
 # bible-courses
 
-Cursos de gramática bíblica em JSON, separados do aplicativo. Serve para duas
-coisas ao mesmo tempo:
+Fontes editoriais, ferramentas de geração e cursos publicados, separados do
+aplicativo. Este repositório é a fonte de verdade de todo o conteúdo de cursos:
 
-- **O leitor busca aqui** em vez de carregar o conteúdo no bundle, para que
-  corrigir um texto não exija publicar um app novo.
-- **Qualquer outro programa** lê os mesmos arquivos: um site, um app de
-  estudo, um script que gere flashcards, um conjunto de dados para busca.
+- `courses-src/<id>/` contém as lições editáveis, uma por idioma.
+- `courses/<id>.json` contém o formato publicado que os consumidores carregam.
+- `scripts/` valida as fontes e gera/valida os arquivos publicados.
+
+O leitor busca os JSON daqui em vez de carregar o conteúdo no bundle, para que
+corrigir um texto não exija publicar um app novo. Qualquer outro programa pode
+consumir os mesmos arquivos.
 
 ## O formato
 
@@ -25,9 +28,25 @@ manifest.json          índice: id, lang, versão, tamanho, hash
 courses/grc.json       30 lições
 courses/heb.json       24 lições
 courses/pt-gram.json   28 lições
-...                    14 cursos no total
+...                    cursos publicados
 schema/course.schema.json
 ```
+
+## Autoria e geração
+
+Leia [`courses-src/AUTORAR-CURSOS.md`](courses-src/AUTORAR-CURSOS.md) antes de
+editar uma lição. Fontes por idioma são a origem editorial; não edite os JSON
+publicados à mão quando o curso tiver fontes em `courses-src/`.
+
+```bash
+bun run build:course -- zh --only 9
+bun run build:course -- zh --force
+bun run check:content
+```
+
+`build:course` monta um JSON a partir das fontes. `check:sources` compara todas
+as fontes com os JSON; `check:content` valida o manifesto, alfabetos e glifos
+CJK.
 
 ## Por que um arquivo por curso
 
@@ -53,22 +72,27 @@ download.
 
 ## Como publicar
 
+Depois de gerar um curso, atualize as versões e o manifesto no aplicativo:
+
 ```
-npx tsx scripts/export-courses.mts            # extrai do app e escreve aqui
-npx tsx scripts/export-courses.mts --check    # só confere, não escreve
+cd ../bible-reader-web
+bun run export:courses
 ```
 
-O exportador usa `loadCourse`, não os arquivos-fonte de cada pasta, porque
-alguns cursos passam tudo por `completeLesson` em tempo de execução. Exportar os
-arquivos-fonte publicaria um documento diferente do que o app mostra — o que
-aconteceu de fato com `pt-gram` durante o desenvolvimento.
+Em seguida, volte a este repositório e valide a publicação:
 
-`--check` é o gate de CI: sai com erro se o conteúdo em disco divergir do que o
-app tem, o que impede editar conteúdo e esquecer de exportar.
+```bash
+cd ../bible-courses
+bun run check:content
+```
 
 Depois é `git commit` e `git push` neste repositório. O app busca por **tag**, não
 por `main`: buscar `main` faz o conteúdo mudar debaixo de um app já publicado e
 torna qualquer problema irreprodutível.
+
+O `bible-reader-web` mantém este repositório como submódulo para build e testes.
+Depois de publicar uma nova versão do conteúdo, atualize também o ponteiro do
+submódulo no app e use uma nova tag para o CDN.
 
 ## Como consumir
 
