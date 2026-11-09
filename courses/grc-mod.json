@@ -976,7 +976,7 @@
           "gloss": {
             "pt": "Jo 1:3 — {έγινε} de {γίνομαι}: tudo veio a ser.",
             "en": "Jn 1:3 — {έγινε} of {γίνομαι}: all things came to be.",
-            "es": "Jn 1:3 — {έγινε} de {γίνοomαι}: todas las cosas llegaron a ser."
+            "es": "Jn 1:3 — {έγινε} de {γίνομαι}: todas las cosas llegaron a ser."
           }
         },
         {
@@ -1213,7 +1213,7 @@
           "prompt": {
             "pt": "Complete \"πάντα δι᾽ αὐτοῦ ___\" com o passado de {γίνομαι} para \"aconteceu\".",
             "en": "Complete \"πάντα δι᾽ αὐτοῦ ___\" with the past of {γίνομαι} for \"happened\".",
-            "es": "Completa \"πάντα δι᾽ αὐτοῦ ___\" con el pasado de {γίνοomαι} para \"aconteció\"."
+            "es": "Completa \"πάντα δι᾽ αὐτοῦ ___\" con el pasado de {γίνομαι} para \"aconteció\"."
           },
           "answer": "έγινε"
         },

@@ -7,7 +7,7 @@ export default {
   section: T('O verbo'),
   body: C(`## O perfeito médio-passivo
 
-O perfeito médio usa reduplicação + desinências médias diretamente, sem conectivo: {λέλυμαι, λέλυσαι, λέλυται, λελύμεθα, λέλυσθε, λέλυνται}. O sentido oscila entre médio («tenho-me libertado») e passivo («estou liberto») — e no Novo Testamento o passivo domina: {γέγραπται} «está escrito», {πεπλήρωται} «está cumprido», {ἡτοίμασται} «está preparado» (Mt 22.4).
+O perfeito médio usa reduplicação + desinências médias diretamente, sem conectivo: {λέλυμαι, λέλυσαι, λέλυται, λελύμεθα, λέλυσθε, λέλυνται}. O sentido oscila entre médio («tenho-me libertado») e passivo («estou liberto») — e no Novo Testamento o passivo domina: {γέγραπται} «está escrito», {πεπλήρωται} «está cumprido», {ἡτοίμασται} «está preparado» (Mt 22.4). 
 
 Atenção à fonética: antes de {μ} e {τ}, oclusivas mudam — {πεπ-} + {μαι} segue regular, mas {γραφ-} + {μαι} dá {γέγραμμαι} (φ+μ=μμ), {ἀποστελ-} + {μαι} dá {ἀπέσταλμαι}. Essas assimilações assustam à primeira vista, mas seguem tabela fixa (cap. 15, nota da reduplicação).
 
