@@ -17,7 +17,7 @@ O espanhol usa o alfabeto latino com 27 letras próprias. As cinco vogais são {
 ## Regras de leitura
 
 {c} = {k} antes de {a, o, u} ({casa}); = {s} na América / {θ} (como «think») na Espanha antes de {e, i} ({cielo}, {cerveza}). A RAE considera o {z} também {θ} na Espanha: {cruz}, {luz}.
-{g} = jota antes de {a, o, u} ({gato}) ou {j} suave antes de {e, i} ({gente}); para manter o som duro escreve {gue} ou {guí}: {guía}, {güero}.
+{g} = jota antes de {a, o, u} ({gato}) ou {j} suave antes de {e, i} ({gente}); para manter o som duro escreve {gue} ou {guí}: {guía}, {güero}. 
 {h} é sempre muda: {hombre} lê-se «ombre», {hoy} «hoje».
 {v} soa como {b}: {vida}, {vino} «vinho».
 {y} = {i} entre vogais: {hoy} «hoje», {ley} «lei»; = {ʝ} (jota) inicial ou após consoante: {yo}, {muy}.
