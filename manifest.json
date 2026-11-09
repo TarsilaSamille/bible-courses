@@ -16,11 +16,11 @@
       "id": "grc-mod",
       "lang": "grc",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+ge3a11859",
+      "contentVersion": "1.0.0+g23539af0",
       "lessons": 31,
       "file": "courses/grc-mod.json",
       "bytes": 633953,
-      "sha256": "2136f5a1cef845d4"
+      "sha256": "a2a35263ebdeaf82"
     },
     {
       "id": "heb",
@@ -36,11 +36,11 @@
       "id": "la",
       "lang": "la",
       "schemaVersion": 1,
-      "contentVersion": "1.0.0+g27a4d01c",
+      "contentVersion": "1.0.0+gb849648c",
       "lessons": 31,
       "file": "courses/la.json",
-      "bytes": 1088321,
-      "sha256": "e089bf54d1da251a"
+      "bytes": 1088320,
+      "sha256": "f934995910ec8103"
     },
     {
       "id": "es",
